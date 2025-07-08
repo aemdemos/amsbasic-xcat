@@ -1311,12 +1311,6 @@
       "id": "a9e4ddce6b26bc1791c83a4998088f408ce92d53"
     },
     {
-      "url": "https://www.georgiapower.com/content/dam/georgia-power/pdfs/residential-pdfs/surge-defender-warranty-0309.pdf",
-      "source": "SITEMAPS",
-      "targetPath": "/content/dam/georgia-power/pdfs/residential-pdfs/surge-defender-warranty-0309-pdf",
-      "id": "8b224ddd78d291e1529518e83f2f7b4602122949"
-    },
-    {
       "url": "https://www.georgiapower.com/es.html",
       "source": "CRAWL",
       "targetPath": "/es",
