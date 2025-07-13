@@ -385,7 +385,6 @@
     "strategy": "crawl",
     "logger": {},
     "strategiesAttempted": [
-      "SITEMAPS",
       "CRAWL"
     ]
   },
