@@ -1,392 +1,467 @@
 {
-  "originUrl": "https://www.ncsc.coop",
-  "lastCrawled": "https://www.ncsc.coop",
+  "originUrl": "https://www.cst.org",
   "urls": [
     {
-      "url": "https://www.ncsc.coop/",
-      "source": "CRAWL",
-      "targetPath": "/",
-      "id": "a62034f66821e9e6d431faca7c28330d0980e6db"
+      "url": "https://www.cst.org/en",
+      "source": "MANUAL",
+      "targetPath": "/en",
+      "id": "cfd1760ea7db2632cf136ec285f5198661b02b67"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en",
-      "id": "39338307c6b259fddb275012db204c6d7ffd861e"
+      "url": "https://www.cst.org/en/about-cst",
+      "source": "MANUAL",
+      "targetPath": "/en/about-cst",
+      "id": "f20fddc32e280a1b81f93de695fc96877938ff11"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/author/Antony-Davies.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/author/antony-davies",
-      "id": "4b97f1a09f571c902b77752d40c6ee4d68b284ba"
+      "url": "https://www.cst.org/en/accessibility",
+      "source": "MANUAL",
+      "targetPath": "/en/accessibility",
+      "id": "649e5e4f6bf02dc19df3ca03e2d54c47d74b1443"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/author/john-suter.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/author/john-suter",
-      "id": "4ebd604169bda5e97bd627e0b3296f84ee3f3b80"
+      "url": "https://www.cst.org/en/accessibility/customer-service-standard-policy",
+      "source": "MANUAL",
+      "targetPath": "/en/accessibility/customer-service-standard-policy",
+      "id": "8d89fbef750c447c3c7c15e82ce403cbdd007da6"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/author/sam-kem.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/author/sam-kem",
-      "id": "cb05c0af28ea022123dcbce2447619d1bdc77465"
+      "url": "https://www.cst.org/en/accessibility/multi-year-accessibility-plan",
+      "source": "MANUAL",
+      "targetPath": "/en/accessibility/multi-year-accessibility-plan",
+      "id": "4d99f0e89edc2ad3f09a30d0e8ab7c08a8743ff9"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/economy.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/economy",
-      "id": "fac985215ef8b8994ec46402db5ea8deb85e3344"
+      "url": "https://www.cst.org/en/blog",
+      "source": "MANUAL",
+      "targetPath": "/en/blog",
+      "id": "652b1d0c5fd6f4f43772aa6137717e9663926051"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/ncsc-news.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/ncsc-news",
-      "id": "ab6fd1b6009a0cf459e952ed69b3c7f1301cb9da"
+      "url": "https://www.cst.org/en/blog/are-video-games-the-new-teaching-tool",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/are-video-games-the-new-teaching-tool",
+      "id": "af307f1a5df23996ac82d394aded2733ce28dd55"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/banks-clamp-down-on-more-credit-for-consumers-.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/banks-clamp-down-on-more-credit-for-consumers",
-      "id": "d6f1f2b75a7a160c9f06863906913e809b8be32d"
+      "url": "https://www.cst.org/en/blog/bullying",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/bullying",
+      "id": "1a91c8f5a9ab13d7d9633ec62508c78e0b39e76f"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/despite-global-chaos-there-are-reasons-to-be-thankful.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/despite-global-chaos-there-are-reasons-to-be-thankful",
-      "id": "cb50f86f9e674e25bce53759ade2f4b5b5d726e5"
+      "url": "https://www.cst.org/en/blog/closing-an-resp",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/closing-an-resp",
+      "id": "53cb2ef4dd4d5d09d596fe9513376c2b683ac1f1"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/economic-market-watch.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/economic-market-watch",
-      "id": "ea2c6f9b0c4795614727ff70b72109cabaf0bae4"
+      "url": "https://www.cst.org/en/blog/company-culture-ambassador",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/company-culture-ambassador",
+      "id": "ee39fc66cd4352cabfd5efd80297b015297bdebb"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/eyes-on-the-economy--home-prices-mixed--us-gdp-growth--disappoin.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/eyes-on-the-economy-home-prices-mixed-us-gdp-growth-disappoin",
-      "id": "cf620b63050d39cd108417eaa2645cc7ff620bfe"
+      "url": "https://www.cst.org/en/blog/Financial_Literacy_for_the_Future",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/financial-literacy-for-the-future",
+      "id": "596590fecc3a36d3bc0b6c7fe5c5f1af6954c8af"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/eyes-on-the-economy--homebuilder-sentiment--leading-indicators--.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/eyes-on-the-economy-homebuilder-sentiment-leading-indicators",
-      "id": "1186990576f33e4bfdecf5eb822b2cccc71d3aa1"
+      "url": "https://www.cst.org/en/blog/how-much-does-the-government-add-to-my-resp",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/how-much-does-the-government-add-to-my-resp",
+      "id": "f57658427d385675825a23505ca8ec6f479c4e04"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/eyes-on-the-economy--housing--jobs--gdp.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/eyes-on-the-economy-housing-jobs-gdp",
-      "id": "8aa4cf438f39c5270ac292d83d9ee9421ba7da88"
+      "url": "https://www.cst.org/en/blog/how-throw-kids-birthday-party-budget",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/how-throw-kids-birthday-party-budget",
+      "id": "6902e27bf8f357c5f65f5264aa46586f43b28498"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/eyes-on-the-economy--industrial-production--homebuilder-sentimen.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/eyes-on-the-economy-industrial-production-homebuilder-sentimen",
-      "id": "c23a21fbcababb57ea7868d3ab82286b47b25b70"
+      "url": "https://www.cst.org/en/blog/parent-teacher-relationship",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/parent-teacher-relationship",
+      "id": "f68ad8ed361c701fe096e66beb41ba3497f15601"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/eyes-on-the-economy--industrial-production--leading-indicators--.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/eyes-on-the-economy-industrial-production-leading-indicators",
-      "id": "9f6786ed367cda34540a2bd781d70feb713947ee"
+      "url": "https://www.cst.org/en/blog/taxes-and-resps",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/taxes-and-resps",
+      "id": "bbd2e821d07ec2da019793637d0d8e443be78990"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/eyes-on-the-economy--inflation--industrial-production--consumer-.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/eyes-on-the-economy-inflation-industrial-production-consumer",
-      "id": "3de823b2c72ab4817c8745435632e94fcb370893"
+      "url": "https://www.cst.org/en/blog/transfer-money-to-your-rrsp",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/transfer-money-to-your-rrsp",
+      "id": "5bb1af389dd458f4f106ff67176e8b8a590e3659"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/eyes-on-the-economy--inflation--industrial-production--residenti0.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/eyes-on-the-economy-inflation-industrial-production-residenti0",
-      "id": "ddc54cd7c7204b387b7a756a3f06bd1091261426"
+      "url": "https://www.cst.org/en/blog/tuition-fees-canada",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/tuition-fees-canada",
+      "id": "0884e0cb8036023fa08ba22ad14901ca307c9b60"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/eyes-on-the-economy--inflation--trade--sentiment.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/eyes-on-the-economy-inflation-trade-sentiment",
-      "id": "17f5a7cab7c32610f9901de01e2ec8f5a1e54e39"
+      "url": "https://www.cst.org/en/blog/what-is-an-resp",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/what-is-an-resp",
+      "id": "5733cffae2340231bdb48feb937595ffd1565a87"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/eyes-on-the-economy--job-openings--manufacturing--gdp.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/eyes-on-the-economy-job-openings-manufacturing-gdp",
-      "id": "550ae3db9f72917819f0bbc54e77b7aa70aa8dba"
+      "url": "https://www.cst.org/en/blog/why-starting-an-resp-early-is-the-best-idea",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/why-starting-an-resp-early-is-the-best-idea",
+      "id": "a737d237f79e9ed8d3a27332054fc266c6fcae69"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/eyes-on-the-economy--manufacturing--home-prices--personal-spendi.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/eyes-on-the-economy-manufacturing-home-prices-personal-spendi",
-      "id": "f74d9804fefbfa8fd6eb64710afdb157db9bd815"
+      "url": "https://www.cst.org/en/blog/your-resp-used-for-almost-any-training-program",
+      "source": "MANUAL",
+      "targetPath": "/en/blog/your-resp-used-for-almost-any-training-program",
+      "id": "34e16778266377153e229e7bc0064c3f82cbf08f"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/eyes-on-the-economy--optimism--productivity--inflation.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/eyes-on-the-economy-optimism-productivity-inflation",
-      "id": "b04b4885b22e28289cef71cf94f15699ecbb9a8e"
+      "url": "https://www.cst.org/en/contact-us",
+      "source": "MANUAL",
+      "targetPath": "/en/contact-us",
+      "id": "9113fe983e4fd5535d5ff8efb240e98cd4cc9cc6"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/fed-chair-takes-the-hot-seat--accepts-responsibility--what-about.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/fed-chair-takes-the-hot-seat-accepts-responsibility-what-about",
-      "id": "a5d60d531b77b051882016e53724405a9f190e81"
+      "url": "https://www.cst.org/en/electronic-access-agreement",
+      "source": "MANUAL",
+      "targetPath": "/en/electronic-access-agreement",
+      "id": "0f6209dd10f877156b44b7ba05a5152b8af8f412"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/how-will-economy-fare-as-trump-2-0-debuts.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/how-will-economy-fare-as-trump-2-0-debuts",
-      "id": "2c3df9b2bffca3b8ff705131f01477ea9cd7c15f"
+      "url": "https://www.cst.org/en/errors",
+      "source": "MANUAL",
+      "targetPath": "/en/errors",
+      "id": "e1b31088ff9f251431932e52a390750df992a55b"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/man-vs--machine--does-genai-make-workers-more-efficient.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/man-vs-machine-does-genai-make-workers-more-efficient",
-      "id": "b69443d4c443ed2f376faf0f1d798fa65627ce62"
+      "url": "https://www.cst.org/en/errors/404",
+      "source": "MANUAL",
+      "targetPath": "/en/errors/404",
+      "id": "f012267daf4bb49d494a1986384cf9bdb6c5142b"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/maybe-today-s-economists-should-become-meteorologists.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/maybe-today-s-economists-should-become-meteorologists",
-      "id": "c7aaf6fa5d894b2e187e4855b50350fd693b40f9"
+      "url": "https://www.cst.org/en/legal",
+      "source": "MANUAL",
+      "targetPath": "/en/legal",
+      "id": "b1963d7cfdcc6eb728d5589b3f56c53f508d05f7"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/oh-deer--threat-of-stagflation-bounds-into-view.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/oh-deer-threat-of-stagflation-bounds-into-view",
-      "id": "a0f0ecb48a9e64752a6c501724e7f5c7b45a26a2"
+      "url": "https://www.cst.org/en/our-products",
+      "source": "MANUAL",
+      "targetPath": "/en/our-products",
+      "id": "1bc5ff9ce0733fb476f5c113752fdd385dd651e1"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/resource-management--how-much-is-your-attention-worth-.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/resource-management-how-much-is-your-attention-worth",
-      "id": "64ae8b2c9c532d196fc3207626d2bd068756f057"
+      "url": "https://www.cst.org/en/press-releases",
+      "source": "MANUAL",
+      "targetPath": "/en/press-releases",
+      "id": "ba5829a8cd450c383d94e20ac4d37fca6b1e6346"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/rural-americans-could-be-hurt-most-in-trade-war.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/rural-americans-could-be-hurt-most-in-trade-war",
-      "id": "9a4291e4f71e02098df17870c5c11a4ebe3d9c3b"
+      "url": "https://www.cst.org/en/press-releases/CST-announces-the-appointment-of-two-new-board-members",
+      "source": "MANUAL",
+      "targetPath": "/en/press-releases/cst-announces-the-appointment-of-two-new-board-members",
+      "id": "85546686231d47f2050b2c5ee42996d8d54af42c"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/stocks-are-going-strong--who-s-the-fool-now--.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/stocks-are-going-strong-who-s-the-fool-now",
-      "id": "53914aa651a72d6933d65d40ed3ea1b3c54729be"
+      "url": "https://www.cst.org/en/press-releases/CST-Appoints-Peter-Lewis-as-President-and-CEO",
+      "source": "MANUAL",
+      "targetPath": "/en/press-releases/cst-appoints-peter-lewis-as-president-and-ceo",
+      "id": "2268ff775fefc49478a8256f0daef1c2b8aa0ff8"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/us-dollar-declines-while-us-treasurys-stay-strong.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/us-dollar-declines-while-us-treasurys-stay-strong",
-      "id": "02063997dde76024d329cdab30e33db32b237c0d"
+      "url": "https://www.cst.org/en/press-releases/CST-Foundation-2024-Awards-Program-Now-Open",
+      "source": "MANUAL",
+      "targetPath": "/en/press-releases/cst-foundation-2024-awards-program-now-open",
+      "id": "cc763cfe20759f48e8a03cd6a8b2c29af03e28e3"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/economy/what-s-up-with-canadian-trade-deficit--eh.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/economy/what-s-up-with-canadian-trade-deficit-eh",
-      "id": "623779de8c58bff145d76ae778fd3249510d2554"
+      "url": "https://www.cst.org/en/press-releases/CST-helps-students-dream-big-through-its-2023-Awards-program",
+      "source": "MANUAL",
+      "targetPath": "/en/press-releases/cst-helps-students-dream-big-through-its-2023-awards-program",
+      "id": "da61deb508015ae2a1f841b5a3a9df15d322d7de"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/ncsc-news/allen-hoopes-concludes-23-year-tenure-as-ncsc-director.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/ncsc-news/allen-hoopes-concludes-23-year-tenure-as-ncsc-director",
-      "id": "9462aa21b6a2f7d4e3fae6f389515007a673ee18"
+      "url": "https://www.cst.org/en/press-releases/CST-Introduces-Exclusive-Cashback-Rewards-Program",
+      "source": "MANUAL",
+      "targetPath": "/en/press-releases/cst-introduces-exclusive-cashback-rewards-program",
+      "id": "e1b9bc50546eb6461898f2e009458784a8a36dea"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/ncsc-news/annual-meeting-is-set-for-june-30--candidate-nominations-due-soo.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/ncsc-news/annual-meeting-is-set-for-june-30-candidate-nominations-due-soo",
-      "id": "df8cadecda109d4dd6c2aab4ced83de0f2bf50b8"
+      "url": "https://www.cst.org/en/press-releases/CST-named-title-sponsor-of-the-2025-spring-baby-show-in-Toronto",
+      "source": "MANUAL",
+      "targetPath": "/en/press-releases/cst-named-title-sponsor-of-the-2025-spring-baby-show-in-toronto",
+      "id": "9ed20a4db97c279c4bee336d5272379c63bed9da"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/ncsc-news/look-for-ncsc-staff--presence-at-rtime-in-san-antonio.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/ncsc-news/look-for-ncsc-staff-presence-at-rtime-in-san-antonio",
-      "id": "6c450d1ef7f7f2d726e217992e717136b8282747"
+      "url": "https://www.cst.org/en/press-releases/cst-opens-applications-for-2025-awards-and-bursaries-program",
+      "source": "MANUAL",
+      "targetPath": "/en/press-releases/cst-opens-applications-for-2025-awards-and-bursaries-program",
+      "id": "5aa92dc2d5c66f5d0e562f370c4501b9e61484a2"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/ncsc-news/look-for-ncsc-staff--presence-at-wta-conference.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/ncsc-news/look-for-ncsc-staff-presence-at-wta-conference",
-      "id": "9a86a33a4d38f5236a5b86e26933856f070df226"
+      "url": "https://www.cst.org/en/press-releases/New-Research-in-Rural-Uptake-of-the-Canada-Learning-Bond-Program",
+      "source": "MANUAL",
+      "targetPath": "/en/press-releases/new-research-in-rural-uptake-of-the-canada-learning-bond-program",
+      "id": "b20256989686a00ea5b16dd31b904db12a3ca166"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/ncsc-news/looking-to-finance-an-acquisition--ncsc-is-here-to-help.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/ncsc-news/looking-to-finance-an-acquisition-ncsc-is-here-to-help",
-      "id": "414480b83e0a5ddd46b11513e48287b28ec9b685"
+      "url": "https://www.cst.org/en/press-releases/New-Research-on-the-Canada-Learning-Bond-Impact-on-PostSecondary-Education-Savings-Behaviour-",
+      "source": "MANUAL",
+      "targetPath": "/en/press-releases/new-research-on-the-canada-learning-bond-impact-on-postsecondary-education-savings-behaviour",
+      "id": "e642b77c62361fe75b471d639d35001a968547c9"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/ncsc-news/meet-ncsc-s-newest-team-member-.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/ncsc-news/meet-ncsc-s-newest-team-member",
-      "id": "69d2744f208f94bcc8c46d071ec2b60dde5b89d8"
+      "url": "https://www.cst.org/en/press-releases/The-CST-Foundation-awards-more-than-250000-to-40-Canadian-students",
+      "source": "MANUAL",
+      "targetPath": "/en/press-releases/the-cst-foundation-awards-more-than-250000-to-40-canadian-students",
+      "id": "804ecf3154ddf03a231eb3eb0b85021626719966"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/ncsc-news/ncsc-ach-autopay--deposit-enhance-member-security.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/ncsc-news/ncsc-ach-autopay-deposit-enhance-member-security",
-      "id": "0d3c7b80e7ea5223604c86e8501815790c981271"
+      "url": "https://www.cst.org/en/privacy",
+      "source": "MANUAL",
+      "targetPath": "/en/privacy",
+      "id": "61b4b635ab1e3c8f755b16ecdce85d1aebea2814"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/ncsc-news/ncsc-annual-meeting-set-for-nyc--mail-ballots-due-june-23.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/ncsc-news/ncsc-annual-meeting-set-for-nyc-mail-ballots-due-june-23",
-      "id": "1148204dbcd6188ef32ca55d07647d2d7a0a7ba2"
+      "url": "https://www.cst.org/en/search",
+      "source": "MANUAL",
+      "targetPath": "/en/search",
+      "id": "383be5f3342a71709498498aa8092e77ee165c1a"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/ncsc-news/ncsc-funds-unique--privately-owned-open-access-broadband-project.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/ncsc-news/ncsc-funds-unique-privately-owned-open-access-broadband-project",
-      "id": "fe389bde96fb9404a6d3ab7c3533e2a1cfa6f438"
+      "url": "https://www.cst.org/en/security",
+      "source": "MANUAL",
+      "targetPath": "/en/security",
+      "id": "75ac177d5747a299628e9a2c40537fea84303ff8"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/ncsc-news/ncsc-staff-enjoy-rtime--honor-former-colleague.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/ncsc-news/ncsc-staff-enjoy-rtime-honor-former-colleague",
-      "id": "1687c559f1f62fe0178f80acc4c2c696a0177c87"
+      "url": "https://www.cst.org/fr",
+      "source": "MANUAL",
+      "targetPath": "/fr",
+      "id": "20b5280faf6b8c14625ef141eec07c37046fccfd"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/stories/ncsc-news/on-the-road-with-ncsc-staff-.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/stories/ncsc-news/on-the-road-with-ncsc-staff",
-      "id": "43462a76d8bf4d946da08816d9fd6539feedc4f0"
+      "url": "https://www.cst.org/fr/about-cst",
+      "source": "MANUAL",
+      "targetPath": "/fr/about-cst",
+      "id": "71934d5612b35a37433b9a5de29085e1e5fc97f0"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/tags/eyes-on-the-economy.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/tags/eyes-on-the-economy",
-      "id": "cb04e6e1019a3ffc88e5908699ce9d3914fc506c"
+      "url": "https://www.cst.org/fr/accessibilite",
+      "source": "MANUAL",
+      "targetPath": "/fr/accessibilite",
+      "id": "92bfca4ddc6af5d913200186fb3a81be222cf9a9"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/tags/financial-feature.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/tags/financial-feature",
-      "id": "4d78e4c3462de929a931b8bbceb06c7b6cea5da1"
+      "url": "https://www.cst.org/fr/accessibilite/norme-daccessibilite-pour-les-services-a-la-clientele",
+      "source": "MANUAL",
+      "targetPath": "/fr/accessibilite/norme-daccessibilite-pour-les-services-a-la-clientele",
+      "id": "42b2515dff1bfaeabb95a3ac147214dc3a6a0b99"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/tags/interest-rates.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/tags/interest-rates",
-      "id": "4d526f4f08d957a50cfc16016730129ad36913e3"
+      "url": "https://www.cst.org/fr/accessibilite/plan-daccessibilite-pluriannual",
+      "source": "MANUAL",
+      "targetPath": "/fr/accessibilite/plan-daccessibilite-pluriannual",
+      "id": "e28964ae3b4e195c3b6f1c1745212c1423944b3d"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/tags/ncsc-news.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/tags/ncsc-news",
-      "id": "03d0a9057ad9c78623e72062ff3f6fa4637e0b82"
+      "url": "https://www.cst.org/fr/avis-juridiques-et-denegation-de-responsabilite",
+      "source": "MANUAL",
+      "targetPath": "/fr/avis-juridiques-et-denegation-de-responsabilite",
+      "id": "a89438ba096f3b2916dc4f60dbef018febccfac8"
     },
     {
-      "url": "https://www.ncsc.coop/content/capitalconnections/en/tags/podcast.html",
-      "source": "CRAWL",
-      "targetPath": "/content/capitalconnections/en/tags/podcast",
-      "id": "3e253f4fd6665f8cd60074356f88803e6199ca35"
+      "url": "https://www.cst.org/fr/blog",
+      "source": "MANUAL",
+      "targetPath": "/fr/blog",
+      "id": "06f389215daf340de7d0fd0da78087afc651879a"
     },
     {
-      "url": "https://www.ncsc.coop/content/ncsc-ext/en.html",
-      "source": "CRAWL",
-      "targetPath": "/content/ncsc-ext/en",
-      "id": "71558ad378d63caf86246962625bba4e35a5828e"
+      "url": "https://www.cst.org/fr/blog/bullying",
+      "source": "MANUAL",
+      "targetPath": "/fr/blog/bullying",
+      "id": "31f50f80441bb6a4310ee46730f639c03734b322"
     },
     {
-      "url": "https://www.ncsc.coop/content/ncsc-ext/en/about-ncsc.html",
-      "source": "CRAWL",
-      "targetPath": "/content/ncsc-ext/en/about-ncsc",
-      "id": "5011ecd69a430ebb7e1c4815906d5c0b67be09a0"
+      "url": "https://www.cst.org/fr/blog/closing-an-resp",
+      "source": "MANUAL",
+      "targetPath": "/fr/blog/closing-an-resp",
+      "id": "fec0222211b412869303ae2c32ade03bb4a0474e"
     },
     {
-      "url": "https://www.ncsc.coop/content/ncsc-ext/en/about-ncsc/board-of-directors.html",
-      "source": "CRAWL",
-      "targetPath": "/content/ncsc-ext/en/about-ncsc/board-of-directors",
-      "id": "e675f06888852b295d4bdaf8c9343adbb5dd8735"
+      "url": "https://www.cst.org/fr/blog/comment-organiser-une-fete-danniversaire-denfant-sans-trop-depenser",
+      "source": "MANUAL",
+      "targetPath": "/fr/blog/comment-organiser-une-fete-danniversaire-denfant-sans-trop-depenser",
+      "id": "66c06d30c9b32c13b8156490b93f2772e8b5f0bd"
     },
     {
-      "url": "https://www.ncsc.coop/content/ncsc-ext/en/about-ncsc/ncsc-telecom-members-now-have-account-access-online.html",
-      "source": "CRAWL",
-      "targetPath": "/content/ncsc-ext/en/about-ncsc/ncsc-telecom-members-now-have-account-access-online",
-      "id": "bd037c98e6335d7fdde8d43089346900ba0bb638"
+      "url": "https://www.cst.org/fr/blog/Des-connaissances-financieres-pour-lavenir",
+      "source": "MANUAL",
+      "targetPath": "/fr/blog/des-connaissances-financieres-pour-lavenir",
+      "id": "854f211cdfa858522eaf37de29de823b98e24c4c"
     },
     {
-      "url": "https://www.ncsc.coop/content/ncsc-ext/en/about-ncsc/our-members.html",
-      "source": "CRAWL",
-      "targetPath": "/content/ncsc-ext/en/about-ncsc/our-members",
-      "id": "bdd73e01302c2d2c9e52a41afe2c933d566e2e30"
+      "url": "https://www.cst.org/fr/blog/frais-de-scolarite-au-canada",
+      "source": "MANUAL",
+      "targetPath": "/fr/blog/frais-de-scolarite-au-canada",
+      "id": "1c29aa7c713ac1ddbb86f9efb1faf1f2238263c7"
     },
     {
-      "url": "https://www.ncsc.coop/content/ncsc-ext/en/about-ncsc/welcome-telecom-members.html",
-      "source": "CRAWL",
-      "targetPath": "/content/ncsc-ext/en/about-ncsc/welcome-telecom-members",
-      "id": "8a51ac08b1582cbcd1be37096b4760af8ad0e8c7"
+      "url": "https://www.cst.org/fr/blog/how-much-does-the-government-add-to-my-resp",
+      "source": "MANUAL",
+      "targetPath": "/fr/blog/how-much-does-the-government-add-to-my-resp",
+      "id": "7127acf641a0a952b0f51c4c58a945e2b6816b3b"
     },
     {
-      "url": "https://www.ncsc.coop/content/ncsc-ext/en/community-support.html",
-      "source": "CRAWL",
-      "targetPath": "/content/ncsc-ext/en/community-support",
-      "id": "94aabe5ff05c3aca16f4d033be8a7a6b579885e7"
+      "url": "https://www.cst.org/fr/blog/les-jeux-video-sont-ils-le-nouvel-outil-pedagogique",
+      "source": "MANUAL",
+      "targetPath": "/fr/blog/les-jeux-video-sont-ils-le-nouvel-outil-pedagogique",
+      "id": "d456885f943b6425856f65cbc41d512d1230ebd4"
     },
     {
-      "url": "https://www.ncsc.coop/content/ncsc-ext/en/contact.html",
-      "source": "CRAWL",
-      "targetPath": "/content/ncsc-ext/en/contact",
-      "id": "4275f02b260d1f7f37111d8b998599161e514d0b"
+      "url": "https://www.cst.org/fr/blog/taxes-and-resps",
+      "source": "MANUAL",
+      "targetPath": "/fr/blog/taxes-and-resps",
+      "id": "60c3b2af8d7c59cd9b8562cb06f7f61816879b5b"
     },
     {
-      "url": "https://www.ncsc.coop/content/ncsc-ext/en/events-training.html",
-      "source": "CRAWL",
-      "targetPath": "/content/ncsc-ext/en/events-training",
-      "id": "a1306e08cf9f655de9764f68469d3801cc5d0599"
+      "url": "https://www.cst.org/fr/blog/transfer-money-to-your-rrsp",
+      "source": "MANUAL",
+      "targetPath": "/fr/blog/transfer-money-to-your-rrsp",
+      "id": "c83024eee030e1aabd2fb0f9984771138f38da2d"
     },
     {
-      "url": "https://www.ncsc.coop/content/ncsc-ext/en/events-training/ncsc-annual-membership-meeting.html",
-      "source": "CRAWL",
-      "targetPath": "/content/ncsc-ext/en/events-training/ncsc-annual-membership-meeting",
-      "id": "7f581aaec42e81b6847ca11b8bd409a9fb446125"
+      "url": "https://www.cst.org/fr/blog/what-is-an-resp",
+      "source": "MANUAL",
+      "targetPath": "/fr/blog/what-is-an-resp",
+      "id": "adf82daa7102a03b97d58c18aa705f2d1b7c502d"
     },
     {
-      "url": "https://www.ncsc.coop/content/ncsc-ext/en/privacy.html",
-      "source": "CRAWL",
-      "targetPath": "/content/ncsc-ext/en/privacy",
-      "id": "69e89b30eeb002cd7f1d6d12f5b28438a65bdb3c"
+      "url": "https://www.cst.org/fr/blog/why-starting-an-resp-early-is-the-best-idea",
+      "source": "MANUAL",
+      "targetPath": "/fr/blog/why-starting-an-resp-early-is-the-best-idea",
+      "id": "8138beef3095cd4a84d0488bd5c809f7592277f6"
     },
     {
-      "url": "https://www.ncsc.coop/content/ncsc-ext/en/products.html",
-      "source": "CRAWL",
-      "targetPath": "/content/ncsc-ext/en/products",
-      "id": "2195d3eed61511658a3e2413f1c4fa1be3588529"
+      "url": "https://www.cst.org/fr/blog/your-resp-used-for-almost-any-training-program",
+      "source": "MANUAL",
+      "targetPath": "/fr/blog/your-resp-used-for-almost-any-training-program",
+      "id": "18a0517ebc5db39fd4dd579b4be60156e0ff048f"
     },
     {
-      "url": "https://www.ncsc.coop/content/ncsc-ext/en/products/telecom-financing.html",
-      "source": "CRAWL",
-      "targetPath": "/content/ncsc-ext/en/products/telecom-financing",
-      "id": "c6352a2279214a7426e7596afe4e9df060a1cb5d"
+      "url": "https://www.cst.org/fr/contact-us",
+      "source": "MANUAL",
+      "targetPath": "/fr/contact-us",
+      "id": "acf855169d3bf3784483fa174220943e55c2c001"
     },
     {
-      "url": "https://www.ncsc.coop/content/ncsc-ext/en/publications.html",
-      "source": "CRAWL",
-      "targetPath": "/content/ncsc-ext/en/publications",
-      "id": "13e80626ce6adeb58d97402fcf18513124e1d3e1"
+      "url": "https://www.cst.org/fr/convention-dacces-electronique",
+      "source": "MANUAL",
+      "targetPath": "/fr/convention-dacces-electronique",
+      "id": "ef248e54fe9dd723dbe17bc5d6783164bc5ba2c4"
     },
     {
-      "url": "https://www.ncsc.coop/content/ncsc-ext/en/terms.html",
-      "source": "CRAWL",
-      "targetPath": "/content/ncsc-ext/en/terms",
-      "id": "bb2a7b8eed4f7d43b25327bb96abab9eee9b6f2f"
+      "url": "https://www.cst.org/fr/errors",
+      "source": "MANUAL",
+      "targetPath": "/fr/errors",
+      "id": "a575f19588078ff9edcc17d334fd4ed0ed6d9205"
+    },
+    {
+      "url": "https://www.cst.org/fr/errors/404",
+      "source": "MANUAL",
+      "targetPath": "/fr/errors/404",
+      "id": "098833f43845e3b08f99e35f26083b85142f49a1"
+    },
+    {
+      "url": "https://www.cst.org/fr/our-products",
+      "source": "MANUAL",
+      "targetPath": "/fr/our-products",
+      "id": "802a1234c6f079835f06d78f8977170434122ba4"
+    },
+    {
+      "url": "https://www.cst.org/fr/politique-de-confidentialite",
+      "source": "MANUAL",
+      "targetPath": "/fr/politique-de-confidentialite",
+      "id": "1d64c434d47c3f63fc3d7912f35a21cd0220a333"
+    },
+    {
+      "url": "https://www.cst.org/fr/press-releases",
+      "source": "MANUAL",
+      "targetPath": "/fr/press-releases",
+      "id": "f27e1557a4303c6d7bc92b83584a5d5983c2adfa"
+    },
+    {
+      "url": "https://www.cst.org/fr/press-releases/CST-aide-des-etudiants-a-rever-grand-grace-a-son-programme-de-prix-et-de-bourses-2023",
+      "source": "MANUAL",
+      "targetPath": "/fr/press-releases/cst-aide-des-etudiants-a-rever-grand-grace-a-son-programme-de-prix-et-de-bourses-2023",
+      "id": "499bef4e2dd8dc06d3108e291610b0037b79a2a4"
+    },
+    {
+      "url": "https://www.cst.org/fr/press-releases/CST-annonce-la-nomination-de-deux-nouveaux-membres-au-conseil-dadministration",
+      "source": "MANUAL",
+      "targetPath": "/fr/press-releases/cst-annonce-la-nomination-de-deux-nouveaux-membres-au-conseil-dadministration",
+      "id": "b96dc06b722be64e1ab4ac4069f8c07e707efef5"
+    },
+    {
+      "url": "https://www.cst.org/fr/press-releases/CST-lance-un-programme-exclusif-de-Recompenses-enargent",
+      "source": "MANUAL",
+      "targetPath": "/fr/press-releases/cst-lance-un-programme-exclusif-de-recompenses-enargent",
+      "id": "4ce4744f2d34d5f97c63ebafada085aacbe97861"
+    },
+    {
+      "url": "https://www.cst.org/fr/press-releases/CST-nomme-Peter-Lewis-au-poste-de-President-et-chef-de-la-direction",
+      "source": "MANUAL",
+      "targetPath": "/fr/press-releases/cst-nomme-peter-lewis-au-poste-de-president-et-chef-de-la-direction",
+      "id": "d4c5e3b086ddbdd85fb14bc885004c16b3a0ccda"
+    },
+    {
+      "url": "https://www.cst.org/fr/press-releases/cst-opens-applications-for-2025-awards-and-bursaries-program",
+      "source": "MANUAL",
+      "targetPath": "/fr/press-releases/cst-opens-applications-for-2025-awards-and-bursaries-program",
+      "id": "d166405af33fa2edc8d38d3cf6690871fc715cea"
+    },
+    {
+      "url": "https://www.cst.org/fr/press-releases/La-Fondation-CST-attribue-plus-de-250-000-a-40-etudiants-canadiens",
+      "source": "MANUAL",
+      "targetPath": "/fr/press-releases/la-fondation-cst-attribue-plus-de-250-000-a-40-etudiants-canadiens",
+      "id": "28b4ea3ca4a25bb8f377e84e5b3c325caaddae68"
+    },
+    {
+      "url": "https://www.cst.org/fr/press-releases/Nouvelle-etude-sur-limpact-du-Bon-detudes-canadien-sur-les-habitudes-depargne-pour-les-etudes-postsecondaires-",
+      "source": "MANUAL",
+      "targetPath": "/fr/press-releases/nouvelle-etude-sur-limpact-du-bon-detudes-canadien-sur-les-habitudes-depargne-pour-les-etudes-postsecondaires",
+      "id": "5449316d864fc744fbb271af3fd476fca52b921f"
+    },
+    {
+      "url": "https://www.cst.org/fr/press-releases/Programme-de-bourses-de-la-Fondation-CST-2024-maintenant-ouvert-",
+      "source": "MANUAL",
+      "targetPath": "/fr/press-releases/programme-de-bourses-de-la-fondation-cst-2024-maintenant-ouvert",
+      "id": "3c104bcff4de1a1a3d14c3ceb03abb28515cad60"
+    },
+    {
+      "url": "https://www.cst.org/fr/renseignements-sur-la-securite",
+      "source": "MANUAL",
+      "targetPath": "/fr/renseignements-sur-la-securite",
+      "id": "2b08a586168e7f92cc94a6601fe66f4fe72d02a7"
+    },
+    {
+      "url": "https://www.cst.org/fr/search",
+      "source": "MANUAL",
+      "targetPath": "/fr/search",
+      "id": "ac5cc56882f6f2ba7cc07155050e4fe01c8afa78"
     }
   ],
   "crawlOptions": {
-    "timeout": 64800000,
-    "inclusionPatterns": [],
-    "exclusionPatterns": [],
-    "limit": -1,
-    "sameDomain": true,
-    "keepHash": false,
-    "strategy": "crawl",
-    "logger": {},
+    "strategy": "manual",
     "strategiesAttempted": [
-      "CRAWL"
+      "MANUAL"
     ]
-  },
-  "extractionErrors": []
+  }
 }
