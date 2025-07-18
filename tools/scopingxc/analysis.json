@@ -1,0 +1,217 @@
+{
+  "report_metadata": {
+    "title": "URL Pattern Grouper Analysis Report",
+    "customer": "National Rural Utilities Cooperative Finance Corporation",
+    "domain": "www.ncsc.coop",
+    "analysis_date": "2025-07-16 17:46:43",
+    "total_pages_analyzed": 62
+  },
+  "content_analysis": {
+    "total_pages": 62,
+    "pages_with_forms": 62,
+    "pages_without_forms": 0,
+    "pages_with_iframes": 0,
+    "pages_without_iframes": 62,
+    "pages_with_iframe_forms": 0,
+    "total_iframe_forms": "0",
+    "pages_with_both": 0,
+    "pages_with_neither": 0,
+    "successful_scrapes": 62,
+    "failed_scrapes": 0,
+    "success_rate": 100.0,
+    "form_coverage_rate": 100.0,
+    "iframe_coverage_rate": 0.0,
+    "form_analysis": {
+      "form_types": {
+        "Search": {
+          "page_count": 62,
+          "percentage": 100.0
+        }
+      },
+      "forms_per_page": {
+        "1": {
+          "page_count": 62,
+          "percentage": 100.0
+        }
+      }
+    },
+    "iframe_analysis": {},
+    "scraping_status": {
+      "Success": {
+        "page_count": 62,
+        "percentage": 100.0
+      }
+    }
+  },
+  "locale_analysis": {
+    "total_locales": 2,
+    "locales": {
+      "en": {
+        "page_count": 61,
+        "percentage": 98.4
+      },
+      "": {
+        "page_count": 1,
+        "percentage": 1.6
+      }
+    },
+    "primary_locale": "en"
+  },
+  "pattern_analysis": {
+    "total_patterns_created": 4,
+    "grouped_pages": 48,
+    "ungrouped_pages": 14,
+    "grouping_efficiency": 77.4,
+    "patterns": {
+      "Group 1": {
+        "page_count": 24,
+        "percentage": 38.7
+      },
+      "Group 2": {
+        "page_count": 11,
+        "percentage": 17.7
+      },
+      "Group 3": {
+        "page_count": 8,
+        "percentage": 12.9
+      },
+      "Group 4": {
+        "page_count": 5,
+        "percentage": 8.1
+      }
+    },
+    "detailed_pattern_breakdown": {
+      "URL Pattern 1": {
+        "total_pages": 24,
+        "template_groups": {
+          "Template 10": 10,
+          "Template 8": 7,
+          "Template 12": 5,
+          "Template 9": 1,
+          "Template 11": 1
+        },
+        "top_template_details": {
+          "Table, Columns, header, Cards": 10,
+          "Columns, header, Cards": 7,
+          "Cards, header": 5
+        }
+      },
+      "URL Pattern 2": {
+        "total_pages": 11,
+        "template_groups": {
+          "Template 12": 7,
+          "Template 13": 3,
+          "Template 14": 1
+        },
+        "top_template_details": {
+          "Cards, header": 7,
+          "Cards, header, Carousel": 3,
+          "header, Cards": 1
+        }
+      },
+      "URL Pattern 3": {
+        "total_pages": 8,
+        "template_groups": {
+          "Template 22": 3,
+          "Template 20": 2,
+          "Template 16": 1,
+          "Template 21": 1,
+          "Template 18": 1
+        },
+        "top_template_details": {
+          "Table (striped), Cards": 3,
+          "Table (striped), Columns, Hero, Cards": 2,
+          "Table (striped), Cards, Hero": 1
+        }
+      },
+      "URL Pattern 4": {
+        "total_pages": 5,
+        "template_groups": {
+          "Template 15": 3,
+          "Template 12": 2
+        },
+        "top_template_details": {
+          "Cards, Table (bordered), header": 3,
+          "Cards, header": 2
+        }
+      }
+    }
+  },
+  "cross_pattern_template_analysis": {
+    "templates_across_multiple_patterns": 1,
+    "cross_pattern_templates": [
+      {
+        "template": "Template 12",
+        "total_pages": 14,
+        "appears_in_patterns": 3,
+        "pattern_breakdown": [
+          {
+            "pattern_name": "URL Pattern 1",
+            "page_count": 5
+          },
+          {
+            "pattern_name": "URL Pattern 2",
+            "page_count": 7
+          },
+          {
+            "pattern_name": "URL Pattern 4",
+            "page_count": 2
+          }
+        ],
+        "insight": "Pages with 'Template 12' template are similar across 3 URL patterns"
+      }
+    ]
+  },
+  "ungrouped_pages_analysis": {
+    "total_ungrouped_pages": 14,
+    "template_groups": {
+      "Template 18": 3,
+      "Template 1": 2,
+      "Template 2": 1,
+      "Template 3": 1,
+      "Template 4": 1,
+      "Template 6": 1,
+      "Template 5": 1,
+      "Template 7": 1,
+      "Template 17": 1,
+      "Template 19": 1,
+      "Template 23": 1
+    },
+    "unique_template_combinations": 11,
+    "top_template_details": {
+      "Table (striped), Cards, Columns": 3,
+      "Hero, Carousel, Cards": 2,
+      "Cards, Table (bordered), header, Carousel, Columns": 1,
+      "header, unknown1": 1,
+      "Cards, header, unknown1": 1
+    }
+  },
+  "unknown_block_analysis": {
+    "unknown_blocks_available": true,
+    "total_unknown_groups": 1,
+    "unknown_groups": {
+      "unknown1": {
+        "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+        "total_urls": 3,
+        "sample_url": "https://www.ncsc.coop/content/capitalconnections/en/author/Antony-Davies.html",
+        "all_urls": [
+          "https://www.ncsc.coop/content/capitalconnections/en/author/Antony-Davies.html",
+          "https://www.ncsc.coop/content/capitalconnections/en/author/john-suter.html",
+          "https://www.ncsc.coop/content/capitalconnections/en/author/sam-kem.html"
+        ]
+      }
+    }
+  },
+  "insights_and_recommendations": {
+    "grouping_efficiency": 77.4,
+    "average_group_size": 12.0,
+    "template_diversity": 23,
+    "template_combination_diversity": 23,
+    "primary_locale": "en",
+    "is_multilingual": true,
+    "insights": [
+      "HIGH FORM COVERAGE: 100.0% of pages have forms - excellent for lead generation"
+    ],
+    "recommendations": []
+  }
+}
