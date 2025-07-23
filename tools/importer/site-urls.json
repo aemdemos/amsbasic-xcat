@@ -1,0 +1,299 @@
+{
+    "originUrl": "https://www.thoughtworks.com",
+    "urls": [
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog",
+        "id": "7cb918172a1e9353e393e7707afa59ec6c67b356"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/3am-nights-sustainable-pace-and-then-some",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/3am-nights-sustainable-pace-and-then-some",
+        "id": "db0c9ffac81b00bb1713932ff1291fa0b3a5a2b7"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/4-takeaways-distributed-agile-project",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/4-takeaways-distributed-agile-project",
+        "id": "4a5b1e8c258e8c6c11380a26a060c0536d10a92c"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/7-tips-effective-inceptions",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/7-tips-effective-inceptions",
+        "id": "890303547eaacd71a5eade8e97b2ce07a31e64cb"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/agile-theory-vs-practice",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/agile-theory-vs-practice",
+        "id": "f1d4b6c9ace4a1359ec2df250824b636bb6b5f77"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/announcing-agile-transitions",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/announcing-agile-transitions",
+        "id": "45ae47ca521282e4e525f471e24bd00137b32406"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/are-you-truly-cross-functional-meet-amigos",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/are-you-truly-cross-functional-meet-amigos",
+        "id": "8e597012bc1b1d000ed890612d8dddd27368498c"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/book-review-actionable-agile-metrics-predictability",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/book-review-actionable-agile-metrics-predictability",
+        "id": "872e359453847865dda0bf819f63054f2113b194"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/can-your-teams-use-their-own-processes-yes-mingle",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/can-your-teams-use-their-own-processes-yes-mingle",
+        "id": "8a6bf23fcf6aaf4cea56e2770de50f21c1c8fb0f"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/challenges-faced-distributed-development",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/challenges-faced-distributed-development",
+        "id": "f0bd8cbac1037c8f493bfedc2da15ba15ea5df59"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/continuous-improvement-defense-bhags",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/continuous-improvement-defense-bhags",
+        "id": "9b8404e323a804adf704937c2a2a2110efb01292"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/continuous-improvement-safe-environment",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/continuous-improvement-safe-environment",
+        "id": "c7368e3a1693d7c524df4aeac5beaec341a25eca"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/debunking-5-refactoring-misconceptions",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/debunking-5-refactoring-misconceptions",
+        "id": "5ed8594d42391fcdeb5e7af470886b1dba8f9c78"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/defect-prevention-using-agile-techniques",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/defect-prevention-using-agile-techniques",
+        "id": "0855772379c7665f5f26c8a9922f55e66a096ee0"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/distributed-development-enablers-part-1-people-0",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/distributed-development-enablers-part-1-people-0",
+        "id": "c5df9226d0a853dc3259bcf5591490d2b8cc4949"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/distributed-development-enablers-part-3-tools-and-infrastructure",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/distributed-development-enablers-part-3-tools-and-infrastructure",
+        "id": "09f338d14635869c4a7481f4e02530bf44d6d567"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/dysfunctional-metrics-kill-agile-transformations-0",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/dysfunctional-metrics-kill-agile-transformations-0",
+        "id": "285c904439730961a8d947ec83e2e1c52aeedb56"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/effective-navigation-in-pair-programming",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/effective-navigation-in-pair-programming",
+        "id": "fd751da36604153c6cb3d6b6ccc319c02eda320b"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/evolving-thoughtworks-internal-it-solve-broader-cross-cutting-problems",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/evolving-thoughtworks-internal-it-solve-broader-cross-cutting-problems",
+        "id": "22c1135ce60a24e54d86dcb03c1161366353b5aa"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/exploring-value-oriented-incremental-delivery",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/exploring-value-oriented-incremental-delivery",
+        "id": "1de530b518cbd8670602953193eb71ea1ced5264"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/feature-leading-agile-team",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/feature-leading-agile-team",
+        "id": "e80b99f26e4a44bf82e14193416d87f9c72d0c08"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/how-product-centric-it-disrupts-portfolio-management",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/how-product-centric-it-disrupts-portfolio-management",
+        "id": "2caa16cc3b52491395c480cd6f97cc99f0f7e3e4"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/how-we-forecast-mingle-plus",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/how-we-forecast-mingle-plus",
+        "id": "8385968191a2f71c0eb9cd80dca8a9f2daeca3c2"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/just-time-software-requirements-introducing-value-spikes",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/just-time-software-requirements-introducing-value-spikes",
+        "id": "ff1862def8a0b8d9bc72e782f28d272de4a1e48f"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/layering-cloud",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/layering-cloud",
+        "id": "5411af4b63b3245288de8293b52cccf9dbbcf638"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/lessons-inheriting-another-team-s-codebase",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/lessons-inheriting-another-team-s-codebase",
+        "id": "6011566c554af7a66c432a51c6dc21e5913c9506"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/pairing-are-you-doing-it-wrong",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/pairing-are-you-doing-it-wrong",
+        "id": "2bb2074c99e5c4f04928b85cfe44040dbe9512cc"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/part-1-do-most-valuable-thing-unless-you-cant",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/part-1-do-most-valuable-thing-unless-you-cant",
+        "id": "9dddf9e4b8ed272693b4f4da7031af7cb7dfba11"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/part-2-understand-your-capacity",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/part-2-understand-your-capacity",
+        "id": "01eb53eee6bf766d9648179f42b3d5075bfb772b"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/part-3-sequence-according-your-constraints",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/part-3-sequence-according-your-constraints",
+        "id": "7b2a48f8007c806a3687b1a1b6bbd93e3b448064"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/prioritisation-very-difficult-conversation",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/prioritisation-very-difficult-conversation",
+        "id": "160e33a22f5eb574a577f99bc99e6965950fdb37"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/project-vs-product",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/project-vs-product",
+        "id": "54554362677b3592b6a1d14a721e05fe7b72b235"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/refactoring-book",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/refactoring-book",
+        "id": "21a3f1ebae7287e7e84cabcefce9b9aec8b390e1"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/rethinking-building-cloud-part-2-environments-cloud",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/rethinking-building-cloud-part-2-environments-cloud",
+        "id": "24435e84f04edff4711ccbce320aa1547d3c8abd"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/rethinking-building-cloud-part-3-principles-maximize-environments",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/rethinking-building-cloud-part-3-principles-maximize-environments",
+        "id": "d59f973cb3921481e1d9bceac687c7df71a6833e"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/seven-principles-pair-programming-etiquette",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/seven-principles-pair-programming-etiquette",
+        "id": "1e8595c23ab38e96c978a8350c8322d98a0fdefc"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/solve-your-own-damn-problems",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/solve-your-own-damn-problems",
+        "id": "35af770daa43cafca563fd7edb5d9de9cccbbb31"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/three-tips-easier-remoting",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/three-tips-easier-remoting",
+        "id": "78a8c0683afaac753df64aeea3a049a769e17d5d"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/toddler-taming-vs-stakeholder-management",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/toddler-taming-vs-stakeholder-management",
+        "id": "25908163788da5009d67fc220fdf2e96e4ba8ce0"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/tradition-vs-lean-and-agile-pmo-and-organizations",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/tradition-vs-lean-and-agile-pmo-and-organizations",
+        "id": "4dff4b0313443e0ff348ea265d79b3bda3a3a1d2"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/transitioning-conventional-shift-left-testing",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/transitioning-conventional-shift-left-testing",
+        "id": "11a6520235eb558dd780521e300c4bfd5b8b623b"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/understanding-how-design-thinking-lean-and-agile-work-together",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/understanding-how-design-thinking-lean-and-agile-work-together",
+        "id": "6ef5ce3f0b6c7acad12a454db2c72ec24484c89f"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/user-stories-tale-epic-confusion",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/user-stories-tale-epic-confusion",
+        "id": "ba0214b7d5f41dd841e70dfae3ccb980d23ac96f"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/using-feature-teams-deliver-high-business-value",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/using-feature-teams-deliver-high-business-value",
+        "id": "9d25c9c36e2787773812194f3954972f8ae1a9e9"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/waterfall-agile",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/waterfall-agile",
+        "id": "cff51d07c720fcd89a95470a5cb212120a886398"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/webinar-journey-doing-agile-being-agile",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/webinar-journey-doing-agile-being-agile",
+        "id": "009130c0386fda99ed54fd890f3f4eb3d41fb9bb"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/webinar-stop-doing-agile-start-being-agile",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/webinar-stop-doing-agile-start-being-agile",
+        "id": "64958d4fe1ae04c1ed4c59bf2b5e65453b3c7a1d"
+      },
+      {
+        "url": "https://www.thoughtworks.com/en-us/insights/blog/why-configuration-management-and-provisioning-are-different",
+        "source": "MANUAL",
+        "targetPath": "/en-us/insights/blog/why-configuration-management-and-provisioning-are-different",
+        "id": "1b7a11246ecf9e8166f7772285c4f5d219425415"
+      }
+    ],
+    "crawlOptions": {
+      "strategy": "manual",
+      "strategiesAttempted": [
+        "MANUAL"
+      ]
+    }
+  }
