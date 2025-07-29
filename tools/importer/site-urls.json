@@ -1,690 +1,732 @@
 {
-  "originUrl": "https://www.swbc.com",
-  "lastCrawled": "https://www.swbc.com/",
+  "originUrl": "https://www.swbcpeo.com",
+  "lastCrawled": "https://www.swbcpeo.com/",
   "urls": [
     {
-      "url": "https://www.swbc.com/",
+      "url": "https://www.swbcpeo.com/",
       "source": "SITEMAPS",
       "targetPath": "/",
-      "id": "80e4ab4e4ea975cc4f7f586ba0555fe22198641f"
+      "id": "b81a351fe02d1a8427d3f3db26945756882188c9"
     },
     {
-      "url": "https://www.swbc.com/404-error-page",
+      "url": "https://www.swbcpeo.com/about-us",
       "source": "SITEMAPS",
-      "targetPath": "/404-error-page",
-      "id": "bf037c0b541a641e1e57c764711d2ba7b78e45a7"
+      "targetPath": "/about-us",
+      "id": "92ef6c545d616b6c112c0f405b06773310270c72"
     },
     {
-      "url": "https://www.swbc.com/about-swbc/in-the-community",
+      "url": "https://www.swbcpeo.com/about-us/careers",
       "source": "SITEMAPS",
-      "targetPath": "/about-swbc/in-the-community",
-      "id": "c7dde2518b05b009365fd713067795db15fa3f63"
+      "targetPath": "/about-us/careers",
+      "id": "57f13341dd6f1c4d162092de474395e65ccf9dc8"
     },
     {
-      "url": "https://www.swbc.com/about-swbc/press",
+      "url": "https://www.swbcpeo.com/about-us/leadership",
       "source": "SITEMAPS",
-      "targetPath": "/about-swbc/press",
-      "id": "42dfbf8d6ed21d6b6e8a6715ca196a6dcdc43ea5"
+      "targetPath": "/about-us/leadership",
+      "id": "85ee0603dc4812f35a2743612a8ac2951ee2dadf"
     },
     {
-      "url": "https://www.swbc.com/account-retention-services",
+      "url": "https://www.swbcpeo.com/about-us/leadership/charlie-amato",
       "source": "SITEMAPS",
-      "targetPath": "/account-retention-services",
-      "id": "639165b7a7805eafd3fe60f36eaf72f6e3809745"
+      "targetPath": "/about-us/leadership/charlie-amato",
+      "id": "3e58568404c5b9ed655de333acb244b5da68eb34"
     },
     {
-      "url": "https://www.swbc.com/antique-auto-insurance",
+      "url": "https://www.swbcpeo.com/about-us/leadership/dee-dee-neil",
       "source": "SITEMAPS",
-      "targetPath": "/antique-auto-insurance",
-      "id": "0cebcc17f00b3d17f8ec37786e29da17b2c89b82"
+      "targetPath": "/about-us/leadership/dee-dee-neil",
+      "id": "6817f23547090ef4debf4dd41577d074e4c69ca4"
     },
     {
-      "url": "https://www.swbc.com/asset-recovery",
+      "url": "https://www.swbcpeo.com/about-us/leadership/dee-dee-neil-0",
       "source": "SITEMAPS",
-      "targetPath": "/asset-recovery",
-      "id": "4a0966982197a2dabc76c46066588b2fd6c1a7f8"
+      "targetPath": "/about-us/leadership/dee-dee-neil-0",
+      "id": "833d430746096f24fb654d8e190e26e900e0f717"
     },
     {
-      "url": "https://www.swbc.com/auto-insurance",
+      "url": "https://www.swbcpeo.com/about-us/leadership/gary-dudley",
       "source": "SITEMAPS",
-      "targetPath": "/auto-insurance",
-      "id": "1e293f9b283d5b87c268ef262d164557e2fab2d0"
+      "targetPath": "/about-us/leadership/gary-dudley",
+      "id": "bce007fb8593bedbf1864763627004de67ef10da"
     },
     {
-      "url": "https://www.swbc.com/auto-lending",
+      "url": "https://www.swbcpeo.com/about-us/leadership/ilka-ramirez",
       "source": "SITEMAPS",
-      "targetPath": "/auto-lending",
-      "id": "70e5d660a9516c47d88976bf08c3ba8f86790083"
+      "targetPath": "/about-us/leadership/ilka-ramirez",
+      "id": "e3e87ec31ee033c9048443189b8406c0f9032007"
     },
     {
-      "url": "https://www.swbc.com/autopilot-risk-management-platform",
+      "url": "https://www.swbcpeo.com/about-us/leadership/isaac-alarcon",
       "source": "SITEMAPS",
-      "targetPath": "/autopilot-risk-management-platform",
-      "id": "72ad0ba4523d9a0ecfdcf1bc34982162cff30b2b"
+      "targetPath": "/about-us/leadership/isaac-alarcon",
+      "id": "479bda9cc2a7ac20e8941ca1d164b1ae53df7e3d"
     },
     {
-      "url": "https://www.swbc.com/benefits-funding",
+      "url": "https://www.swbcpeo.com/about-us/leadership/jayne-frasure",
       "source": "SITEMAPS",
-      "targetPath": "/benefits-funding",
-      "id": "dc6228bf000c97e53bfd8f0fc51602efe4ff7a6f"
+      "targetPath": "/about-us/leadership/jayne-frasure",
+      "id": "3a53efd5668acc6facee96889bcf52754c20a616"
     },
     {
-      "url": "https://www.swbc.com/benefits-funding-for-banks",
+      "url": "https://www.swbcpeo.com/about-us/leadership/karen-mcgee",
       "source": "SITEMAPS",
-      "targetPath": "/benefits-funding-for-banks",
-      "id": "32d96a5c1d328bd4147c23566f1b30252d01e45e"
+      "targetPath": "/about-us/leadership/karen-mcgee",
+      "id": "8c2a3ae78528f974b24c04ea86b9c262bc72b29d"
     },
     {
-      "url": "https://www.swbc.com/benefits-pre-funding-for-credit-unions",
+      "url": "https://www.swbcpeo.com/about-us/leadership/kate-walzel-thompson",
       "source": "SITEMAPS",
-      "targetPath": "/benefits-pre-funding-for-credit-unions",
-      "id": "4a08962b40491601c29f3436bb442e82b70cc31f"
+      "targetPath": "/about-us/leadership/kate-walzel-thompson",
+      "id": "03f59c1b791671c3e6d661554dd3f4af2e8f9f70"
     },
     {
-      "url": "https://www.swbc.com/boat-personal-watercraft-insurance",
+      "url": "https://www.swbcpeo.com/about-us/leadership/kim-pollok",
       "source": "SITEMAPS",
-      "targetPath": "/boat-personal-watercraft-insurance",
-      "id": "9dd7eb65152a3b43ddd2aec6d4fb3d0904ec0710"
+      "targetPath": "/about-us/leadership/kim-pollok",
+      "id": "6a0e6a1a542144a960b3b9d4eff5996f755a8ebe"
     },
     {
-      "url": "https://www.swbc.com/builders-risk-insurance",
+      "url": "https://www.swbcpeo.com/about-us/leadership/lauren-moore-jd",
       "source": "SITEMAPS",
-      "targetPath": "/builders-risk-insurance",
-      "id": "7a63b98cbfbf946b3f04d15cbfbd3521a06ec4d7"
+      "targetPath": "/about-us/leadership/lauren-moore-jd",
+      "id": "9d3bbf1c39e61b56513828073388b99a00384b16"
     },
     {
-      "url": "https://www.swbc.com/careers",
+      "url": "https://www.swbcpeo.com/about-us/leadership/norman-l-paul-jr-jd",
       "source": "SITEMAPS",
-      "targetPath": "/careers",
-      "id": "167ce5e44fce65612743c39dd8dafbf1816c2580"
+      "targetPath": "/about-us/leadership/norman-l-paul-jr-jd",
+      "id": "a574843e6efbd134ec570d49c17130804a80354b"
     },
     {
-      "url": "https://www.swbc.com/collateral-protection-insurance-programs",
+      "url": "https://www.swbcpeo.com/about-us/leadership/pam-williams",
       "source": "SITEMAPS",
-      "targetPath": "/collateral-protection-insurance-programs",
-      "id": "f25f989383fc18731052cb13c9c53163a9d3dcd4"
+      "targetPath": "/about-us/leadership/pam-williams",
+      "id": "6166c2a5eda52c4a50760275424f2228a423cca2"
     },
     {
-      "url": "https://www.swbc.com/collections-insurance",
+      "url": "https://www.swbcpeo.com/about-us/leadership/shannon-martin",
       "source": "SITEMAPS",
-      "targetPath": "/collections-insurance",
-      "id": "6ef3edfddaa923b5a6418060d0225b4a5cc3ab7a"
+      "targetPath": "/about-us/leadership/shannon-martin",
+      "id": "e82e44227f1379ff855b563c1fffbae2113c7b1d"
     },
     {
-      "url": "https://www.swbc.com/college-planning",
+      "url": "https://www.swbcpeo.com/about-us/leadership/shirley-r-peterson-cpa",
       "source": "SITEMAPS",
-      "targetPath": "/college-planning",
-      "id": "f11cb87641400b023387eb850c3ca54f229b10e5"
+      "targetPath": "/about-us/leadership/shirley-r-peterson-cpa",
+      "id": "acce48b01ed3b14b4922b9333ac387f665438f5e"
     },
     {
-      "url": "https://www.swbc.com/commercial-auto-insurance",
+      "url": "https://www.swbcpeo.com/about-us/partners",
       "source": "SITEMAPS",
-      "targetPath": "/commercial-auto-insurance",
-      "id": "bc9d0caffa54fff31024cae981f6c474f0314576"
+      "targetPath": "/about-us/partners",
+      "id": "b2f3866190158abfd421b058598e0ba51090c7db"
     },
     {
-      "url": "https://www.swbc.com/commercial-flood-excess-flood-insurance",
+      "url": "https://www.swbcpeo.com/construction",
       "source": "SITEMAPS",
-      "targetPath": "/commercial-flood-excess-flood-insurance",
-      "id": "909a829758cb31e0dc0dca2d4c08c9159f6a11fa"
+      "targetPath": "/construction",
+      "id": "9c40dd106606ccd647fa0a9182c3668ff88a8b2f"
     },
     {
-      "url": "https://www.swbc.com/commercial-insurance",
+      "url": "https://www.swbcpeo.com/contact-us",
       "source": "SITEMAPS",
-      "targetPath": "/commercial-insurance",
-      "id": "dc2b651f5c56bd2549004fd294034aa484e1dc16"
+      "targetPath": "/contact-us",
+      "id": "6b905aed04d8109748e4a43e4f1c83cf9ef26203"
     },
     {
-      "url": "https://www.swbc.com/commercial-property-tax-services",
+      "url": "https://www.swbcpeo.com/education",
       "source": "SITEMAPS",
-      "targetPath": "/commercial-property-tax-services",
-      "id": "1069cc5c07f23b70422c884901d7fcbe243ea511"
+      "targetPath": "/education",
+      "id": "963d5666f7d5357f2460361688c0f35c26ca9568"
     },
     {
-      "url": "https://www.swbc.com/commercial-umbrella-liability-insurance",
+      "url": "https://www.swbcpeo.com/financial-services",
       "source": "SITEMAPS",
-      "targetPath": "/commercial-umbrella-liability-insurance",
-      "id": "b7138bfd9cb2dc0938d6d032cada98ceaa52421f"
+      "targetPath": "/financial-services",
+      "id": "93b5a64c4472e1890a06aa61d854ddf4b3a5636d"
     },
     {
-      "url": "https://www.swbc.com/contact-center-solutions",
+      "url": "https://www.swbcpeo.com/hospitality",
       "source": "SITEMAPS",
-      "targetPath": "/contact-center-solutions",
-      "id": "5c0563f93e590694d05d8571a979131d6c488513"
+      "targetPath": "/hospitality",
+      "id": "428dad750fac883cd0b3323a5ed5505a867710e2"
     },
     {
-      "url": "https://www.swbc.com/corporate-retirement-plan-development",
+      "url": "https://www.swbcpeo.com/industries",
       "source": "SITEMAPS",
-      "targetPath": "/corporate-retirement-plan-development",
-      "id": "c09f92d3aa59cc07670445af24a5e099483e2af5"
+      "targetPath": "/industries",
+      "id": "018d24a7b61254f6406f332ca38f773cf13d9f9a"
     },
     {
-      "url": "https://www.swbc.com/corporate-retirement-plans",
+      "url": "https://www.swbcpeo.com/manufacturing",
       "source": "SITEMAPS",
-      "targetPath": "/corporate-retirement-plans",
-      "id": "a9eb72beb15ef202870398d908980cf29bf40490"
+      "targetPath": "/manufacturing",
+      "id": "a7cdf7cef71f413980747b0562a9a9c31978a7c2"
     },
     {
-      "url": "https://www.swbc.com/credit-life-and-disability",
+      "url": "https://www.swbcpeo.com/marketing",
       "source": "SITEMAPS",
-      "targetPath": "/credit-life-and-disability",
-      "id": "6dd9c71163821ce505ffdec2935f91100e0317c6"
+      "targetPath": "/marketing",
+      "id": "e1cb0a6407da790205d9c7c7f31d04a6aaf943e2"
     },
     {
-      "url": "https://www.swbc.com/cyber-liability-insurance",
+      "url": "https://www.swbcpeo.com/medical",
       "source": "SITEMAPS",
-      "targetPath": "/cyber-liability-insurance",
-      "id": "2f27f7f01a900b3150dcb935630553d8b8537dc8"
+      "targetPath": "/medical",
+      "id": "0aeca8e656c4fe43913bb17b214cee7af0d1fd9a"
     },
     {
-      "url": "https://www.swbc.com/debt-cancellation",
+      "url": "https://www.swbcpeo.com/nonprofit",
       "source": "SITEMAPS",
-      "targetPath": "/debt-cancellation",
-      "id": "c287a88976f71db08974ad2bd95990b391017a3b"
+      "targetPath": "/nonprofit",
+      "id": "7b68f7ca17a01d34ea7a28d3ad2545fd4aeacf55"
     },
     {
-      "url": "https://www.swbc.com/deferred-compensation-plans",
+      "url": "https://www.swbcpeo.com/partner-us",
       "source": "SITEMAPS",
-      "targetPath": "/deferred-compensation-plans",
-      "id": "5ea59095cd597e938b2a5f71b50d7852ae8d7dd6"
+      "targetPath": "/partner-us",
+      "id": "0eb2e1795add2002457e0b47189115a318d9c3e4"
     },
     {
-      "url": "https://www.swbc.com/employee-benefits",
+      "url": "https://www.swbcpeo.com/property-management",
       "source": "SITEMAPS",
-      "targetPath": "/employee-benefits",
-      "id": "672d3d96ab10c406a8f0f72cc4438463c9dfa4ce"
+      "targetPath": "/property-management",
+      "id": "7c0a337af1532dd4ae983565a04e17509e39f6c5"
     },
     {
-      "url": "https://www.swbc.com/employee-benefits-consulting-group",
-      "source": "SITEMAPS",
-      "targetPath": "/employee-benefits-consulting-group",
-      "id": "08f993139e92cfbad2cfd8b584427b855d72bd52"
-    },
-    {
-      "url": "https://www.swbc.com/employee-health-benefits-and-wellness",
-      "source": "SITEMAPS",
-      "targetPath": "/employee-health-benefits-and-wellness",
-      "id": "8ef233bdf52a4d0a8caaa5234c18f4df4d56e28d"
-    },
-    {
-      "url": "https://www.swbc.com/estate-planning",
-      "source": "SITEMAPS",
-      "targetPath": "/estate-planning",
-      "id": "7aceb1527004326fc93eba76840b9506ea986322"
-    },
-    {
-      "url": "https://www.swbc.com/event-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/event-insurance",
-      "id": "c99e1c14ce65bc5a46c8431aba44ba7c25e7a181"
-    },
-    {
-      "url": "https://www.swbc.com/excess-flood-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/excess-flood-insurance",
-      "id": "21e98fb2977e20240d1eb1fd781cbd023cab510e"
-    },
-    {
-      "url": "https://www.swbc.com/executive-benefits",
-      "source": "SITEMAPS",
-      "targetPath": "/executive-benefits",
-      "id": "d991ff7699378ea59acc398cdf86b3eb19b3e287"
-    },
-    {
-      "url": "https://www.swbc.com/executive-life-and-disability",
-      "source": "SITEMAPS",
-      "targetPath": "/executive-life-and-disability",
-      "id": "831427c0dc548b3eba491afd549364504dea9691"
-    },
-    {
-      "url": "https://www.swbc.com/fig/payment-processing/financial-center-first-credit-union",
-      "source": "SITEMAPS",
-      "targetPath": "/fig/payment-processing/financial-center-first-credit-union",
-      "id": "bd30255e7049201edd096fe3142b4679500f23a3"
-    },
-    {
-      "url": "https://www.swbc.com/final-expense-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/final-expense-insurance",
-      "id": "edf46a88bb442c13314901b1bf7219002632312b"
-    },
-    {
-      "url": "https://www.swbc.com/financial-institution-group",
-      "source": "SITEMAPS",
-      "targetPath": "/financial-institution-group",
-      "id": "a047898778800d5d5f3f8bc0bfc84a5f7fa8f170"
-    },
-    {
-      "url": "https://www.swbc.com/fine-art-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/fine-art-insurance",
-      "id": "e6940e13f5522da2c1d5787c03ef8080533d7ade"
-    },
-    {
-      "url": "https://www.swbc.com/fixed-income-trading",
-      "source": "SITEMAPS",
-      "targetPath": "/fixed-income-trading",
-      "id": "3b846e78e4d14faa8d52536b56e3b0a27768b316"
-    },
-    {
-      "url": "https://www.swbc.com/flood-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/flood-insurance",
-      "id": "4075275fd696cf5f5d398e6b0be815d7c23c0b20"
-    },
-    {
-      "url": "https://www.swbc.com/flood-products",
-      "source": "SITEMAPS",
-      "targetPath": "/flood-products",
-      "id": "4b0cfd82d0d66fabb61b9c747c38569cb757b0cb"
-    },
-    {
-      "url": "https://www.swbc.com/gap",
-      "source": "SITEMAPS",
-      "targetPath": "/gap",
-      "id": "5b56455cb6f4e4a02a2afc72e9a92058f759b240"
-    },
-    {
-      "url": "https://www.swbc.com/general-liability-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/general-liability-insurance",
-      "id": "7f9010f923802b038245cd284a74337fb49e27d7"
-    },
-    {
-      "url": "https://www.swbc.com/healthcar-vehicle-protection",
-      "source": "SITEMAPS",
-      "targetPath": "/healthcar-vehicle-protection",
-      "id": "7c2e3ffca8aaef9ecd39e1e87fbe31b6a65aa5b7"
-    },
-    {
-      "url": "https://www.swbc.com/homeowners-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/homeowners-insurance",
-      "id": "2b04b83e9b69abde2acd5fb4aae6edeaca186bbb"
-    },
-    {
-      "url": "https://www.swbc.com/institutional-practice",
-      "source": "SITEMAPS",
-      "targetPath": "/institutional-practice",
-      "id": "d15159ffee94877aac69936ea34084dec0c17769"
-    },
-    {
-      "url": "https://www.swbc.com/instructions-for-submitting-a-verifiable-request-to-know-correct-or-delete-personal-information",
-      "source": "SITEMAPS",
-      "targetPath": "/instructions-for-submitting-a-verifiable-request-to-know-correct-or-delete-personal-information",
-      "id": "cdac8fb07edeb7b572f75afcda0bbbeb2b79d911"
-    },
-    {
-      "url": "https://www.swbc.com/insurance-services",
-      "source": "SITEMAPS",
-      "targetPath": "/insurance-services",
-      "id": "9a80fc7a414be633fae83e3b967f09be80612c8e"
-    },
-    {
-      "url": "https://www.swbc.com/insurance-tracking-and-placement",
-      "source": "SITEMAPS",
-      "targetPath": "/insurance-tracking-and-placement",
-      "id": "99f5ffdb035f21855df762e2baffb3c934009636"
-    },
-    {
-      "url": "https://www.swbc.com/investment-disclosure",
-      "source": "SITEMAPS",
-      "targetPath": "/investment-disclosure",
-      "id": "4065d017797092555d2e45693c1fa3db08d0916b"
-    },
-    {
-      "url": "https://www.swbc.com/investment-portfolio-management",
-      "source": "SITEMAPS",
-      "targetPath": "/investment-portfolio-management",
-      "id": "c1e93c3cdc079dff8df08190c80261f1d040143e"
-    },
-    {
-      "url": "https://www.swbc.com/investment-portfolio-review",
-      "source": "SITEMAPS",
-      "targetPath": "/investment-portfolio-review",
-      "id": "4cadb83a1e89cb577bd59824fe4c179776e9cbb5"
-    },
-    {
-      "url": "https://www.swbc.com/investment-services",
-      "source": "SITEMAPS",
-      "targetPath": "/investment-services",
-      "id": "2ea76db569b2fc8a7876345c794fc9012909cef6"
-    },
-    {
-      "url": "https://www.swbc.com/jewelry-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/jewelry-insurance",
-      "id": "13a14789b5d1c0043cce7ca2d3f9d6900dce5991"
-    },
-    {
-      "url": "https://www.swbc.com/key-person-life-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/key-person-life-insurance",
-      "id": "b09152027134d6754a7d697ac978c8339cf3da27"
-    },
-    {
-      "url": "https://www.swbc.com/landlord-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/landlord-insurance",
-      "id": "d985d79510e79c6bad19fbbc90c54c51afcf0e5b"
-    },
-    {
-      "url": "https://www.swbc.com/lender-placed-insurance-programs",
-      "source": "SITEMAPS",
-      "targetPath": "/lender-placed-insurance-programs",
-      "id": "7640fee672b7925d19afbfbb6dc0d5d11eff1044"
-    },
-    {
-      "url": "https://www.swbc.com/liability-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/liability-insurance",
-      "id": "d2e8bcf4887214603ed76914e794d530c09f31d2"
-    },
-    {
-      "url": "https://www.swbc.com/licenses-disclosures",
-      "source": "SITEMAPS",
-      "targetPath": "/licenses-disclosures",
-      "id": "170a64cd1df26ddd5437013e086586ebe90246bd"
-    },
-    {
-      "url": "https://www.swbc.com/life-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/life-insurance",
-      "id": "4c92ca2acaf1c7acee4514719aa1e691510e808f"
-    },
-    {
-      "url": "https://www.swbc.com/life-insurance-company",
-      "source": "SITEMAPS",
-      "targetPath": "/life-insurance-company",
-      "id": "fe9d2bffc0092d9a4bf278801c35cf6e0a0a345b"
-    },
-    {
-      "url": "https://www.swbc.com/mmp",
-      "source": "SITEMAPS",
-      "targetPath": "/mmp",
-      "id": "2378d294e991d4988f7a962d170d5b5b554c9a9d"
-    },
-    {
-      "url": "https://www.swbc.com/motorcycle-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/motorcycle-insurance",
-      "id": "a5688d53eae2f4df47f26f1736a18702b6771b43"
-    },
-    {
-      "url": "https://www.swbc.com/nmls-consumer-access",
-      "source": "SITEMAPS",
-      "targetPath": "/nmls-consumer-access",
-      "id": "714b2c4c8c21f23fa0ef05ed17c7ae9980c8f5bc"
-    },
-    {
-      "url": "https://www.swbc.com/outsourced-collections",
-      "source": "SITEMAPS",
-      "targetPath": "/outsourced-collections",
-      "id": "05c90828ba290e98828a048b514e4c68b433fb37"
-    },
-    {
-      "url": "https://www.swbc.com/payment-protection",
-      "source": "SITEMAPS",
-      "targetPath": "/payment-protection",
-      "id": "0fda672ee022d3e69619bddb26e444ccd70b8685"
-    },
-    {
-      "url": "https://www.swbc.com/payment-solutions",
-      "source": "SITEMAPS",
-      "targetPath": "/payment-solutions",
-      "id": "c03c61738051c7e770854306707961a9f7009407"
-    },
-    {
-      "url": "https://www.swbc.com/pet-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/pet-insurance",
-      "id": "6b2ba44ede9a444560a1459e02fca6fd8ef87f7b"
-    },
-    {
-      "url": "https://www.swbc.com/portfolio-management-services",
-      "source": "SITEMAPS",
-      "targetPath": "/portfolio-management-services",
-      "id": "143bcaf10ac9bd16cd793ac7d8c70f3ce1fa76a8"
-    },
-    {
-      "url": "https://www.swbc.com/primary-flood-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/primary-flood-insurance",
-      "id": "3ecfc3cc30581a360754ab04ae4cca76bf048855"
-    },
-    {
-      "url": "https://www.swbc.com/products-services/business/commercial-insurance/special-event-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/products-services/business/commercial-insurance/special-event-insurance",
-      "id": "67035d5f3f18298c5fb6784ef6c9ac555ea602cd"
-    },
-    {
-      "url": "https://www.swbc.com/products-services/individual/insurance/life-insurance/permanent-life-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/products-services/individual/insurance/life-insurance/permanent-life-insurance",
-      "id": "9ae60e04ab2072ac0df6aa9af49bca6691a85c5d"
-    },
-    {
-      "url": "https://www.swbc.com/products-services/insurance/individuals/life-insurance/permanent-life-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/products-services/insurance/individuals/life-insurance/permanent-life-insurance",
-      "id": "a8fb2abd4b87114e9370ad69c01b8a1f50384653"
-    },
-    {
-      "url": "https://www.swbc.com/professional-liability-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/professional-liability-insurance",
-      "id": "93fe62e1443f1069e086f5d653f4ed0ee7e08fa8"
-    },
-    {
-      "url": "https://www.swbc.com/property-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/property-insurance",
-      "id": "ef36f9a2482e576aa172b6e6e04dd2f99f5a43b7"
-    },
-    {
-      "url": "https://www.swbc.com/real-estate",
-      "source": "SITEMAPS",
-      "targetPath": "/real-estate",
-      "id": "6667516f9dafb96ce487e09b3b5239f67c945e2d"
-    },
-    {
-      "url": "https://www.swbc.com/real-estate-investor-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/real-estate-investor-insurance",
-      "id": "eb427ef89fb3285e7ca5f477e5b4db5b01f36c02"
-    },
-    {
-      "url": "https://www.swbc.com/renters-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/renters-insurance",
-      "id": "78715fd2652d4c43b9cb3e476eecfe057bd7f584"
-    },
-    {
-      "url": "https://www.swbc.com/reo-asset-protection-programs",
-      "source": "SITEMAPS",
-      "targetPath": "/reo-asset-protection-programs",
-      "id": "af43e0bc823f268fe2158c6430297a35d92eb97d"
-    },
-    {
-      "url": "https://www.swbc.com/residential-flood-insurance-excess-flood-insurance",
-      "source": "SITEMAPS",
-      "targetPath": "/residential-flood-insurance-excess-flood-insurance",
-      "id": "005418c1b0ed66e4554b1448cb5a19225a162133"
-    },
-    {
-      "url": "https://www.swbc.com/resources",
+      "url": "https://www.swbcpeo.com/resources",
       "source": "SITEMAPS",
       "targetPath": "/resources",
-      "id": "edf457420d2b2b3e5532c1a84301a34ed7cd3e63"
+      "id": "f6e48860fdeaed39ff83240d285adfe7407cc688"
     },
     {
-      "url": "https://www.swbc.com/retail-checking-strategies",
+      "url": "https://www.swbcpeo.com/resources/blog",
       "source": "SITEMAPS",
-      "targetPath": "/retail-checking-strategies",
-      "id": "f889e3b532e4f82e3de8186786e66d86760d91ea"
+      "targetPath": "/resources/blog",
+      "id": "459655435e7e67797f8fc7b55fb4cefd8ed419f3"
     },
     {
-      "url": "https://www.swbc.com/retail-investment-services",
+      "url": "https://www.swbcpeo.com/resources/blog/3-key-employment-laws-you-need-know",
       "source": "SITEMAPS",
-      "targetPath": "/retail-investment-services",
-      "id": "03e010f2bb4d84564411a5a9528fffc4dfdbc1a4"
+      "targetPath": "/resources/blog/3-key-employment-laws-you-need-know",
+      "id": "97e2af4d494be1ea27524061c8087292e650d2e9"
     },
     {
-      "url": "https://www.swbc.com/retirement-plan-services",
+      "url": "https://www.swbcpeo.com/resources/blog/3-ways-peo-can-save-your-company",
       "source": "SITEMAPS",
-      "targetPath": "/retirement-plan-services",
-      "id": "f464620d7b4fbbcea21b0ba5bd6a1a06b8ef8c56"
+      "targetPath": "/resources/blog/3-ways-peo-can-save-your-company",
+      "id": "99d2abc439ab1520e606f4cb976d55a0b3fb7ce1"
     },
     {
-      "url": "https://www.swbc.com/retirement-plan-sponsor-services",
+      "url": "https://www.swbcpeo.com/resources/blog/3-ways-workers-compensation-insurance-protects-your-business",
       "source": "SITEMAPS",
-      "targetPath": "/retirement-plan-sponsor-services",
-      "id": "0f5c07da8f323be8da1a9e691bc59b8c5d5d0d41"
+      "targetPath": "/resources/blog/3-ways-workers-compensation-insurance-protects-your-business",
+      "id": "bd4ce03bbddc5a87ec91980fe56a741563f76dfb"
     },
     {
-      "url": "https://www.swbc.com/retirement-planning",
+      "url": "https://www.swbcpeo.com/resources/blog/4-lawsuits-your-business-should-avoid-and-how-avoid-them",
       "source": "SITEMAPS",
-      "targetPath": "/retirement-planning",
-      "id": "c74ac0312dc126fe2066b2ce242d8465729f6bbd"
+      "targetPath": "/resources/blog/4-lawsuits-your-business-should-avoid-and-how-avoid-them",
+      "id": "a75339364bb2bad68389e8cdb65df42dd1761600"
     },
     {
-      "url": "https://www.swbc.com/rv-insurance",
+      "url": "https://www.swbcpeo.com/resources/blog/4-tips-supporting-employees-through-high-inflation",
       "source": "SITEMAPS",
-      "targetPath": "/rv-insurance",
-      "id": "7b6fbcd4441b33ccc2a284a56abd66fdaec639fe"
+      "targetPath": "/resources/blog/4-tips-supporting-employees-through-high-inflation",
+      "id": "f1a2c10344aea037289dc73c46187b9bb60eb791"
     },
     {
-      "url": "https://www.swbc.com/search",
+      "url": "https://www.swbcpeo.com/resources/blog/4-ways-peo-helps-keep-thousands-your-pocket",
       "source": "SITEMAPS",
-      "targetPath": "/search",
-      "id": "b8fdf5762701fa47013712b68fd61b6319797b7b"
+      "targetPath": "/resources/blog/4-ways-peo-helps-keep-thousands-your-pocket",
+      "id": "9020a2bc82d2254baf236dc9b1954847e9718dc1"
     },
     {
-      "url": "https://www.swbc.com/serp",
+      "url": "https://www.swbcpeo.com/resources/blog/5-powerful-services-peo-can-provide-your-business",
       "source": "SITEMAPS",
-      "targetPath": "/serp",
-      "id": "714bf3aa42f85bfc603b2ce8bd4d49f907b90b1b"
+      "targetPath": "/resources/blog/5-powerful-services-peo-can-provide-your-business",
+      "id": "2b52a106e9b32c4cb3076ff7a0fd078c1325d6b4"
     },
     {
-      "url": "https://www.swbc.com/split-dollar-life-insurance",
+      "url": "https://www.swbcpeo.com/resources/blog/5-tips-boosting-employee-retention-during-tight-labor-market",
       "source": "SITEMAPS",
-      "targetPath": "/split-dollar-life-insurance",
-      "id": "589c2add2141e4a940f682ad2dc143625401d5bf"
+      "targetPath": "/resources/blog/5-tips-boosting-employee-retention-during-tight-labor-market",
+      "id": "4d6dd29531fb07db7295abca3aac4398fce8f0c2"
     },
     {
-      "url": "https://www.swbc.com/success-stories/fig/collections/california-credit-union",
+      "url": "https://www.swbcpeo.com/resources/blog/5-tips-improving-your-hiring-and-onboarding-process",
       "source": "SITEMAPS",
-      "targetPath": "/success-stories/fig/collections/california-credit-union",
-      "id": "fed0a1e56ccb12653a24c0b2e7005b7e1d6229ea"
+      "targetPath": "/resources/blog/5-tips-improving-your-hiring-and-onboarding-process",
+      "id": "e18f0d20cbeeae2a62e0154ff3ae0dd7dc1d9cf4"
     },
     {
-      "url": "https://www.swbc.com/success-stories/fig/collections/fairwinds-credit-union",
+      "url": "https://www.swbcpeo.com/resources/blog/5-ways-control-your-business-overhead-costs",
       "source": "SITEMAPS",
-      "targetPath": "/success-stories/fig/collections/fairwinds-credit-union",
-      "id": "34dddf2df4eea652a1b6919324aca210fb52bac8"
+      "targetPath": "/resources/blog/5-ways-control-your-business-overhead-costs",
+      "id": "6e622aab07a978116bce2ce821d43ab4479fa817"
     },
     {
-      "url": "https://www.swbc.com/success-stories/fig/collections/partners-financial-credit-union",
+      "url": "https://www.swbcpeo.com/resources/blog/7-crucial-elements-employee-handbook",
       "source": "SITEMAPS",
-      "targetPath": "/success-stories/fig/collections/partners-financial-credit-union",
-      "id": "5f2b7cd2de86309ba0ae0f81c4fe2030dc74c05c"
+      "targetPath": "/resources/blog/7-crucial-elements-employee-handbook",
+      "id": "1dc6503bffa1f65aafad0e9d984c4d5894be01a9"
     },
     {
-      "url": "https://www.swbc.com/success-stories/fig/gap/heritage-federal-credit-union",
+      "url": "https://www.swbcpeo.com/resources/blog/7-headaches-peo-can-help-your-small-business-solve",
       "source": "SITEMAPS",
-      "targetPath": "/success-stories/fig/gap/heritage-federal-credit-union",
-      "id": "edd5cec1fae4076bc2ac4dd2d586f5192d184fa9"
+      "targetPath": "/resources/blog/7-headaches-peo-can-help-your-small-business-solve",
+      "id": "4a16df0658d3e7e9514482c2c75bbec92eec9502"
     },
     {
-      "url": "https://www.swbc.com/success-stories/fig/mmp/loco-credit-union",
+      "url": "https://www.swbcpeo.com/resources/blog/7-must-haves-your-employee-handbook",
       "source": "SITEMAPS",
-      "targetPath": "/success-stories/fig/mmp/loco-credit-union",
-      "id": "5ce827d9a673c95c26f40ec1aaee0125f5436f4e"
+      "targetPath": "/resources/blog/7-must-haves-your-employee-handbook",
+      "id": "c1846fb19424734238d7ce134c9ab9ff29cc065b"
     },
     {
-      "url": "https://www.swbc.com/success-stories/fig/payment/usalliance-financial",
+      "url": "https://www.swbcpeo.com/resources/blog/advantages-outsourcing-your-payroll-and-how-it-can-help-your-business",
       "source": "SITEMAPS",
-      "targetPath": "/success-stories/fig/payment/usalliance-financial",
-      "id": "eea60f8bf520f2990c51f20abd9f67943022cf12"
+      "targetPath": "/resources/blog/advantages-outsourcing-your-payroll-and-how-it-can-help-your-business",
+      "id": "b6304bfec19302076aaf83a8592d6e6ddd6de8e6"
     },
     {
-      "url": "https://www.swbc.com/success-stories/fig/total-solution/financial-center-first-credit-union",
+      "url": "https://www.swbcpeo.com/resources/blog/advantages-partnering-professional-employer-organization",
       "source": "SITEMAPS",
-      "targetPath": "/success-stories/fig/total-solution/financial-center-first-credit-union",
-      "id": "d72f84e546067cad36c1f77c2c6d4e534df7e627"
+      "targetPath": "/resources/blog/advantages-partnering-professional-employer-organization",
+      "id": "873b471bb9d001fbc29de6ed97d3f86f389f2de0"
     },
     {
-      "url": "https://www.swbc.com/success-stories/insurance-services/reyes-automotive",
+      "url": "https://www.swbcpeo.com/resources/blog/asking-right-questions-key-successful-exit-interview",
       "source": "SITEMAPS",
-      "targetPath": "/success-stories/insurance-services/reyes-automotive",
-      "id": "e1969e9cbb7d502a9427176dfcba175de8586f18"
+      "targetPath": "/resources/blog/asking-right-questions-key-successful-exit-interview",
+      "id": "15dc1df4efa817f4f47eced45a820b18d31d6cb6"
     },
     {
-      "url": "https://www.swbc.com/swbc-mexico",
+      "url": "https://www.swbcpeo.com/resources/blog/benefits-osha-compliance-small-businesses",
       "source": "SITEMAPS",
-      "targetPath": "/swbc-mexico",
-      "id": "ae456c3ab565a63bc5d186d7ad34a9672ea83ed6"
+      "targetPath": "/resources/blog/benefits-osha-compliance-small-businesses",
+      "id": "e1594acb7f11eb5863df5fc6afe8ecec539a6cd8"
     },
     {
-      "url": "https://www.swbc.com/swivel",
+      "url": "https://www.swbcpeo.com/resources/blog/benefits-outsourcing-human-resources",
       "source": "SITEMAPS",
-      "targetPath": "/swivel",
-      "id": "31ca2d63ab567d0041564d49cf9069510973dc7b"
+      "targetPath": "/resources/blog/benefits-outsourcing-human-resources",
+      "id": "cd957c127e71e76088ea6aaf7ecf240013ff70ca"
     },
     {
-      "url": "https://www.swbc.com/term-life-insurance",
+      "url": "https://www.swbcpeo.com/resources/blog/business-growth-101-get-out-weeds-and-start-adding-value",
       "source": "SITEMAPS",
-      "targetPath": "/term-life-insurance",
-      "id": "02a169b7a4988c4b00b427fdbb7fc3da5cf638a4"
+      "targetPath": "/resources/blog/business-growth-101-get-out-weeds-and-start-adding-value",
+      "id": "f9611e439bc3783990912f90ecf53faf06f500ff"
     },
     {
-      "url": "https://www.swbc.com/umbrella-liability-insurance",
+      "url": "https://www.swbcpeo.com/resources/blog/creating-engaged-culture-through-volunteerism",
       "source": "SITEMAPS",
-      "targetPath": "/umbrella-liability-insurance",
-      "id": "4fae043bb471630db5d210d349a94af5662ce264"
+      "targetPath": "/resources/blog/creating-engaged-culture-through-volunteerism",
+      "id": "3b6111c137133a18e05022c1f77e3723ef54f3c8"
     },
     {
-      "url": "https://www.swbc.com/vehicle-and-loan-protection",
+      "url": "https://www.swbcpeo.com/resources/blog/day-life-construction-ceo-carl-and-peo-difference",
       "source": "SITEMAPS",
-      "targetPath": "/vehicle-and-loan-protection",
-      "id": "0f28e64a3e3da838d63a0b4a725628aea3327dbd"
+      "targetPath": "/resources/blog/day-life-construction-ceo-carl-and-peo-difference",
+      "id": "e184e5f15372f15fa6c2595ff52ac521d658fd63"
     },
     {
-      "url": "https://www.swbc.com/vehicle-insurance",
+      "url": "https://www.swbcpeo.com/resources/blog/debunking-5-major-myths-about-co-employment",
       "source": "SITEMAPS",
-      "targetPath": "/vehicle-insurance",
-      "id": "ba264fffef9f546e5e95b2e2a7d8db898ca57e6f"
+      "targetPath": "/resources/blog/debunking-5-major-myths-about-co-employment",
+      "id": "4c491191a75c78f438c3262094b529d25ecc68e8"
     },
     {
-      "url": "https://www.swbc.com/vehicle-return-protection",
+      "url": "https://www.swbcpeo.com/resources/blog/dols-new-overtime-rule-salaried-employees",
       "source": "SITEMAPS",
-      "targetPath": "/vehicle-return-protection",
-      "id": "25182612e5bcf505f7e57326d5fc420b07b24898"
+      "targetPath": "/resources/blog/dols-new-overtime-rule-salaried-employees",
+      "id": "ebeb058f3c598bd0a6ab8e1e6926aec93d9f6d98"
     },
     {
-      "url": "https://www.swbc.com/voluntary-employee-benefits",
+      "url": "https://www.swbcpeo.com/resources/blog/e-verify-program-why-your-company-should-participate",
       "source": "SITEMAPS",
-      "targetPath": "/voluntary-employee-benefits",
-      "id": "6a2384ba126ffde25af619dfa3f6b0f1f3cdd98d"
+      "targetPath": "/resources/blog/e-verify-program-why-your-company-should-participate",
+      "id": "7e144fd122ce73854e83be217870b6f5e5379cb5"
     },
     {
-      "url": "https://www.swbc.com/voluntary-protection-products",
+      "url": "https://www.swbcpeo.com/resources/blog/empowering-non-profits-how-peo-can-help-boost-your-impact",
       "source": "SITEMAPS",
-      "targetPath": "/voluntary-protection-products",
-      "id": "2abefe8c571a295047c7e4a023d51012e285c779"
+      "targetPath": "/resources/blog/empowering-non-profits-how-peo-can-help-boost-your-impact",
+      "id": "9ac81e7cb2f545b8d1854e1e6f40be10ae225788"
     },
     {
-      "url": "https://www.swbc.com/wealth-management",
+      "url": "https://www.swbcpeo.com/resources/blog/faqs-regarding-return-work-guidelines",
       "source": "SITEMAPS",
-      "targetPath": "/wealth-management",
-      "id": "cccbebba59c09525c49a265c7aafc8fb6dfb2fcb"
+      "targetPath": "/resources/blog/faqs-regarding-return-work-guidelines",
+      "id": "10758bb0820bdbd7aaa41ba0f76474d43c8def50"
     },
     {
-      "url": "https://www.swbc.com/workers-compensation-insurance",
+      "url": "https://www.swbcpeo.com/resources/blog/ffcra-what-it-means-small-businesses-and-their-employees",
       "source": "SITEMAPS",
-      "targetPath": "/workers-compensation-insurance",
-      "id": "99486e9097d91ccbb59dec9e9b55dbbb293309d0"
+      "targetPath": "/resources/blog/ffcra-what-it-means-small-businesses-and-their-employees",
+      "id": "ac5f29d6c9e35814d74b2011702bf336fddce558"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/four-ways-peo-can-support-your-hr-staff",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/four-ways-peo-can-support-your-hr-staff",
+      "id": "4b566563ec4353a14d0c110c1f365297233c68c0"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/growing-your-business-heres-how-peo-can-help",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/growing-your-business-heres-how-peo-can-help",
+      "id": "e3791aecf11e6b5edd8924c297e05f7c3bfc4053"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/handy-guide-successful-employment-screening",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/handy-guide-successful-employment-screening",
+      "id": "7612ca0cc798e207e6b810657d2420befe69cb5a"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/having-true-worklife-balance-unobtainable-myth-women",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/having-true-worklife-balance-unobtainable-myth-women",
+      "id": "5e929679a57d1f60c4aaefd81516d6ba09d3bb14"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/hiring-skilled-trades-todays-labor-market",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/hiring-skilled-trades-todays-labor-market",
+      "id": "0618e58a112e224d61cfa8b84979a96d7f91a5b3"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/how-2-trillion-stimulus-package-will-impact-businesses",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/how-2-trillion-stimulus-package-will-impact-businesses",
+      "id": "3ac4ec729c843be80f95b842b99d974b3b0752b8"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/how-create-effective-disaster-recovery-plan-your-business",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/how-create-effective-disaster-recovery-plan-your-business",
+      "id": "3a14e1a621cf323284f3d3ee38c88d4860221045"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/how-determine-if-peo-right-your-business",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/how-determine-if-peo-right-your-business",
+      "id": "f5708cdfb4ea26e74f7df61039a043248f904a31"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/how-does-working-peo-help-manufacturing-leaders-ask-mary",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/how-does-working-peo-help-manufacturing-leaders-ask-mary",
+      "id": "16224cd1f2b2827590359e686f99c0f88aa8a237"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/how-hiring-peo-can-lower-employee-turnover-rates",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/how-hiring-peo-can-lower-employee-turnover-rates",
+      "id": "48774112a710428094a9e6394cdb29380bcc0e57"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/how-will-current-labor-shortage-impact-your-business-operations",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/how-will-current-labor-shortage-impact-your-business-operations",
+      "id": "ed677cfd8fe3ac2f05e7bbe8873168fca5e0b517"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/how-your-company-could-save-big-outsourcing-employment-management",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/how-your-company-could-save-big-outsourcing-employment-management",
+      "id": "3d2c4c6257bf778d75684d32be0b5a6ecd7e2ef7"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/maintaining-osha-compliance-during-covid-19-handling-complaints",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/maintaining-osha-compliance-during-covid-19-handling-complaints",
+      "id": "32183dfcfcfaed17b00ca03e16070cddd6e4b3d4"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/maintaining-osha-compliance-during-covid-19-reporting",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/maintaining-osha-compliance-during-covid-19-reporting",
+      "id": "e0aa0621d24c7fcfd1c9591453a1162ad1701c57"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/managing-costs-through-employee-attrition",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/managing-costs-through-employee-attrition",
+      "id": "bd048e1fa782426626c5e8959cf6d8b02a0920ea"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/money-smart-week-3-ways-your-small-business-could-save-money",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/money-smart-week-3-ways-your-small-business-could-save-money",
+      "id": "feed9a443445917d62153da8396a2c912158f375"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/must-ask-questions-your-next-job-interviewee",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/must-ask-questions-your-next-job-interviewee",
+      "id": "11ab0baab0a0ae8d4d6246da5e44c90aad22b075"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/my-employee-has-jury-duty-what-do-i-do",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/my-employee-has-jury-duty-what-do-i-do",
+      "id": "c75f161f5a609d38946becc3826ad04534a88979"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/open-enrollment-season-ideal-time-partner-peo-0",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/open-enrollment-season-ideal-time-partner-peo-0",
+      "id": "d5fd1d7dffb130827ba126989b0db4f30b1b7918"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/osha-turning-enforcement-heat-your-business-prepared",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/osha-turning-enforcement-heat-your-business-prepared",
+      "id": "d6eb5dedb1a1de6c846bec6803ab26dae7d0fb80"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/payroll-processing-101-why-direct-deposit-no-brainer",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/payroll-processing-101-why-direct-deposit-no-brainer",
+      "id": "642ccbb6f14600d3305748e92b1810149984a007"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/payroll-processing-6-cost-saving-tips",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/payroll-processing-6-cost-saving-tips",
+      "id": "e0b419bee2ab19924b0de8c86991d026b9c6891a"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/returning-work-vaccinated-world",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/returning-work-vaccinated-world",
+      "id": "2e05fd3389a89326bdda40a31327170d3a86ab1e"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/should-you-switch-peos",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/should-you-switch-peos",
+      "id": "0452dc24f21d0aebf32d048f1084b4b3b1542d69"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/strategies-work-how-you-can-create-more-inclusive-workplace",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/strategies-work-how-you-can-create-more-inclusive-workplace",
+      "id": "2ba03bbee0269735115f3eacd99a6d7f702ac084"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/top-5-compliance-violations-businesses-and-how-avoid-them",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/top-5-compliance-violations-businesses-and-how-avoid-them",
+      "id": "5b9e29c15ee53bea6606f062554334bfb9ef47e4"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/top-7-reasons-outsource-human-resources",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/top-7-reasons-outsource-human-resources",
+      "id": "73d51741169b419f31d2208514cc06a0ab939a23"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/top-8-questions-you-should-ask-your-potential-payroll-provider",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/top-8-questions-you-should-ask-your-potential-payroll-provider",
+      "id": "12f4811e11eb6927bfd8b79ea582ed97858d878d"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/trending-hr-topics-pay-attention-2021",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/trending-hr-topics-pay-attention-2021",
+      "id": "673ab228d33daf48901e986b1d0104cfa9ad1cdd"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/use-exit-interviews-gain-valuable-information-your-organization",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/use-exit-interviews-gain-valuable-information-your-organization",
+      "id": "4a514f9690359eeca7d047da81e24ef1e6a62265"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/what-are-benefits-using-peo-small-businesses",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/what-are-benefits-using-peo-small-businesses",
+      "id": "3cad70cf75d2177a4f8e42207d159805802e48f5"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/what-can-peo-do-business-owner-ask-dave",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/what-can-peo-do-business-owner-ask-dave",
+      "id": "7508c8b1e53d4d14e59be7978bb67798c0afc445"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/what-every-employer-needs-know-about-criminal-background-checks",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/what-every-employer-needs-know-about-criminal-background-checks",
+      "id": "35e7c0f2ed5b097320a127e5b15dc885cab2a1f7"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/what-small-businesses-need-know-about-osha-compliance",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/what-small-businesses-need-know-about-osha-compliance",
+      "id": "917cbdfdd1b8eb1d35f542dd5b33ae33e800c72c"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/what-small-businesses-should-know-about-peos",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/what-small-businesses-should-know-about-peos",
+      "id": "51d321a3f909c5cb0b7cb7ae08cda36fb0982a86"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/whats-roi-using-peo-new-research-suggests-over-27",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/whats-roi-using-peo-new-research-suggests-over-27",
+      "id": "60ead1a4d701a3b4e1b310dfd1400212b02c3baa"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/when-your-payroll-process-meets-natural-disaster",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/when-your-payroll-process-meets-natural-disaster",
+      "id": "9c37c4fc5a04e249f623c23dd753a4d89a03a465"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/why-outsourcing-hr-makes-business-sense",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/why-outsourcing-hr-makes-business-sense",
+      "id": "e595f56f859b3b995cb32f1825189c1b35383774"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/women-business-3-self-care-strategies-help-improve-your-career",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/women-business-3-self-care-strategies-help-improve-your-career",
+      "id": "454351dc7cbff01b675ec006b8c25a9872a6a9bf"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/working-peo-right-your-business",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/working-peo-right-your-business",
+      "id": "d2b80ad83449235655444946dddc1f9332a2126d"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/blog/your-business-compliant-most-recent-ada-standards",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/blog/your-business-compliant-most-recent-ada-standards",
+      "id": "37c8a559f3e957a1a886fd0aa0f610ad89ffbd2c"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/case-studies",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/case-studies",
+      "id": "8d005c832541f9a3b2d247289a475455c73fa4bc"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/case-studies/beyer-plumbing-tightens-compliance-ever-changing-industry",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/case-studies/beyer-plumbing-tightens-compliance-ever-changing-industry",
+      "id": "a4ef059d8bf6d107f7cea14340f8d05ae83d3eac"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/case-studies/childrens-bereavement-south-texas",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/case-studies/childrens-bereavement-south-texas",
+      "id": "ce45ff8616ad9cd62a4fdf73b54dc2ecab6275d2"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/case-studies/coley-associates-inc",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/case-studies/coley-associates-inc",
+      "id": "0132df6077757beffb8cd0f5506992233854402c"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/case-studies/hard-hats-soft-skills-beyer-mechanicals-hr-evolution-swbc-peo",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/case-studies/hard-hats-soft-skills-beyer-mechanicals-hr-evolution-swbc-peo",
+      "id": "c825b8ef9a8bd9f2b3cb4d4f0c0b48291e1741d7"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/case-studies/helping-greater-san-antonio-chamber-turn-tragedy-triumph",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/case-studies/helping-greater-san-antonio-chamber-turn-tragedy-triumph",
+      "id": "3e8561ee87717d7fb15df8bc5895cb36e1ede4fe"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/case-studies/hill-country-pain-associates",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/case-studies/hill-country-pain-associates",
+      "id": "99d23284fd7e2abd21f56fb088168f6bcea5ecbd"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/case-studies/mission-alamo-trust",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/case-studies/mission-alamo-trust",
+      "id": "a4a40ae103ed23956d0a7a183df8100613e0cff4"
+    },
+    {
+      "url": "https://www.swbcpeo.com/resources/case-studies/tobin-center-perfoming-arts",
+      "source": "SITEMAPS",
+      "targetPath": "/resources/case-studies/tobin-center-perfoming-arts",
+      "id": "55b743cf2174b9d7673393d693f0e46f57dbf533"
+    },
+    {
+      "url": "https://www.swbcpeo.com/restaurant",
+      "source": "SITEMAPS",
+      "targetPath": "/restaurant",
+      "id": "df4f41894fb6b2f9ce3ee8908b998d209e6da8bd"
+    },
+    {
+      "url": "https://www.swbcpeo.com/retail",
+      "source": "SITEMAPS",
+      "targetPath": "/retail",
+      "id": "829db86d70daf53c09e1275614c7d145f3c7180d"
+    },
+    {
+      "url": "https://www.swbcpeo.com/services",
+      "source": "SITEMAPS",
+      "targetPath": "/services",
+      "id": "0bc31823cabbc50193cb11ab06e21efab7f4abb0"
+    },
+    {
+      "url": "https://www.swbcpeo.com/services/employee-benefit-administration",
+      "source": "SITEMAPS",
+      "targetPath": "/services/employee-benefit-administration",
+      "id": "d1b67acaa5b4f8e33aad1bae1950af761111c90d"
+    },
+    {
+      "url": "https://www.swbcpeo.com/services/human-resources",
+      "source": "SITEMAPS",
+      "targetPath": "/services/human-resources",
+      "id": "8cf1021f75edad8ba530ed7805b48060deb19b51"
+    },
+    {
+      "url": "https://www.swbcpeo.com/services/payroll",
+      "source": "SITEMAPS",
+      "targetPath": "/services/payroll",
+      "id": "946c1b22f2db938fb5c9229c7e22cd034d452659"
+    },
+    {
+      "url": "https://www.swbcpeo.com/services/risk-management-workers-compensation",
+      "source": "SITEMAPS",
+      "targetPath": "/services/risk-management-workers-compensation",
+      "id": "052a9f319d9706dfa9195b5f7fc9cd5a331b5360"
+    },
+    {
+      "url": "https://www.swbcpeo.com/services/talent-management",
+      "source": "SITEMAPS",
+      "targetPath": "/services/talent-management",
+      "id": "0f38ace59610d406d014de1b5ad8163f3327568e"
+    },
+    {
+      "url": "https://www.swbcpeo.com/services/technology-works-you",
+      "source": "SITEMAPS",
+      "targetPath": "/services/technology-works-you",
+      "id": "1a859415a4851b2006dd27f549047dd5e35d224e"
+    },
+    {
+      "url": "https://www.swbcpeo.com/technology",
+      "source": "SITEMAPS",
+      "targetPath": "/technology",
+      "id": "14e1474da8125601e12ca1061bd05c2bcb9d1cc6"
     }
   ],
   "crawlOptions": {
@@ -702,8 +744,632 @@
   },
   "extractionErrors": [
     {
-      "url": "https://www.swbc.com/sitemap.xml",
-      "status": "parseSitemapFromUrl (https://www.swbc.com/sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 404"
+      "url": "https://swbcpeo.com/",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/"
+    },
+    {
+      "url": "https://www.swbcpeo.com/home",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us/careers",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us/careers"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us/leadership",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us/leadership"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us/leadership/charlie-amato",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us/leadership/charlie-amato"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us/leadership/dee-dee-neil",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us/leadership/dee-dee-neil"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us/leadership/dee-dee-neil-0",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us/leadership/dee-dee-neil-0"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us/leadership/gary-dudley",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us/leadership/gary-dudley"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us/leadership/ilka-ramirez",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us/leadership/ilka-ramirez"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us/leadership/isaac-alarcon",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us/leadership/isaac-alarcon"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us/leadership/jayne-frasure",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us/leadership/jayne-frasure"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us/leadership/karen-mcgee",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us/leadership/karen-mcgee"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us/leadership/kate-walzel-thompson",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us/leadership/kate-walzel-thompson"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us/leadership/kim-pollok",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us/leadership/kim-pollok"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us/leadership/lauren-moore-jd",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us/leadership/lauren-moore-jd"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us/leadership/norman-l-paul-jr-jd",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us/leadership/norman-l-paul-jr-jd"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us/leadership/pam-williams",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us/leadership/pam-williams"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us/leadership/shannon-martin",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us/leadership/shannon-martin"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us/leadership/shirley-r-peterson-cpa",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us/leadership/shirley-r-peterson-cpa"
+    },
+    {
+      "url": "https://swbcpeo.com/about-us/partners",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/about-us/partners"
+    },
+    {
+      "url": "https://swbcpeo.com/construction",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/construction"
+    },
+    {
+      "url": "https://swbcpeo.com/contact-us",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/contact-us"
+    },
+    {
+      "url": "https://swbcpeo.com/education",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/education"
+    },
+    {
+      "url": "https://swbcpeo.com/financial-services",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/financial-services"
+    },
+    {
+      "url": "https://swbcpeo.com/home",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/home"
+    },
+    {
+      "url": "https://swbcpeo.com/hospitality",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/hospitality"
+    },
+    {
+      "url": "https://swbcpeo.com/industries",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/industries"
+    },
+    {
+      "url": "https://swbcpeo.com/manufacturing",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/manufacturing"
+    },
+    {
+      "url": "https://swbcpeo.com/marketing",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/marketing"
+    },
+    {
+      "url": "https://swbcpeo.com/medical",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/medical"
+    },
+    {
+      "url": "https://swbcpeo.com/nonprofit",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/nonprofit"
+    },
+    {
+      "url": "https://swbcpeo.com/partner-us",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/partner-us"
+    },
+    {
+      "url": "https://swbcpeo.com/property-management",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/property-management"
+    },
+    {
+      "url": "https://swbcpeo.com/resources",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/3-key-employment-laws-you-need-know",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/3-key-employment-laws-you-need-know"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/3-ways-peo-can-save-your-company",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/3-ways-peo-can-save-your-company"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/3-ways-workers-compensation-insurance-protects-your-business",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/3-ways-workers-compensation-insurance-protects-your-business"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/4-lawsuits-your-business-should-avoid-and-how-avoid-them",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/4-lawsuits-your-business-should-avoid-and-how-avoid-them"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/4-tips-supporting-employees-through-high-inflation",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/4-tips-supporting-employees-through-high-inflation"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/4-ways-peo-helps-keep-thousands-your-pocket",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/4-ways-peo-helps-keep-thousands-your-pocket"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/5-powerful-services-peo-can-provide-your-business",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/5-powerful-services-peo-can-provide-your-business"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/5-tips-boosting-employee-retention-during-tight-labor-market",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/5-tips-boosting-employee-retention-during-tight-labor-market"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/5-tips-improving-your-hiring-and-onboarding-process",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/5-tips-improving-your-hiring-and-onboarding-process"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/5-ways-control-your-business-overhead-costs",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/5-ways-control-your-business-overhead-costs"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/7-crucial-elements-employee-handbook",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/7-crucial-elements-employee-handbook"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/7-headaches-peo-can-help-your-small-business-solve",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/7-headaches-peo-can-help-your-small-business-solve"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/7-must-haves-your-employee-handbook",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/7-must-haves-your-employee-handbook"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/advantages-outsourcing-your-payroll-and-how-it-can-help-your-business",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/advantages-outsourcing-your-payroll-and-how-it-can-help-your-business"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/advantages-partnering-professional-employer-organization",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/advantages-partnering-professional-employer-organization"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/asking-right-questions-key-successful-exit-interview",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/asking-right-questions-key-successful-exit-interview"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/benefits-osha-compliance-small-businesses",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/benefits-osha-compliance-small-businesses"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/benefits-outsourcing-human-resources",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/benefits-outsourcing-human-resources"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/business-growth-101-get-out-weeds-and-start-adding-value",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/business-growth-101-get-out-weeds-and-start-adding-value"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/creating-engaged-culture-through-volunteerism",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/creating-engaged-culture-through-volunteerism"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/day-life-construction-ceo-carl-and-peo-difference",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/day-life-construction-ceo-carl-and-peo-difference"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/debunking-5-major-myths-about-co-employment",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/debunking-5-major-myths-about-co-employment"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/dols-new-overtime-rule-salaried-employees",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/dols-new-overtime-rule-salaried-employees"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/e-verify-program-why-your-company-should-participate",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/e-verify-program-why-your-company-should-participate"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/empowering-non-profits-how-peo-can-help-boost-your-impact",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/empowering-non-profits-how-peo-can-help-boost-your-impact"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/faqs-regarding-return-work-guidelines",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/faqs-regarding-return-work-guidelines"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/ffcra-what-it-means-small-businesses-and-their-employees",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/ffcra-what-it-means-small-businesses-and-their-employees"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/four-ways-peo-can-support-your-hr-staff",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/four-ways-peo-can-support-your-hr-staff"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/growing-your-business-heres-how-peo-can-help",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/growing-your-business-heres-how-peo-can-help"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/handy-guide-successful-employment-screening",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/handy-guide-successful-employment-screening"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/having-true-worklife-balance-unobtainable-myth-women",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/having-true-worklife-balance-unobtainable-myth-women"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/hiring-skilled-trades-todays-labor-market",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/hiring-skilled-trades-todays-labor-market"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/how-2-trillion-stimulus-package-will-impact-businesses",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/how-2-trillion-stimulus-package-will-impact-businesses"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/how-create-effective-disaster-recovery-plan-your-business",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/how-create-effective-disaster-recovery-plan-your-business"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/how-determine-if-peo-right-your-business",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/how-determine-if-peo-right-your-business"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/how-does-working-peo-help-manufacturing-leaders-ask-mary",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/how-does-working-peo-help-manufacturing-leaders-ask-mary"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/how-hiring-peo-can-lower-employee-turnover-rates",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/how-hiring-peo-can-lower-employee-turnover-rates"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/how-will-current-labor-shortage-impact-your-business-operations",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/how-will-current-labor-shortage-impact-your-business-operations"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/how-your-company-could-save-big-outsourcing-employment-management",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/how-your-company-could-save-big-outsourcing-employment-management"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/maintaining-osha-compliance-during-covid-19-handling-complaints",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/maintaining-osha-compliance-during-covid-19-handling-complaints"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/maintaining-osha-compliance-during-covid-19-reporting",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/maintaining-osha-compliance-during-covid-19-reporting"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/managing-costs-through-employee-attrition",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/managing-costs-through-employee-attrition"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/money-smart-week-3-ways-your-small-business-could-save-money",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/money-smart-week-3-ways-your-small-business-could-save-money"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/must-ask-questions-your-next-job-interviewee",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/must-ask-questions-your-next-job-interviewee"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/my-employee-has-jury-duty-what-do-i-do",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/my-employee-has-jury-duty-what-do-i-do"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/open-enrollment-season-ideal-time-partner-peo-0",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/open-enrollment-season-ideal-time-partner-peo-0"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/osha-turning-enforcement-heat-your-business-prepared",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/osha-turning-enforcement-heat-your-business-prepared"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/payroll-processing-101-why-direct-deposit-no-brainer",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/payroll-processing-101-why-direct-deposit-no-brainer"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/payroll-processing-6-cost-saving-tips",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/payroll-processing-6-cost-saving-tips"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/returning-work-vaccinated-world",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/returning-work-vaccinated-world"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/should-you-switch-peos",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/should-you-switch-peos"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/strategies-work-how-you-can-create-more-inclusive-workplace",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/strategies-work-how-you-can-create-more-inclusive-workplace"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/top-5-compliance-violations-businesses-and-how-avoid-them",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/top-5-compliance-violations-businesses-and-how-avoid-them"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/top-7-reasons-outsource-human-resources",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/top-7-reasons-outsource-human-resources"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/top-8-questions-you-should-ask-your-potential-payroll-provider",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/top-8-questions-you-should-ask-your-potential-payroll-provider"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/trending-hr-topics-pay-attention-2021",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/trending-hr-topics-pay-attention-2021"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/use-exit-interviews-gain-valuable-information-your-organization",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/use-exit-interviews-gain-valuable-information-your-organization"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/what-are-benefits-using-peo-small-businesses",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/what-are-benefits-using-peo-small-businesses"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/what-can-peo-do-business-owner-ask-dave",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/what-can-peo-do-business-owner-ask-dave"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/what-every-employer-needs-know-about-criminal-background-checks",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/what-every-employer-needs-know-about-criminal-background-checks"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/what-small-businesses-need-know-about-osha-compliance",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/what-small-businesses-need-know-about-osha-compliance"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/what-small-businesses-should-know-about-peos",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/what-small-businesses-should-know-about-peos"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/whats-roi-using-peo-new-research-suggests-over-27",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/whats-roi-using-peo-new-research-suggests-over-27"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/when-your-payroll-process-meets-natural-disaster",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/when-your-payroll-process-meets-natural-disaster"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/why-outsourcing-hr-makes-business-sense",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/why-outsourcing-hr-makes-business-sense"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/women-business-3-self-care-strategies-help-improve-your-career",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/women-business-3-self-care-strategies-help-improve-your-career"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/working-peo-right-your-business",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/working-peo-right-your-business"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/blog/your-business-compliant-most-recent-ada-standards",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/blog/your-business-compliant-most-recent-ada-standards"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/case-studies",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/case-studies"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/case-studies/beyer-plumbing-tightens-compliance-ever-changing-industry",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/case-studies/beyer-plumbing-tightens-compliance-ever-changing-industry"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/case-studies/childrens-bereavement-south-texas",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/case-studies/childrens-bereavement-south-texas"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/case-studies/coley-associates-inc",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/case-studies/coley-associates-inc"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/case-studies/hard-hats-soft-skills-beyer-mechanicals-hr-evolution-swbc-peo",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/case-studies/hard-hats-soft-skills-beyer-mechanicals-hr-evolution-swbc-peo"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/case-studies/helping-greater-san-antonio-chamber-turn-tragedy-triumph",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/case-studies/helping-greater-san-antonio-chamber-turn-tragedy-triumph"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/case-studies/hill-country-pain-associates",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/case-studies/hill-country-pain-associates"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/case-studies/mission-alamo-trust",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/case-studies/mission-alamo-trust"
+    },
+    {
+      "url": "https://swbcpeo.com/resources/case-studies/tobin-center-perfoming-arts",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/resources/case-studies/tobin-center-perfoming-arts"
+    },
+    {
+      "url": "https://swbcpeo.com/restaurant",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/restaurant"
+    },
+    {
+      "url": "https://swbcpeo.com/retail",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/retail"
+    },
+    {
+      "url": "https://swbcpeo.com/services",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services"
+    },
+    {
+      "url": "https://swbcpeo.com/services/employee-benefit-administration",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/employee-benefit-administration"
+    },
+    {
+      "url": "https://swbcpeo.com/services/employee-benefit-administration#panel-101",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/employee-benefit-administration"
+    },
+    {
+      "url": "https://swbcpeo.com/services/employee-benefit-administration#panel-102",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/employee-benefit-administration"
+    },
+    {
+      "url": "https://swbcpeo.com/services/employee-benefit-administration#panel-103",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/employee-benefit-administration"
+    },
+    {
+      "url": "https://swbcpeo.com/services/employee-benefit-administration#panel-104",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/employee-benefit-administration"
+    },
+    {
+      "url": "https://swbcpeo.com/services/employee-benefit-administration#panel-107",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/employee-benefit-administration"
+    },
+    {
+      "url": "https://swbcpeo.com/services/employee-benefit-administration#panel-108",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/employee-benefit-administration"
+    },
+    {
+      "url": "https://swbcpeo.com/services/human-resources",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/human-resources"
+    },
+    {
+      "url": "https://swbcpeo.com/services/human-resources#panel-110",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/human-resources"
+    },
+    {
+      "url": "https://swbcpeo.com/services/human-resources#panel-111",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/human-resources"
+    },
+    {
+      "url": "https://swbcpeo.com/services/human-resources#panel-112",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/human-resources"
+    },
+    {
+      "url": "https://swbcpeo.com/services/human-resources#panel-113",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/human-resources"
+    },
+    {
+      "url": "https://swbcpeo.com/services/human-resources#panel-114",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/human-resources"
+    },
+    {
+      "url": "https://swbcpeo.com/services/human-resources#panel-115",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/human-resources"
+    },
+    {
+      "url": "https://swbcpeo.com/services/payroll",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/payroll"
+    },
+    {
+      "url": "https://swbcpeo.com/services/payroll#panel-220",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/payroll"
+    },
+    {
+      "url": "https://swbcpeo.com/services/payroll#panel-221",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/payroll"
+    },
+    {
+      "url": "https://swbcpeo.com/services/payroll#panel-222",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/payroll"
+    },
+    {
+      "url": "https://swbcpeo.com/services/payroll#panel-223",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/payroll"
+    },
+    {
+      "url": "https://swbcpeo.com/services/payroll#panel-224",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/payroll"
+    },
+    {
+      "url": "https://swbcpeo.com/services/payroll#panel-225",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/payroll"
+    },
+    {
+      "url": "https://swbcpeo.com/services/risk-management-workers-compensation",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/risk-management-workers-compensation"
+    },
+    {
+      "url": "https://swbcpeo.com/services/risk-management-workers-compensation#panel-140",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/risk-management-workers-compensation"
+    },
+    {
+      "url": "https://swbcpeo.com/services/risk-management-workers-compensation#panel-141",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/risk-management-workers-compensation"
+    },
+    {
+      "url": "https://swbcpeo.com/services/risk-management-workers-compensation#panel-143",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/risk-management-workers-compensation"
+    },
+    {
+      "url": "https://swbcpeo.com/services/risk-management-workers-compensation#panel-142",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/risk-management-workers-compensation"
+    },
+    {
+      "url": "https://swbcpeo.com/services/talent-management",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/talent-management"
+    },
+    {
+      "url": "https://swbcpeo.com/services/talent-management#panel-235",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/talent-management"
+    },
+    {
+      "url": "https://swbcpeo.com/services/talent-management#panel-120",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/talent-management"
+    },
+    {
+      "url": "https://swbcpeo.com/services/talent-management#panel-121",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/talent-management"
+    },
+    {
+      "url": "https://swbcpeo.com/services/talent-management#panel-122",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/talent-management"
+    },
+    {
+      "url": "https://swbcpeo.com/services/technology-works-you",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/technology-works-you"
+    },
+    {
+      "url": "https://swbcpeo.com/services/technology-works-you#panel-176",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/technology-works-you"
+    },
+    {
+      "url": "https://swbcpeo.com/services/technology-works-you#panel-189",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/technology-works-you"
+    },
+    {
+      "url": "https://swbcpeo.com/services/technology-works-you#panel-190",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/technology-works-you"
+    },
+    {
+      "url": "https://swbcpeo.com/services/technology-works-you#panel-196",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/technology-works-you"
+    },
+    {
+      "url": "https://swbcpeo.com/services/technology-works-you#panel-201",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/technology-works-you"
+    },
+    {
+      "url": "https://swbcpeo.com/services/technology-works-you#panel-205",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/technology-works-you"
+    },
+    {
+      "url": "https://swbcpeo.com/services/technology-works-you#panel-211",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/technology-works-you"
+    },
+    {
+      "url": "https://swbcpeo.com/services/technology-works-you#panel-218",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/services/technology-works-you"
+    },
+    {
+      "url": "https://swbcpeo.com/technology",
+      "status": "301 Moved Permanently Redirect: https://www.swbcpeo.com/technology"
     }
   ]
 }
