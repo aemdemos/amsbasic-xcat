@@ -1,839 +1,709 @@
 {
-  "originUrl": "https://arcteryx.com",
+  "originUrl": "https://www.swbc.com",
+  "lastCrawled": "https://www.swbc.com/",
   "urls": [
     {
-      "url": "https://arcteryx.com/at/de/c/accessories/hats-and-caps",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/accessories/hats-and-caps",
-      "id": "741119d3e2fa6492e35dfff774ee0b886354308e"
+      "url": "https://www.swbc.com/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "80e4ab4e4ea975cc4f7f586ba0555fe22198641f"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/accessories/socks",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/accessories/socks",
-      "id": "67f05da93e8a13cc238551eb3d6f0e6a2adcd780"
+      "url": "https://www.swbc.com/404-error-page",
+      "source": "SITEMAPS",
+      "targetPath": "/404-error-page",
+      "id": "bf037c0b541a641e1e57c764711d2ba7b78e45a7"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/climb/alpine",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/climb/alpine",
-      "id": "f0f2b225acb481ee4c69863a04e399159813b578"
+      "url": "https://www.swbc.com/about-swbc/in-the-community",
+      "source": "SITEMAPS",
+      "targetPath": "/about-swbc/in-the-community",
+      "id": "c7dde2518b05b009365fd713067795db15fa3f63"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/climb/boulder",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/climb/boulder",
-      "id": "cd2abc0819ec80672f3564062ba38fd543cebf6e"
+      "url": "https://www.swbc.com/about-swbc/press",
+      "source": "SITEMAPS",
+      "targetPath": "/about-swbc/press",
+      "id": "42dfbf8d6ed21d6b6e8a6715ca196a6dcdc43ea5"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/climb/rock",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/climb/rock",
-      "id": "081ac4a2eb48978515a241e93cfacbf2bb8a0319"
+      "url": "https://www.swbc.com/account-retention-services",
+      "source": "SITEMAPS",
+      "targetPath": "/account-retention-services",
+      "id": "639165b7a7805eafd3fe60f36eaf72f6e3809745"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/climbing-gear/chalk-bags",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/climbing-gear/chalk-bags",
-      "id": "93e32901a4c246c70e5a2180ac14adabd07d0157"
+      "url": "https://www.swbc.com/antique-auto-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/antique-auto-insurance",
+      "id": "0cebcc17f00b3d17f8ec37786e29da17b2c89b82"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/climbing-gear/harnesses",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/climbing-gear/harnesses",
-      "id": "46849d0c99b5bdf7719ae6a4a93d102efa9d0247"
+      "url": "https://www.swbc.com/asset-recovery",
+      "source": "SITEMAPS",
+      "targetPath": "/asset-recovery",
+      "id": "4a0966982197a2dabc76c46066588b2fd6c1a7f8"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/fleece/sub-cat=hardfleece",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/fleece/sub-cat-hardfleece",
-      "id": "f1d2c45d59b04fa5c59a607db47640ecce39beb5"
+      "url": "https://www.swbc.com/auto-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/auto-insurance",
+      "id": "1e293f9b283d5b87c268ef262d164557e2fab2d0"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/footwear/boots",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/footwear/boots",
-      "id": "68ca5294bb64e683647b197de7518edc0a5bd5ea"
+      "url": "https://www.swbc.com/auto-lending",
+      "source": "SITEMAPS",
+      "targetPath": "/auto-lending",
+      "id": "70e5d660a9516c47d88976bf08c3ba8f86790083"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/footwear/shoes",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/footwear/shoes",
-      "id": "673d0603e39f0db5a889b1c581294c3f5a8869c4"
+      "url": "https://www.swbc.com/autopilot-risk-management-platform",
+      "source": "SITEMAPS",
+      "targetPath": "/autopilot-risk-management-platform",
+      "id": "72ad0ba4523d9a0ecfdcf1bc34982162cff30b2b"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/footwear/sub-cat=liners",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/footwear/sub-cat-liners",
-      "id": "e75585799b532dda6be87b1bf81d41c3d1867d49"
+      "url": "https://www.swbc.com/benefits-funding",
+      "source": "SITEMAPS",
+      "targetPath": "/benefits-funding",
+      "id": "dc6228bf000c97e53bfd8f0fc51602efe4ff7a6f"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/insulated-jackets/sub-cat=downfill",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/insulated-jackets/sub-cat-downfill",
-      "id": "8afbfb1cfa3fb40c6f699fd717d92662bb37d6e3"
+      "url": "https://www.swbc.com/benefits-funding-for-banks",
+      "source": "SITEMAPS",
+      "targetPath": "/benefits-funding-for-banks",
+      "id": "32d96a5c1d328bd4147c23566f1b30252d01e45e"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/insulated-jackets/sub-cat=gore-tex--waterproof-",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/insulated-jackets/sub-cat-gore-tex-waterproof",
-      "id": "e54763e095a9817b2741a56eb3cca47c3f6948bc"
+      "url": "https://www.swbc.com/benefits-pre-funding-for-credit-unions",
+      "source": "SITEMAPS",
+      "targetPath": "/benefits-pre-funding-for-credit-unions",
+      "id": "4a08962b40491601c29f3436bb442e82b70cc31f"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/insulated-jackets/sub-cat=synthetic-fill",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/insulated-jackets/sub-cat-synthetic-fill",
-      "id": "198e52dee74a02e0d090d07f73136f94038930da"
+      "url": "https://www.swbc.com/boat-personal-watercraft-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/boat-personal-watercraft-insurance",
+      "id": "9dd7eb65152a3b43ddd2aec6d4fb3d0904ec0710"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/mid-layer/sub-cat=down-fill",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/mid-layer/sub-cat-down-fill",
-      "id": "d1208e30be615c1c96052d9d0e58f789611d7a2f"
+      "url": "https://www.swbc.com/builders-risk-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/builders-risk-insurance",
+      "id": "7a63b98cbfbf946b3f04d15cbfbd3521a06ec4d7"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/p/gifts-under-100",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/p/gifts-under-100",
-      "id": "038d90cfc70c19421b3fc124b76d48591223cde4"
+      "url": "https://www.swbc.com/careers",
+      "source": "SITEMAPS",
+      "targetPath": "/careers",
+      "id": "167ce5e44fce65612743c39dd8dafbf1816c2580"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/p/gifts-under-200",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/p/gifts-under-200",
-      "id": "c815c6243268c4561563d0675bfc9ac1894a0d7d"
+      "url": "https://www.swbc.com/collateral-protection-insurance-programs",
+      "source": "SITEMAPS",
+      "targetPath": "/collateral-protection-insurance-programs",
+      "id": "f25f989383fc18731052cb13c9c53163a9d3dcd4"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/p/gifts-under-50",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/p/gifts-under-50",
-      "id": "821521697e1217c83f70111481487d0cfed6c86c"
+      "url": "https://www.swbc.com/collections-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/collections-insurance",
+      "id": "6ef3edfddaa923b5a6418060d0225b4a5cc3ab7a"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/shell-jackets/sub-cat=goretexwaterproof",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/shell-jackets/sub-cat-goretexwaterproof",
-      "id": "26a3b76e5fe1a1f3174988208c6b1b94b879498c"
+      "url": "https://www.swbc.com/college-planning",
+      "source": "SITEMAPS",
+      "targetPath": "/college-planning",
+      "id": "f11cb87641400b023387eb850c3ca54f229b10e5"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/shell-jackets/sub-cat=softshell",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/shell-jackets/sub-cat-softshell",
-      "id": "c0e9c124cb11dfcd7bef13dddb45d5289ab5cb96"
+      "url": "https://www.swbc.com/commercial-auto-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/commercial-auto-insurance",
+      "id": "bc9d0caffa54fff31024cae981f6c474f0314576"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/shell-jackets/sub-cat=windshell",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/shell-jackets/sub-cat-windshell",
-      "id": "47352cad0a989d27aa83212ec16865e53a136c07"
+      "url": "https://www.swbc.com/commercial-flood-excess-flood-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/commercial-flood-excess-flood-insurance",
+      "id": "909a829758cb31e0dc0dca2d4c08c9159f6a11fa"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/shirts-and-tops/sub-cat=athletic",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/shirts-and-tops/sub-cat-athletic",
-      "id": "6c1abcc450f45e91a88bcde473562b80ab4755dc"
+      "url": "https://www.swbc.com/commercial-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/commercial-insurance",
+      "id": "dc2b651f5c56bd2549004fd294034aa484e1dc16"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/shirts-and-tops/sub-cat=casual",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/shirts-and-tops/sub-cat-casual",
-      "id": "65e50c13e671b4856605624b60532effe69b4a91"
+      "url": "https://www.swbc.com/commercial-property-tax-services",
+      "source": "SITEMAPS",
+      "targetPath": "/commercial-property-tax-services",
+      "id": "1069cc5c07f23b70422c884901d7fcbe243ea511"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/shirts-and-tops/sub-cat=collared",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/shirts-and-tops/sub-cat-collared",
-      "id": "3286f3f05b9cb4e010fbc9b8dddb1bb9bef62e72"
+      "url": "https://www.swbc.com/commercial-umbrella-liability-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/commercial-umbrella-liability-insurance",
+      "id": "b7138bfd9cb2dc0938d6d032cada98ceaa52421f"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/shirts-and-tops/sub-cat=fair-trade-certified",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/shirts-and-tops/sub-cat-fair-trade-certified",
-      "id": "e61e78001e5859a768c310131ec005b82cb01eac"
+      "url": "https://www.swbc.com/contact-center-solutions",
+      "source": "SITEMAPS",
+      "targetPath": "/contact-center-solutions",
+      "id": "5c0563f93e590694d05d8571a979131d6c488513"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/shorts/sub-cat=athletic",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/shorts/sub-cat-athletic",
-      "id": "33b4f0461c447780b10570ceaf32d920a79ca2a5"
+      "url": "https://www.swbc.com/corporate-retirement-plan-development",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-retirement-plan-development",
+      "id": "c09f92d3aa59cc07670445af24a5e099483e2af5"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/ski-snowboard/freeride",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/ski-snowboard/freeride",
-      "id": "e49f2b017e9889d3f6c0f02331a83a828ee2cb5c"
+      "url": "https://www.swbc.com/corporate-retirement-plans",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-retirement-plans",
+      "id": "a9eb72beb15ef202870398d908980cf29bf40490"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/ski-snowboard/resort",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/ski-snowboard/resort",
-      "id": "e5b8d8857ca9b3c863ca8d5fdeeb37cc82fdd504"
+      "url": "https://www.swbc.com/credit-life-and-disability",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-life-and-disability",
+      "id": "6dd9c71163821ce505ffdec2935f91100e0317c6"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/ski-snowboard/touring",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/ski-snowboard/touring",
-      "id": "7ee9660379c06f2b600ba4d0a4d7c2d9f2a9be5c"
+      "url": "https://www.swbc.com/cyber-liability-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/cyber-liability-insurance",
+      "id": "2f27f7f01a900b3150dcb935630553d8b8537dc8"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/trail/everyday",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/trail/everyday",
-      "id": "94730da1d55e90ee2585b50766918971142d1a70"
+      "url": "https://www.swbc.com/debt-cancellation",
+      "source": "SITEMAPS",
+      "targetPath": "/debt-cancellation",
+      "id": "c287a88976f71db08974ad2bd95990b391017a3b"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/trail/hike",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/trail/hike",
-      "id": "7b04aff512a4e128167fb4e023e5439167ee64be"
+      "url": "https://www.swbc.com/deferred-compensation-plans",
+      "source": "SITEMAPS",
+      "targetPath": "/deferred-compensation-plans",
+      "id": "5ea59095cd597e938b2a5f71b50d7852ae8d7dd6"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/mens/trail/mountain-run",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/mens/trail/mountain-run",
-      "id": "fc2bfeedc1679074100a6a0e7adbcd7e3e49567c"
+      "url": "https://www.swbc.com/employee-benefits",
+      "source": "SITEMAPS",
+      "targetPath": "/employee-benefits",
+      "id": "672d3d96ab10c406a8f0f72cc4438463c9dfa4ce"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/base-layer/sub-cat=cold-weather",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/base-layer/sub-cat-cold-weather",
-      "id": "7204b3b008bcee37c1ad348ddbf2ae378a262489"
+      "url": "https://www.swbc.com/employee-benefits-consulting-group",
+      "source": "SITEMAPS",
+      "targetPath": "/employee-benefits-consulting-group",
+      "id": "08f993139e92cfbad2cfd8b584427b855d72bd52"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/climb/alpine",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/climb/alpine",
-      "id": "c036e3b61ee8eda3fcbd48474a1d1d03edd0b331"
+      "url": "https://www.swbc.com/employee-health-benefits-and-wellness",
+      "source": "SITEMAPS",
+      "targetPath": "/employee-health-benefits-and-wellness",
+      "id": "8ef233bdf52a4d0a8caaa5234c18f4df4d56e28d"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/climb/boulder",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/climb/boulder",
-      "id": "5c6089a8a95e81f96f0d80cee23da68342a4ed13"
+      "url": "https://www.swbc.com/estate-planning",
+      "source": "SITEMAPS",
+      "targetPath": "/estate-planning",
+      "id": "7aceb1527004326fc93eba76840b9506ea986322"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/climb/rock",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/climb/rock",
-      "id": "2e3a4594c658f04459af2c37409d6404fe4569c9"
+      "url": "https://www.swbc.com/event-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/event-insurance",
+      "id": "c99e1c14ce65bc5a46c8431aba44ba7c25e7a181"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/climbing-gear/chalk-bags",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/climbing-gear/chalk-bags",
-      "id": "75c7214ce6d4d31c414d5e1344c26cade06c1c2a"
+      "url": "https://www.swbc.com/excess-flood-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/excess-flood-insurance",
+      "id": "21e98fb2977e20240d1eb1fd781cbd023cab510e"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/climbing-gear/harnesses",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/climbing-gear/harnesses",
-      "id": "5db7b358d6508fd60257a77e6c075d529a87a75d"
+      "url": "https://www.swbc.com/executive-benefits",
+      "source": "SITEMAPS",
+      "targetPath": "/executive-benefits",
+      "id": "d991ff7699378ea59acc398cdf86b3eb19b3e287"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/dresses-and-skirts/sub-cat=dresses",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/dresses-and-skirts/sub-cat-dresses",
-      "id": "e46087f4c4239ba89f8264a3735a2672edfea60c"
+      "url": "https://www.swbc.com/executive-life-and-disability",
+      "source": "SITEMAPS",
+      "targetPath": "/executive-life-and-disability",
+      "id": "831427c0dc548b3eba491afd549364504dea9691"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/dresses-and-skirts/sub-cat=skorts",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/dresses-and-skirts/sub-cat-skorts",
-      "id": "07a14026379f2bae39fc4e2f45b603a46d41d5a8"
+      "url": "https://www.swbc.com/fig/payment-processing/financial-center-first-credit-union",
+      "source": "SITEMAPS",
+      "targetPath": "/fig/payment-processing/financial-center-first-credit-union",
+      "id": "bd30255e7049201edd096fe3142b4679500f23a3"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/fleece/sub-cat=hardfleece",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/fleece/sub-cat-hardfleece",
-      "id": "384b327723de975c155c29093c100bd65c704fa3"
+      "url": "https://www.swbc.com/final-expense-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/final-expense-insurance",
+      "id": "edf46a88bb442c13314901b1bf7219002632312b"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/footwear/boots",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/footwear/boots",
-      "id": "fb2f0b6aede438bd92f83be3ea73eb237ee50d26"
+      "url": "https://www.swbc.com/financial-institution-group",
+      "source": "SITEMAPS",
+      "targetPath": "/financial-institution-group",
+      "id": "a047898778800d5d5f3f8bc0bfc84a5f7fa8f170"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/footwear/shoes",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/footwear/shoes",
-      "id": "484c75f21668395a5bdd3bd2d4dbf3f328721525"
+      "url": "https://www.swbc.com/fine-art-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/fine-art-insurance",
+      "id": "e6940e13f5522da2c1d5787c03ef8080533d7ade"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/footwear/sub-cat=liners",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/footwear/sub-cat-liners",
-      "id": "7fc03b29be5d7611ef6fb5640d942687006e179a"
+      "url": "https://www.swbc.com/fixed-income-trading",
+      "source": "SITEMAPS",
+      "targetPath": "/fixed-income-trading",
+      "id": "3b846e78e4d14faa8d52536b56e3b0a27768b316"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/insulated-jackets/sub-cat=downfill",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/insulated-jackets/sub-cat-downfill",
-      "id": "1c08604225b74d9e5aba40a30a57d4174a72e1be"
+      "url": "https://www.swbc.com/flood-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/flood-insurance",
+      "id": "4075275fd696cf5f5d398e6b0be815d7c23c0b20"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/insulated-jackets/sub-cat=goretexwaterproof",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/insulated-jackets/sub-cat-goretexwaterproof",
-      "id": "3d32df0740c15141ca870c214c3cc6934ecae4e8"
+      "url": "https://www.swbc.com/flood-products",
+      "source": "SITEMAPS",
+      "targetPath": "/flood-products",
+      "id": "4b0cfd82d0d66fabb61b9c747c38569cb757b0cb"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/insulated-jackets/sub-cat=syntheticfill",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/insulated-jackets/sub-cat-syntheticfill",
-      "id": "500f2aa466a099e1f8fddbddd520169da6a3d17c"
+      "url": "https://www.swbc.com/gap",
+      "source": "SITEMAPS",
+      "targetPath": "/gap",
+      "id": "5b56455cb6f4e4a02a2afc72e9a92058f759b240"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/mid-layer/sub-cat=casual",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/mid-layer/sub-cat-casual",
-      "id": "0bcb13c2aee7c6bb77bf9873a6b55fef1b054cb5"
+      "url": "https://www.swbc.com/general-liability-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/general-liability-insurance",
+      "id": "7f9010f923802b038245cd284a74337fb49e27d7"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/mid-layer/sub-cat=down-fill",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/mid-layer/sub-cat-down-fill",
-      "id": "174c3cb34807d33b64e01ddb1a8d07119503d91f"
+      "url": "https://www.swbc.com/healthcar-vehicle-protection",
+      "source": "SITEMAPS",
+      "targetPath": "/healthcar-vehicle-protection",
+      "id": "7c2e3ffca8aaef9ecd39e1e87fbe31b6a65aa5b7"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/mid-layer/sub-cat=synthetic-fill",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/mid-layer/sub-cat-synthetic-fill",
-      "id": "102f841acbaed9c27ba1a5bc57ec381ab058b3fa"
+      "url": "https://www.swbc.com/homeowners-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/homeowners-insurance",
+      "id": "2b04b83e9b69abde2acd5fb4aae6edeaca186bbb"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/p/gifts-under-100",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/p/gifts-under-100",
-      "id": "7f757513a12b627ca6124982218c81078608d91b"
+      "url": "https://www.swbc.com/institutional-practice",
+      "source": "SITEMAPS",
+      "targetPath": "/institutional-practice",
+      "id": "d15159ffee94877aac69936ea34084dec0c17769"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/p/gifts-under-200",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/p/gifts-under-200",
-      "id": "c734e9bd735c75a4b6e9d283eecc822c410edbb9"
+      "url": "https://www.swbc.com/instructions-for-submitting-a-verifiable-request-to-know-correct-or-delete-personal-information",
+      "source": "SITEMAPS",
+      "targetPath": "/instructions-for-submitting-a-verifiable-request-to-know-correct-or-delete-personal-information",
+      "id": "cdac8fb07edeb7b572f75afcda0bbbeb2b79d911"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/p/gifts-under-50",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/p/gifts-under-50",
-      "id": "978bf7ecf9716cb0daefac923cc2543940b1f043"
+      "url": "https://www.swbc.com/insurance-services",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance-services",
+      "id": "9a80fc7a414be633fae83e3b967f09be80612c8e"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/shell-jackets/sub-cat=goretexwaterproof",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/shell-jackets/sub-cat-goretexwaterproof",
-      "id": "6756e9a33ff2391baceb6a40ba7c2b1812980b9f"
+      "url": "https://www.swbc.com/insurance-tracking-and-placement",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance-tracking-and-placement",
+      "id": "99f5ffdb035f21855df762e2baffb3c934009636"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/shell-jackets/sub-cat=softshell",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/shell-jackets/sub-cat-softshell",
-      "id": "29f9cf215f6f2e4b2c6b024140004a5076e07040"
+      "url": "https://www.swbc.com/investment-disclosure",
+      "source": "SITEMAPS",
+      "targetPath": "/investment-disclosure",
+      "id": "4065d017797092555d2e45693c1fa3db08d0916b"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/shell-jackets/sub-cat=windshell",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/shell-jackets/sub-cat-windshell",
-      "id": "15dbf883a7de0857e2942db3dab2958b9425eb2e"
+      "url": "https://www.swbc.com/investment-portfolio-management",
+      "source": "SITEMAPS",
+      "targetPath": "/investment-portfolio-management",
+      "id": "c1e93c3cdc079dff8df08190c80261f1d040143e"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/shorts/sub-cat=athletic",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/shorts/sub-cat-athletic",
-      "id": "9a6b487fb69a19cccf99e1139434302a14bd218a"
+      "url": "https://www.swbc.com/investment-portfolio-review",
+      "source": "SITEMAPS",
+      "targetPath": "/investment-portfolio-review",
+      "id": "4cadb83a1e89cb577bd59824fe4c179776e9cbb5"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/shorts/sub-cat=skorts",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/shorts/sub-cat-skorts",
-      "id": "468da1d6e5fe6f567637f5e78323821e924cce0f"
+      "url": "https://www.swbc.com/investment-services",
+      "source": "SITEMAPS",
+      "targetPath": "/investment-services",
+      "id": "2ea76db569b2fc8a7876345c794fc9012909cef6"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/ski-snowboard/freeride",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/ski-snowboard/freeride",
-      "id": "7bd0415547be5ec0a70ef71e927e308bd3b46ace"
+      "url": "https://www.swbc.com/jewelry-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/jewelry-insurance",
+      "id": "13a14789b5d1c0043cce7ca2d3f9d6900dce5991"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/ski-snowboard/resort",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/ski-snowboard/resort",
-      "id": "e2a032500d8f2d4ebf78589a8cc9673a5989c0dc"
+      "url": "https://www.swbc.com/key-person-life-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/key-person-life-insurance",
+      "id": "b09152027134d6754a7d697ac978c8339cf3da27"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/ski-snowboard/touring",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/ski-snowboard/touring",
-      "id": "7df860f043497279d562672f615068ff5eac94ec"
+      "url": "https://www.swbc.com/landlord-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/landlord-insurance",
+      "id": "d985d79510e79c6bad19fbbc90c54c51afcf0e5b"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/trail/everyday",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/trail/everyday",
-      "id": "1889f53d69a3e15d4c198e71665da08fe09bd84c"
+      "url": "https://www.swbc.com/lender-placed-insurance-programs",
+      "source": "SITEMAPS",
+      "targetPath": "/lender-placed-insurance-programs",
+      "id": "7640fee672b7925d19afbfbb6dc0d5d11eff1044"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/trail/hike",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/trail/hike",
-      "id": "2da3839516fcd11494e95b65755dc4c445febbf2"
+      "url": "https://www.swbc.com/liability-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/liability-insurance",
+      "id": "d2e8bcf4887214603ed76914e794d530c09f31d2"
     },
     {
-      "url": "https://arcteryx.com/at/de/c/womens/trail/mountain-run",
-      "source": "MANUAL",
-      "targetPath": "/at/de/c/womens/trail/mountain-run",
-      "id": "0945d1677ae8d03bef6df1c4643891a3bf9b4d0d"
+      "url": "https://www.swbc.com/licenses-disclosures",
+      "source": "SITEMAPS",
+      "targetPath": "/licenses-disclosures",
+      "id": "170a64cd1df26ddd5437013e086586ebe90246bd"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/accessories/hats-and-caps",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/accessories/hats-and-caps",
-      "id": "6e49898c8c487f062979d5dbd22fb71a2e65e534"
+      "url": "https://www.swbc.com/life-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/life-insurance",
+      "id": "4c92ca2acaf1c7acee4514719aa1e691510e808f"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/accessories/socks",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/accessories/socks",
-      "id": "66e7f785d90906534f59dff87a50c2de8b382080"
+      "url": "https://www.swbc.com/life-insurance-company",
+      "source": "SITEMAPS",
+      "targetPath": "/life-insurance-company",
+      "id": "fe9d2bffc0092d9a4bf278801c35cf6e0a0a345b"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/climb/alpine",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/climb/alpine",
-      "id": "188f3fc7e2f98d8057b0989a4202b1cd0b69c892"
+      "url": "https://www.swbc.com/mmp",
+      "source": "SITEMAPS",
+      "targetPath": "/mmp",
+      "id": "2378d294e991d4988f7a962d170d5b5b554c9a9d"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/climb/boulder",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/climb/boulder",
-      "id": "ce44cda9214f826712f7056797d6c2024504db9d"
+      "url": "https://www.swbc.com/motorcycle-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/motorcycle-insurance",
+      "id": "a5688d53eae2f4df47f26f1736a18702b6771b43"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/climb/rock",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/climb/rock",
-      "id": "01d0dfc2ebc17e017216394f1154d39fdac80038"
+      "url": "https://www.swbc.com/nmls-consumer-access",
+      "source": "SITEMAPS",
+      "targetPath": "/nmls-consumer-access",
+      "id": "714b2c4c8c21f23fa0ef05ed17c7ae9980c8f5bc"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/climbing-gear/chalk-bags",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/climbing-gear/chalk-bags",
-      "id": "e0c120571c353550fa780ced428dad0b8ee7aca0"
+      "url": "https://www.swbc.com/outsourced-collections",
+      "source": "SITEMAPS",
+      "targetPath": "/outsourced-collections",
+      "id": "05c90828ba290e98828a048b514e4c68b433fb37"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/climbing-gear/harnesses",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/climbing-gear/harnesses",
-      "id": "6d72be050a3405a53228530ff7634844136d87cc"
+      "url": "https://www.swbc.com/payment-protection",
+      "source": "SITEMAPS",
+      "targetPath": "/payment-protection",
+      "id": "0fda672ee022d3e69619bddb26e444ccd70b8685"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/fleece/sub-cat=hardfleece",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/fleece/sub-cat-hardfleece",
-      "id": "2a99997c2473a46360b35669d0d95b5264cad988"
+      "url": "https://www.swbc.com/payment-solutions",
+      "source": "SITEMAPS",
+      "targetPath": "/payment-solutions",
+      "id": "c03c61738051c7e770854306707961a9f7009407"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/footwear/boots",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/footwear/boots",
-      "id": "813e08ab36f3a499b9443aa4a2e7d3f785f044a6"
+      "url": "https://www.swbc.com/pet-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance",
+      "id": "6b2ba44ede9a444560a1459e02fca6fd8ef87f7b"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/footwear/shoes",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/footwear/shoes",
-      "id": "c8e7f8739eee7573cb0576c74627de273ee60c5e"
+      "url": "https://www.swbc.com/portfolio-management-services",
+      "source": "SITEMAPS",
+      "targetPath": "/portfolio-management-services",
+      "id": "143bcaf10ac9bd16cd793ac7d8c70f3ce1fa76a8"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/footwear/sub-cat=liners",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/footwear/sub-cat-liners",
-      "id": "77431049321c5f11ca5178b057d0fc9fcb3aa2b1"
+      "url": "https://www.swbc.com/primary-flood-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/primary-flood-insurance",
+      "id": "3ecfc3cc30581a360754ab04ae4cca76bf048855"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/insulated-jackets/sub-cat=downfill",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/insulated-jackets/sub-cat-downfill",
-      "id": "2dc0ff7843213f1e9fa5608e4861d9d178a849cc"
+      "url": "https://www.swbc.com/products-services/business/commercial-insurance/special-event-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/products-services/business/commercial-insurance/special-event-insurance",
+      "id": "67035d5f3f18298c5fb6784ef6c9ac555ea602cd"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/insulated-jackets/sub-cat=gore-tex--waterproof-",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/insulated-jackets/sub-cat-gore-tex-waterproof",
-      "id": "7b88eab322f2ff455b5e59a1df8b428dda58a7c3"
+      "url": "https://www.swbc.com/products-services/individual/insurance/life-insurance/permanent-life-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/products-services/individual/insurance/life-insurance/permanent-life-insurance",
+      "id": "9ae60e04ab2072ac0df6aa9af49bca6691a85c5d"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/insulated-jackets/sub-cat=synthetic-fill",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/insulated-jackets/sub-cat-synthetic-fill",
-      "id": "60dad3a5e16525b4ffb1ed4109b74b9f0db2ce4e"
+      "url": "https://www.swbc.com/products-services/insurance/individuals/life-insurance/permanent-life-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/products-services/insurance/individuals/life-insurance/permanent-life-insurance",
+      "id": "a8fb2abd4b87114e9370ad69c01b8a1f50384653"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/mid-layer/sub-cat=down-fill",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/mid-layer/sub-cat-down-fill",
-      "id": "d4a72b0ae8810793fec6b357b8c7f5e4c7e7c19d"
+      "url": "https://www.swbc.com/professional-liability-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/professional-liability-insurance",
+      "id": "93fe62e1443f1069e086f5d653f4ed0ee7e08fa8"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/p/gifts-under-100",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/p/gifts-under-100",
-      "id": "913e277647bc0a6c1ed6b504418862d6612b3e2c"
+      "url": "https://www.swbc.com/property-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/property-insurance",
+      "id": "ef36f9a2482e576aa172b6e6e04dd2f99f5a43b7"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/p/gifts-under-200",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/p/gifts-under-200",
-      "id": "b0378e7f9b50c735abbcb6966a39271c05a71b0f"
+      "url": "https://www.swbc.com/real-estate",
+      "source": "SITEMAPS",
+      "targetPath": "/real-estate",
+      "id": "6667516f9dafb96ce487e09b3b5239f67c945e2d"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/p/gifts-under-50",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/p/gifts-under-50",
-      "id": "22400dbae1e89a85fc5756b1338c5e94cb0f6ac0"
+      "url": "https://www.swbc.com/real-estate-investor-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/real-estate-investor-insurance",
+      "id": "eb427ef89fb3285e7ca5f477e5b4db5b01f36c02"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/shell-jackets/sub-cat=goretexwaterproof",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/shell-jackets/sub-cat-goretexwaterproof",
-      "id": "ddd1c9ee90fb2e3b83be8b7934f2ff5a6e02dc86"
+      "url": "https://www.swbc.com/renters-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/renters-insurance",
+      "id": "78715fd2652d4c43b9cb3e476eecfe057bd7f584"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/shell-jackets/sub-cat=softshell",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/shell-jackets/sub-cat-softshell",
-      "id": "621853f56b700b53d924ab487dedc87e55311bde"
+      "url": "https://www.swbc.com/reo-asset-protection-programs",
+      "source": "SITEMAPS",
+      "targetPath": "/reo-asset-protection-programs",
+      "id": "af43e0bc823f268fe2158c6430297a35d92eb97d"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/shell-jackets/sub-cat=windshell",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/shell-jackets/sub-cat-windshell",
-      "id": "0f29541536bce942ff48bee17b9d03fe8c8aa643"
+      "url": "https://www.swbc.com/residential-flood-insurance-excess-flood-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/residential-flood-insurance-excess-flood-insurance",
+      "id": "005418c1b0ed66e4554b1448cb5a19225a162133"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/shirts-and-tops/sub-cat=athletic",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/shirts-and-tops/sub-cat-athletic",
-      "id": "87cab29818189ae34631cf6ff01d2436f3c11c9b"
+      "url": "https://www.swbc.com/resources",
+      "source": "SITEMAPS",
+      "targetPath": "/resources",
+      "id": "edf457420d2b2b3e5532c1a84301a34ed7cd3e63"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/shirts-and-tops/sub-cat=casual",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/shirts-and-tops/sub-cat-casual",
-      "id": "abf93251f2dd18087f4b254f647b238aa6208fd4"
+      "url": "https://www.swbc.com/retail-checking-strategies",
+      "source": "SITEMAPS",
+      "targetPath": "/retail-checking-strategies",
+      "id": "f889e3b532e4f82e3de8186786e66d86760d91ea"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/shirts-and-tops/sub-cat=collared",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/shirts-and-tops/sub-cat-collared",
-      "id": "98e72c9c64db0aa1b0dfc11d3fd068dfdbc5a810"
+      "url": "https://www.swbc.com/retail-investment-services",
+      "source": "SITEMAPS",
+      "targetPath": "/retail-investment-services",
+      "id": "03e010f2bb4d84564411a5a9528fffc4dfdbc1a4"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/shirts-and-tops/sub-cat=fair-trade-certified",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/shirts-and-tops/sub-cat-fair-trade-certified",
-      "id": "29423ac1d8a11156a03d75d75e32562eb83a4ef1"
+      "url": "https://www.swbc.com/retirement-plan-services",
+      "source": "SITEMAPS",
+      "targetPath": "/retirement-plan-services",
+      "id": "f464620d7b4fbbcea21b0ba5bd6a1a06b8ef8c56"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/shorts/sub-cat=athletic",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/shorts/sub-cat-athletic",
-      "id": "e1caea7ba3a14e71f21d189a71b5c0c78351e07b"
+      "url": "https://www.swbc.com/retirement-plan-sponsor-services",
+      "source": "SITEMAPS",
+      "targetPath": "/retirement-plan-sponsor-services",
+      "id": "0f5c07da8f323be8da1a9e691bc59b8c5d5d0d41"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/ski-snowboard/freeride",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/ski-snowboard/freeride",
-      "id": "7db05002138166abcb6121e1e29e7fd5a58255ec"
+      "url": "https://www.swbc.com/retirement-planning",
+      "source": "SITEMAPS",
+      "targetPath": "/retirement-planning",
+      "id": "c74ac0312dc126fe2066b2ce242d8465729f6bbd"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/ski-snowboard/resort",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/ski-snowboard/resort",
-      "id": "f2293c3f6a5b027e40c4eb5c20149d37465bd90d"
+      "url": "https://www.swbc.com/rv-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/rv-insurance",
+      "id": "7b6fbcd4441b33ccc2a284a56abd66fdaec639fe"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/ski-snowboard/touring",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/ski-snowboard/touring",
-      "id": "dc772408edee830b6b0ebd38168939190b4f2c6e"
+      "url": "https://www.swbc.com/search",
+      "source": "SITEMAPS",
+      "targetPath": "/search",
+      "id": "b8fdf5762701fa47013712b68fd61b6319797b7b"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/trail/everyday",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/trail/everyday",
-      "id": "2c5cf2907c7eeaf988acb6685548c69b9e3f222b"
+      "url": "https://www.swbc.com/serp",
+      "source": "SITEMAPS",
+      "targetPath": "/serp",
+      "id": "714bf3aa42f85bfc603b2ce8bd4d49f907b90b1b"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/trail/hike",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/trail/hike",
-      "id": "9df8c4b0a093cb8d7f73321c33157a153394aa89"
+      "url": "https://www.swbc.com/split-dollar-life-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/split-dollar-life-insurance",
+      "id": "589c2add2141e4a940f682ad2dc143625401d5bf"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/mens/trail/mountain-run",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/mens/trail/mountain-run",
-      "id": "6271bd67d8bdb69f48e8c0955cc4b4b3863a1027"
+      "url": "https://www.swbc.com/success-stories/fig/collections/california-credit-union",
+      "source": "SITEMAPS",
+      "targetPath": "/success-stories/fig/collections/california-credit-union",
+      "id": "fed0a1e56ccb12653a24c0b2e7005b7e1d6229ea"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/womens/base-layer/sub-cat=cold-weather",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/base-layer/sub-cat-cold-weather",
-      "id": "6de38f5e34c3510d2efc964039c6300856c97f99"
+      "url": "https://www.swbc.com/success-stories/fig/collections/fairwinds-credit-union",
+      "source": "SITEMAPS",
+      "targetPath": "/success-stories/fig/collections/fairwinds-credit-union",
+      "id": "34dddf2df4eea652a1b6919324aca210fb52bac8"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/womens/climb/alpine",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/climb/alpine",
-      "id": "482596f9fde7d3012cb314466fb0802a00d9d0f8"
+      "url": "https://www.swbc.com/success-stories/fig/collections/partners-financial-credit-union",
+      "source": "SITEMAPS",
+      "targetPath": "/success-stories/fig/collections/partners-financial-credit-union",
+      "id": "5f2b7cd2de86309ba0ae0f81c4fe2030dc74c05c"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/womens/climb/boulder",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/climb/boulder",
-      "id": "6f1aa8dfaaa29d6e3670a47c62ceae9e69e10c89"
+      "url": "https://www.swbc.com/success-stories/fig/gap/heritage-federal-credit-union",
+      "source": "SITEMAPS",
+      "targetPath": "/success-stories/fig/gap/heritage-federal-credit-union",
+      "id": "edd5cec1fae4076bc2ac4dd2d586f5192d184fa9"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/womens/climb/rock",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/climb/rock",
-      "id": "4b23b8cf3a42fa812eda3cdd27128a5e2ecdf7f1"
+      "url": "https://www.swbc.com/success-stories/fig/mmp/loco-credit-union",
+      "source": "SITEMAPS",
+      "targetPath": "/success-stories/fig/mmp/loco-credit-union",
+      "id": "5ce827d9a673c95c26f40ec1aaee0125f5436f4e"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/womens/climbing-gear/chalk-bags",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/climbing-gear/chalk-bags",
-      "id": "67a06a933f11c29371b49655ddb56e80a03a2ba5"
+      "url": "https://www.swbc.com/success-stories/fig/payment/usalliance-financial",
+      "source": "SITEMAPS",
+      "targetPath": "/success-stories/fig/payment/usalliance-financial",
+      "id": "eea60f8bf520f2990c51f20abd9f67943022cf12"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/womens/climbing-gear/harnesses",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/climbing-gear/harnesses",
-      "id": "7b0cae093f617b3033a2d42a03e710824f5d6214"
+      "url": "https://www.swbc.com/success-stories/fig/total-solution/financial-center-first-credit-union",
+      "source": "SITEMAPS",
+      "targetPath": "/success-stories/fig/total-solution/financial-center-first-credit-union",
+      "id": "d72f84e546067cad36c1f77c2c6d4e534df7e627"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/womens/dresses-and-skirts/sub-cat=dresses",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/dresses-and-skirts/sub-cat-dresses",
-      "id": "835644f19afcb631dbc17ad7094d056c5dca154d"
+      "url": "https://www.swbc.com/success-stories/insurance-services/reyes-automotive",
+      "source": "SITEMAPS",
+      "targetPath": "/success-stories/insurance-services/reyes-automotive",
+      "id": "e1969e9cbb7d502a9427176dfcba175de8586f18"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/womens/dresses-and-skirts/sub-cat=skorts",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/dresses-and-skirts/sub-cat-skorts",
-      "id": "77851363a58029c4946472e9594e9b28cce52204"
+      "url": "https://www.swbc.com/swbc-mexico",
+      "source": "SITEMAPS",
+      "targetPath": "/swbc-mexico",
+      "id": "ae456c3ab565a63bc5d186d7ad34a9672ea83ed6"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/womens/fleece/sub-cat=hardfleece",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/fleece/sub-cat-hardfleece",
-      "id": "34eb9a740bd2d3bc7cb353031adbe9ef896b3f37"
+      "url": "https://www.swbc.com/swivel",
+      "source": "SITEMAPS",
+      "targetPath": "/swivel",
+      "id": "31ca2d63ab567d0041564d49cf9069510973dc7b"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/womens/footwear/boots",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/footwear/boots",
-      "id": "ebb49113b8782b18ec3a59b8fedc2b37ba62086c"
+      "url": "https://www.swbc.com/term-life-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/term-life-insurance",
+      "id": "02a169b7a4988c4b00b427fdbb7fc3da5cf638a4"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/womens/footwear/shoes",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/footwear/shoes",
-      "id": "f5b66c28183dd6f9a6fd8e344812be6ceb0efdd9"
+      "url": "https://www.swbc.com/umbrella-liability-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/umbrella-liability-insurance",
+      "id": "4fae043bb471630db5d210d349a94af5662ce264"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/womens/footwear/sub-cat=liners",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/footwear/sub-cat-liners",
-      "id": "bc9257de1ea938d14baf61896c8456c8adc89f71"
+      "url": "https://www.swbc.com/vehicle-and-loan-protection",
+      "source": "SITEMAPS",
+      "targetPath": "/vehicle-and-loan-protection",
+      "id": "0f28e64a3e3da838d63a0b4a725628aea3327dbd"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/womens/insulated-jackets/sub-cat=downfill",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/insulated-jackets/sub-cat-downfill",
-      "id": "f19a9633c837c472c8435a426ce6e748e732542f"
+      "url": "https://www.swbc.com/vehicle-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/vehicle-insurance",
+      "id": "ba264fffef9f546e5e95b2e2a7d8db898ca57e6f"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/womens/insulated-jackets/sub-cat=goretexwaterproof",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/insulated-jackets/sub-cat-goretexwaterproof",
-      "id": "e9dc7fa631af58c70ae7d19145e616f70b22e588"
+      "url": "https://www.swbc.com/vehicle-return-protection",
+      "source": "SITEMAPS",
+      "targetPath": "/vehicle-return-protection",
+      "id": "25182612e5bcf505f7e57326d5fc420b07b24898"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/womens/insulated-jackets/sub-cat=syntheticfill",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/insulated-jackets/sub-cat-syntheticfill",
-      "id": "95185eef08de3ae3500b0c8d749db7301a879010"
+      "url": "https://www.swbc.com/voluntary-employee-benefits",
+      "source": "SITEMAPS",
+      "targetPath": "/voluntary-employee-benefits",
+      "id": "6a2384ba126ffde25af619dfa3f6b0f1f3cdd98d"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/womens/mid-layer/sub-cat=casual",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/mid-layer/sub-cat-casual",
-      "id": "f5bef193d99fde94d3f65f2405a7ddb385a2016c"
+      "url": "https://www.swbc.com/voluntary-protection-products",
+      "source": "SITEMAPS",
+      "targetPath": "/voluntary-protection-products",
+      "id": "2abefe8c571a295047c7e4a023d51012e285c779"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/womens/mid-layer/sub-cat=down-fill",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/mid-layer/sub-cat-down-fill",
-      "id": "0821b887ce6ba5eb471aac8503dfd6dc7bfbec6f"
+      "url": "https://www.swbc.com/wealth-management",
+      "source": "SITEMAPS",
+      "targetPath": "/wealth-management",
+      "id": "cccbebba59c09525c49a265c7aafc8fb6dfb2fcb"
     },
     {
-      "url": "https://arcteryx.com/at/en/c/womens/mid-layer/sub-cat=synthetic-fill",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/mid-layer/sub-cat-synthetic-fill",
-      "id": "c190da6c7ae69c0bcd9ddea7b559a2c9cb2abb36"
-    },
-    {
-      "url": "https://arcteryx.com/at/en/c/womens/p/gifts-under-100",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/p/gifts-under-100",
-      "id": "e352c4e04c692f61d8948b5d19bc25c4ee498bfc"
-    },
-    {
-      "url": "https://arcteryx.com/at/en/c/womens/p/gifts-under-200",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/p/gifts-under-200",
-      "id": "1fea0f8be9e4ca8dd4cb955188d19aa8d8761789"
-    },
-    {
-      "url": "https://arcteryx.com/at/en/c/womens/p/gifts-under-50",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/p/gifts-under-50",
-      "id": "50a579fa6fe0f475bb57ae24ad40bf539d0a91d6"
-    },
-    {
-      "url": "https://arcteryx.com/at/en/c/womens/shell-jackets/sub-cat=goretexwaterproof",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/shell-jackets/sub-cat-goretexwaterproof",
-      "id": "9569f9e96b8b655d283637bca0d7c7e7d4618a4e"
-    },
-    {
-      "url": "https://arcteryx.com/at/en/c/womens/shell-jackets/sub-cat=softshell",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/shell-jackets/sub-cat-softshell",
-      "id": "dcece02223e1cf09e5ff310fa6b24efa439499d7"
-    },
-    {
-      "url": "https://arcteryx.com/at/en/c/womens/shell-jackets/sub-cat=windshell",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/shell-jackets/sub-cat-windshell",
-      "id": "b55e75a51d7accae0c34fbaefcba28f7f8b66695"
-    },
-    {
-      "url": "https://arcteryx.com/at/en/c/womens/shorts/sub-cat=athletic",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/shorts/sub-cat-athletic",
-      "id": "51f2a805628ca0fedc3ee1291d4f7e25e48c7cae"
-    },
-    {
-      "url": "https://arcteryx.com/at/en/c/womens/shorts/sub-cat=skorts",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/shorts/sub-cat-skorts",
-      "id": "d6919237a6f72eaf16c84192e0299bee414a1405"
-    },
-    {
-      "url": "https://arcteryx.com/at/en/c/womens/ski-snowboard/freeride",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/ski-snowboard/freeride",
-      "id": "99d2af9c32a185d7e2c809ed1e5e28e27fb56dcd"
-    },
-    {
-      "url": "https://arcteryx.com/at/en/c/womens/ski-snowboard/resort",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/ski-snowboard/resort",
-      "id": "4a33ded1e3f74f9a6545724c44425f4146907bc0"
-    },
-    {
-      "url": "https://arcteryx.com/at/en/c/womens/ski-snowboard/touring",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/ski-snowboard/touring",
-      "id": "90f037e2de0e1ce14646bc03dfbc5cbb0b5ab528"
-    },
-    {
-      "url": "https://arcteryx.com/at/en/c/womens/trail/everyday",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/trail/everyday",
-      "id": "18c0c74052f9496015ff2703d51e679acc845cab"
-    },
-    {
-      "url": "https://arcteryx.com/at/en/c/womens/trail/hike",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/trail/hike",
-      "id": "8160243402b7b1ceecd7b342cc7272e8cc93d478"
-    },
-    {
-      "url": "https://arcteryx.com/at/en/c/womens/trail/mountain-run",
-      "source": "MANUAL",
-      "targetPath": "/at/en/c/womens/trail/mountain-run",
-      "id": "d2b85d124a553415f575d093556cb8dc35a3aee7"
-    },
-    {
-      "url": "https://arcteryx.com/ca/es/shop/womens/aestas-short-5-5",
-      "source": "MANUAL",
-      "targetPath": "/ca/es/shop/womens/aestas-short-5-5",
-      "id": "62c1ddde40a9c60050c9ff60e6f7a4a9dfa7ee8f"
-    },
-    {
-      "url": "https://arcteryx.com/ch/de/c/womens/accessories/gloves",
-      "source": "MANUAL",
-      "targetPath": "/ch/de/c/womens/accessories/gloves",
-      "id": "cfe6efec10d253a02ce0403a9bcb8e33bc26f3ca"
-    },
-    {
-      "url": "https://arcteryx.com/cz/de/c/womens/pants/sub-cat=athletic",
-      "source": "MANUAL",
-      "targetPath": "/cz/de/c/womens/pants/sub-cat-athletic",
-      "id": "8c7ddf8cb2ebe59847e13b04e80016741ef6b948"
-    },
-    {
-      "url": "https://arcteryx.com/es/en/shop/womens/aestas-pullover-hoody-9492",
-      "source": "MANUAL",
-      "targetPath": "/es/en/shop/womens/aestas-pullover-hoody-9492",
-      "id": "131e9757da46a9bd960a6706a62ff8d479bf8f6a"
-    },
-    {
-      "url": "https://arcteryx.com/fi/en/shop/mens/alpha-jacket",
-      "source": "MANUAL",
-      "targetPath": "/fi/en/shop/mens/alpha-jacket",
-      "id": "2f5a0c0a35faf08609d2add7d2d1b6e5e8da6182"
-    },
-    {
-      "url": "https://arcteryx.com/fi/zh/c/alpine-and-rock-climbing",
-      "source": "MANUAL",
-      "targetPath": "/fi/zh/c/alpine-and-rock-climbing",
-      "id": "18424a8879cb7d75c08a23f9cbc567d135b871f7"
-    },
-    {
-      "url": "https://arcteryx.com/fr/de/c/womens/packs/avalanche-airbags",
-      "source": "MANUAL",
-      "targetPath": "/fr/de/c/womens/packs/avalanche-airbags",
-      "id": "1dfb166d1e3dd8305c4ec3bb5176fea95ad5200a"
-    },
-    {
-      "url": "https://arcteryx.com/it/zh/shop/acrux-lt-gtx-boot",
-      "source": "MANUAL",
-      "targetPath": "/it/zh/shop/acrux-lt-gtx-boot",
-      "id": "e620975e2aa55c0b2dfdf5c3ca714abd7e797f11"
-    },
-    {
-      "url": "https://arcteryx.com/us/en/c/mens/accessories",
-      "source": "MANUAL",
-      "targetPath": "/us/en/c/mens/accessories",
-      "id": "417c0759edea127f8cfb8e5010cbde6cdf23525f"
-    },
-    {
-      "url": "https://arcteryx.com/us/no/shop/aerios-18-backpack-9581",
-      "source": "MANUAL",
-      "targetPath": "/us/no/shop/aerios-18-backpack-9581",
-      "id": "7738005af9c633423825c9b6200ba1605ab5b95c"
+      "url": "https://www.swbc.com/workers-compensation-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/workers-compensation-insurance",
+      "id": "99486e9097d91ccbb59dec9e9b55dbbb293309d0"
     }
   ],
   "crawlOptions": {
-    "strategy": "manual",
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
     "strategiesAttempted": [
-      "MANUAL"
+      "SITEMAPS"
     ]
-  }
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.swbc.com/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.swbc.com/sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 404"
+    }
+  ]
 }
