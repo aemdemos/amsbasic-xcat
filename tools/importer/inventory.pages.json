@@ -1,1882 +1,558 @@
 {
   "templates": [
     {
-      "name": "'Modern Multipurpose Website Template'",
+      "name": "'Dashboard Page'",
       "cluster": 1,
       "pages": [
         {
-          "url": "https://www.sling.com/sports",
-          "uuid": "70f32474a678e0997f9cb1928c01d05a68f50bae"
+          "url": "https://www.swbcpeo.com/resources/blog/business-growth-101-get-out-weeds-and-start-adding-value",
+          "uuid": "f9611e439bc3783990912f90ecf53faf06f500ff"
         },
         {
-          "url": "https://www.sling.com/programming",
-          "uuid": "f9453bb59dd2300d5ff634d82306eb1853d99b51"
+          "url": "https://www.swbcpeo.com/resources/blog/debunking-5-major-myths-about-co-employment",
+          "uuid": "4c491191a75c78f438c3262094b529d25ecc68e8"
         },
         {
-          "url": "https://www.sling.com/channels",
-          "uuid": "df7088b20397b2ff78e80d8b935ab382f40c97df"
+          "url": "https://www.swbcpeo.com/resources/blog/5-tips-boosting-employee-retention-during-tight-labor-market",
+          "uuid": "4d6dd29531fb07db7295abca3aac4398fce8f0c2"
         },
         {
-          "url": "https://www.sling.com/help/en/troubleshooting/general-troubleshooting",
-          "uuid": "e9f96062db4428192c396d31cad69e4c4fc079eb"
+          "url": "https://www.swbcpeo.com/resources/blog/what-are-benefits-using-peo-small-businesses",
+          "uuid": "3cad70cf75d2177a4f8e42207d159805802e48f5"
         },
         {
-          "url": "https://www.sling.com/freestream/international",
-          "uuid": "ae9c705b61bafc77694c1315e3dbb53958e15458"
+          "url": "https://www.swbcpeo.com/resources/blog/payroll-processing-6-cost-saving-tips",
+          "uuid": "e0b419bee2ab19924b0de8c86991d026b9c6891a"
         },
         {
-          "url": "https://www.sling.com/international/desi-tv",
-          "uuid": "fe93c219c1fb68bd6de8696f612d737411af8e02"
+          "url": "https://www.swbcpeo.com/resources/blog/maintaining-osha-compliance-during-covid-19-handling-complaints",
+          "uuid": "32183dfcfcfaed17b00ca03e16070cddd6e4b3d4"
         },
         {
-          "url": "https://www.sling.com/freestream/international/arabic",
-          "uuid": "823e460f6d260b4c2fa9971b49026f866e89a65a"
+          "url": "https://www.swbcpeo.com/resources/blog/how-will-current-labor-shortage-impact-your-business-operations",
+          "uuid": "ed677cfd8fe3ac2f05e7bbe8873168fca5e0b517"
         },
         {
-          "url": "https://www.sling.com/freestream/international/desi",
-          "uuid": "167e251167074fd3baf6b74793a185f0ecdd6b1d"
+          "url": "https://www.swbcpeo.com/resources/blog/having-true-worklife-balance-unobtainable-myth-women",
+          "uuid": "5e929679a57d1f60c4aaefd81516d6ba09d3bb14"
         },
         {
-          "url": "https://www.sling.com/freestream",
-          "uuid": "47888c6e33734b185b1b6eef1677859448966df4"
+          "url": "https://www.swbcpeo.com/resources/blog/advantages-partnering-professional-employer-organization",
+          "uuid": "873b471bb9d001fbc29de6ed97d3f86f389f2de0"
         },
         {
-          "url": "https://www.sling.com/latino-es/freestream",
-          "uuid": "505e262aa2f291b1fae77fc4f90d047a825e7413"
+          "url": "https://www.swbcpeo.com/resources/blog/asking-right-questions-key-successful-exit-interview",
+          "uuid": "15dc1df4efa817f4f47eced45a820b18d31d6cb6"
         },
         {
-          "url": "https://www.sling.com/international/desi-tv/hindi/sonyliv",
-          "uuid": "6984e25664cca4e1c80ba7764dfb94b70d0df112"
+          "url": "https://www.swbcpeo.com/resources/blog/handy-guide-successful-employment-screening",
+          "uuid": "7612ca0cc798e207e6b810657d2420befe69cb5a"
         },
         {
-          "url": "https://www.sling.com/service/premium-streaming",
-          "uuid": "63f3eaba1990909c076281f322a0336c16d7e24e"
+          "url": "https://www.swbcpeo.com/resources/blog/growing-your-business-heres-how-peo-can-help",
+          "uuid": "e3791aecf11e6b5edd8924c297e05f7c3bfc4053"
         },
         {
-          "url": "https://www.sling.com/latino/supported-devices",
-          "uuid": "5919eb513699615944c7d537228bad25929ca21a"
+          "url": "https://www.swbcpeo.com/resources/blog/faqs-regarding-return-work-guidelines",
+          "uuid": "10758bb0820bdbd7aaa41ba0f76474d43c8def50"
         },
         {
-          "url": "https://www.sling.com/international/supported-devices",
-          "uuid": "977d3d59e8e8729c4bedfd1831979c05efa79f0d"
+          "url": "https://www.swbcpeo.com/resources/blog/empowering-non-profits-how-peo-can-help-boost-your-impact",
+          "uuid": "9ac81e7cb2f545b8d1854e1e6f40be10ae225788"
         },
         {
-          "url": "https://www.sling.com/latino-es/supported-devices",
-          "uuid": "77ce6ac5d8f399811f0925b0f61f029d041b8617"
+          "url": "https://www.swbcpeo.com/resources/blog/four-ways-peo-can-support-your-hr-staff",
+          "uuid": "4b566563ec4353a14d0c110c1f365297233c68c0"
         },
         {
-          "url": "https://www.sling.com/international/brazilian-sports-pt",
-          "uuid": "3fb89155757381a8632e2115c81a14ce2a3fe2e1"
+          "url": "https://www.swbcpeo.com/resources/blog/ffcra-what-it-means-small-businesses-and-their-employees",
+          "uuid": "ac5f29d6c9e35814d74b2011702bf336fddce558"
         },
         {
-          "url": "https://www.sling.com/international/desi-tv/dakshin",
-          "uuid": "2be36962682e3cd74c919be2b0a183883e40fd4b"
+          "url": "https://www.swbcpeo.com/resources/blog/day-life-construction-ceo-carl-and-peo-difference",
+          "uuid": "e184e5f15372f15fa6c2595ff52ac521d658fd63"
         },
         {
-          "url": "https://www.sling.com/international/pm/disney-star",
-          "uuid": "96ac2360f1eaa54d1917303181149920181bde7d"
+          "url": "https://www.swbcpeo.com/resources/blog/creating-engaged-culture-through-volunteerism",
+          "uuid": "3b6111c137133a18e05022c1f77e3723ef54f3c8"
         },
         {
-          "url": "https://www.sling.com/international/eu/french",
-          "uuid": "1bc2c5fd3e7889fc369fd3a814af9181749863b5"
+          "url": "https://www.swbcpeo.com/resources/blog/benefits-outsourcing-human-resources",
+          "uuid": "cd957c127e71e76088ea6aaf7ecf240013ff70ca"
         },
         {
-          "url": "https://www.sling.com/international/brazilian",
-          "uuid": "492a42e9b7536fad6ce95967669b19074af9c4a1"
+          "url": "https://www.swbcpeo.com/resources/blog/benefits-osha-compliance-small-businesses",
+          "uuid": "e1594acb7f11eb5863df5fc6afe8ecec539a6cd8"
         },
         {
-          "url": "https://www.sling.com/international/eu/greek",
-          "uuid": "1b9e5847b6bf52113005e9dcdc78451e3f610f63"
+          "url": "https://www.swbcpeo.com/resources/blog/e-verify-program-why-your-company-should-participate",
+          "uuid": "7e144fd122ce73854e83be217870b6f5e5379cb5"
         },
         {
-          "url": "https://www.sling.com/international/eu/polish",
-          "uuid": "8b4ac0fe85e9c19c8c9406e6e962e156d11999e5"
+          "url": "https://www.swbcpeo.com/resources/blog/dols-new-overtime-rule-salaried-employees",
+          "uuid": "ebeb058f3c598bd0a6ab8e1e6926aec93d9f6d98"
         },
         {
-          "url": "https://www.sling.com/international/brazilian-pt",
-          "uuid": "a00797d30bac0cb32298c22e4c060106f2246909"
+          "url": "https://www.swbcpeo.com/resources/blog/5-powerful-services-peo-can-provide-your-business",
+          "uuid": "2b52a106e9b32c4cb3076ff7a0fd078c1325d6b4"
         },
         {
-          "url": "https://www.sling.com/international/eu/polish-pl",
-          "uuid": "2b3d402fd200b202f243ae1d7f9f9a4a72fac886"
+          "url": "https://www.swbcpeo.com/resources/blog/advantages-outsourcing-your-payroll-and-how-it-can-help-your-business",
+          "uuid": "b6304bfec19302076aaf83a8592d6e6ddd6de8e6"
         },
         {
-          "url": "https://www.sling.com/international/eu/italian",
-          "uuid": "3ff98add83fc8fcf040f51be512cf110190eda71"
+          "url": "https://www.swbcpeo.com/resources/blog/7-must-haves-your-employee-handbook",
+          "uuid": "c1846fb19424734238d7ce134c9ab9ff29cc065b"
         },
         {
-          "url": "https://www.sling.com/latino/supported-devices/xfinity",
-          "uuid": "906659c5a1efcc5a181bc62d1ff1e17ad8bbd346"
+          "url": "https://www.swbcpeo.com/resources/blog/5-ways-control-your-business-overhead-costs",
+          "uuid": "6e622aab07a978116bce2ce821d43ab4479fa817"
         },
         {
-          "url": "https://www.sling.com/latino/programming/copa-libertadores",
-          "uuid": "a5cc3cfe309faa0148fd57fe235d3701dc45c636"
+          "url": "https://www.swbcpeo.com/resources/blog/5-tips-improving-your-hiring-and-onboarding-process",
+          "uuid": "e18f0d20cbeeae2a62e0154ff3ae0dd7dc1d9cf4"
         },
         {
-          "url": "https://www.sling.com/features",
-          "uuid": "2f4f2ea41f29183a37afef3adc1bdefc7b850c14"
+          "url": "https://www.swbcpeo.com/resources/blog/7-headaches-peo-can-help-your-small-business-solve",
+          "uuid": "4a16df0658d3e7e9514482c2c75bbec92eec9502"
         },
         {
-          "url": "https://www.sling.com/latino/programming/formula1",
-          "uuid": "d8b8244e6727016ebf7c9e460cec482eaa1b4c4a"
+          "url": "https://www.swbcpeo.com/resources/blog/7-crucial-elements-employee-handbook",
+          "uuid": "1dc6503bffa1f65aafad0e9d984c4d5894be01a9"
         },
         {
-          "url": "https://www.sling.com/programming/bet",
-          "uuid": "dabc7255a22ee0994d38f77adff70b3bb9db2001"
+          "url": "https://www.swbcpeo.com/resources/blog/3-ways-workers-compensation-insurance-protects-your-business",
+          "uuid": "bd4ce03bbddc5a87ec91980fe56a741563f76dfb"
         },
         {
-          "url": "https://www.sling.com/latino-es/programming/formula1",
-          "uuid": "a72c169f9e0bbb84fe016a83b637c997aab156ab"
+          "url": "https://www.swbcpeo.com/resources/blog/4-lawsuits-your-business-should-avoid-and-how-avoid-them",
+          "uuid": "a75339364bb2bad68389e8cdb65df42dd1761600"
         },
         {
-          "url": "https://www.sling.com/latino-es/programming/copa-libertadores",
-          "uuid": "c1041acbc1e3b28f94516b92e74ff59cffd3c4f9"
+          "url": "https://www.swbcpeo.com/resources/blog/4-ways-peo-helps-keep-thousands-your-pocket",
+          "uuid": "9020a2bc82d2254baf236dc9b1954847e9718dc1"
         },
         {
-          "url": "https://www.sling.com/latino-es/programming/ligapremier",
-          "uuid": "5165dd9143c8bf4c84877b8fb8833a593f95cc4c"
+          "url": "https://www.swbcpeo.com/resources/blog/4-tips-supporting-employees-through-high-inflation",
+          "uuid": "f1a2c10344aea037289dc73c46187b9bb60eb791"
         },
         {
-          "url": "https://www.sling.com/latino-es/supported-devices/roku",
-          "uuid": "fcffdcd1683f624e4c092667108bb01188879f69"
+          "url": "https://www.swbcpeo.com/resources/blog/3-key-employment-laws-you-need-know",
+          "uuid": "97e2af4d494be1ea27524061c8087292e650d2e9"
         },
         {
-          "url": "https://www.sling.com/international/arabic",
-          "uuid": "3850c8e1c9d2b099f502f860f98c4f220385fb9e"
+          "url": "https://www.swbcpeo.com/resources/blog/3-ways-peo-can-save-your-company",
+          "uuid": "99d2abc439ab1520e606f4cb976d55a0b3fb7ce1"
         },
         {
-          "url": "https://www.sling.com/latino-es/supported-devices/samsung",
-          "uuid": "14fd3c2f67059591950535d841e2f3a8d7edc97e"
+          "url": "https://www.swbcpeo.com/resources/blog/when-your-payroll-process-meets-natural-disaster",
+          "uuid": "9c37c4fc5a04e249f623c23dd753a4d89a03a465"
         },
         {
-          "url": "https://www.sling.com/latino-es/service/centroamerica",
-          "uuid": "d68441bd608c12bf21403d396fe92a3410c30aaf"
+          "url": "https://www.swbcpeo.com/resources/blog/whats-roi-using-peo-new-research-suggests-over-27",
+          "uuid": "60ead1a4d701a3b4e1b310dfd1400212b02c3baa"
         },
         {
-          "url": "https://www.sling.com/sports/sec-acc",
-          "uuid": "8ede361e6bc4f622996b9cbb151535d9721c631c"
+          "url": "https://www.swbcpeo.com/resources/blog/what-small-businesses-should-know-about-peos",
+          "uuid": "51d321a3f909c5cb0b7cb7ae08cda36fb0982a86"
         },
         {
-          "url": "https://www.sling.com/latino-es",
-          "uuid": "d61d8afb019b4e4a6d6a6ed336647614829fd1bb"
+          "url": "https://www.swbcpeo.com/resources/blog/what-small-businesses-need-know-about-osha-compliance",
+          "uuid": "917cbdfdd1b8eb1d35f542dd5b33ae33e800c72c"
         },
         {
-          "url": "https://www.sling.com/service/sling-orange-and-blue",
-          "uuid": "5b4607e132bb110653120c97839337e64cc3f738"
+          "url": "https://www.swbcpeo.com/resources/blog/what-every-employer-needs-know-about-criminal-background-checks",
+          "uuid": "35e7c0f2ed5b097320a127e5b15dc885cab2a1f7"
         },
         {
-          "url": "https://www.sling.com/latino-es/about/cord-cutting-guide",
-          "uuid": "726f34961255e34a934dd5bd9065a4fdb20e24ab"
+          "url": "https://www.swbcpeo.com/resources/blog/what-can-peo-do-business-owner-ask-dave",
+          "uuid": "7508c8b1e53d4d14e59be7978bb67798c0afc445"
         },
         {
-          "url": "https://www.sling.com/latino-es/supported-devices/xfinity",
-          "uuid": "51cce8f8ce3321f07008f6e469330a7d09f24f14"
+          "url": "https://www.swbcpeo.com/resources/blog/use-exit-interviews-gain-valuable-information-your-organization",
+          "uuid": "4a514f9690359eeca7d047da81e24ef1e6a62265"
         },
         {
-          "url": "https://www.sling.com/latino-es/service/espana",
-          "uuid": "dbdd737d9c38308fa48191161847081b0f690b19"
+          "url": "https://www.swbcpeo.com/resources/blog/trending-hr-topics-pay-attention-2021",
+          "uuid": "673ab228d33daf48901e986b1d0104cfa9ad1cdd"
         },
         {
-          "url": "https://www.sling.com/latino-es/supported-devices/cox",
-          "uuid": "90d65cc6704f6c97de24f21a52bbe4c32a94dc66"
+          "url": "https://www.swbcpeo.com/resources/blog/top-8-questions-you-should-ask-your-potential-payroll-provider",
+          "uuid": "12f4811e11eb6927bfd8b79ea582ed97858d878d"
         },
         {
-          "url": "https://www.sling.com/international/desi-tv/cricket",
-          "uuid": "5788cbd642beae02a3a49b6a35271191e969851a"
+          "url": "https://www.swbcpeo.com/resources/blog/top-7-reasons-outsource-human-resources",
+          "uuid": "73d51741169b419f31d2208514cc06a0ab939a23"
         },
         {
-          "url": "https://www.sling.com/service/sling-blue",
-          "uuid": "50a504799b209faacb2b6922903c499fecd28991"
+          "url": "https://www.swbcpeo.com/resources/blog/top-5-compliance-violations-businesses-and-how-avoid-them",
+          "uuid": "5b9e29c15ee53bea6606f062554334bfb9ef47e4"
         },
         {
-          "url": "https://www.sling.com/sports/college-football",
-          "uuid": "64be0d035120e1d851f1552a9496693049a86c2b"
+          "url": "https://www.swbcpeo.com/resources/blog/strategies-work-how-you-can-create-more-inclusive-workplace",
+          "uuid": "2ba03bbee0269735115f3eacd99a6d7f702ac084"
         },
         {
-          "url": "https://www.sling.com/sports/soccer",
-          "uuid": "ce9d05ca5cbcfe27c89a8b1073de4617692ae4fb"
+          "url": "https://www.swbcpeo.com/resources/blog/should-you-switch-peos",
+          "uuid": "0452dc24f21d0aebf32d048f1084b4b3b1542d69"
         },
         {
-          "url": "https://www.sling.com/service/sling-orange",
-          "uuid": "5aa4e6e651cd0bfeb3e8382c9857d413808d48e3"
+          "url": "https://www.swbcpeo.com/resources/blog/returning-work-vaccinated-world",
+          "uuid": "2e05fd3389a89326bdda40a31327170d3a86ab1e"
         },
         {
-          "url": "https://www.sling.com/programming/hbomax",
-          "uuid": "c5ad2369f81387de8ffae851c68f503be549af92"
+          "url": "https://www.swbcpeo.com/resources/blog/payroll-processing-101-why-direct-deposit-no-brainer",
+          "uuid": "642ccbb6f14600d3305748e92b1810149984a007"
         },
         {
-          "url": "https://www.sling.com/international/desi-tv/hindi",
-          "uuid": "0562ee2d6f852e7fd95aefd8ac415f079ca84fb1"
+          "url": "https://www.swbcpeo.com/resources/blog/osha-turning-enforcement-heat-your-business-prepared",
+          "uuid": "d6eb5dedb1a1de6c846bec6803ab26dae7d0fb80"
         },
         {
-          "url": "https://www.sling.com/latino-es/service",
-          "uuid": "4f4ac566ffc3ed407bd2ab3f3d7ede763cd481cb"
+          "url": "https://www.swbcpeo.com/resources/blog/open-enrollment-season-ideal-time-partner-peo-0",
+          "uuid": "d5fd1d7dffb130827ba126989b0db4f30b1b7918"
         },
         {
-          "url": "https://www.sling.com/sports/mlb",
-          "uuid": "e8764acebcc64174e32f45a08551bafe7d65f219"
+          "url": "https://www.swbcpeo.com/resources/blog/my-employee-has-jury-duty-what-do-i-do",
+          "uuid": "c75f161f5a609d38946becc3826ad04534a88979"
         },
         {
-          "url": "https://www.sling.com/latino-es/about",
-          "uuid": "c7beefbe3c8cf9703db4ceb7f5083fec8d98e5c7"
+          "url": "https://www.swbcpeo.com/resources/blog/must-ask-questions-your-next-job-interviewee",
+          "uuid": "11ab0baab0a0ae8d4d6246da5e44c90aad22b075"
         },
         {
-          "url": "https://www.sling.com/latino-es/supported-devices/apple",
-          "uuid": "7461b6bd939bd1ceb8e02f89777290e799b7456d"
+          "url": "https://www.swbcpeo.com/resources/blog/money-smart-week-3-ways-your-small-business-could-save-money",
+          "uuid": "feed9a443445917d62153da8396a2c912158f375"
         },
         {
-          "url": "https://www.sling.com/supported-devices",
-          "uuid": "26bdf9ca47f33f326391800b4e6bf862ea53405d"
+          "url": "https://www.swbcpeo.com/resources/blog/managing-costs-through-employee-attrition",
+          "uuid": "bd048e1fa782426626c5e8959cf6d8b02a0920ea"
         },
         {
-          "url": "https://www.sling.com/latino-es/supported-devices/lg",
-          "uuid": "23008491e5d0297b2228a94bacaa7133698c33af"
+          "url": "https://www.swbcpeo.com/resources/blog/maintaining-osha-compliance-during-covid-19-reporting",
+          "uuid": "e0aa0621d24c7fcfd1c9591453a1162ad1701c57"
         },
         {
-          "url": "https://www.sling.com/latino-es/supported-devices/tivo",
-          "uuid": "5e98032cdba2a020acef8ea21c60eb2b03f149d7"
+          "url": "https://www.swbcpeo.com/resources/blog/how-your-company-could-save-big-outsourcing-employment-management",
+          "uuid": "3d2c4c6257bf778d75684d32be0b5a6ecd7e2ef7"
         },
         {
-          "url": "https://www.sling.com/international/arabic-ar",
-          "uuid": "93fcc4617c057431c7b4e5f7f046577a62e7d659"
+          "url": "https://www.swbcpeo.com/resources/blog/how-hiring-peo-can-lower-employee-turnover-rates",
+          "uuid": "48774112a710428094a9e6394cdb29380bcc0e57"
         },
         {
-          "url": "https://www.sling.com/latino-es/supported-devices/chrome",
-          "uuid": "971ec2bebb9fddbd4072ff42fb24c4fcc421b178"
+          "url": "https://www.swbcpeo.com/resources/blog/how-does-working-peo-help-manufacturing-leaders-ask-mary",
+          "uuid": "16224cd1f2b2827590359e686f99c0f88aa8a237"
         },
         {
-          "url": "https://www.sling.com/latino/service/espana",
-          "uuid": "4516c85d2d091ba9d71e870ac7d9c94bb80912c0"
+          "url": "https://www.swbcpeo.com/resources/blog/how-determine-if-peo-right-your-business",
+          "uuid": "f5708cdfb4ea26e74f7df61039a043248f904a31"
         },
         {
-          "url": "https://www.sling.com/latino-es/service/mexico",
-          "uuid": "29f1c253757e449f6674f3ae554b41b99688e737"
+          "url": "https://www.swbcpeo.com/resources/blog/how-create-effective-disaster-recovery-plan-your-business",
+          "uuid": "3a14e1a621cf323284f3d3ee38c88d4860221045"
         },
         {
-          "url": "https://www.sling.com/latino-es/service/sudamerica",
-          "uuid": "dc4aad0af95882a5b137a4331359014b442d9d83"
+          "url": "https://www.swbcpeo.com/resources/blog/how-2-trillion-stimulus-package-will-impact-businesses",
+          "uuid": "3ac4ec729c843be80f95b842b99d974b3b0752b8"
         },
         {
-          "url": "https://www.sling.com/latino/service/centroamerica",
-          "uuid": "64eed85abf2fe6930092016b499e83662acb6dff"
+          "url": "https://www.swbcpeo.com/resources/blog/hiring-skilled-trades-todays-labor-market",
+          "uuid": "0618e58a112e224d61cfa8b84979a96d7f91a5b3"
         },
         {
-          "url": "https://www.sling.com/latino-es/supported-devices/xbox",
-          "uuid": "292d401e577908190d621765fe82e0d3a5738069"
+          "url": "https://www.swbcpeo.com/resources/blog/working-peo-right-your-business",
+          "uuid": "d2b80ad83449235655444946dddc1f9332a2126d"
         },
         {
-          "url": "https://www.sling.com/latino-es/supported-devices/amazon",
-          "uuid": "dabfdeda189413cacdceafbc1d44839070d07e0d"
+          "url": "https://www.swbcpeo.com/resources/blog/your-business-compliant-most-recent-ada-standards",
+          "uuid": "37c8a559f3e957a1a886fd0aa0f610ad89ffbd2c"
         },
         {
-          "url": "https://www.sling.com/latino-es/supported-devices/vizio",
-          "uuid": "a1cd5d67ceb2bf9589d0290292cd671e85ecabab"
+          "url": "https://www.swbcpeo.com/resources/blog/why-outsourcing-hr-makes-business-sense",
+          "uuid": "e595f56f859b3b995cb32f1825189c1b35383774"
         },
         {
-          "url": "https://www.sling.com/latino-es/supported-devices/android",
-          "uuid": "3d730097fe8f26dd3c42b880c72e34d89185e7d2"
-        },
-        {
-          "url": "https://www.sling.com/latino-es/programming/vixpremium",
-          "uuid": "1d920e0a4528dd64bb18830d42d27ce530455395"
-        },
-        {
-          "url": "https://www.sling.com/rewards",
-          "uuid": "4faf1ed1a8874739e8248934656d3124d39a9443"
-        },
-        {
-          "url": "https://www.sling.com/service/prepay",
-          "uuid": "93fdd1565ff5767e5f4a94ee169ecc6a767da1a6"
-        },
-        {
-          "url": "https://www.sling.com/service/season-pass",
-          "uuid": "bed2ee4dfdca3ded3fc28f95524aa7fa970794af"
-        },
-        {
-          "url": "https://www.sling.com/latino/programming/bein-sports",
-          "uuid": "5e8d314caca5f2bf4d97831b55636019e8b459ab"
-        },
-        {
-          "url": "https://www.sling.com/programming/local-channels",
-          "uuid": "cb2f5d16d3d46b124985ac91624ebbc5481695a8"
-        },
-        {
-          "url": "https://www.sling.com/latino-es/programming/bein-sports",
-          "uuid": "b4e5f53c160283e11718dfc8eaf56dcbf9309a36"
-        },
-        {
-          "url": "https://www.sling.com/service",
-          "uuid": "59a060dea9075aa73d7c3f79fdca32b9aaf76e46"
-        },
-        {
-          "url": "https://www.sling.com/programming/paramount-showtime",
-          "uuid": "067a7c93dc8bffd0af21c6280a3540cf49e8c12d"
-        },
-        {
-          "url": "https://www.sling.com/programming/mgm",
-          "uuid": "d8abbae23b895cee12fded8eda92899d099d2a49"
-        },
-        {
-          "url": "https://www.sling.com/programming/starz",
-          "uuid": "80f82695a086122f436aaba2ad7668c64c168839"
-        },
-        {
-          "url": "https://www.sling.com/programming/amc",
-          "uuid": "42036c28fa3bb0f048b27f43f889036996af1131"
-        },
-        {
-          "url": "https://www.sling.com/value/streaming-service-comparison",
-          "uuid": "e8b13bc1db0333c9768a5391442240e3bce154f8"
-        },
-        {
-          "url": "https://www.sling.com/sports/basketball",
-          "uuid": "0b3a243f1221d3821a7ba097e011b6b0e57ea841"
-        },
-        {
-          "url": "https://www.sling.com/sports/pro-football/redzone",
-          "uuid": "dcc57a0abc86b8a457c377a98324dcaa3244a292"
-        },
-        {
-          "url": "https://www.sling.com/deals/gift-card",
-          "uuid": "f841c3cf71863493c6748033fb11f3baae5dd57f"
-        },
-        {
-          "url": "https://www.sling.com/sports/nhl",
-          "uuid": "e4536891baa4cfea4555fe1d595a1e7c88de9be0"
-        },
-        {
-          "url": "https://www.sling.com/programming/discovery-plus",
-          "uuid": "9db8b27c60a37204b250a3aa03767a3e7ea11395"
-        },
-        {
-          "url": "https://www.sling.com/sports/tennis",
-          "uuid": "a15504ef7ac651549a4c2353857817833dc6e688"
-        },
-        {
-          "url": "https://www.sling.com/programming/lifestyle",
-          "uuid": "0aa02fc0200b512045aeb4dd72754bd6233f67c0"
-        },
-        {
-          "url": "https://www.sling.com/programming/horror",
-          "uuid": "f06ffe3ecedcb7c19e15f269985e5158eb632120"
-        },
-        {
-          "url": "https://www.sling.com/programming/yellowstone",
-          "uuid": "ca0118ee9d056ea3da3941489e4e9dc3cc801dee"
-        },
-        {
-          "url": "https://www.sling.com/supported-devices/airtv-mini",
-          "uuid": "f0fb0bb9cc99c772494e038627c3947d81a5963d"
-        },
-        {
-          "url": "https://www.sling.com/latino-es/service/caribe",
-          "uuid": "bccc408b5bed86d5f900bc1483625465dcd642c5"
-        },
-        {
-          "url": "https://www.sling.com/value/cable-tv-alternatives",
-          "uuid": "0c2da1fc5b0a5be6de148ebea6dc3f52486c3cba"
-        },
-        {
-          "url": "https://www.sling.com/international",
-          "uuid": "8ce9efdf7590e893ec5cc65d1bcc570e0385ffba"
-        },
-        {
-          "url": "https://www.sling.com/latino",
-          "uuid": "79e357c94055f3787c18eb42a257d612fe192ff5"
-        },
-        {
-          "url": "https://www.sling.com/latino-es/service/sling-latino",
-          "uuid": "08a7eccc88bb63cdce57e1f60c1d107fcc901c42"
-        },
-        {
-          "url": "https://www.sling.com/programming/news",
-          "uuid": "143eb6fda563ef3b31428a4256084a7b84183c57"
-        },
-        {
-          "url": "https://www.sling.com/movies",
-          "uuid": "c636c56b73e5d504e832a9fdd3da636bd101285f"
-        },
-        {
-          "url": "https://www.sling.com/latino/service",
-          "uuid": "9a499d3168c86d509ba0c252482f777787799061"
-        },
-        {
-          "url": "https://www.sling.com/deals",
-          "uuid": "dd5d741e6ded0d2bb8ba803e601061cf966ef0ee"
-        },
-        {
-          "url": "https://www.sling.com/sports/nbc-olympics",
-          "uuid": "ce6553ff73d584524808d96439c80fd72ccf25a9"
-        },
-        {
-          "url": "https://www.sling.com/latino/supported-devices/roku",
-          "uuid": "5fe3f6527fb5ae0393518337a89122a833980c22"
-        },
-        {
-          "url": "https://www.sling.com/latino/service/mexico",
-          "uuid": "262675282fe35a3a28770f7d0a10e34c319700f7"
-        },
-        {
-          "url": "https://www.sling.com/latino/service/sudamerica",
-          "uuid": "5bcc8b2b6c5206479e02f922b2939d6de0713c40"
-        },
-        {
-          "url": "https://www.sling.com/latino/service/caribe",
-          "uuid": "1c621f0a56fe9cf2912aedcaf772bb5485df4bac"
-        },
-        {
-          "url": "https://www.sling.com/programming/entertainment",
-          "uuid": "9016df8719c7a8302865722578a7e02d34dbd82d"
-        },
-        {
-          "url": "https://www.sling.com/latino/supported-devices/samsung",
-          "uuid": "7f785cea29f2859ae850c1c92b932130afbb2521"
-        },
-        {
-          "url": "https://www.sling.com/latino/supported-devices/apple",
-          "uuid": "7da3ef6f2384846bb86b9319abe258851e514ff2"
-        },
-        {
-          "url": "https://www.sling.com/deals/promo/device",
-          "uuid": "41fdb7fa6d4b42364be23fbf622d58cca7d5a4bd"
-        },
-        {
-          "url": "https://www.sling.com/latino/supported-devices/lg",
-          "uuid": "86b6331af05181b40a20fe72f4fb9b7ade5c0864"
-        },
-        {
-          "url": "https://www.sling.com/supported-devices/samsung",
-          "uuid": "b341d23b1e994ffc465d1e12efe75bff46f32f86"
-        },
-        {
-          "url": "https://www.sling.com/latino/supported-devices/tivo",
-          "uuid": "ca9df5da39203ad7c9ca61596ae8af004cd6ca8e"
-        },
-        {
-          "url": "https://www.sling.com/international/supported-devices/samsung",
-          "uuid": "f9e9ab9356ad994c222c800299915e82cb91763d"
-        },
-        {
-          "url": "https://www.sling.com/sports/wnba",
-          "uuid": "49443b02212cdac9cd90b9af84960e8ecbd9923c"
-        },
-        {
-          "url": "https://www.sling.com/latino/supported-devices/vizio",
-          "uuid": "5aaf5bb8498e9a79ce9d2a165648f3aced1bd614"
-        },
-        {
-          "url": "https://www.sling.com/programming/adult-animation",
-          "uuid": "d701e54a74f275eeeb4140c44bf757511d2a505e"
-        },
-        {
-          "url": "https://www.sling.com/sports/pro-football",
-          "uuid": "21ec245fccfca968e4fb8387e8457e9a0bd24543"
-        },
-        {
-          "url": "https://www.sling.com/latino/pr",
-          "uuid": "9df0f0ae1bf8c9acff39a17799942dafce3e793b"
-        },
-        {
-          "url": "https://www.sling.com/sports/schedules",
-          "uuid": "631ec71254fdde2b64c2295c3d5c5ea732bb0175"
-        },
-        {
-          "url": "https://www.sling.com/shows",
-          "uuid": "7602d7e36f820b9dbb2acd6189907d0294558fb2"
-        },
-        {
-          "url": "https://www.sling.com/latino/programming/vixpremium",
-          "uuid": "d28d400069cfc77d9daf1c99e7210ae1685a0f08"
-        },
-        {
-          "url": "https://www.sling.com/programming/reality",
-          "uuid": "af3ec9b064ab0f6b6add1aff1e37abfc719cf050"
-        },
-        {
-          "url": "https://www.sling.com/value/watch-internet-tv",
-          "uuid": "23091b2fe10f4ca207dd0848ebcdf5e89973873a"
-        },
-        {
-          "url": "https://www.sling.com/about",
-          "uuid": "bfb6855674ba91f7186f22ec88819428f291eed8"
-        },
-        {
-          "url": "https://www.sling.com/programming/classics",
-          "uuid": "90ad0acc21a7261c84ba51b96ccb0cef888393b8"
-        },
-        {
-          "url": "https://www.sling.com/programming/competition",
-          "uuid": "5d416c843ad414bdf27e961a5d52d7c3ba778112"
-        },
-        {
-          "url": "https://www.sling.com/programming/reruns",
-          "uuid": "e1e9baa1710bbcbdaaeaa2022e0fffba4f66556b"
-        },
-        {
-          "url": "https://www.sling.com/supported-devices/roku",
-          "uuid": "ba3bd2fd08f41c98758707b2d66251fce188b9ba"
-        },
-        {
-          "url": "https://www.sling.com/sports/college-basketball",
-          "uuid": "8bd8e94d459666856792b0a8c9afac9b710dc714"
-        },
-        {
-          "url": "https://www.sling.com/programming/newsmax",
-          "uuid": "43ad961b718c23acced6ad7f52a5e25e3f004cf8"
-        },
-        {
-          "url": "https://www.sling.com/supported-devices/apple",
-          "uuid": "354104f49cc73bf7afb3446bb55a7efcd2e4b5fb"
-        },
+          "url": "https://www.swbcpeo.com/resources/blog/women-business-3-self-care-strategies-help-improve-your-career",
+          "uuid": "454351dc7cbff01b675ec006b8c25a9872a6a9bf"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 2,
+      "pages": [
         {
-          "url": "https://www.sling.com/supported-devices/lg",
-          "uuid": "3c630ea3e2e26706b048d9738cb879d7a28d3520"
+          "url": "https://www.swbcpeo.com/industries",
+          "uuid": "018d24a7b61254f6406f332ca38f773cf13d9f9a"
         },
         {
-          "url": "https://www.sling.com/supported-devices/android",
-          "uuid": "3924eab043c579ecd654c02f4a8b6a960ca4cd7a"
+          "url": "https://www.swbcpeo.com/resources",
+          "uuid": "f6e48860fdeaed39ff83240d285adfe7407cc688"
         },
         {
-          "url": "https://www.sling.com/programming/tune-in-3",
-          "uuid": "e3b42f03631c253022fa18eaf213c5f5988e0993"
+          "url": "https://www.swbcpeo.com/education",
+          "uuid": "963d5666f7d5357f2460361688c0f35c26ca9568"
         },
         {
-          "url": "https://www.sling.com/programming/tune-in-2",
-          "uuid": "cf0a3aa40deae20b816cec334c343c44b4aec61c"
+          "url": "https://www.swbcpeo.com/contact-us",
+          "uuid": "6b905aed04d8109748e4a43e4f1c83cf9ef26203"
         },
         {
-          "url": "https://www.sling.com/supported-devices/tivo",
-          "uuid": "56ca426fb8a05633965d228ec707eed52ba705b4"
+          "url": "https://www.swbcpeo.com/hospitality",
+          "uuid": "428dad750fac883cd0b3323a5ed5505a867710e2"
         },
         {
-          "url": "https://www.sling.com/supported-devices/xfinity",
-          "uuid": "f9cf29626110363b9c1338af7b865764bedfd170"
+          "url": "https://www.swbcpeo.com/restaurant",
+          "uuid": "df4f41894fb6b2f9ce3ee8908b998d209e6da8bd"
         },
         {
-          "url": "https://www.sling.com/sports/ncaa-womens-basketball",
-          "uuid": "dc09c050303052a72383ee8bac99314036d1915e"
+          "url": "https://www.swbcpeo.com/retail",
+          "uuid": "829db86d70daf53c09e1275614c7d145f3c7180d"
         },
         {
-          "url": "https://www.sling.com/programming/true-crime",
-          "uuid": "aeeec7a3c7766c0fd5ff5c4e4ab7b7d65bf4ddf9"
+          "url": "https://www.swbcpeo.com/technology",
+          "uuid": "14e1474da8125601e12ca1061bd05c2bcb9d1cc6"
         },
         {
-          "url": "https://www.sling.com/supported-devices/chrome",
-          "uuid": "279eec8e860c56912309f03acdf92b62666cebd8"
+          "url": "https://www.swbcpeo.com/financial-services",
+          "uuid": "93b5a64c4472e1890a06aa61d854ddf4b3a5636d"
         },
         {
-          "url": "https://www.sling.com/supported-devices/amazon",
-          "uuid": "10827e5517adc48db79db2de21a683ac202106bd"
+          "url": "https://www.swbcpeo.com/property-management",
+          "uuid": "7c0a337af1532dd4ae983565a04e17509e39f6c5"
         },
         {
-          "url": "https://www.sling.com/supported-devices/xbox",
-          "uuid": "12ca9d45286d4b0edd0b69de875c46ff35837782"
+          "url": "https://www.swbcpeo.com/partner-us",
+          "uuid": "0eb2e1795add2002457e0b47189115a318d9c3e4"
         },
         {
-          "url": "https://www.sling.com/sports/racing",
-          "uuid": "038a5bd0be4649114409f0223608ef03748c3763"
+          "url": "https://www.swbcpeo.com/nonprofit",
+          "uuid": "7b68f7ca17a01d34ea7a28d3ad2545fd4aeacf55"
         },
         {
-          "url": "https://www.sling.com/programming/tune-in",
-          "uuid": "26243e458932bb5122ead9db54d2ea5b5f194ce5"
+          "url": "https://www.swbcpeo.com/medical",
+          "uuid": "0aeca8e656c4fe43913bb17b214cee7af0d1fd9a"
         },
         {
-          "url": "https://www.sling.com/programming/espn",
-          "uuid": "f9405bec8a9a1cc9c8f0b2d1be34900c65100b16"
+          "url": "https://www.swbcpeo.com/construction",
+          "uuid": "9c40dd106606ccd647fa0a9182c3668ff88a8b2f"
         },
         {
-          "url": "https://www.sling.com/supported-devices/cox",
-          "uuid": "afd7cd9d7d2c17129ce6ae635ccec6973fc9839a"
+          "url": "https://www.swbcpeo.com/manufacturing",
+          "uuid": "a7cdf7cef71f413980747b0562a9a9c31978a7c2"
         },
         {
-          "url": "https://www.sling.com/sports/wrestling",
-          "uuid": "67c4fdd99dfe8fe0954613b6c8779e701c4f3580"
-        },
+          "url": "https://www.swbcpeo.com/marketing",
+          "uuid": "e1cb0a6407da790205d9c7c7f31d04a6aaf943e2"
+        }
+      ]
+    },
+    {
+      "name": "Multi-Purpose Dashboard Template",
+      "cluster": 3,
+      "pages": [
         {
-          "url": "https://www.sling.com/supported-devices/vizio",
-          "uuid": "6dc701cdb6f6fa984f382bbaa16a364e11fd62d7"
+          "url": "https://www.swbcpeo.com/services/human-resources",
+          "uuid": "8cf1021f75edad8ba530ed7805b48060deb19b51"
         },
         {
-          "url": "https://www.sling.com/sports/golf",
-          "uuid": "49f34a7979697b8bcb7473a025ede9b350e45e1c"
+          "url": "https://www.swbcpeo.com/services/payroll",
+          "uuid": "946c1b22f2db938fb5c9229c7e22cd034d452659"
         },
         {
-          "url": "https://www.sling.com/sports/nascar",
-          "uuid": "92ea973c06dbc4a6017bd14ead3c5233ac0e0b25"
+          "url": "https://www.swbcpeo.com/services/talent-management",
+          "uuid": "0f38ace59610d406d014de1b5ad8163f3327568e"
         },
         {
-          "url": "https://www.sling.com/sports/boxing",
-          "uuid": "43f96253933c17df363c0e8b025612d5c0ad620a"
+          "url": "https://www.swbcpeo.com/services/risk-management-workers-compensation",
+          "uuid": "052a9f319d9706dfa9195b5f7fc9cd5a331b5360"
         },
         {
-          "url": "https://www.sling.com/value",
-          "uuid": "de66fb32b662695009468c21047c739a8fcf2139"
+          "url": "https://www.swbcpeo.com/services/employee-benefit-administration",
+          "uuid": "d1b67acaa5b4f8e33aad1bae1950af761111c90d"
         }
       ]
     },
     {
       "name": "'Dashboard Template'",
-      "cluster": 2,
+      "cluster": 4,
       "pages": [
         {
-          "url": "https://www.sling.com/help/en",
-          "uuid": "9d9dc481fc2937e8cb71ca8a89e4283be054536b"
+          "url": "https://www.swbcpeo.com/about-us/leadership",
+          "uuid": "85ee0603dc4812f35a2743612a8ac2951ee2dadf"
         },
         {
-          "url": "https://www.sling.com/help/es",
-          "uuid": "79be562b7cd738e1f3507ffadac34c947c886dad"
+          "url": "https://www.swbcpeo.com/about-us/partners",
+          "uuid": "b2f3866190158abfd421b058598e0ba51090c7db"
         },
         {
-          "url": "https://www.sling.com/international/eastasian/cantonese",
-          "uuid": "89fcbefe005ee54479e39b542cbc8201f875eb2b"
-        },
-        {
-          "url": "https://www.sling.com/international/eastasian/mandarin",
-          "uuid": "e3477183d9ea2571fdf961c549d6299a14b44bb5"
-        },
-        {
-          "url": "https://www.sling.com/international/eastasian/taiwanese",
-          "uuid": "0b3744c48f7a8c6a589b2fcfcc433a57c0dc8547"
-        },
-        {
-          "url": "https://www.sling.com/service/dvr",
-          "uuid": "2cbfb39ac02dfbb1865e2fa31d23a2b416a22f69"
-        },
-        {
-          "url": "https://www.sling.com/international/eastasian",
-          "uuid": "44eb85c571bbe32ed4d38d36a5f7dd648f160e30"
-        },
-        {
-          "url": "https://www.sling.com/arcade",
-          "uuid": "4eb235a6439a104ec8dd876e496ecf83db1e6d1a"
-        },
-        {
-          "url": "https://www.sling.com/latino-es/programming",
-          "uuid": "28dfd4881a723705310197e7ff0f6eb3ef154be0"
-        },
-        {
-          "url": "https://www.sling.com/international/eu",
-          "uuid": "c3b664208072e96cf1ec425c967a1d277f14a191"
-        },
-        {
-          "url": "https://www.sling.com/deals/partner/affiliate",
-          "uuid": "af154f4a8912d922ee1d5d7c4e6696bdb264a21f"
-        },
-        {
-          "url": "https://www.sling.com/latino-es/sign-in-es/activate-es",
-          "uuid": "ab5a996bca36ea8c39c607ecf0fd927471d217b2"
-        },
-        {
-          "url": "https://www.sling.com/sign-in/activate",
-          "uuid": "749aa01cc0cd740fee37966e8d9c22cb5de191d5"
-        },
-        {
-          "url": "https://www.sling.com/latino-es/sign-in-es",
-          "uuid": "a96bd5c71af71c5011dd6df3e263bcdd0fe23f34"
-        },
-        {
-          "url": "https://www.sling.com/sign-in",
-          "uuid": "1246e9af96c5cc2d3c97d56cc9a8d2ac228059d2"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages",
-          "uuid": "ae8602d4895e3255ed17dcfc281b31804b80c7d2"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/general-troubleshooting/clear-cache",
-          "uuid": "75343fbff3c18f176567ee4e7cb433c1b975c322"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/amazon-fire",
-          "uuid": "5c602ae760b35b54b4eee9ff07799e0cadcd9447"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/account-changes/manage-account",
-          "uuid": "e74da67c51a04e7f6b51df7f643e7490a0b07700"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/roku",
-          "uuid": "979d2fd5a338488833d9b489cf47f48d855bfde9"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/dvr-help/use-dvr/auto-record",
-          "uuid": "309c2722ca4c435579ecaed91f37febf7f07a06f"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/dvr-help/use-dvr",
-          "uuid": "381f998344043906317998255c1f596be4f1e9a9"
-        },
-        {
-          "url": "https://www.sling.com/help/en/max-faq",
-          "uuid": "8a21b5d6c30f09bfc2d8882bab6d98338dfeab0e"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/account-changes/change-subscription",
-          "uuid": "e203a5d7e3c7e615b4e762ae14165fbc1f7dda50"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/channels-programming/local-channels",
-          "uuid": "9711801eb62dd4edabdaf979a2b9c5c2de27d145"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/channels-programming/channel-faq",
-          "uuid": "fc8a55271d02236f94c890a1a8d54a332df79382"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/using-sling/parental-controls",
-          "uuid": "bf8a88d6ddbaea41dc24a111fd3c32188f8d79b5"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/get-started/install-sling",
-          "uuid": "851e731041325299da687dad5c9c729a7a9d7b6a"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/tech-issues/freezing-skipping",
-          "uuid": "a200a3e612ed099d5b798cb0894dfe017ab9105b"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/tech-issues/buffering",
-          "uuid": "34e4c1692dac872ba6fe2cdb8f0a48dd0e5c71e6"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/rentals-vod/ppv",
-          "uuid": "64f46b3b6c50137604b2cb4e1bcc11dcf3132db5"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/sports/nba-basketball",
-          "uuid": "fb5d8df41a0301339a3b40c823964338995fe573"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/international-programming/globoplay",
-          "uuid": "7b595d1a6bb4bddf0f65a44d507800e1c53238f6"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/sports/cricket",
-          "uuid": "5929693c961a9507c076ca18b45e88906b67344e"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas-dvr",
-          "uuid": "ba565088ca517cb6588d7a555ee3e0fdba4877eb"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-10-410",
-          "uuid": "28e2a7b6b95d9856179b6c00b58ee25d4221ba1c"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/dvr-help",
-          "uuid": "b1b9a9b904bbed6689d8cf89b3e2b85ac021b084"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/rentals-vod/rent-movies",
-          "uuid": "0d86d00df2b7fe04eaced578344e6cdb623a1a7e"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/international-programming/arabic-subscription",
-          "uuid": "1ddbc6d35c82314e0fecaefbe79871f1892b45b8"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/passwords-security/forgot-password",
-          "uuid": "6ad9584abec374e9543bea9a692659bcb3b8be38"
-        },
-        {
-          "url": "https://www.sling.com/help/es/micuenta/falta-de-canales",
-          "uuid": "a261d0cdf2b3b0cf40d3e9de693fb9b774404797"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/international-programming/watching-shahid",
-          "uuid": "a8afaec53622a2ded572bb95498b472d1454a930"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-11-xxx",
-          "uuid": "eb62c2484653e41f43b14d2eaeb77d3968b8c6ef"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/channels-programming/local-channels/freestream-locals",
-          "uuid": "f223dac163fe6ca4f03d49414620e9401f950ee1"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-8-701-17-753",
-          "uuid": "0e5d69469e2d3656c7e62c1045bc351bcfc3e184"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/international-programming/catch-up-tv",
-          "uuid": "463b28e7fecd16f49e844ec3b4ea5d83b137e45c"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-27-1",
-          "uuid": "da5b8f4dc66503a0678114a5811083a3289c1469"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/10-xxx",
-          "uuid": "0fb06fbc9ecf12e79447310eaa624bce4b31c5d4"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/airtv-help/error-16-33",
-          "uuid": "9f0ca7f5b86121a72e3cc6654de09507b3febbcb"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/black-screen",
-          "uuid": "c7e3d574690a0d525325c06f6d5691fc90925bdf"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/negra",
-          "uuid": "3fa1360afb954372b8788c73b8104cc2766befda"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-12-25",
-          "uuid": "612986140e3f78e0b34f88e3e9ea42685267db64"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-10-xxx",
-          "uuid": "79596c03a2f9cc009d12909d9744f2aad8f0738f"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-10-220",
-          "uuid": "fc24bc3d843ce46dd66cb7756408b20ded03e897"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-16-xxx",
-          "uuid": "0bad8492c6d12bfc065be537488039066c6b4fa6"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-1-100",
-          "uuid": "0d3c017caa1c9da3ed3d2062ec7b3ace17b12e51"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/using-sling/sling-arcade",
-          "uuid": "a75578fa85fd1ce5640d16b4e84ad3a24cafad5a"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-21-20",
-          "uuid": "137d51458861983f966e7b62bfa0d8daf405ebaa"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-4-402",
-          "uuid": "8135c12975f4a59ad09f322c5a72cfd1bb645223"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-6-9",
-          "uuid": "0a7dea777a4d02ff0e6b7487459546a07bed9d95"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/tech-issues/black-screen",
-          "uuid": "6eef2730ffaaa46b1223ef5c596346eefe1689f4"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/sports/college-football",
-          "uuid": "6fde1a06cee546c53e2bc64e9e0bad84601e89a7"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-8-270",
-          "uuid": "4996e1c82e6a89dc8367d19a9e8f8ca24108f030"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/tech-issues/crash",
-          "uuid": "a37afaeec6b0384b360eb76a09b931d0f41c2dc5"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/amazon-echo",
-          "uuid": "0270c1fcbfaddb5bd288ded5d42ab126804ef294"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/tech-issues/missing-channels",
-          "uuid": "a83ee87c242476edd5e27e05a487e8e970b07c0b"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/airtv-help/error-16-31",
-          "uuid": "b0f538037d0a43b4f77c1f4939ab7f8cecc40268"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/airtv-help/error-16-378",
-          "uuid": "5e3783fa79dc6e2c0a9ef2cdb0896718014e50fc"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/airtv-help/error-16-4",
-          "uuid": "1cca7d092f3ecb71457e10560bdc88793e0cbb98"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/airtv-help/error-16-66",
-          "uuid": "c2add309763cd76e002809e1e4c40d9d2e89ee6a"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/airtv-help/error-16-16",
-          "uuid": "a187d9a357c213fcf0cc6e7f734017695fa7c2c6"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/airtv-help/error-16-17",
-          "uuid": "96dc6d0524a18825226f6acad2e76853a4cc9fba"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/5-xxx",
-          "uuid": "1017f8714c35272173a758407d6ea6c47f4f41fb"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-5-xxx",
-          "uuid": "3e4799049b82d546e59ed5b069615758b8c6e10f"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-4-xxx",
-          "uuid": "a284f4b540fcc0a4b53a29b9a5373beccecad3b8"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-1-xxx",
-          "uuid": "c9cc69c64d6537e8f7b113691dee91fd4dd345a3"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/crash",
-          "uuid": "491f144c27c2f9c06ec297ebc16e8531e9a14ff4"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/4-xxx",
-          "uuid": "d9e7f0a10bf6e8c6b016f7f20e8b7a3c262e0574"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/airtv-help/error-16-3",
-          "uuid": "d52f3251e1479ff0ab3861d34e333d3e3b901035"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/airtv-help/error-16-456",
-          "uuid": "1e29f83e67a7c587fc172ec5e0ef49ef74a1326e"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/airtv-help/error-16-537",
-          "uuid": "c1944ae120e49db3f1bcb186d10a4f27f6fb05e0"
-        },
-        {
-          "url": "https://www.sling.com/help/es/suscripcion/tv-everywhere",
-          "uuid": "ef5b89b0188337e816e0165f028d093afdd66d6e"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/1-xxx",
-          "uuid": "c115b8bc88935beb65ba4f95ce938b9768d31de0"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/passwords-security/unauthorized-user",
-          "uuid": "812eefa7814eb8a43df80f7f1ada85a86147e3f8"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/subtitulos",
-          "uuid": "de188ecd90e7c21eb6c484c5f69e3cf4759a3ffd"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-2-xxx",
-          "uuid": "b42d8492c2786d7eac3d80cf26f3563b414ca288"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/using-sling/my-tv",
-          "uuid": "afcfb32242de386b6d31fc415f5ad18ecb76b84b"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/general-troubleshooting/update-app",
-          "uuid": "4d6b63b17108e2ecb57fa8c0711e36f145a34a53"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/using-sling/user-profiles",
-          "uuid": "392fdbc6cddf305cff9032804e93d532bf3d3652"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/passwords-security/protect-account",
-          "uuid": "73003d695a5199dea1e5c63f8079e312b22f3d34"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-14-xxx",
-          "uuid": "1d87f0392f18892d94a49fa6705351b26ae6958e"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-1-2",
-          "uuid": "f1de12b531ac37bba9f83375d4089e65536a13de"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-10-1",
-          "uuid": "6a5754d51c8eac9e0ca393a8606282f7d125f82e"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-2-2",
-          "uuid": "b51dcbff900e900cc567c12a5899acf072787f49"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/promotions/promo-code",
-          "uuid": "b6fd0574b54a5bfd1b7bd12209710fa72a9183dd"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-17-xxx",
-          "uuid": "29600225a9be712ee1b5b4132aa13f7336d63370"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-8-xxx",
-          "uuid": "8c944d18bca0e9d26873441c12385ed5e71a9012"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/tech-issues/closed-captions-broken",
-          "uuid": "f0215f823e0b0f63a63ce673a16fc068452ac7cf"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/1-100",
-          "uuid": "9bc2d3e5336c2898410b55a24716fba905258ebb"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/10-1",
-          "uuid": "091e59a4742f74c03629ba8240db7ce1f32dd75c"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/5-10-103",
-          "uuid": "cc72176b0c09a6c22d75e53bb6759c8a5d00b8c8"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/6-xxx",
-          "uuid": "9746597934b28ef13bf37deef64d625f1cb2fd98"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/17-xxx",
-          "uuid": "e97a1020eb906f0e7466a0e096bbc4e0c0913cf4"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/2-2",
-          "uuid": "addcfc8d0e1e24de96184a9bbcc2f05152e7c38e"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/2-xxx",
-          "uuid": "d36672206ffab9a71f79a4c03c7981dd2e5fb494"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/3-xxx",
-          "uuid": "ebce30b488f72e2c5988ef805a2844a75aa8e511"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/10-220",
-          "uuid": "2fede24797cfd1b64af35e103d95d2b12d564d89"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/12-12",
-          "uuid": "ceb5664c00ea5b67718c637d0714a4c9a62d46a5"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/17-704",
-          "uuid": "e07f6d6cdd30c3a657a156dd6f10d211193ccd16"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-4-100",
-          "uuid": "94af754df96d461e44be17ba842218db532ccdc7"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-21-51",
-          "uuid": "434110b839c0dbe3713f7191d216bba713ef45ed"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-22-29",
-          "uuid": "58403b15a1bf2996987727a6602bb623dbee32e8"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/gift-cards/gift-card-existing",
-          "uuid": "539fd8f6c2e1717a69e4b9f46a5190161ff972cf"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-3-xxx",
-          "uuid": "af304f620661de47aa7ab4573ff12be1e672ed7d"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-8-393246",
-          "uuid": "26d0e67eabe79de2ec2788705d008967307993b2"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/samsung-tv",
-          "uuid": "178d95192e4275bb687b10f70cb475ebc94f1455"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/get-started/guide",
-          "uuid": "e5f9746e67dc0a1ba7c36211461272f65908b9d8"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/sports/mlb-baseball",
-          "uuid": "8934f7a2290e9bad25bdc40344e2f71a0771585d"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/sports/sports-on-sling",
-          "uuid": "1260e5abaffc360a107600caaf4fbbf3b839baf7"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/subscriptions/standalone-services",
-          "uuid": "e2a11fced9ff9c6a9c5cec23fbda3bfbe4a070f4"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/promotions/free-previews",
-          "uuid": "855d32c02361a3b42be49e54b77a3857474e64df"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-5-423",
-          "uuid": "c6aaab3883d0566742cef9b73ca8b80eb0acaa30"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-7-600",
-          "uuid": "635cc633cf54ff358cf2772902fbd5c8d40f1e52"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/chromecast",
-          "uuid": "005c1ec5b8aac7a99a298740ab307e0a0d37fbfe"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-8-638994",
-          "uuid": "22db02c3309637063b8ee86e5258a05e2aab3bcc"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/airtv-help/record-ota-airtv",
-          "uuid": "2b853efdda7b090451d6ac1fba269f03b587139e"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/vizio",
-          "uuid": "d27878329268abbc4431bcc632942c072a5e994f"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/sports/nfl",
-          "uuid": "a867870dd698f5df661b04d53e1500405b25ae54"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-12-12",
-          "uuid": "1c8065e8d9a9b81b9e3eae30030ab32d06279867"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-12-17",
-          "uuid": "c28ee197acf98ea99f5203869fb155fdacf71105"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-10-407",
-          "uuid": "89bdf15918193bc2bf3980226eebbadf786d92e3"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/tivo-stream",
-          "uuid": "293003a654e67dd62b682f40a5838eb57be1898b"
-        },
-        {
-          "url": "https://www.sling.com/help/es/micuenta/problemas-ingresando-a-su-cuenta",
-          "uuid": "c463ac79a44bb15d6d22228711ffa66fd223c5bb"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/5-100",
-          "uuid": "355b6f130a90e1aedbbc79d8367ad75cf057c600"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/3-18-19",
-          "uuid": "1e1855325484f9e5c39ea7c7b685466bb4b8ebee"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/4-402",
-          "uuid": "24458ab2fda0b91fcb81f4db6bc6c40d995a5e71"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/11-xxx",
-          "uuid": "bb85cad5975cf3cc3a0cede5efbecbc44625b736"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/12-17",
-          "uuid": "0a2e14297d14e35731e910b9a66501b20e308359"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/airtv-help",
-          "uuid": "c52bf37f0c58d85840ba7787d4683b7955554271"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-3-18-19",
-          "uuid": "ea1a3c3a7d027a5205bbbae37b8e7fb7e3a9b85b"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/airtv-help/local-scan-airtv",
-          "uuid": "96d2d0ad721bd97a028ccedb678ad681632b9fd3"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-9-301-2",
-          "uuid": "b5c78e2a308a86accaa34dcf0ffb0e5f07d692a2"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/get-started/sign-up",
-          "uuid": "6c1710aba6d29effca7df939b7c81fd2380fb8b5"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/14-xxx",
-          "uuid": "8c70b366246a1037e541579423743ab27fb0c2f1"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-7-100",
-          "uuid": "3f9aa8daf390fec2c846fe8072bad96b55542e5c"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-7-xxx",
-          "uuid": "8a9f44453781d49be0d0f6852974f8b30dd8bd75"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-5-100",
-          "uuid": "3d7340dfb3e9984aaa3e2ec1a151b9589dd6f631"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-5-418-9",
-          "uuid": "563869fe98905f1cac83cce6d5555246427e22bb"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-17-704",
-          "uuid": "949eb50b092ee97dd2fbe8512d6931ca1157681d"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-2-16765416",
-          "uuid": "99a6c3bcc6098f5cd136720f5a603c1c09279fef"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-5-10-103",
-          "uuid": "f6419b6757babcb8bb4aa7e9e1c07bdf8756dc9c"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/xfinity-flex",
-          "uuid": "79ecc5fece17116fb23efaec12997fd2ef5e1a69"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/cox",
-          "uuid": "b4ca4578d4434ea85a4ff71362b44a843f11cdba"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-2-5-6",
-          "uuid": "569de5c9338d0ffa11d81d5c12f96e525d43cb90"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/using-sling/autoplay-on-roku",
-          "uuid": "5f96992bc684acdeb3ef00f803d2e812e5f9a894"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/billing-payments/billing-faq",
-          "uuid": "1bfbc159eaad0afecca63d27fd509f1470c906de"
-        },
-        {
-          "url": "https://www.sling.com/help/es/tecnicas/canales-locales",
-          "uuid": "b31904f73d49baeffeb8e05c46eba1b38a28e86b"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/google-nest",
-          "uuid": "628c598e616bdff3a0fcaf56b4d8833d52341602"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/chromebook",
-          "uuid": "1c2298f2c3650c5e9ee381c0f21a2118c07fb191"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-6-xxx",
-          "uuid": "79e83cd30858f69ab544c218a5c990d965b90e22"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-9-xxx",
-          "uuid": "9b81ee9b3c3702b3abcf819bdebd5a12d7e51366"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-8-101",
-          "uuid": "5e67b950ca120dd8cc9119d9f3860971c2e45314"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-11-601",
-          "uuid": "bc9491aab06df86b557196e26369921d859f8da3"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-4-416",
-          "uuid": "96e7271dd16a9ad5fa656bec37f4d7ecd9351787"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/lg-tv",
-          "uuid": "f8ea5df6df55e13f2e15d804ec51f6362b07023f"
-        },
-        {
-          "url": "https://www.sling.com/help/es/tecnicas/bandwidth",
-          "uuid": "1d5cf8a30f7afdce9f1c0dccb4e6f0b1f736b416"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/sports/add-sports-extra",
-          "uuid": "3b2b0f5b5c2189b132339e63e62b26442b518153"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-8-12",
-          "uuid": "f099b98827a9e3b1d5667b89632f48b1ed414650"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/general-troubleshooting/reinstall-app",
-          "uuid": "04867f18c2a78e72ea9c825d6463b78bc3a9ffb2"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/reinicio",
-          "uuid": "89c03d6bef56d612035dc7d0fa0c412d393d2501"
-        },
-        {
-          "url": "https://www.sling.com/help/es/tecnicas/supported-devices",
-          "uuid": "69864ad538dea2f298d1a1fafb647f0577f9860a"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting",
-          "uuid": "e7368c25061798b7e4ca61c4c92bd7662447a22b"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-6-402",
-          "uuid": "caa105db44338bc242a7dd90a12b7ca309310ebd"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/airtv-help/airtv-setup",
-          "uuid": "93de1be812d02d0a0da2874a780583d5f251dff5"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/sports/college-basketball",
-          "uuid": "21aed3f600b53a08ed291cfb6f48f631912269d7"
-        },
-        {
-          "url": "https://www.sling.com/help/es/micuenta/gift-card-signup",
-          "uuid": "798be32e6504cf9493ebaea926d0350e481b341a"
-        },
-        {
-          "url": "https://www.sling.com/help/es/micuenta/olvide-contrasena",
-          "uuid": "cc9cf02c61835bcaed229d0b50a6f3cd2c426b1a"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/xbox-one",
-          "uuid": "9f432fedd84b47a1b2a379fb35aff604d37982bd"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/edge-browser",
-          "uuid": "49c0c1255de848b9f949a2599ad8c7dd3fd0041b"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/google-chrome",
-          "uuid": "f8d9ee0934cdc148bdf286fba3c3c3952dca017a"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/ios-devices",
-          "uuid": "518ed16444d72c117150aa6631887deeb5e8c8d0"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/oculus-go",
-          "uuid": "5ab32e5bd6083cd288d5be6b53b8860061bb98c6"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/android-tv",
-          "uuid": "83fb56c2248603006b9afbd0662a60a552e49662"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/apple-tv",
-          "uuid": "df3c97d21a92da051cda88524c7c66c464bc930d"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/account-changes/pause-cancel-subscription",
-          "uuid": "248c463f61478646b538379ab0d97eb92d51ed07"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/sports/hockey",
-          "uuid": "ec828a77df453414fbebceb23af060f5d332b5ed"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/report-issues/known-issues",
-          "uuid": "4837ab484d9975dbd2c08da1636998299f747a5d"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/tech-issues/not-subscribed",
-          "uuid": "c201feb4bd91d7210dd70badf5cf54e0af6cbf4e"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/activate-sling",
-          "uuid": "e7b4aa82987c985be9142c4054d4c8092ada1bc9"
-        },
-        {
-          "url": "https://www.sling.com/help/en/4k",
-          "uuid": "428edd768920550326cfcdb3c49d76644af9f168"
-        },
-        {
-          "url": "https://www.sling.com/help/es/aprende/busqueda",
-          "uuid": "e88b096365ee48927f85920bacab7e3ca0d92b7b"
-        },
-        {
-          "url": "https://www.sling.com/help/es/aprende/control-parental",
-          "uuid": "608acaba9451911b7833d8bc81749f4cf2ca6299"
-        },
-        {
-          "url": "https://www.sling.com/help/es/aprende/guide",
-          "uuid": "f76ba795aaee305623b2d86a7054c15ff8c54e4c"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/airtv-help/update-airtv-software",
-          "uuid": "bb41c1920948859e802d8bf83bb4e95473271779"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/passwords-security/trouble-logging-in",
-          "uuid": "30a4733f655a3d7015aad6e504398b03b6189101"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/1-2",
-          "uuid": "4fa525b35a2ff587dd773b253c28b283911e6a8b"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/7-100",
-          "uuid": "5194bfee9ce426a67906d25ac2473e52f6e6474a"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/4-416",
-          "uuid": "3ccf5aa37331c47fb5205fe762191b97b79d095a"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/11-601",
-          "uuid": "64521f705744c96f0eadb515780139be22a31029"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions",
-          "uuid": "4bac3153915cfd7066b4f1cf920318a18c55cacb"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/tech-issues/hdcp",
-          "uuid": "ed9953c5b8ba3896a0c7d68225749584c5caea37"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/tech-issues/small-picture",
-          "uuid": "ea107a7173db2b1d52af6ec2c05ab3d788129806"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/airtv-help/airtv-mini-setup",
-          "uuid": "0e69ab6cad3230e52f8ba6a237e01a1e78277004"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/passwords-security/forgot-username",
-          "uuid": "79d6226397160a7e5f691e80cd29f1b4323f42b6"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/international-programming/install-portuguese",
-          "uuid": "407c760fdb8bc20a655bcc9a222ba1f16b0a7ed1"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/7-600",
-          "uuid": "4e86da229be55b40899660a647c2a1b3c7cf0a3a"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/using-sling/guide",
-          "uuid": "bfd500c22b342a62d0473fa0a84132db14874b2c"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-4-310",
-          "uuid": "a9ddb3edea9e79475f33a877be2e51030537e135"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-15-2",
-          "uuid": "1644e63e603797f4b0baaa965c33514015c64724"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/safari-browser",
-          "uuid": "26bf6e9138b75d8d7bf01c85731dd2fed1d4f0be"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices/android-mobile",
-          "uuid": "d0099025f2173aef270040e88215a16459c7cdca"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/billing-payments/amazon-pay",
-          "uuid": "050fd29cd6717f8dd72ce7bd04d574cca0e1d33e"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-17-707",
-          "uuid": "3d37479523120ef3294ccd0f35ab70b105e41319"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-8-1541",
-          "uuid": "22de51086d3d33d09cca435cb280d5123d6453d9"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/using-sling/search",
-          "uuid": "6930b9ae3acbac6298b15277d9077fb25f442916"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/conexion",
-          "uuid": "02c0666506f4a51237c946d70f497b6556cf409b"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/reinicio-dispositivo",
-          "uuid": "a9edb0dd5e41d68f7e66527ffce33f7f667d6272"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/reinstalo",
-          "uuid": "50d8f5b9f56d8c1e73183effb1431c26fa2d93ac"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/actualizo",
-          "uuid": "a04ab42cf8a7cdeba0a9bffce777a9aac37c786f"
-        },
-        {
-          "url": "https://www.sling.com/help/es/micuenta/terminos",
-          "uuid": "9cac093e53b5075b388903fe857e102e9151f238"
-        },
-        {
-          "url": "https://www.sling.com/help/es/micuenta/gift-card-existing",
-          "uuid": "6a98d23c64cefa18c0ca90258fa3d006a897423e"
-        },
-        {
-          "url": "https://www.sling.com/help/es/micuenta/gift-card-explained",
-          "uuid": "02050a182e605e78d68f380f416cb75c1fce28c7"
-        },
-        {
-          "url": "https://www.sling.com/help/es/aprende/instalo",
-          "uuid": "2be30d3af4859709e099721fce5fae137b331593"
-        },
-        {
-          "url": "https://www.sling.com/help/es/aprende/puerto-rico",
-          "uuid": "6b0dfe327e7ffd0e556300b39efe5effe1873f47"
-        },
-        {
-          "url": "https://www.sling.com/help/es/aprende/que-es-sling",
-          "uuid": "2b2dc96b87e86c1c762d07d2f5da4207953ddf20"
-        },
-        {
-          "url": "https://www.sling.com/help/es/aprende/registrarte",
-          "uuid": "be852940bf384477559323f572ea482697cc5343"
-        },
-        {
-          "url": "https://www.sling.com/help/es/micuenta/actualiza-contrasena",
-          "uuid": "db3bf9b0661b00e472e8ad85717d9af2bd167095"
-        },
-        {
-          "url": "https://www.sling.com/help/es/aprende",
-          "uuid": "bd2aab50d3289e79fb90d7dc1ee3328b0a783188"
-        },
-        {
-          "url": "https://www.sling.com/help/es/aprende/comenzar",
-          "uuid": "da9d0c1d77a6cf9aee4872b5de8debe9b3b0a57c"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas/17-707",
-          "uuid": "de406e68119a2f019389ef0a87cda086520b0f6f"
-        },
-        {
-          "url": "https://www.sling.com/help/es/tecnicas/configura-airtv",
-          "uuid": "9d52b2c79c10bbb0dbeff2b05a7baec24f5dabfd"
-        },
-        {
-          "url": "https://www.sling.com/help/es/tecnicas/configuro-roku",
-          "uuid": "da75a93199ee21e60cd38f36957cfc7168bb4047"
-        },
-        {
-          "url": "https://www.sling.com/help/es/tecnicas/multiples-dispositivos",
-          "uuid": "fde2874841dfd82cc1c6652c65f7268a99cdb7a0"
-        },
-        {
-          "url": "https://www.sling.com/help/es/suscripcion/best-service",
-          "uuid": "dd2c8b4769b93f79d75ed010da05292663907e12"
-        },
-        {
-          "url": "https://www.sling.com/help/es/suscripcion/canales-locales",
-          "uuid": "f9ac28d73f23e0f3abda5806e6b3988f5d29c796"
-        },
-        {
-          "url": "https://www.sling.com/help/es/suscripcion/deportes",
-          "uuid": "8b57e993b229146bec27f90fe7d98b8ba8a2ea5f"
-        },
-        {
-          "url": "https://www.sling.com/help/es/tecnicas/antenna-placement",
-          "uuid": "b9cac03f6984e1331eaaae6237c47ccbc4b8f38a"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/promotions/discovery-plus",
-          "uuid": "76b9808c540cb1fd5088666e08a2ecca966857ec"
-        },
-        {
-          "url": "https://www.sling.com/help/es/micuenta/update-card",
-          "uuid": "7c50559d9c71eee76cd30df43ae745d236dee10a"
-        },
-        {
-          "url": "https://www.sling.com/help/es/problemas",
-          "uuid": "27ab42b50ab756ae0452a41f3e583f060693ff6f"
-        },
-        {
-          "url": "https://www.sling.com/help/es/micuenta/creacion-contrasena",
-          "uuid": "a1cde8eebc939e313631ad1b22286730109ff22e"
-        },
-        {
-          "url": "https://www.sling.com/help/es/micuenta/reinicio",
-          "uuid": "e23e051235223d3b2da3842db7d05688914c38b8"
-        },
-        {
-          "url": "https://www.sling.com/help/es/micuenta",
-          "uuid": "59effc233002d71e2a13d16a4badc50c3a4138a6"
-        },
-        {
-          "url": "https://www.sling.com/help/es/micuenta/cancel",
-          "uuid": "f687d0385e5845b089b8269df4c4a13871e3e288"
-        },
-        {
-          "url": "https://www.sling.com/help/es/micuenta/change-subscription",
-          "uuid": "f3eca47f2e93607236989d75ffef6c90dda81b14"
-        },
-        {
-          "url": "https://www.sling.com/help/es/aprende/blackout",
-          "uuid": "b4f64433deb3f010f4ab5ca8a5207ba6829404db"
-        },
-        {
-          "url": "https://www.sling.com/help/es/suscripcion",
-          "uuid": "66a417b1975542c7b66cdf2801244209416fd453"
-        },
-        {
-          "url": "https://www.sling.com/help/es/tecnicas/antenna-faq",
-          "uuid": "1abc5b753f7e1786663d46797ee5a17cac5163b0"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/international-programming/multiple-devices-portuguese",
-          "uuid": "24e898d984517093245e33890d7b0ac6f584a04a"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/channels-programming/tv-everywhere",
-          "uuid": "938d09aac08e79e8464b97247ab6ab604679dc98"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/gift-cards/gift-cards-explained",
-          "uuid": "dbb551c3d495924d1f04e39623594ff28f953a41"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/supported-devices",
-          "uuid": "960febef2333e3f284e99c187f8b30403aaa7a10"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/using-sling/player-controls",
-          "uuid": "1eb2c5dd8db7ac6e8ce5b9ec61fb5ecaa3702ec1"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/antennas/antenna-faq",
-          "uuid": "ef3625a2a04018dff013a4da52d4aeeb7efd6c71"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/multiple-screens",
-          "uuid": "84ea74c2785b50b76b0f4b884a9d9a5d290a4c5d"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/rentals-vod/vod-catch-up-tv",
-          "uuid": "85e817a99cf9deb5e35cc7ae92fa783872f47974"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/promotions/freestream",
-          "uuid": "5eda885cba0cf4a109fd9f323f5013f51c363349"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/passwords-security/update-password",
-          "uuid": "e856aca2c4642091d78b6eb5673c37bdc3e026c3"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/using-sling/closed-captions",
-          "uuid": "d9f2ee5fd9d6de32b74080d609a85ffc92ce1e28"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/antennas/lg-ota",
-          "uuid": "1ff72baffdb564e68b7429bc32bdd6723b0c0748"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/restart-subscription/restart-sub-amazon",
-          "uuid": "4731c55f737fa4811d58c50cce1b7f6dc48910ee"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/promotions/rewards-program",
-          "uuid": "a9e135b8f54140dd6d245499d1e0f1b35fb43b7a"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/general-troubleshooting/check-speed",
-          "uuid": "378454b466964fcb10440e21fd6e014bc040772a"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/connectivity",
-          "uuid": "b6e2e1924458d8159130c45958956492ffcbd771"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/connectivity/speed-recommendation",
-          "uuid": "054daaa7a4bba5936e4ca6943f5cca0b4075ecec"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/account-changes/update-billing-address",
-          "uuid": "85a4e33e684e913c33b781bc5aee08904e350f28"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/using-sling/duplicate-channels",
-          "uuid": "705ec0547a7e3144f792e8ca8265cb9018cfbfbf"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/channels-programming",
-          "uuid": "f6bb49cc94da9acdeb173f89ea8ae97463d540cd"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/gift-cards/gift-card-signup",
-          "uuid": "127271e3dd0b6e285016d5efef014c027e23c324"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/passwords-security/secure-password",
-          "uuid": "3f3c192fcf0327d665c61d7963a694fae1775079"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/tech-issues/missing-audio",
-          "uuid": "4bd823c0c7c4b414e7d735ec834e7bb6ab71068b"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/billing-payments/update-card",
-          "uuid": "010e573659b06ebf5bee1286cf5a0c9f8b5150d0"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/dvr-help/dvr-features",
-          "uuid": "8fcd2832e9eadd391f25819c2fac59531581749c"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/error-messages/error-2-204-3-1",
-          "uuid": "3a2bfe2e7e461b81c1dcfc180c03f512a1859938"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/general-troubleshooting/restart-device",
-          "uuid": "c15343d74913cc2181231db86370246cecca8a0b"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/sports",
-          "uuid": "839173dc810f82d2b772acd33a27a62396ab75e2"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/using-sling",
-          "uuid": "cb7d725a16e9c8a470eb49dbc0be1ec681053d0e"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/general-troubleshooting/relaunch-app",
-          "uuid": "b4f511112711b940973c648250e3f6a6015812a8"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/tech-issues/incorrect-guide",
-          "uuid": "37a16720df00260449b59ba5c22bebbedee322f6"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/account-changes/update-personal-info",
-          "uuid": "269e779bb65cccac9c943ba7e50af3d110fcec5c"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/terms-conditions/cancellation-policy",
-          "uuid": "80663920ee4599235e06b7426adcfda1217f95ab"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/terms-conditions/terms-of-use",
-          "uuid": "e8bb8f6c8915bfc787b129c7739f8ed3a5dd9f53"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/billing-payments/unauthorized-charge",
-          "uuid": "9180e61a35acd68f51a348ab503041efac400dd5"
-        },
-        {
-          "url": "https://www.sling.com/help/en/account-questions/account-changes/manage-sub-amazon",
-          "uuid": "661b24df12944e241d1b707b3661bcb754c637a6"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/tech-issues/out-of-sync",
-          "uuid": "1040202c1c01b1d31c351877b3b4cac0ca2380a9"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/report-issues/vod-issue",
-          "uuid": "e52b11aabee35a87f63e5a831691e373f9a46096"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/antennas/antenna-audio-video",
-          "uuid": "042820902e9dd64ac4a9c9ecd706e46add8154e7"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/antennas/antenna-placement",
-          "uuid": "93e46c90226d3c5c0fee7375acec429b926690d7"
-        },
-        {
-          "url": "https://www.sling.com/help/en/troubleshooting/antennas/antenna-poor-signal",
-          "uuid": "4078ceb986599fa78f811b439548e75dac83901a"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/sports/espn3",
-          "uuid": "ab6e82774dbeca2fbd65653b13b8feb8cfdd3957"
-        },
-        {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/international-programming/sling-international",
-          "uuid": "6c087c3f32d8ae3ff200bedd0d6aaeed932926cc"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/using-sling/settings",
-          "uuid": "b520f504220669260fbe0d8aeeff5584e27e4211"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/using-sling/alexa",
-          "uuid": "b54c366cf420d9ce64fd10ba4ff85cae7fd832f9"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/promotions/shipment-tracking",
-          "uuid": "738279f9c635e8b1050cbc161907675ade001f74"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/get-started",
-          "uuid": "12eabc54d9b7216395595da8b42d9099058245da"
-        },
-        {
-          "url": "https://www.sling.com/help/en/learn-about-sling/about-sling",
-          "uuid": "fd7fc1e47e0da9b20bc0e31d0d024934c14a6a45"
-        },
+          "url": "https://www.swbcpeo.com/about-us/careers",
+          "uuid": "57f13341dd6f1c4d162092de474395e65ccf9dc8"
+        }
+      ]
+    },
+    {
+      "name": "'Profile Page'",
+      "cluster": 5,
+      "pages": [
         {
-          "url": "https://www.sling.com/help/en/learn-about-sling/rentals-vod",
-          "uuid": "283ed1aa22e5f3b14657a639153f9c361d8fe634"
+          "url": "https://www.swbcpeo.com/about-us/leadership/dee-dee-neil-0",
+          "uuid": "833d430746096f24fb654d8e190e26e900e0f717"
         },
         {
-          "url": "https://www.sling.com/help/en/account-questions/restart-subscription",
-          "uuid": "6b146d220acc63ed06026e90249527be9cf79712"
+          "url": "https://www.swbcpeo.com/about-us/leadership/kim-pollok",
+          "uuid": "6a0e6a1a542144a960b3b9d4eff5996f755a8ebe"
         },
         {
-          "url": "https://www.sling.com/help/en/account-questions/restart-subscription/restart-sub",
-          "uuid": "efb1e2b91347efbddf21b66daf850ffe11d9c87e"
+          "url": "https://www.swbcpeo.com/about-us/leadership/charlie-amato",
+          "uuid": "3e58568404c5b9ed655de333acb244b5da68eb34"
         },
         {
-          "url": "https://www.sling.com/help/en/account-questions/terms-conditions/social-tos",
-          "uuid": "826b27b5dbab432286023cf3dab267d0c6cba6ab"
+          "url": "https://www.swbcpeo.com/about-us/leadership/ilka-ramirez",
+          "uuid": "e3e87ec31ee033c9048443189b8406c0f9032007"
         },
         {
-          "url": "https://www.sling.com/help/en/account-questions/passwords-security",
-          "uuid": "3df75a0c483b3cf900af495cff9fa28567225e56"
+          "url": "https://www.swbcpeo.com/about-us/leadership/dee-dee-neil",
+          "uuid": "6817f23547090ef4debf4dd41577d074e4c69ca4"
         },
         {
-          "url": "https://www.sling.com/help/en/account-questions/gift-cards",
-          "uuid": "622b75fb93c2ae428ec728c629e7ca1f5ce931b0"
+          "url": "https://www.swbcpeo.com/about-us/leadership/kate-walzel-thompson",
+          "uuid": "03f59c1b791671c3e6d661554dd3f4af2e8f9f70"
         },
         {
-          "url": "https://www.sling.com/help/en/troubleshooting/tech-issues",
-          "uuid": "c3934a08b983f2277bf9e31806821354e2bc6cba"
+          "url": "https://www.swbcpeo.com/about-us/leadership/shannon-martin",
+          "uuid": "e82e44227f1379ff855b563c1fffbae2113c7b1d"
         },
         {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions/roku-setup",
-          "uuid": "b5e704de780414deda231d26923f7fb64e816e05"
+          "url": "https://www.swbcpeo.com/about-us/leadership/gary-dudley",
+          "uuid": "bce007fb8593bedbf1864763627004de67ef10da"
         },
         {
-          "url": "https://www.sling.com/help/en/troubleshooting/antennas",
-          "uuid": "343869de64d0dc6d363fef9f41f5da624dc80ca9"
+          "url": "https://www.swbcpeo.com/about-us/leadership/isaac-alarcon",
+          "uuid": "479bda9cc2a7ac20e8941ca1d164b1ae53df7e3d"
         },
         {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/international-programming",
-          "uuid": "762dcaad6fa5a60c21f1c5669e2835ca5c0bb74f"
+          "url": "https://www.swbcpeo.com/about-us/leadership/karen-mcgee",
+          "uuid": "8c2a3ae78528f974b24c04ea86b9c262bc72b29d"
         },
         {
-          "url": "https://www.sling.com/help/en/learn-about-sling/using-sling/blackouts",
-          "uuid": "0c9d2bd8b0e549049f1a8658ad13c247c90b12bd"
+          "url": "https://www.swbcpeo.com/about-us/leadership/jayne-frasure",
+          "uuid": "3a53efd5668acc6facee96889bcf52754c20a616"
         },
         {
-          "url": "https://www.sling.com/help/en/learn-about-sling",
-          "uuid": "b61c9ab3f422e71722216d1654e5952191981dc5"
+          "url": "https://www.swbcpeo.com/about-us/leadership/norman-l-paul-jr-jd",
+          "uuid": "a574843e6efbd134ec570d49c17130804a80354b"
         },
         {
-          "url": "https://www.sling.com/help/en/account-questions/terms-conditions",
-          "uuid": "1c6226e7995c2e4321bb35130ac663a8811be77f"
+          "url": "https://www.swbcpeo.com/about-us/leadership/lauren-moore-jd",
+          "uuid": "9d3bbf1c39e61b56513828073388b99a00384b16"
         },
         {
-          "url": "https://www.sling.com/help/en/account-questions/billing-payments",
-          "uuid": "006f9b65c906b121afb2f629e0e8f87a50b89393"
+          "url": "https://www.swbcpeo.com/about-us/leadership/shirley-r-peterson-cpa",
+          "uuid": "acce48b01ed3b14b4922b9333ac387f665438f5e"
         },
         {
-          "url": "https://www.sling.com/help/en/account-questions/account-changes",
-          "uuid": "fe24444283f28aeea2e92ec43995e2f79044b21b"
-        },
+          "url": "https://www.swbcpeo.com/about-us/leadership/pam-williams",
+          "uuid": "6166c2a5eda52c4a50760275424f2228a423cca2"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 6,
+      "pages": [
         {
-          "url": "https://www.sling.com/help/en/learn-about-sling/news",
-          "uuid": "eedb7d606395ad463ef9b0649ece3e8a6d012c0a"
-        },
+          "url": "https://www.swbcpeo.com/resources/case-studies/helping-greater-san-antonio-chamber-turn-tragedy-triumph",
+          "uuid": "3e8561ee87717d7fb15df8bc5895cb36e1ede4fe"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard UI Template'",
+      "cluster": 7,
+      "pages": [
         {
-          "url": "https://www.sling.com/help/en/troubleshooting/report-issues",
-          "uuid": "6a115130561f05f0b22e03e097a0ddc048e56ed1"
+          "url": "https://www.swbcpeo.com/resources/case-studies/hard-hats-soft-skills-beyer-mechanicals-hr-evolution-swbc-peo",
+          "uuid": "c825b8ef9a8bd9f2b3cb4d4f0c0b48291e1741d7"
         },
         {
-          "url": "https://www.sling.com/help/en/troubleshooting/device-questions",
-          "uuid": "dba5973b8e369d01661c3f1b16cc090663c5b7a3"
+          "url": "https://www.swbcpeo.com/resources/case-studies/childrens-bereavement-south-texas",
+          "uuid": "ce45ff8616ad9cd62a4fdf73b54dc2ecab6275d2"
         },
         {
-          "url": "https://www.sling.com/help/en/subscription-programming-questions/subscriptions",
-          "uuid": "74d7667a65f0f0af7384fd30332d649688d10bb0"
+          "url": "https://www.swbcpeo.com/resources/case-studies/hill-country-pain-associates",
+          "uuid": "99d23284fd7e2abd21f56fb088168f6bcea5ecbd"
+        },
+        {
+          "url": "https://www.swbcpeo.com/resources/case-studies/beyer-plumbing-tightens-compliance-ever-changing-industry",
+          "uuid": "a4ef059d8bf6d107f7cea14340f8d05ae83d3eac"
+        },
+        {
+          "url": "https://www.swbcpeo.com/resources/case-studies/tobin-center-perfoming-arts",
+          "uuid": "55b743cf2174b9d7673393d693f0e46f57dbf533"
+        },
+        {
+          "url": "https://www.swbcpeo.com/resources/case-studies/mission-alamo-trust",
+          "uuid": "a4a40ae103ed23956d0a7a183df8100613e0cff4"
+        },
+        {
+          "url": "https://www.swbcpeo.com/resources/case-studies/coley-associates-inc",
+          "uuid": "0132df6077757beffb8cd0f5506992233854402c"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://www.swbcpeo.com/",
+          "uuid": "b81a351fe02d1a8427d3f3db26945756882188c9"
+        }
+      ]
+    },
+    {
+      "name": "\"Business Services Template\"",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://www.swbcpeo.com/resources/case-studies",
+          "uuid": "8d005c832541f9a3b2d247289a475455c73fa4bc"
+        },
+        {
+          "url": "https://www.swbcpeo.com/resources/blog",
+          "uuid": "459655435e7e67797f8fc7b55fb4cefd8ed419f3"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://www.swbcpeo.com/services/technology-works-you",
+          "uuid": "1a859415a4851b2006dd27f549047dd5e35d224e"
+        }
+      ]
+    },
+    {
+      "name": "\"Corporate Dashboard\"",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://www.swbcpeo.com/services",
+          "uuid": "0bc31823cabbc50193cb11ab06e21efab7f4abb0"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 12,
+      "pages": [
+        {
+          "url": "https://www.swbcpeo.com/about-us",
+          "uuid": "92ef6c545d616b6c112c0f405b06773310270c72"
         }
       ]
     }
