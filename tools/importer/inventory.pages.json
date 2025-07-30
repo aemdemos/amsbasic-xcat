@@ -1,296 +1,474 @@
 {
   "templates": [
     {
-      "name": "\"Community Organization Template\"",
+      "name": "Profile Directory Template",
       "cluster": 1,
       "pages": [
         {
-          "url": "https://efundsforschools.com/blog/",
-          "uuid": "c9c3dac9c1782af1ff96fd0194c7329a5c8f3d66"
+          "url": "https://www.getswivel.io/our-resources/",
+          "uuid": "f5351f0e8698aacf254697f90a56f2a4b2e6b7c8"
         },
         {
-          "url": "https://efundsforschools.com/campus-solutions/",
-          "uuid": "2c78f718ac23ae763a8714b9c51c1e1c4c9bf173"
+          "url": "https://www.getswivel.io/payment-processing-software/",
+          "uuid": "69b47237cafe07dcdd8f28cdd59da616c8316baa"
         },
         {
-          "url": "https://efundsforschools.com/payment-solutions/",
-          "uuid": "8518444f914e057709d3537a39bdca60f8f7c730"
+          "url": "https://www.getswivel.io/about-us/",
+          "uuid": "8318bf0f364c4855b7f955a139ad73efd8530376"
         },
         {
-          "url": "https://efundsforschools.com/autopay-recurring-payment/",
-          "uuid": "7d27ba45bda0262393d8b4cfe325bd5477c6f5f9"
+          "url": "https://www.getswivel.io/digital-payments-platform/",
+          "uuid": "9f4f8c89bccdbb7780baff6f20a84e18019dec85"
         },
         {
-          "url": "https://efundsforschools.com/summer-school-and-community-education/",
-          "uuid": "baa99c05e7ae73bc379fb47150f0e942c36f0c43"
+          "url": "https://www.getswivel.io/information-security-and-risk-mitigation/",
+          "uuid": "962a5371ea3b964186344b9669aa48b46572d6bc"
         },
         {
-          "url": "https://efundsforschools.com/pos-point-of-sale/",
-          "uuid": "2b1fa216ab925b4cad170e90fab592ded3892612"
+          "url": "https://www.getswivel.io/blog/",
+          "uuid": "fc7200daec1797b03e15ee1d6bb5e12a7dbd52aa"
         },
         {
-          "url": "https://efundsforschools.com/online-and-mobile/",
-          "uuid": "3b50ec520c40b5c040f7b4b1069168088caa895e"
+          "url": "https://www.getswivel.io/documents-new/",
+          "uuid": "6a1b2665a8843512dbb71eb63a6581de88dd788b"
         },
         {
-          "url": "https://efundsforschools.com/fundraising-and-donations/",
-          "uuid": "4482ac75d09721eb1207be9c8427397d8878b227"
+          "url": "https://www.getswivel.io/ivr-call-center/",
+          "uuid": "8fb00f84b382d543ae218ba28697fd28ff605a61"
         },
         {
-          "url": "https://efundsforschools.com/human-resources/",
-          "uuid": "726f5cb0adb3f1a4af6b9fced7e5b097fc823dc6"
+          "url": "https://www.getswivel.io/partnerships/",
+          "uuid": "d572c74394bf41ddc7d0c0c0351535cbaf56a148"
         },
         {
-          "url": "https://efundsforschools.com/athletics-and-fine-arts/",
-          "uuid": "27f309b1c58ea74b4541919f5a3a669794da904e"
+          "url": "https://www.getswivel.io/say-hello/",
+          "uuid": "8eb3a8259e09465f286c936f9f2e57025a11b141"
         },
         {
-          "url": "https://efundsforschools.com/transportation-and-facility-rentals/",
-          "uuid": "d706ab1c88f3a15fed7025f10f7a62692b645cf2"
+          "url": "https://www.getswivel.io/integrated-administrative-portal/",
+          "uuid": "61ef70dad1d4aea49f0ac834bd660d5dd57dd67e"
         },
         {
-          "url": "https://efundsforschools.com/before-and-after-school-child-care/",
-          "uuid": "872344fbe58cea57558d6c8b6b424c5b42cf7dd3"
+          "url": "https://www.getswivel.io/our-events/",
+          "uuid": "84b9d9d0d9b4edd20e04f4116b663b9a49f348b2"
         },
         {
-          "url": "https://efundsforschools.com/library-and-media-center/",
-          "uuid": "07a3db069f077978ef19c6e26338d565e51c960e"
+          "url": "https://www.getswivel.io/contact-us/",
+          "uuid": "09cb74e728b617423a47fde49c638e0a40d279f5"
+        },
+        {
+          "url": "https://www.getswivel.io/documents/",
+          "uuid": "a44cf2b9effeb2d1d4e2e25975807c57d03c955a"
+        },
+        {
+          "url": "https://www.getswivel.io/connect2core/",
+          "uuid": "4645d4eb611d146367626cb7309426ac53864c9e"
+        },
+        {
+          "url": "https://www.getswivel.io/how-stored-cards-benefit-your-financial-institution/",
+          "uuid": "01609f8313aecf9114e70f2dfae289f0e1be43a1"
+        },
+        {
+          "url": "https://www.getswivel.io/ahora-en-espanol-swivel-expands-spanish-support-across-digital-channels/",
+          "uuid": "95b38c7ae4254feb259636fc816fa840f611a9bf"
+        },
+        {
+          "url": "https://www.getswivel.io/essential-strategies-for-secure-instant-payments/",
+          "uuid": "22a4843d01280041ed548c2ce4ddbcc13461661b"
+        },
+        {
+          "url": "https://www.getswivel.io/compliance-alerts/",
+          "uuid": "7cc8c031da664b7f1632e8bb11098b96ec56e3f3"
+        },
+        {
+          "url": "https://www.getswivel.io/revolutionizing-financial-operations-real-time-payment/",
+          "uuid": "129d23c2857210860743a7e6a95c906836c78d29"
+        },
+        {
+          "url": "https://www.getswivel.io/news/",
+          "uuid": "b1b271ca14e76d5a09b7228f9e548bd135b18c66"
+        },
+        {
+          "url": "https://www.getswivel.io/4-great-benefits-of-digital-wallets-how-apple-pay-can-help/",
+          "uuid": "345929165504ef33461a77217efbe11066d9a517"
+        },
+        {
+          "url": "https://www.getswivel.io/creating-frictionless-payments-solutions/",
+          "uuid": "f8fb78fd8681ee467c61c31408e4da4e20a5f8e9"
+        },
+        {
+          "url": "https://www.getswivel.io/power-in-the-process-enhance-the-borrower-experience/",
+          "uuid": "744e14eb1d7d42712f78422055bcbf669d848cba"
+        },
+        {
+          "url": "https://www.getswivel.io/role-of-security-and-risk-management-for-payments/",
+          "uuid": "ea9a2efcea61a49430604b0d6cc83c031a2bc8d3"
+        },
+        {
+          "url": "https://www.getswivel.io/prevent-holiday-credit-card-related-scams/",
+          "uuid": "512ca4fb2ea894939e6c40c033f26ef7a301ba77"
+        },
+        {
+          "url": "https://www.getswivel.io/how-safe-are-stored-cards-for-your-financial-institutions-account-holders/",
+          "uuid": "cfd48df0e47285f05f9469a9c637705ec6ea8990"
+        },
+        {
+          "url": "https://www.getswivel.io/how-to-prevent-your-borrowers-from-falling-victim-to-greed-scams/",
+          "uuid": "bf1def5d6fbb13eb97508574bc6cc8ba4910b152"
+        },
+        {
+          "url": "https://www.getswivel.io/2022-product-outlook-for-fi-payments/",
+          "uuid": "66302b3b262ae111de30069ed0940cc699b2eab9"
+        },
+        {
+          "url": "https://www.getswivel.io/digital-payments-solutions-for-your-indirect-borrowers/",
+          "uuid": "89d2da78b0b0aa2f881e26de5d20b7572ef0daad"
+        },
+        {
+          "url": "https://www.getswivel.io/keeping-pace-self-service-payments-options/",
+          "uuid": "7a2686ba84aaa579b30d3ac83f83da5b3150279d"
+        },
+        {
+          "url": "https://www.getswivel.io/quick-tips-for-delighting-your-account-holders/",
+          "uuid": "e355119aab95a1350898469a54092bc18caf9c24"
+        },
+        {
+          "url": "https://www.getswivel.io/regtech-improving-efficiency-financial-services/",
+          "uuid": "ee107737e5ac5cab835817b491d7e30981443dbe"
+        },
+        {
+          "url": "https://www.getswivel.io/preventing-online-account-origination-fraud/",
+          "uuid": "bede6316474955a54f2a891d9282e1e418a6f4b3"
+        },
+        {
+          "url": "https://www.getswivel.io/nachas-fraud-risk-management-and-monitoring-rules/",
+          "uuid": "9a8cbf59d805f209302a9626c1a01dc98428b23e"
+        },
+        {
+          "url": "https://www.getswivel.io/preventing-carding-in-a-cashless-age/",
+          "uuid": "b1219e2487aba6d3ea1406401a5e48a10470b8cd"
         }
       ]
     },
     {
-      "name": "\"Informational Multi-Section Page\"",
+      "name": "'Footer Navigation Template'",
       "cluster": 2,
       "pages": [
         {
-          "url": "https://efundsforschools.com/blog/online-fundraising-101-a-strategies-tools-for-your-school/",
-          "uuid": "6cb0c6dbbfa625025c01cc5592e32cc5d0fcb19d"
+          "url": "https://www.getswivel.io/faq-category/software/",
+          "uuid": "83c6d8a8da23b94c4f2dc0d68bab44d3eda35d01"
         },
         {
-          "url": "https://efundsforschools.com/blog/pos-itive-impact-how-smart-point-of-sale-systems-can-boost-your-schools-productivity/",
-          "uuid": "230cb7b7b670d3eec557faca54e2a20a43b7bc5c"
+          "url": "https://www.getswivel.io/faq-category/general/",
+          "uuid": "a0a916c627a9dfa4d488d0cb1b2f44854e575254"
         },
         {
-          "url": "https://efundsforschools.com/blog/making-the-grade-how-cashless-payments-can-elevate-your-school/",
-          "uuid": "39f51a2f268ff0a0a945539205c1ac646d0f9350"
+          "url": "https://www.getswivel.io/faq/question-title-goes-here-question-title-goes-here-general-2/",
+          "uuid": "0e4294d5d76c25d8c6f8992dd7e75900d2a6df02"
         },
         {
-          "url": "https://efundsforschools.com/blog/four-tips-for-making-field-trips-a-breeze-for-your-school/",
-          "uuid": "f156d3513c48db30cb82ecd8c42c931b6d2f19a1"
+          "url": "https://www.getswivel.io/faq/question-title-goes-here-question-title-goes-here-general/",
+          "uuid": "57350d3f4cdfa586a838cbdc0ff4b27533ee7550"
         },
         {
-          "url": "https://efundsforschools.com/blog/five-ways-your-school-library-can-keep-up-with-modern-technology/",
-          "uuid": "148bb1ff25b0f383b602a2614a3164dc825cd33c"
+          "url": "https://www.getswivel.io/faq/question-title-goes-here-question-title-goes-here-general-2-2/",
+          "uuid": "83708adfa26b180c3ec82fe766c18ff596e7840d"
+        },
+        {
+          "url": "https://www.getswivel.io/faq-category/support/",
+          "uuid": "7757d34ea973a2ec6d9e244fe3ade1ac33ca2d82"
         }
       ]
     },
     {
-      "name": "'Documentation Page'",
+      "name": "'Business Website Template'",
       "cluster": 3,
       "pages": [
         {
-          "url": "https://efundsforschools.com/uncategorized/efs-pos-guide/",
-          "uuid": "65442b35f4ef67060f20d1c4bb3806ddd74e1329"
+          "url": "https://www.getswivel.io/events/",
+          "uuid": "5a8061c9c65646427a6f6ba802af70d8304584ff"
+        },
+        {
+          "url": "https://www.getswivel.io/case-studies/",
+          "uuid": "c1dd7f74d8c46b476c5ffc743bb36842de32e390"
+        },
+        {
+          "url": "https://www.getswivel.io/real-time-payment-data-posting-connect2core/",
+          "uuid": "2bb45ff2f4da4dcd15506b7e22f684f736b4f354"
+        },
+        {
+          "url": "https://www.getswivel.io/going-real-time-with-connect2core/",
+          "uuid": "7623ee7d9baf841ba4d870bb4e84a575ad6ef1d0"
+        },
+        {
+          "url": "https://www.getswivel.io/sample-page/",
+          "uuid": "cb7ed15c02b9ba1e8a1de5758fd5e842eeb66f45"
+        },
+        {
+          "url": "https://www.getswivel.io/case-studies-post/",
+          "uuid": "d2ad9c9c65ab2bec9bfb548adb027cf863db4680"
+        },
+        {
+          "url": "https://www.getswivel.io/downlodables/",
+          "uuid": "35082ba972b4943cf41487b61cc10f85ca32c8ef"
+        },
+        {
+          "url": "https://www.getswivel.io/perspectives/",
+          "uuid": "41609b5476f605368b4417b16aab0020e4208091"
+        },
+        {
+          "url": "https://www.getswivel.io/faq/",
+          "uuid": "e2ace52805a7faf9691b975085568ff5d1674367"
+        },
+        {
+          "url": "https://www.getswivel.io/company-testimonials/",
+          "uuid": "68d14a621602165b3616398cfe9eee2cf61df6c9"
         }
       ]
     },
     {
-      "name": "'List Page'",
+      "name": "Dashboard Template",
       "cluster": 4,
       "pages": [
         {
-          "url": "https://efundsforschools.com/frequently-asked-questions/",
-          "uuid": "59b92143690ddf3a84a97c0d7729550fded20206"
+          "url": "https://www.getswivel.io/press-releases/swivel-to-improve-transaction-enablement/",
+          "uuid": "b6482c9b9a9f21906272bc12759cfbf3209021a9"
+        },
+        {
+          "url": "https://www.getswivel.io/press-releases/swivel-and-paydoff-partner-to-empower-financial-institutions-smarter-collections-and-seamless-payment-engagement/",
+          "uuid": "c7e5d17807aba2b81deb6ce4b70c31d8e25a2744"
+        },
+        {
+          "url": "https://www.getswivel.io/press-releases/swivel-announces-unique-apple-pay-integration-capability-to-improve-loan-payment-performance-for-community-financial-institutions/",
+          "uuid": "95a09fde54ad7dd2059d24ef14ccc5401f08ca3c"
+        },
+        {
+          "url": "https://www.getswivel.io/press-releases/swivel-expands-integration-with-eltropy/",
+          "uuid": "13838912bfabd59d23aece681af60bd24de01b41"
+        },
+        {
+          "url": "https://www.getswivel.io/press-releases/swbc-launches-fintech-company-swivel-focused-on-frictionless-integrated-transaction-enablement/",
+          "uuid": "6f4660bea295e8b327200a8fe9b596819d63ce81"
+        },
+        {
+          "url": "https://www.getswivel.io/press-releases/swbc-marketing-and-swivel-win-silver-addy-award-for-brand-evolution/",
+          "uuid": "f22ea1f5ca48c3a17c6a4a7b8bb3c87c346b9062"
+        },
+        {
+          "url": "https://www.getswivel.io/press-releases/swivel-announces-integration-of-magic-wrighters-loanpay-into-swivels-payments-platform/",
+          "uuid": "afca14721c82e8688d8fc5323c0a6d5be06a40f2"
+        },
+        {
+          "url": "https://www.getswivel.io/press-releases/swivel-named-paytech-awards-usa-2024-finalist-in-multiple-categories/",
+          "uuid": "26487408a98e151938a5d0cd1396ee942bb1e4a1"
+        },
+        {
+          "url": "https://www.getswivel.io/press-releases/swivel-named-paytech-awards-usa-2024-winner-for-top-innovation-in-payments-solutions-for-banks-fis/",
+          "uuid": "7aef78e04305a897756cdfa18e10d417b3cfc821"
+        },
+        {
+          "url": "https://www.getswivel.io/press-releases/swivel-added-to-akuvos-portfolio-of-connected-services/",
+          "uuid": "ae134a5aad824349f6edfa852352c616e353546f"
+        },
+        {
+          "url": "https://www.getswivel.io/press-releases/swbcs-swivel-acquires-magic-wrighter-inc/",
+          "uuid": "97afa6d0ee76910da1d3d9d075572cc9dbb4c391"
+        },
+        {
+          "url": "https://www.getswivel.io/press-releases/swivel-announces-integration-with-fiserv-corillian-home-banking-application/",
+          "uuid": "33a18773c5399ba2ca34cda52c6842d584c176ae"
+        },
+        {
+          "url": "https://www.getswivel.io/press-releases/swivel-announces-promotion-of-amanda-crocker-to-president/",
+          "uuid": "f5bc3abf8c781890621c55db81ed851c55c4dd20"
+        },
+        {
+          "url": "https://www.getswivel.io/press-releases/swivel-partners-with-federal-reserve-experts-to-host-exclusive-webinar-series-on-the-future-of-instant-payments/",
+          "uuid": "5ae4c767d1b659865b154c0f20ef3ff927688c06"
+        },
+        {
+          "url": "https://www.getswivel.io/press-releases/swbcs-swivel-offers-enhanced-payment-experience-with-new-stored-cards-feature/",
+          "uuid": "652fb5fc12d1f0228ee5d09197779b5da488135e"
+        },
+        {
+          "url": "https://www.getswivel.io/press-releases/crocker-joins-swivel-as-chief-operating-officer/",
+          "uuid": "5f2ed42806d13802b0f5ac91c28d44b08de1fba9"
         }
       ]
     },
     {
-      "name": "'Service Listing Page'",
+      "name": "'Portfolio Page'",
       "cluster": 5,
       "pages": [
         {
-          "url": "https://efundsforschools.com/business-managers-and-bookkeepers/",
-          "uuid": "4cf68efab31ee9d44f9ccdf0cade5c6921470891"
+          "url": "https://www.getswivel.io/events/jack-henry-connect/",
+          "uuid": "246ccb6831200464fb5b236d971308994a66dd8c"
         },
         {
-          "url": "https://efundsforschools.com/food-services/",
-          "uuid": "14502614b281e081688cc657e858972be7293231"
+          "url": "https://www.getswivel.io/events/eta-strategic-leadership-forum/",
+          "uuid": "5b1fbcf04bc2831e82652c13d7169e303de54c62"
         },
         {
-          "url": "https://efundsforschools.com/student-fee-management/",
-          "uuid": "6679351c3d5cd0d7e53e77e90914a0c423319217"
+          "url": "https://www.getswivel.io/events/aft-association-for-financial-technology/",
+          "uuid": "84352153707b61e516be17dfd26a3aaf885d2d9a"
+        },
+        {
+          "url": "https://www.getswivel.io/events/venturetech/",
+          "uuid": "e2dc34b2b5419f4055b178516e8aada8014d1762"
+        },
+        {
+          "url": "https://www.getswivel.io/events/nextgen-payments-forum-15th-nextgen-payements-regtech-forum/",
+          "uuid": "8c145bfb7fa199aee618635108403c3f94e5f0f9"
+        },
+        {
+          "url": "https://www.getswivel.io/events/testing-event-251/",
+          "uuid": "a376c979c8d20694ea89f30f5c6a3414409b18be"
+        },
+        {
+          "url": "https://www.getswivel.io/events/testing-event-251-2/",
+          "uuid": "730379d5cadce8394592604fbfef730f2bec9920"
+        },
+        {
+          "url": "https://www.getswivel.io/events/ccul-reach/",
+          "uuid": "6836eeca70b5ab22355cc1c1a8a807af1f14964e"
+        },
+        {
+          "url": "https://www.getswivel.io/events/cuna-lending-council-conference/",
+          "uuid": "5d6ad101e5659b2e8d295878fb961988df3edb78"
+        },
+        {
+          "url": "https://www.getswivel.io/events/go-west-maxx/",
+          "uuid": "e9931dd5bea10d973ed2a8cee500529255abba39"
+        },
+        {
+          "url": "https://www.getswivel.io/events/akuvo-conference/",
+          "uuid": "e7f23aa2254dbcb3d9fb3c72c3a22bae159e46ab"
+        },
+        {
+          "url": "https://www.getswivel.io/events/jack-henry-connect-2/",
+          "uuid": "3cb6706fbd3cbb645f53393d6a90600976076c0d"
+        },
+        {
+          "url": "https://www.getswivel.io/events/aft-association-for-financial-technology-2/",
+          "uuid": "f3dbdbd99538454131c4088601867e691f006cd5"
+        },
+        {
+          "url": "https://www.getswivel.io/events/go-west-maxx-2/",
+          "uuid": "7eb19009de54264836e1da56f4a5e1aa5b6295f6"
+        },
+        {
+          "url": "https://www.getswivel.io/events/eta-strategic-leadership-forum-2/",
+          "uuid": "eb789beb84398e431473167d4029f5b9b5f43e20"
+        },
+        {
+          "url": "https://www.getswivel.io/events/fintech_devcon/",
+          "uuid": "138deb7e4c95569ed2738e3aeb98aaec11c329b4"
+        },
+        {
+          "url": "https://www.getswivel.io/events/ccul-reach-2/",
+          "uuid": "227e31d90f4a9af07a87724b67549e19a444c08b"
+        },
+        {
+          "url": "https://www.getswivel.io/events/venturetech-2/",
+          "uuid": "5e2faadc51eb0c0ee5647b33ea48e8ebf78903e6"
+        },
+        {
+          "url": "https://www.getswivel.io/events/cu-build-2024/",
+          "uuid": "19fba25b871cf82993603469f25ea59212d21058"
+        },
+        {
+          "url": "https://www.getswivel.io/events/cuna-lending-council-conference-americas-credit-unions/",
+          "uuid": "adda4787aa69a65511d9a39cde6f843178db9d5f"
         }
       ]
     },
     {
-      "name": "News Listing",
+      "name": "'Generic Content Page'",
       "cluster": 6,
       "pages": [
         {
-          "url": "https://efundsforschools.com/author/admin/",
-          "uuid": "1eae168efde92edb763b98b7e557e255f7db7f5a"
+          "url": "https://www.getswivel.io/chase/electronic-communication-agreement/",
+          "uuid": "6816ceeca99900a1fd5f383413095aa25974f5a1"
+        },
+        {
+          "url": "https://www.getswivel.io/chase/terms-of-use/",
+          "uuid": "236be198da9df77ee9647955dd8f4a386792a8a2"
+        },
+        {
+          "url": "https://www.getswivel.io/chase/high-risk-acceptable-use-policy/",
+          "uuid": "9ab07b311ee092c1645b8014a3454eb98d398e23"
         }
       ]
     },
     {
-      "name": "'Donation Page'",
+      "name": "'Dashboard Layout'",
       "cluster": 7,
       "pages": [
         {
-          "url": "https://efundsforschools.com/category/uncategorized/",
-          "uuid": "019833797918a17ec60eaac5260438b5aef49a48"
+          "url": "https://www.getswivel.io/company-testimonials/amoco-federal-credit-union/",
+          "uuid": "656677a2ceaca1d35cdfec57e276c36dd0611b77"
+        },
+        {
+          "url": "https://www.getswivel.io/company-testimonials/rio-grande-credit-union/",
+          "uuid": "83e7c32fc63d9ac2237d5729d1a279eb740847fc"
         }
       ]
     },
     {
-      "name": "'Homepage Template'",
+      "name": "E-commerce Product Page",
       "cluster": 8,
       "pages": [
         {
-          "url": "https://efundsforschools.com/",
-          "uuid": "3bd6c0efdb18e88e57410b672d92b6609139f64e"
+          "url": "https://www.getswivel.io/",
+          "uuid": "aa6d8da42d485440622d39c1d67bf62c41aa7ce7"
         }
       ]
     },
     {
-      "name": "'Photo Gallery Page'",
+      "name": "'Link Directory Page'",
       "cluster": 9,
       "pages": [
         {
-          "url": "https://efundsforschools.com/category/blog/",
-          "uuid": "f842ac0b7f0590f2d651fceeed29477d6213a402"
+          "url": "https://www.getswivel.io/case-studies-post/weokie-federal-credit-union-2/",
+          "uuid": "ec1747ddc6f8776d72d5374f2f56c2d3bcf4e405"
         }
       ]
     },
     {
-      "name": "'Service Overview Page'",
+      "name": "'Profile Page'",
       "cluster": 10,
       "pages": [
         {
-          "url": "https://efundsforschools.com/smarter-payment-platform/",
-          "uuid": "274bdffcb78d77d45e527747d4f210fc13040e5f"
+          "url": "https://www.getswivel.io/case-studies-post/lone-star-credit-union/",
+          "uuid": "6facdff00f49081dbe950e474994285e074da61c"
         }
       ]
     },
     {
-      "name": "Informational Website Template",
+      "name": "'Profile Listing Page'",
       "cluster": 11,
       "pages": [
         {
-          "url": "https://efundsforschools.com/k12-student-wallet-presentation/",
-          "uuid": "ebdf33a34655c788ff2dfe348babf1f57ba74f1e"
+          "url": "https://www.getswivel.io/perspectives/back-to-the-basics-steps-to-take-to-improve-users-online-payment-experience/",
+          "uuid": "574c134ce19d9938e4a0c4e67e5e62aa96ebb6fb"
         },
         {
-          "url": "https://efundsforschools.com/website-privacy-policy/",
-          "uuid": "1739b2139e4fd4f3584f499e8d38f436da1c3f0e"
+          "url": "https://www.getswivel.io/perspectives/opportunities-for-humanization-to-make-a-difference-during-final-pay-offs/",
+          "uuid": "309568e890b0083fdafeedffff95f46f39c92d60"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 12,
+      "pages": [
+        {
+          "url": "https://www.getswivel.io/downlodables/meet-the-payment-preferences-of-todays-consumers/",
+          "uuid": "187a570745a8bd7ce0faf5447faeebecd5060e2f"
         },
         {
-          "url": "https://efundsforschools.com/risk-and-security/",
-          "uuid": "ec0aa9e9b12319b231fd692a3ddf66d21f9ce7be"
-        },
-        {
-          "url": "https://efundsforschools.com/k12-student-wallet/",
-          "uuid": "80aa9d7947e404e8f288ea416bba4e06475fd6e7"
-        },
-        {
-          "url": "https://efundsforschools.com/contact/",
-          "uuid": "74a728c4bdbaa4065bdb7c12de72c2d1bda286f4"
-        },
-        {
-          "url": "https://efundsforschools.com/credit-debit-cards/",
-          "uuid": "a4d69741cc2c3aa704980af17388dd714d905819"
-        },
-        {
-          "url": "https://efundsforschools.com/cash-checks/",
-          "uuid": "0cf7872603eb640a471383a15ae0e11cdd058046"
-        },
-        {
-          "url": "https://efundsforschools.com/direct-debit/",
-          "uuid": "6a9a015d323798f7b9f030ea96cf8937fec86c9b"
-        },
-        {
-          "url": "https://efundsforschools.com/monthly-updates-and-newsletter/",
-          "uuid": "fc74cb84d3887d14f926d3fd33fa2aa25c56ed02"
-        },
-        {
-          "url": "https://efundsforschools.com/integrations-resources/",
-          "uuid": "a6ee4b2daf92ba7c54b8e01a6e563ca0637c674f"
-        },
-        {
-          "url": "https://efundsforschools.com/integration-partners/",
-          "uuid": "3e9ca8b86d140d1b3469ea286ff542949e3e7d58"
-        },
-        {
-          "url": "https://efundsforschools.com/tradeshow-schedule/",
-          "uuid": "0f080451f4363d388268465b04339e8b3ca4fd6d"
-        },
-        {
-          "url": "https://efundsforschools.com/news-and-updates/",
-          "uuid": "6bd5c1488b76fa0f3f41a1c387c62b503eea0f95"
-        },
-        {
-          "url": "https://efundsforschools.com/sitemap/",
-          "uuid": "518857998533eb92fd05f17de61f7b2aaf49dfd7"
-        },
-        {
-          "url": "https://efundsforschools.com/disclosures-and-legal/",
-          "uuid": "2bea53468a3e4581ecf62973c4c9393c516d4daa"
-        },
-        {
-          "url": "https://efundsforschools.com/electronic-receipting/",
-          "uuid": "f8a3d0d581aa4ffbcb90953dc89c2a8d0f6b0d27"
-        },
-        {
-          "url": "https://efundsforschools.com/single-pay/",
-          "uuid": "9d7a66baad1c24441148b0fc3e46547c3bf335b1"
-        },
-        {
-          "url": "https://efundsforschools.com/thank-you/",
-          "uuid": "707a372a3d68fb7aed238787b5f0c45b42baf340"
-        },
-        {
-          "url": "https://efundsforschools.com/download-data-sheet/",
-          "uuid": "c7c6e766d4ba14317fd68c4364a0fd4484c42777"
-        },
-        {
-          "url": "https://efundsforschools.com/tech-support/",
-          "uuid": "91c689c739e1f38985256818aa742b30c6e32b9e"
-        },
-        {
-          "url": "https://efundsforschools.com/about-us/",
-          "uuid": "7a8af12ac31614b0f552393511ef1df6f8e2cac2"
-        },
-        {
-          "url": "https://efundsforschools.com/qels/",
-          "uuid": "2ccca3678f91d2a5b3e87d375d799310098d6db1"
-        },
-        {
-          "url": "https://efundsforschools.com/qel-ad1/",
-          "uuid": "733a916ce793e05ccb71a6d2d287c131e4ed6867"
-        },
-        {
-          "url": "https://efundsforschools.com/efs-gdp-presentation-02-15-19/",
-          "uuid": "be82466677aa405092fb1facc294566e266c5a79"
-        },
-        {
-          "url": "https://efundsforschools.com/quick-education-link-blackboard-payments/",
-          "uuid": "d816457d5bdd7bc1bc817135ecf191fd4436dca8"
-        },
-        {
-          "url": "https://efundsforschools.com/quick-education-link-refunds-activation-and-management/",
-          "uuid": "ca3e567d941ccf7202ecb1af3b430b364a4b0afe"
-        },
-        {
-          "url": "https://efundsforschools.com/quick-education-link-gdp-general-overview/",
-          "uuid": "b6d922e46c330a8468881833f16df84a5552288d"
-        },
-        {
-          "url": "https://efundsforschools.com/quick-education-link-registration-payments/",
-          "uuid": "c6cc89e03659bbac23a9b72b844d049f4c7d01d6"
-        },
-        {
-          "url": "https://efundsforschools.com/quick-education-link-refunds-overview/",
-          "uuid": "943bdaa604bd9ce76354fb17a34c669ebc43f9e2"
+          "url": "https://www.getswivel.io/downlodables/equal-and-opposite-reactions-payment-preferences-across-the-generational-divide/",
+          "uuid": "20f2084df268cb73e6d4fcf40b8068e95d252cf2"
         }
       ]
     }
