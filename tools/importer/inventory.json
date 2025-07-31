@@ -464,8 +464,8 @@
         {
           "url": "https://www.getswivel.io/press-releases/swivel-to-improve-transaction-enablement/",
           "urlHash": "b6482c9b9a9f21906272bc12759cfbf3209021a9",
-          "uuid": "b6482c9b-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]"
+          "uuid": "b6482c9b-00-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
         },
         {
           "url": "https://www.getswivel.io/preventing-online-account-origination-fraud/",
@@ -1075,8 +1075,8 @@
         {
           "url": "https://www.getswivel.io/press-releases/swivel-to-improve-transaction-enablement/",
           "urlHash": "b6482c9b9a9f21906272bc12759cfbf3209021a9",
-          "uuid": "b6482c9b-04-724f334b6b3894c1c74d464fa985495b11ab0344",
-          "xpath": "/html[1]/body[1]/div[3]/section[2]"
+          "uuid": "b6482c9b-04-47fa6f9c543cbdf45a66500e16fbc82e09fa8a91",
+          "xpath": "/html[1]/body[1]/div[9]/section[2]"
         },
         {
           "url": "https://www.getswivel.io/preventing-online-account-origination-fraud/",
@@ -1276,11 +1276,11 @@
       ]
     },
     {
-      "name": "Columns",
+      "name": "Cards",
       "cluster": 3,
-      "source": "Columns",
-      "target": "Columns (columns3)",
-      "key": "columns3",
+      "source": "Cards",
+      "target": "Cards (cards3)",
+      "key": "cards3",
       "instances": [
         {
           "url": "https://www.getswivel.io/",
@@ -1511,6 +1511,12 @@
           "xpath": "/html[1]/body[1]/div[8]/section[2]/div[2]"
         },
         {
+          "url": "https://www.getswivel.io/ivr-call-center/",
+          "urlHash": "8fb00f84b382d543ae218ba28697fd28ff605a61",
+          "uuid": "8fb00f84-10-1425c9a9986b3ecc254f4fc021818370ea31f224",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/section[8]/div[1]"
+        },
+        {
           "url": "https://www.getswivel.io/press-releases/swivel-announces-unique-apple-pay-integration-capability-to-improve-loan-payment-performance-for-community-financial-institutions/",
           "urlHash": "95a09fde54ad7dd2059d24ef14ccc5401f08ca3c",
           "uuid": "95a09fde-02-6560e2f6b44455708215670fa8b75576714eb435",
@@ -1521,12 +1527,6 @@
           "urlHash": "95b38c7ae4254feb259636fc816fa840f611a9bf",
           "uuid": "95b38c7a-02-6560e2f6b44455708215670fa8b75576714eb435",
           "xpath": "/html[1]/body[1]/div[8]/section[2]/div[2]"
-        },
-        {
-          "url": "https://www.getswivel.io/information-security-and-risk-mitigation/",
-          "urlHash": "962a5371ea3b964186344b9669aa48b46572d6bc",
-          "uuid": "962a5371-09-d616fd795146f66a47283713ef29d7f08b35ffc9",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/section[10]/div[1]"
         },
         {
           "url": "https://www.getswivel.io/press-releases/swbcs-swivel-acquires-magic-wrighter-inc/",
@@ -1573,8 +1573,8 @@
         {
           "url": "https://www.getswivel.io/press-releases/swivel-to-improve-transaction-enablement/",
           "urlHash": "b6482c9b9a9f21906272bc12759cfbf3209021a9",
-          "uuid": "b6482c9b-02-670ef949089dddc8b5fc12009a2d2b3d4767ae19",
-          "xpath": "/html[1]/body[1]/div[2]/section[2]/div[2]"
+          "uuid": "b6482c9b-02-6560e2f6b44455708215670fa8b75576714eb435",
+          "xpath": "/html[1]/body[1]/div[8]/section[2]/div[2]"
         },
         {
           "url": "https://www.getswivel.io/preventing-online-account-origination-fraud/",
@@ -1792,8 +1792,8 @@
         {
           "url": "https://www.getswivel.io/press-releases/swivel-to-improve-transaction-enablement/",
           "urlHash": "b6482c9b9a9f21906272bc12759cfbf3209021a9",
-          "uuid": "b6482c9b-01-c77124cb867ff4bb79d58c65eebf84150707d52d",
-          "xpath": "/html[1]/body[1]/div[2]/section[1]"
+          "uuid": "b6482c9b-01-c41ed50c557f641f175b9daf296c6735ea459be3",
+          "xpath": "/html[1]/body[1]/div[8]/section[1]"
         },
         {
           "url": "https://www.getswivel.io/press-releases/swbc-marketing-and-swivel-win-silver-addy-award-for-brand-evolution/",
@@ -2410,8 +2410,8 @@
         {
           "url": "https://www.getswivel.io/press-releases/swivel-to-improve-transaction-enablement/",
           "urlHash": "b6482c9b9a9f21906272bc12759cfbf3209021a9",
-          "uuid": "b6482c9b-04-724f334b6b3894c1c74d464fa985495b11ab0344",
-          "xpath": "/html[1]/body[1]/div[3]/section[2]",
+          "uuid": "b6482c9b-04-47fa6f9c543cbdf45a66500e16fbc82e09fa8a91",
+          "xpath": "/html[1]/body[1]/div[9]/section[2]",
           "section": "section-2"
         },
         {
@@ -3312,8 +3312,8 @@
         {
           "url": "https://www.getswivel.io/press-releases/swivel-to-improve-transaction-enablement/",
           "urlHash": "b6482c9b9a9f21906272bc12759cfbf3209021a9",
-          "uuid": "b6482c9b-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]",
+          "uuid": "b6482c9b-00-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]",
           "section": "section-1"
         },
         {
@@ -3684,11 +3684,11 @@
       ]
     },
     {
-      "name": "Columns",
+      "name": "Tabs",
       "cluster": 23,
-      "source": "Columns",
-      "target": "Columns (columns23)",
-      "key": "columns23",
+      "source": "Tabs",
+      "target": "Tabs",
+      "key": "tabs23",
       "instances": [
         {
           "url": "https://www.getswivel.io/our-resources/",
@@ -3732,11 +3732,11 @@
       ]
     },
     {
-      "name": "Cards",
+      "name": "Carousel",
       "cluster": 26,
-      "source": "Cards",
-      "target": "Cards (cards26)",
-      "key": "cards26",
+      "source": "Carousel",
+      "target": "Carousel (carousel26)",
+      "key": "carousel26",
       "instances": [
         {
           "url": "https://www.getswivel.io/",
@@ -4049,19 +4049,19 @@
           "xpath": "/html[1]/body[1]/div[8]/section[9]/div[1]"
         },
         {
-          "url": "https://www.getswivel.io/ivr-call-center/",
-          "urlHash": "8fb00f84b382d543ae218ba28697fd28ff605a61",
-          "uuid": "8fb00f84-10-1425c9a9986b3ecc254f4fc021818370ea31f224",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/section[8]/div[1]"
+          "url": "https://www.getswivel.io/information-security-and-risk-mitigation/",
+          "urlHash": "962a5371ea3b964186344b9669aa48b46572d6bc",
+          "uuid": "962a5371-09-d616fd795146f66a47283713ef29d7f08b35ffc9",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/section[10]/div[1]"
         }
       ]
     },
     {
-      "name": "Cards (no images)",
+      "name": "Cards",
       "cluster": 39,
       "source": "Cards",
-      "target": "Cards (cardsNoImages39)",
-      "key": "cardsNoImages39",
+      "target": "Cards (cards39)",
+      "key": "cards39",
       "instances": [
         {
           "url": "https://www.getswivel.io/our-resources/",
@@ -4386,11 +4386,11 @@
       ]
     },
     {
-      "name": "Cards",
+      "name": "Columns",
       "cluster": 53,
-      "source": "Cards",
-      "target": "Cards (cards53)",
-      "key": "cards53",
+      "source": "Columns",
+      "target": "Columns (columns53)",
+      "key": "columns53",
       "instances": [
         {
           "url": "https://www.getswivel.io/",
@@ -4455,11 +4455,8 @@
       ]
     },
     {
-      "name": "Columns",
+      "name": "unknown",
       "cluster": 57,
-      "source": "Columns",
-      "target": "Columns (columns57)",
-      "key": "columns57",
       "instances": [
         {
           "url": "https://www.getswivel.io/case-studies-post/lone-star-credit-union/",
@@ -4500,11 +4497,9 @@
       ]
     },
     {
-      "name": "Carousel",
+      "name": "Hero",
       "cluster": 60,
-      "source": "Carousel",
-      "target": "Carousel (carousel60)",
-      "key": "carousel60",
+      "key": "hero60",
       "instances": [
         {
           "url": "https://www.getswivel.io/",
@@ -4593,11 +4588,11 @@
       ]
     },
     {
-      "name": "Cards",
+      "name": "Columns",
       "cluster": 66,
-      "source": "Cards",
-      "target": "Cards (cards66)",
-      "key": "cards66",
+      "source": "Columns",
+      "target": "Columns (columns66)",
+      "key": "columns66",
       "instances": [
         {
           "url": "https://www.getswivel.io/digital-payments-solutions-for-your-indirect-borrowers/",
@@ -5700,8 +5695,8 @@
     {
       "url": "https://www.getswivel.io/press-releases/swivel-to-improve-transaction-enablement/",
       "urlHash": "b6482c9b9a9f21906272bc12759cfbf3209021a9",
-      "uuid": "b6482c9b-03-c8449557234c6eb2aad1c74be2446c18fe01335e",
-      "xpath": "/html[1]/body[1]/div[3]/section[1]/div[1]/div[3]/div[1]/div[1]/div[1]"
+      "uuid": "b6482c9b-03-d5fecac53a3684ddb26d9538f5601fd9c9e38eb5",
+      "xpath": "/html[1]/body[1]/div[9]/section[1]/div[1]/div[3]/div[1]/div[1]/div[1]"
     },
     {
       "url": "https://www.getswivel.io/preventing-online-account-origination-fraud/",
