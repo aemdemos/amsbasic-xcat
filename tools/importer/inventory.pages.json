@@ -1,7 +1,7 @@
 {
   "templates": [
     {
-      "name": "Profile Directory Template",
+      "name": "'Profile and Directory Listing'",
       "cluster": 1,
       "pages": [
         {
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "name": "'Footer Navigation Template'",
+      "name": "'News Listing'",
       "cluster": 2,
       "pages": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "name": "'Business Website Template'",
+      "name": "'Business Multi-Section Layout'",
       "cluster": 3,
       "pages": [
         {
@@ -227,13 +227,9 @@
       ]
     },
     {
-      "name": "Dashboard Template",
+      "name": "'Dashboard Template'",
       "cluster": 4,
       "pages": [
-        {
-          "url": "https://www.getswivel.io/press-releases/swivel-to-improve-transaction-enablement/",
-          "uuid": "b6482c9b9a9f21906272bc12759cfbf3209021a9"
-        },
         {
           "url": "https://www.getswivel.io/press-releases/swivel-and-paydoff-partner-to-empower-financial-institutions-smarter-collections-and-seamless-payment-engagement/",
           "uuid": "c7e5d17807aba2b81deb6ce4b70c31d8e25a2744"
@@ -283,6 +279,10 @@
           "uuid": "f5bc3abf8c781890621c55db81ed851c55c4dd20"
         },
         {
+          "url": "https://www.getswivel.io/press-releases/swivel-to-improve-transaction-enablement/",
+          "uuid": "b6482c9b9a9f21906272bc12759cfbf3209021a9"
+        },
+        {
           "url": "https://www.getswivel.io/press-releases/swivel-partners-with-federal-reserve-experts-to-host-exclusive-webinar-series-on-the-future-of-instant-payments/",
           "uuid": "5ae4c767d1b659865b154c0f20ef3ff927688c06"
         },
@@ -297,7 +297,7 @@
       ]
     },
     {
-      "name": "'Portfolio Page'",
+      "name": "'Content Listing Page'",
       "cluster": 5,
       "pages": [
         {
@@ -383,7 +383,7 @@
       ]
     },
     {
-      "name": "'Generic Content Page'",
+      "name": "'Content Hub Page'",
       "cluster": 6,
       "pages": [
         {
@@ -401,7 +401,7 @@
       ]
     },
     {
-      "name": "'Dashboard Layout'",
+      "name": "Footer-focused layout",
       "cluster": 7,
       "pages": [
         {
@@ -425,7 +425,7 @@
       ]
     },
     {
-      "name": "'Link Directory Page'",
+      "name": "'Footer-focused layout'",
       "cluster": 9,
       "pages": [
         {
@@ -445,7 +445,7 @@
       ]
     },
     {
-      "name": "'Profile Listing Page'",
+      "name": "'Portfolio Showcase'",
       "cluster": 11,
       "pages": [
         {
@@ -459,7 +459,7 @@
       ]
     },
     {
-      "name": "'Dashboard Template'",
+      "name": "'Footer layout page'",
       "cluster": 12,
       "pages": [
         {
