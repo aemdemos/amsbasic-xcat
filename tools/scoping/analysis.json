@@ -1,49 +1,92 @@
 {
   "report_metadata": {
     "title": "URL Pattern Grouper Analysis Report",
-    "customer": "2nd - National Rural Utilities Cooperative Finance Corporation",
+    "customer": "National Rural Utilities Cooperative Finance Corporation",
     "domain": "www.nrucfc.coop",
-    "analysis_date": "2025-07-23 09:55:50",
+    "analysis_date": "2025-08-06 21:10:56",
     "total_pages_analyzed": 792
   },
   "content_analysis": {
     "total_pages": 792,
     "pages_with_forms": 792,
     "pages_without_forms": 0,
-    "pages_with_iframes": 0,
-    "pages_without_iframes": 792,
+    "pages_with_any_iframes": 66,
+    "pages_without_any_iframes": 726,
+    "pages_with_form_iframes": 0,
+    "pages_without_form_iframes": 792,
     "pages_with_iframe_forms": 0,
+    "total_any_iframes": "76",
+    "total_form_iframes": "0",
     "total_iframe_forms": "0",
-    "pages_with_both": 0,
-    "pages_with_neither": 0,
+    "pages_with_both_forms_and_iframes": 66,
+    "pages_with_both_forms_and_form_iframes": 0,
+    "pages_with_neither_forms_nor_iframes": 0,
     "successful_scrapes": 792,
     "failed_scrapes": 0,
+    "known_form_service_detections": 0,
     "success_rate": 100.0,
     "form_coverage_rate": 100.0,
-    "iframe_coverage_rate": 0.0,
+    "any_iframe_coverage_rate": 8.333333333333332,
+    "form_iframe_coverage_rate": 0.0,
+    "known_form_service_rate": 0.0,
     "form_analysis": {
       "form_types": {
         "Search": {
-          "page_count": 790,
-          "percentage": 99.7
+          "page_count": 789,
+          "percentage": 99.6
         },
         "Login/Registration, Search": {
           "page_count": 2,
           "percentage": 0.3
+        },
+        "Contact/Lead, Search": {
+          "page_count": 1,
+          "percentage": 0.1
         }
       },
       "forms_per_page": {
         "1": {
-          "page_count": 790,
-          "percentage": 99.7
+          "page_count": 789,
+          "percentage": 99.6
         },
         "2": {
-          "page_count": 2,
-          "percentage": 0.3
+          "page_count": 3,
+          "percentage": 0.4
         }
       }
     },
-    "iframe_analysis": {},
+    "iframe_analysis": {
+      "all_iframe_sources": {
+        "External Content": {
+          "page_count": 58,
+          "percentage": 87.9
+        },
+        "Video": {
+          "page_count": 7,
+          "percentage": 10.6
+        },
+        "Maps": {
+          "page_count": 1,
+          "percentage": 1.5
+        }
+      },
+      "all_iframes_per_page": {
+        "1": {
+          "page_count": 58,
+          "percentage": 87.9
+        },
+        "2": {
+          "page_count": 6,
+          "percentage": 9.1
+        },
+        "3": {
+          "page_count": 2,
+          "percentage": 3.0
+        }
+      },
+      "form_iframe_sources": {},
+      "form_iframes_per_page": {}
+    },
     "scraping_status": {
       "Success": {
         "page_count": 792,
@@ -52,18 +95,88 @@
     }
   },
   "locale_analysis": {
-    "total_locales": 2,
+    "total_locales": 1,
     "locales": {
       "en": {
-        "page_count": 791,
-        "percentage": 99.9
-      },
-      "vu": {
-        "page_count": 1,
-        "percentage": 0.1
+        "page_count": 792,
+        "percentage": 100.0
       }
     },
-    "primary_locale": "en"
+    "primary_locale": "en",
+    "site_specific_patterns": {
+      "nrucfc|filename": {
+        "pattern_description": "/nrucfc/[Filename]/...",
+        "locales": [
+          "en"
+        ],
+        "total_occurrences": 1,
+        "unique_locales": 1
+      },
+      "nrucfc|direct": {
+        "pattern_description": "/nrucfc/[Direct]/...",
+        "locales": [
+          "en"
+        ],
+        "total_occurrences": 86,
+        "unique_locales": 1
+      },
+      "2023|filename_hyphenated": {
+        "pattern_description": "/2023/[Filename Hyphenated]/...",
+        "locales": [
+          "fi"
+        ],
+        "total_occurrences": 2,
+        "unique_locales": 1
+      },
+      "2024|filename_hyphenated": {
+        "pattern_description": "/2024/[Filename Hyphenated]/...",
+        "locales": [
+          "fi"
+        ],
+        "total_occurrences": 1,
+        "unique_locales": 1
+      },
+      "solutions|filename": {
+        "pattern_description": "/solutions/[Filename]/...",
+        "locales": [
+          "en"
+        ],
+        "total_occurrences": 1,
+        "unique_locales": 1
+      },
+      "solutions|direct": {
+        "pattern_description": "/solutions/[Direct]/...",
+        "locales": [
+          "en"
+        ],
+        "total_occurrences": 702,
+        "unique_locales": 1
+      },
+      "economy|filename_hyphenated": {
+        "pattern_description": "/economy/[Filename Hyphenated]/...",
+        "locales": [
+          "it"
+        ],
+        "total_occurrences": 2,
+        "unique_locales": 1
+      },
+      "energy-tech|filename_hyphenated": {
+        "pattern_description": "/energy-tech/[Filename Hyphenated]/...",
+        "locales": [
+          "it"
+        ],
+        "total_occurrences": 1,
+        "unique_locales": 1
+      },
+      "events-training|filename_hyphenated": {
+        "pattern_description": "/events-training/[Filename Hyphenated]/...",
+        "locales": [
+          "it"
+        ],
+        "total_occurrences": 2,
+        "unique_locales": 1
+      }
+    }
   },
   "pattern_analysis": {
     "total_patterns_created": 19,
@@ -155,28 +268,27 @@
           "Template 41": 119,
           "Template 53": 14,
           "Template 49": 6,
-          "Template 46": 4,
           "Template 47": 4,
-          "Template 64": 3,
-          "Template 40": 3,
+          "Template 46": 4,
+          "Template 45": 3,
           "Template 55": 3,
-          "Template 45": 2,
+          "Template 40": 3,
+          "Template 63": 3,
           "Template 58": 2,
-          "Template 54": 2,
           "Template 48": 2,
           "Template 50": 2,
-          "Template 51": 1,
+          "Template 54": 2,
           "Template 44": 1,
-          "Template 56": 1,
+          "Template 51": 1,
           "Template 52": 1,
           "Template 57": 1,
-          "Template 59": 1,
+          "Template 56": 1,
           "Template 43": 1,
+          "Template 59": 1,
           "Template 60": 1,
           "Template 61": 1,
           "Template 62": 1,
-          "Template 63": 1,
-          "Template 65": 1
+          "Template 64": 1
         },
         "top_template_details": {
           "Cards, Hero, Embed (video), Table": 119,
@@ -190,11 +302,11 @@
           "Template 58": 99,
           "Template 41": 19,
           "Template 48": 5,
-          "Template 73": 3,
-          "Template 72": 1
+          "Template 72": 3,
+          "Template 71": 1
         },
         "top_template_details": {
-          "Cards, Hero, unknown-cluster21, Embed (video), Table, unknown-cluster129": 99,
+          "Cards, Hero, UNKNOWN-CLUSTER-MAJOR5, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1": 99,
           "Cards, Hero, Embed (video), Table": 19,
           "Cards, unknown-cluster10, Hero, Embed (video), Table": 5
         }
@@ -203,28 +315,26 @@
         "total_pages": 70,
         "template_groups": {
           "Template 41": 37,
+          "Template 45": 6,
           "Template 40": 4,
-          "Template 53": 3,
           "Template 46": 3,
           "Template 49": 3,
-          "Template 45": 2,
-          "Template 64": 2,
-          "Template 54": 2,
+          "Template 53": 3,
+          "Template 73": 2,
+          "Template 63": 2,
           "Template 48": 2,
-          "Template 74": 2,
-          "Template 59": 2,
-          "Template 77": 2,
+          "Template 54": 2,
+          "Template 74": 1,
           "Template 75": 1,
-          "Template 76": 1,
           "Template 50": 1,
-          "Template 78": 1,
-          "Template 79": 1,
-          "Template 60": 1
+          "Template 76": 1,
+          "Template 77": 1,
+          "Template 59": 1
         },
         "top_template_details": {
           "Cards, Hero, Embed (video), Table": 37,
-          "Cards, Embed (video), Table": 4,
-          "Cards, Hero, Embed (video), Table, Carousel": 3
+          "Cards, Hero, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1": 6,
+          "Cards, Embed (video), Table": 4
         }
       },
       "URL Pattern 4": {
@@ -233,18 +343,18 @@
           "Template 41": 36,
           "Template 53": 9,
           "Template 54": 7,
-          "Template 68": 4,
+          "Template 67": 4,
           "Template 49": 2,
           "Template 56": 1,
           "Template 55": 1,
+          "Template 65": 1,
           "Template 66": 1,
-          "Template 67": 1,
           "Template 32": 1,
-          "Template 64": 1,
+          "Template 63": 1,
+          "Template 68": 1,
           "Template 69": 1,
-          "Template 70": 1,
           "Template 47": 1,
-          "Template 71": 1
+          "Template 70": 1
         },
         "top_template_details": {
           "Cards, Hero, Embed (video), Table": 36,
@@ -256,16 +366,16 @@
         "total_pages": 65,
         "template_groups": {
           "Template 41": 43,
-          "Template 63": 8,
+          "Template 62": 8,
           "Template 49": 3,
           "Template 40": 3,
           "Template 52": 2,
           "Template 32": 1,
           "Template 46": 1,
-          "Template 80": 1,
+          "Template 78": 1,
           "Template 50": 1,
-          "Template 68": 1,
-          "Template 64": 1
+          "Template 67": 1,
+          "Template 63": 1
         },
         "top_template_details": {
           "Cards, Hero, Embed (video), Table": 43,
@@ -276,9 +386,9 @@
       "URL Pattern 6": {
         "total_pages": 64,
         "template_groups": {
-          "Template 90": 38,
-          "Template 91": 14,
-          "Template 89": 12
+          "Template 88": 38,
+          "Template 89": 14,
+          "Template 87": 12
         },
         "top_template_details": {
           "Embed (video), Cards, Table, Video": 38,
@@ -290,20 +400,20 @@
         "total_pages": 57,
         "template_groups": {
           "Template 41": 15,
-          "Template 74": 9,
-          "Template 64": 8,
+          "Template 73": 9,
+          "Template 63": 8,
           "Template 54": 8,
           "Template 40": 7,
-          "Template 84": 3,
-          "Template 85": 3,
-          "Template 83": 1,
-          "Template 86": 1,
-          "Template 87": 1,
-          "Template 88": 1
+          "Template 82": 3,
+          "Template 83": 3,
+          "Template 81": 1,
+          "Template 84": 1,
+          "Template 85": 1,
+          "Template 86": 1
         },
         "top_template_details": {
           "Cards, Hero, Embed (video), Table": 15,
-          "Cards, Hero, Video, Embed (video), Table, unknown-cluster129": 9,
+          "Cards, Hero, Video, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1": 9,
           "Cards, Hero, Video, Embed (video), Table": 8
         }
       },
@@ -312,16 +422,16 @@
         "template_groups": {
           "Template 41": 28,
           "Template 53": 7,
-          "Template 76": 3,
+          "Template 75": 3,
           "Template 49": 3,
           "Template 32": 2,
           "Template 55": 2,
-          "Template 69": 2,
-          "Template 81": 1,
-          "Template 64": 1,
-          "Template 71": 1,
-          "Template 82": 1,
-          "Template 67": 1
+          "Template 68": 2,
+          "Template 79": 1,
+          "Template 63": 1,
+          "Template 70": 1,
+          "Template 80": 1,
+          "Template 66": 1
         },
         "top_template_details": {
           "Cards, Hero, Embed (video), Table": 28,
@@ -342,7 +452,7 @@
         "top_template_details": {
           "Cards, Hero, Embed (social), Video, Embed (video), Table": 4,
           "Hero, Cards, Embed (social), Video, Embed (video), Table": 3,
-          "Hero, Cards, Embed (social), Video, Embed (video), Table, unknown-cluster129": 2
+          "Hero, Cards, Embed (social), Video, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1": 2
         }
       },
       "URL Pattern 10": {
@@ -460,8 +570,8 @@
         },
         "top_template_details": {
           "Columns, Cards (no images), Table": 2,
-          "Columns, Table, unknown-cluster75, Cards, unknown-cluster129": 1,
-          "Table, Columns, Tabs, unknown-cluster129": 1
+          "Columns, Table, UNKNOWN-CLUSTER-MAJOR1, Cards": 1,
+          "Table, Columns, Tabs, UNKNOWN-CLUSTER-MAJOR1": 1
         }
       },
       "URL Pattern 19": {
@@ -476,7 +586,7 @@
     }
   },
   "cross_pattern_template_analysis": {
-    "templates_across_multiple_patterns": 13,
+    "templates_across_multiple_patterns": 14,
     "cross_pattern_templates": [
       {
         "template": "Template 41",
@@ -678,7 +788,7 @@
         "insight": "Pages with 'Template 49' template are similar across 5 URL patterns"
       },
       {
-        "template": "Template 64",
+        "template": "Template 63",
         "total_pages": 16,
         "appears_in_patterns": 6,
         "pattern_breakdown": [
@@ -708,10 +818,10 @@
           }
         ],
         "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/petersen--don-discuss-esg--cfc-s-sustainability-bond.html",
-        "insight": "Pages with 'Template 64' template are similar across 6 URL patterns"
+        "insight": "Pages with 'Template 63' template are similar across 6 URL patterns"
       },
       {
-        "template": "Template 74",
+        "template": "Template 73",
         "total_pages": 11,
         "appears_in_patterns": 2,
         "pattern_breakdown": [
@@ -725,7 +835,24 @@
           }
         ],
         "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/cfc-cio-shares-new-post-pandemic-enterprise-it-expectations-.html",
-        "insight": "Pages with 'Template 74' template are similar across 2 URL patterns"
+        "insight": "Pages with 'Template 73' template are similar across 2 URL patterns"
+      },
+      {
+        "template": "Template 45",
+        "total_pages": 9,
+        "appears_in_patterns": 2,
+        "pattern_breakdown": [
+          {
+            "pattern_name": "URL Pattern 1",
+            "page_count": 3
+          },
+          {
+            "pattern_name": "URL Pattern 3",
+            "page_count": 6
+          }
+        ],
+        "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/2025-economic-and-industry-trends-report-page.html",
+        "insight": "Pages with 'Template 45' template are similar across 2 URL patterns"
       },
       {
         "template": "Template 48",
@@ -749,7 +876,7 @@
         "insight": "Pages with 'Template 48' template are similar across 3 URL patterns"
       },
       {
-        "template": "Template 63",
+        "template": "Template 62",
         "total_pages": 9,
         "appears_in_patterns": 2,
         "pattern_breakdown": [
@@ -763,7 +890,7 @@
           }
         ],
         "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/new-speakers-added-to-cfc-ibes-lineup--deadlines-approach.html",
-        "insight": "Pages with 'Template 63' template are similar across 2 URL patterns"
+        "insight": "Pages with 'Template 62' template are similar across 2 URL patterns"
       },
       {
         "template": "Template 46",
@@ -829,7 +956,7 @@
     "unique_template_combinations": 13,
     "top_template_details": {
       "Video, Table, Columns": 4,
-      "Hero, Cards, Embed (social), Video, Embed (video), Table, unknown-cluster129": 2,
+      "Hero, Cards, Embed (social), Video, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1": 2,
       "Table, Columns, Hero": 2,
       "Cards, Hero, Embed (social), Table, Columns, Carousel": 2,
       "Video, Table, Columns, Hero": 1
@@ -837,8 +964,129 @@
   },
   "unknown_block_analysis": {
     "unknown_blocks_available": true,
-    "total_unknown_groups": 7,
-    "unknown_groups": {
+    "has_major_clusters": true,
+    "total_major_clusters": 7,
+    "total_unknown_groups": 3,
+    "major_clusters": {
+      "UNKNOWN-CLUSTER-MAJOR1": {
+        "xpath_pattern": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]",
+        "total_instances": 121,
+        "individual_clusters_count": 4,
+        "individual_clusters": [
+          "unknown-cluster21",
+          "unknown-cluster75",
+          "unknown-cluster81",
+          "unknown-cluster129"
+        ],
+        "cluster_ids": [
+          21,
+          75,
+          81,
+          129
+        ],
+        "total_urls": 121,
+        "sample_urls": [
+          "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cfc-to-launch-weekly-news-digest-bulletin.html",
+          "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/credit-ratings.html",
+          "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/2025-economic-and-industry-trends-report-page.html",
+          "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/2024-economic-and-industry-trends.html",
+          "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/2023-economic-and-industry-trends.html"
+        ],
+        "xpath_samples": [
+          {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]",
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cfc-to-launch-weekly-news-digest-bulletin.html"
+          }
+        ],
+        "individual_cluster_names": [
+          "unknown-cluster21",
+          "unknown-cluster75",
+          "unknown-cluster81",
+          "unknown-cluster129"
+        ]
+      },
+      "UNKNOWN-CLUSTER-MAJOR2": {
+        "xpath_pattern": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[5]",
+        "total_instances": 107,
+        "individual_clusters_count": 3,
+        "individual_clusters": [
+          "unknown-cluster21",
+          "unknown-cluster75",
+          "unknown-cluster129"
+        ],
+        "cluster_ids": [
+          21,
+          75,
+          129
+        ]
+      },
+      "UNKNOWN-CLUSTER-MAJOR3": {
+        "xpath_pattern": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[7]",
+        "total_instances": 102,
+        "individual_clusters_count": 2,
+        "individual_clusters": [
+          "unknown-cluster21",
+          "unknown-cluster129"
+        ],
+        "cluster_ids": [
+          21,
+          129
+        ]
+      },
+      "UNKNOWN-CLUSTER-MAJOR4": {
+        "xpath_pattern": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[9]",
+        "total_instances": 96,
+        "individual_clusters_count": 2,
+        "individual_clusters": [
+          "unknown-cluster21",
+          "unknown-cluster129"
+        ],
+        "cluster_ids": [
+          21,
+          129
+        ]
+      },
+      "UNKNOWN-CLUSTER-MAJOR5": {
+        "xpath_pattern": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[10]",
+        "total_instances": 79,
+        "individual_clusters_count": 2,
+        "individual_clusters": [
+          "unknown-cluster21",
+          "unknown-cluster129"
+        ],
+        "cluster_ids": [
+          21,
+          129
+        ]
+      },
+      "UNKNOWN-CLUSTER-MAJOR6": {
+        "xpath_pattern": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[11]",
+        "total_instances": 69,
+        "individual_clusters_count": 2,
+        "individual_clusters": [
+          "unknown-cluster21",
+          "unknown-cluster129"
+        ],
+        "cluster_ids": [
+          21,
+          129
+        ]
+      },
+      "UNKNOWN-CLUSTER-MAJOR7": {
+        "xpath_pattern": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[8]",
+        "total_instances": 24,
+        "individual_clusters_count": 2,
+        "individual_clusters": [
+          "unknown-cluster21",
+          "unknown-cluster129"
+        ],
+        "cluster_ids": [
+          21,
+          129
+        ]
+      }
+    },
+    "individual_clusters": {
       "unknown-cluster10": {
         "cluster": "Cluster 10",
         "total_urls": 18,
@@ -874,41 +1122,6 @@
           "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/fannin-ec-builds-new-hq-with-financing-from-cfc.html"
         ]
       },
-      "unknown-cluster21": {
-        "cluster": "Cluster 21",
-        "total_urls": 125,
-        "xpath_samples": [
-          {
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[9]",
-            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy--industrial-production-homebuilder-confidence-existing-home-sales.html"
-          },
-          {
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[7]",
-            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy--retail-sales--consumer-confidence-0.html"
-          },
-          {
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[10]",
-            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy-retail-sales-industrial-production-housing-market.html"
-          },
-          {
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[11]",
-            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy-retail-sales-industrial-production-housing-market.html"
-          },
-          {
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[8]",
-            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy-gdp-jobs-inflation-confidence.html"
-          }
-        ],
-        "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy--industrial-production-homebuilder-confidence-existing-home-sales.html",
-        "sample_xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[9]",
-        "sample_urls": [
-          "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy--industrial-production-homebuilder-confidence-existing-home-sales.html",
-          "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy--retail-sales--consumer-confidence-0.html",
-          "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy--payrolls--nfib--vehicles.html",
-          "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy-retail-sales-industrial-production-housing-market.html",
-          "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy-retail-sales-industrial-production-housing-market.html"
-        ]
-      },
       "unknown-cluster52": {
         "cluster": "Cluster 52",
         "total_urls": 9,
@@ -926,101 +1139,6 @@
           "https://www.nrucfc.coop/content/solutions/en/author/sam-kem.html",
           "https://www.nrucfc.coop/content/solutions/en/author/chris-whittle.html",
           "https://www.nrucfc.coop/content/solutions/en/author/antony-davies.html"
-        ]
-      },
-      "unknown-cluster75": {
-        "cluster": "Cluster 75",
-        "total_urls": 3,
-        "xpath_samples": [
-          {
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]",
-            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/credit-ratings.html"
-          },
-          {
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]",
-            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/credit-ratings.html"
-          },
-          {
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[5]",
-            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/credit-ratings.html"
-          }
-        ],
-        "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/credit-ratings.html",
-        "sample_xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]",
-        "sample_urls": [
-          "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/credit-ratings.html",
-          "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/credit-ratings.html",
-          "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/credit-ratings.html"
-        ]
-      },
-      "unknown-cluster81": {
-        "cluster": "Cluster 81",
-        "total_urls": 8,
-        "xpath_samples": [
-          {
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]",
-            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/winter-storm-causes-historic-power-outages.html"
-          },
-          {
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]",
-            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/2025-economic-and-industry-trends-report-page.html"
-          },
-          {
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]",
-            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cfc-2023-district-meetings-see-newcomer-elected-to-the-board.html"
-          },
-          {
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]",
-            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/us-ev-market-grows-in-q2-2024.html"
-          },
-          {
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]",
-            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/news/stories/cooperative-family-fund-helps-support-co-op-families-.html"
-          }
-        ],
-        "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/winter-storm-causes-historic-power-outages.html",
-        "sample_xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]",
-        "sample_urls": [
-          "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/winter-storm-causes-historic-power-outages.html",
-          "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/2025-economic-and-industry-trends-report-page.html",
-          "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cfc-2023-district-meetings-see-newcomer-elected-to-the-board.html",
-          "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/2024-economic-and-industry-trends.html",
-          "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/mid-year-trends-update--physical-security-.html"
-        ]
-      },
-      "unknown-cluster129": {
-        "cluster": "Cluster 129",
-        "total_urls": 529,
-        "xpath_samples": [
-          {
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]",
-            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy--industrial-production-homebuilder-confidence-existing-home-sales.html"
-          },
-          {
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[5]",
-            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy--industrial-production-homebuilder-confidence-existing-home-sales.html"
-          },
-          {
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[7]",
-            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy--industrial-production-homebuilder-confidence-existing-home-sales.html"
-          },
-          {
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[8]",
-            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy--industrial-production-homebuilder-confidence-existing-home-sales.html"
-          },
-          {
-            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[6]",
-            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy--retail-sales--consumer-confidence-0.html"
-          }
-        ],
-        "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy--industrial-production-homebuilder-confidence-existing-home-sales.html",
-        "sample_xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]",
-        "sample_urls": [
-          "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy--industrial-production-homebuilder-confidence-existing-home-sales.html",
-          "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy--industrial-production-homebuilder-confidence-existing-home-sales.html",
-          "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy--industrial-production-homebuilder-confidence-existing-home-sales.html",
-          "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy--industrial-production-homebuilder-confidence-existing-home-sales.html",
-          "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy--retail-sales--consumer-confidence-0.html"
         ]
       },
       "unknown-cluster131": {
@@ -1043,10 +1161,10 @@
   "insights_and_recommendations": {
     "grouping_efficiency": 97.6,
     "average_group_size": 40.7,
-    "template_diversity": 91,
-    "template_combination_diversity": 91,
+    "template_diversity": 89,
+    "template_combination_diversity": 89,
     "primary_locale": "en",
-    "is_multilingual": true,
+    "is_multilingual": false,
     "insights": [
       "HIGH GROUPING EFFICIENCY: Excellent pattern recognition",
       "HIGH FORM COVERAGE: 100.0% of pages have forms - excellent for lead generation"
