@@ -1,474 +1,734 @@
 {
   "templates": [
     {
-      "name": "'Profile and Directory Listing'",
+      "name": "'Program Overview'",
       "cluster": 1,
       "pages": [
         {
-          "url": "https://www.getswivel.io/our-resources/",
-          "uuid": "f5351f0e8698aacf254697f90a56f2a4b2e6b7c8"
+          "url": "https://academy.worldbank.org/en/home",
+          "uuid": "0b55bc0a19c206c62f3cd30478048a251938ad54"
         },
         {
-          "url": "https://www.getswivel.io/payment-processing-software/",
-          "uuid": "69b47237cafe07dcdd8f28cdd59da616c8316baa"
+          "url": "https://academy.worldbank.org/en/our-programs/by-sector",
+          "uuid": "4c8f03d8e4b29f3b84b6b2bf14c33fc4a1be2cd8"
         },
         {
-          "url": "https://www.getswivel.io/about-us/",
-          "uuid": "8318bf0f364c4855b7f955a139ad73efd8530376"
+          "url": "https://academy.worldbank.org/en/prosperity",
+          "uuid": "c1180e5bf451588210250bbfa9b2e1c7a21d9695"
         },
         {
-          "url": "https://www.getswivel.io/digital-payments-platform/",
-          "uuid": "9f4f8c89bccdbb7780baff6f20a84e18019dec85"
-        },
-        {
-          "url": "https://www.getswivel.io/information-security-and-risk-mitigation/",
-          "uuid": "962a5371ea3b964186344b9669aa48b46572d6bc"
-        },
-        {
-          "url": "https://www.getswivel.io/blog/",
-          "uuid": "fc7200daec1797b03e15ee1d6bb5e12a7dbd52aa"
-        },
-        {
-          "url": "https://www.getswivel.io/documents-new/",
-          "uuid": "6a1b2665a8843512dbb71eb63a6581de88dd788b"
-        },
-        {
-          "url": "https://www.getswivel.io/ivr-call-center/",
-          "uuid": "8fb00f84b382d543ae218ba28697fd28ff605a61"
-        },
-        {
-          "url": "https://www.getswivel.io/partnerships/",
-          "uuid": "d572c74394bf41ddc7d0c0c0351535cbaf56a148"
-        },
-        {
-          "url": "https://www.getswivel.io/say-hello/",
-          "uuid": "8eb3a8259e09465f286c936f9f2e57025a11b141"
-        },
-        {
-          "url": "https://www.getswivel.io/integrated-administrative-portal/",
-          "uuid": "61ef70dad1d4aea49f0ac834bd660d5dd57dd67e"
-        },
-        {
-          "url": "https://www.getswivel.io/our-events/",
-          "uuid": "84b9d9d0d9b4edd20e04f4116b663b9a49f348b2"
-        },
-        {
-          "url": "https://www.getswivel.io/contact-us/",
-          "uuid": "09cb74e728b617423a47fde49c638e0a40d279f5"
-        },
-        {
-          "url": "https://www.getswivel.io/documents/",
-          "uuid": "a44cf2b9effeb2d1d4e2e25975807c57d03c955a"
-        },
-        {
-          "url": "https://www.getswivel.io/connect2core/",
-          "uuid": "4645d4eb611d146367626cb7309426ac53864c9e"
-        },
-        {
-          "url": "https://www.getswivel.io/how-stored-cards-benefit-your-financial-institution/",
-          "uuid": "01609f8313aecf9114e70f2dfae289f0e1be43a1"
-        },
-        {
-          "url": "https://www.getswivel.io/ahora-en-espanol-swivel-expands-spanish-support-across-digital-channels/",
-          "uuid": "95b38c7ae4254feb259636fc816fa840f611a9bf"
-        },
-        {
-          "url": "https://www.getswivel.io/essential-strategies-for-secure-instant-payments/",
-          "uuid": "22a4843d01280041ed548c2ce4ddbcc13461661b"
-        },
-        {
-          "url": "https://www.getswivel.io/compliance-alerts/",
-          "uuid": "7cc8c031da664b7f1632e8bb11098b96ec56e3f3"
-        },
-        {
-          "url": "https://www.getswivel.io/revolutionizing-financial-operations-real-time-payment/",
-          "uuid": "129d23c2857210860743a7e6a95c906836c78d29"
-        },
-        {
-          "url": "https://www.getswivel.io/news/",
-          "uuid": "b1b271ca14e76d5a09b7228f9e548bd135b18c66"
-        },
-        {
-          "url": "https://www.getswivel.io/4-great-benefits-of-digital-wallets-how-apple-pay-can-help/",
-          "uuid": "345929165504ef33461a77217efbe11066d9a517"
-        },
-        {
-          "url": "https://www.getswivel.io/creating-frictionless-payments-solutions/",
-          "uuid": "f8fb78fd8681ee467c61c31408e4da4e20a5f8e9"
-        },
-        {
-          "url": "https://www.getswivel.io/power-in-the-process-enhance-the-borrower-experience/",
-          "uuid": "744e14eb1d7d42712f78422055bcbf669d848cba"
-        },
-        {
-          "url": "https://www.getswivel.io/role-of-security-and-risk-management-for-payments/",
-          "uuid": "ea9a2efcea61a49430604b0d6cc83c031a2bc8d3"
-        },
-        {
-          "url": "https://www.getswivel.io/prevent-holiday-credit-card-related-scams/",
-          "uuid": "512ca4fb2ea894939e6c40c033f26ef7a301ba77"
-        },
-        {
-          "url": "https://www.getswivel.io/how-safe-are-stored-cards-for-your-financial-institutions-account-holders/",
-          "uuid": "cfd48df0e47285f05f9469a9c637705ec6ea8990"
-        },
-        {
-          "url": "https://www.getswivel.io/how-to-prevent-your-borrowers-from-falling-victim-to-greed-scams/",
-          "uuid": "bf1def5d6fbb13eb97508574bc6cc8ba4910b152"
-        },
-        {
-          "url": "https://www.getswivel.io/2022-product-outlook-for-fi-payments/",
-          "uuid": "66302b3b262ae111de30069ed0940cc699b2eab9"
-        },
-        {
-          "url": "https://www.getswivel.io/digital-payments-solutions-for-your-indirect-borrowers/",
-          "uuid": "89d2da78b0b0aa2f881e26de5d20b7572ef0daad"
-        },
-        {
-          "url": "https://www.getswivel.io/keeping-pace-self-service-payments-options/",
-          "uuid": "7a2686ba84aaa579b30d3ac83f83da5b3150279d"
-        },
-        {
-          "url": "https://www.getswivel.io/quick-tips-for-delighting-your-account-holders/",
-          "uuid": "e355119aab95a1350898469a54092bc18caf9c24"
-        },
-        {
-          "url": "https://www.getswivel.io/regtech-improving-efficiency-financial-services/",
-          "uuid": "ee107737e5ac5cab835817b491d7e30981443dbe"
-        },
-        {
-          "url": "https://www.getswivel.io/preventing-online-account-origination-fraud/",
-          "uuid": "bede6316474955a54f2a891d9282e1e418a6f4b3"
-        },
-        {
-          "url": "https://www.getswivel.io/nachas-fraud-risk-management-and-monitoring-rules/",
-          "uuid": "9a8cbf59d805f209302a9626c1a01dc98428b23e"
-        },
-        {
-          "url": "https://www.getswivel.io/preventing-carding-in-a-cashless-age/",
-          "uuid": "b1219e2487aba6d3ea1406401a5e48a10470b8cd"
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme",
+          "uuid": "268bc3dd5d19ab59703bf103cba7ec6a39ca7ea8"
         }
       ]
     },
     {
-      "name": "'News Listing'",
+      "name": "'Service Overview Page'",
       "cluster": 2,
       "pages": [
         {
-          "url": "https://www.getswivel.io/faq-category/software/",
-          "uuid": "83c6d8a8da23b94c4f2dc0d68bab44d3eda35d01"
+          "url": "https://academy.worldbank.org/en/people/education/capacity-building-for-learning-and-dev-professionals",
+          "uuid": "a11fc359c04a08ccb15966f8bb42b5b55a56fed1"
         },
         {
-          "url": "https://www.getswivel.io/faq-category/general/",
-          "uuid": "a0a916c627a9dfa4d488d0cb1b2f44854e575254"
+          "url": "https://academy.worldbank.org/en/people/health/health-systems-flagship-program",
+          "uuid": "60a6642411e430e7a68bf97fe31f3aaa7f5655e8"
         },
         {
-          "url": "https://www.getswivel.io/faq/question-title-goes-here-question-title-goes-here-general-2/",
-          "uuid": "0e4294d5d76c25d8c6f8992dd7e75900d2a6df02"
+          "url": "https://academy.worldbank.org/en/people/health/behavior-change-for-health-system-strengthening-and-achieving-universal-health-coverage",
+          "uuid": "ec909cc718b261757af3d67cf98db269cdf4da97"
         },
         {
-          "url": "https://www.getswivel.io/faq/question-title-goes-here-question-title-goes-here-general/",
-          "uuid": "57350d3f4cdfa586a838cbdc0ff4b27533ee7550"
+          "url": "https://academy.worldbank.org/en/people/health/attacking-inequalities-in-health",
+          "uuid": "62a867d5c6adaa4f564241c3947fc49560e930d7"
         },
         {
-          "url": "https://www.getswivel.io/faq/question-title-goes-here-question-title-goes-here-general-2-2/",
-          "uuid": "83708adfa26b180c3ec82fe766c18ff596e7840d"
+          "url": "https://academy.worldbank.org/en/people/health/addressing-antimicrobial-resistance",
+          "uuid": "4c51cc0dd9395d3814578b2c789ea2835b38e73d"
         },
         {
-          "url": "https://www.getswivel.io/faq-category/support/",
-          "uuid": "7757d34ea973a2ec6d9e244fe3ade1ac33ca2d82"
+          "url": "https://academy.worldbank.org/en/people/health/food-prices-for-nutrition-cost-and-affordability-of-a-healthy-diet-and-other-indicators",
+          "uuid": "3de03696dc212d373c6fb638a8677f80f25daab0"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/the-operationalization-of-one-health-course-ii-putting-one-health-into-practice",
+          "uuid": "ee6f173c1c1fc9c1b6632b169ca023e8caf302af"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/the-operationalization-of-one-health-course-i-introduction-to-the-one-health-approach",
+          "uuid": "2ddeda0dca9c86f0d9194f2079acfd0719e83dd2"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/education-finance",
+          "uuid": "b67071e490ec4c4f09665073b6d73e85d171175d"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/foundations-of-healthcare-quality-management",
+          "uuid": "0f1fd89a686fb41a1784fe71db087eaf6dda9347"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/decentralization-to-enhance-health-system-performance",
+          "uuid": "447adaf0cfce0cdaa9ec2710a3ee048ddab6add2"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/social-protection/understanding-pensions",
+          "uuid": "6ec8679300aa7f5958e457a8ebb52420d456f23b"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/social-protection/how-to-leverage-safety-nets-to-prevent-gender-based-violence",
+          "uuid": "ebf201a43ba238ae5be6801f20f6dbfd9d2d61dd"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/social-protection/south-south-learning",
+          "uuid": "87e30126d3bc89ecdf9266020ccfde46242fa090"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/social-protection/adaptive-social-protection",
+          "uuid": "1413824ad23c6104a2b050a2f394e6fbc5f3eff3"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/social-health-insurance",
+          "uuid": "223aa8ab952728808f7c3ae55679a35bed63246f"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/school-health-nutrition",
+          "uuid": "5d0564f67c824aaecf2fa94650dc9dfb46b5af75"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/human-resource-for-health",
+          "uuid": "a9fdd94cf62cd2eda452deaa007df78145c4966a"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/nutrition-responsive-budgeting",
+          "uuid": "3864c58c14b663266dd473ffe3fa591daffff9e5"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health/gender-and-universal-health-coverage",
+          "uuid": "88856aa1beba3cf36d03bd64449989ffc9a03832"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/results-based-financing-in-education",
+          "uuid": "39fed80cee6f809dd49cda3f475975375f952939"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/operationalizing-disability-inclusion-in-education",
+          "uuid": "c055fa3b42d54f4a21b8e742fb58f6acbef851f9"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/literacy-policy",
+          "uuid": "194accf4d546ccc6455405a221e538394fbfc143"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education/student-assessment-for-practitioners-and-policy-makers",
+          "uuid": "4fc54ca8708f1af804a875cb79eb8ae1e9509063"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/social-protection/key-concepts-and-topics-on-jobs",
+          "uuid": "48168ce57cd3aeeffde0b60246c95c866fc6e7c6"
         }
       ]
     },
     {
-      "name": "'Business Multi-Section Layout'",
+      "name": "'Content Hub Template'",
       "cluster": 3,
       "pages": [
         {
-          "url": "https://www.getswivel.io/events/",
-          "uuid": "5a8061c9c65646427a6f6ba802af70d8304584ff"
+          "url": "https://academy.worldbank.org/en/prosperity/institutions/govtech",
+          "uuid": "d871e9f96c1002839add7bcfe57f92bb26d7634e"
         },
         {
-          "url": "https://www.getswivel.io/case-studies/",
-          "uuid": "c1dd7f74d8c46b476c5ffc743bb36842de32e390"
+          "url": "https://academy.worldbank.org/en/prosperity/institutions/government-analytics-fellowship",
+          "uuid": "316c871177c3f9dc19ef67256802a4039cbad422"
         },
         {
-          "url": "https://www.getswivel.io/real-time-payment-data-posting-connect2core/",
-          "uuid": "2bb45ff2f4da4dcd15506b7e22f684f736b4f354"
+          "url": "https://academy.worldbank.org/en/prosperity/institutions/e-procurement",
+          "uuid": "da4f9be73fd547b146ec9dccdbd26bafa76df623"
         },
         {
-          "url": "https://www.getswivel.io/going-real-time-with-connect2core/",
-          "uuid": "7623ee7d9baf841ba4d870bb4e84a575ad6ef1d0"
+          "url": "https://academy.worldbank.org/en/prosperity/institutions/soe-leadership-program",
+          "uuid": "8e54ba4aa297626c62f3e3a6a4f61167504f296c"
         },
         {
-          "url": "https://www.getswivel.io/sample-page/",
-          "uuid": "cb7ed15c02b9ba1e8a1de5758fd5e842eeb66f45"
+          "url": "https://academy.worldbank.org/en/prosperity/institutions/introduction-to-public-expenditure-financial-accountability",
+          "uuid": "f9075ece834dacf0cf7f324f35130c5672f4ff66"
         },
         {
-          "url": "https://www.getswivel.io/case-studies-post/",
-          "uuid": "d2ad9c9c65ab2bec9bfb548adb027cf863db4680"
+          "url": "https://academy.worldbank.org/en/prosperity/economic-policy/regional-workshop-on-low-income-countries-debt-sustainability-framework",
+          "uuid": "72a5edfba58aa47cda13094c825465fd477f8148"
         },
         {
-          "url": "https://www.getswivel.io/downlodables/",
-          "uuid": "35082ba972b4943cf41487b61cc10f85ca32c8ef"
+          "url": "https://academy.worldbank.org/en/prosperity/poverty/strengthening-gender-statistics",
+          "uuid": "61db03c52d7bbceaf88c22ec5eec9e960f0fe969"
         },
         {
-          "url": "https://www.getswivel.io/perspectives/",
-          "uuid": "41609b5476f605368b4417b16aab0020e4208091"
+          "url": "https://academy.worldbank.org/en/prosperity/economic-policy/debt-management-for-debt-managers",
+          "uuid": "579e4d70637e5a47637101d7c130ce9fb3dc8c8e"
         },
         {
-          "url": "https://www.getswivel.io/faq/",
-          "uuid": "e2ace52805a7faf9691b975085568ff5d1674367"
+          "url": "https://academy.worldbank.org/en/prosperity/poverty/assessing-the-impact-of-fiscal-policy-on-poverty-and-quality",
+          "uuid": "7f3d51cd90a1ed29017b7fbe0aa1d7cb54ff9ecb"
         },
         {
-          "url": "https://www.getswivel.io/company-testimonials/",
-          "uuid": "68d14a621602165b3616398cfe9eee2cf61df6c9"
+          "url": "https://academy.worldbank.org/en/prosperity/poverty/geospatial-analysis-for-development-impact",
+          "uuid": "9c49922880942e51f8104b8471f4a4c09d3f079e"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/poverty/measuring-progress-on-poverty-reduction",
+          "uuid": "f2feb96330e781a0118a544b0902b41010bcdbec"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/poverty/monitoring-wellbeing-in-real-time",
+          "uuid": "53ae0e021abcbbb5240e8ea0d6847d408451ee89"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/capital-market",
+          "uuid": "b8f48405e48b3de11aab09e93bd529e5ad18c28f"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/economic-policy",
+          "uuid": "a99d67a7debec8d77276eedab398c9523665229b"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/institutions",
+          "uuid": "36b84849778aef79eb813ba6df7cf2e082e25d9a"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/poverty",
+          "uuid": "49fb6967439fb5f3b4873b709e482699247b9008"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/fci",
+          "uuid": "22471182f419f1d831ab0f46a6846599b2083793"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/trade-investment-competitiveness",
+          "uuid": "f53297a4c8d13af5cbfa5ed3c1bc2a1be548a34f"
         }
       ]
     },
     {
-      "name": "'Dashboard Template'",
+      "name": "Category Overview Page",
       "cluster": 4,
       "pages": [
         {
-          "url": "https://www.getswivel.io/press-releases/swivel-and-paydoff-partner-to-empower-financial-institutions-smarter-collections-and-seamless-payment-engagement/",
-          "uuid": "c7e5d17807aba2b81deb6ce4b70c31d8e25a2744"
+          "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance/asset-recycling",
+          "uuid": "f1188e43a2d52b729c3074413401e26f47672ea1"
         },
         {
-          "url": "https://www.getswivel.io/press-releases/swivel-announces-unique-apple-pay-integration-capability-to-improve-loan-payment-performance-for-community-financial-institutions/",
-          "uuid": "95a09fde54ad7dd2059d24ef14ccc5401f08ca3c"
+          "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance/ppp-certification-program-c3p3",
+          "uuid": "69a080c3028f89ef0436a2697ecd9fb7be0c9143"
         },
         {
-          "url": "https://www.getswivel.io/press-releases/swivel-expands-integration-with-eltropy/",
-          "uuid": "13838912bfabd59d23aece681af60bd24de01b41"
+          "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance/ppp-reference-guide",
+          "uuid": "854349a3df78bd07eaddadd881d0d02b364fec53"
         },
         {
-          "url": "https://www.getswivel.io/press-releases/swbc-launches-fintech-company-swivel-focused-on-frictionless-integrated-transaction-enablement/",
-          "uuid": "6f4660bea295e8b327200a8fe9b596819d63ce81"
+          "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance",
+          "uuid": "b1d744e4b4046e4a6e936c309e07926f649cb6c3"
         },
         {
-          "url": "https://www.getswivel.io/press-releases/swbc-marketing-and-swivel-win-silver-addy-award-for-brand-evolution/",
-          "uuid": "f22ea1f5ca48c3a17c6a4a7b8bb3c87c346b9062"
+          "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience",
+          "uuid": "8961d6139b2509c9d3edf536cf3b6d4f2d2b304f"
         },
         {
-          "url": "https://www.getswivel.io/press-releases/swivel-announces-integration-of-magic-wrighters-loanpay-into-swivels-payments-platform/",
-          "uuid": "afca14721c82e8688d8fc5323c0a6d5be06a40f2"
+          "url": "https://academy.worldbank.org/en/infrastructure/energy",
+          "uuid": "3edd7f855fc75a92edce78bbcd5f83c7f9ab49eb"
         },
         {
-          "url": "https://www.getswivel.io/press-releases/swivel-named-paytech-awards-usa-2024-finalist-in-multiple-categories/",
-          "uuid": "26487408a98e151938a5d0cd1396ee942bb1e4a1"
+          "url": "https://academy.worldbank.org/en/infrastructure/transport",
+          "uuid": "0851a393be181e9b85a1c6190f6acc9564bbb55f"
         },
         {
-          "url": "https://www.getswivel.io/press-releases/swivel-named-paytech-awards-usa-2024-winner-for-top-innovation-in-payments-solutions-for-banks-fis/",
-          "uuid": "7aef78e04305a897756cdfa18e10d417b3cfc821"
+          "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance/basics-of-ppps-and-project-finance",
+          "uuid": "67a0b88016b0e245219a78a7688bcf91806e4c5b"
         },
         {
-          "url": "https://www.getswivel.io/press-releases/swivel-added-to-akuvos-portfolio-of-connected-services/",
-          "uuid": "ae134a5aad824349f6edfa852352c616e353546f"
+          "url": "https://academy.worldbank.org/en/infrastructure/transport/leaders-in-urban-transport-planning",
+          "uuid": "d8f4f37571abb9400e55ca8af1abae91a354c81f"
         },
         {
-          "url": "https://www.getswivel.io/press-releases/swbcs-swivel-acquires-magic-wrighter-inc/",
-          "uuid": "97afa6d0ee76910da1d3d9d075572cc9dbb4c391"
+          "url": "https://academy.worldbank.org/en/infrastructure/transport/connectivity-and-logistics-program",
+          "uuid": "1f4c5c6ad446cb07877b02e268f4a4253af3e010"
         },
         {
-          "url": "https://www.getswivel.io/press-releases/swivel-announces-integration-with-fiserv-corillian-home-banking-application/",
-          "uuid": "33a18773c5399ba2ca34cda52c6842d584c176ae"
+          "url": "https://academy.worldbank.org/en/infrastructure/transport/road-safety-program",
+          "uuid": "6c812bdd41a382da424226e6fc3f4b38d68c3495"
         },
         {
-          "url": "https://www.getswivel.io/press-releases/swivel-announces-promotion-of-amanda-crocker-to-president/",
-          "uuid": "f5bc3abf8c781890621c55db81ed851c55c4dd20"
+          "url": "https://academy.worldbank.org/en/infrastructure/transport/transforming-transportation",
+          "uuid": "9aaa1293a873cce874f00191ac8b23eec270e816"
         },
         {
-          "url": "https://www.getswivel.io/press-releases/swivel-to-improve-transaction-enablement/",
-          "uuid": "b6482c9b9a9f21906272bc12759cfbf3209021a9"
+          "url": "https://academy.worldbank.org/en/infrastructure/energy/utility-finance-academy",
+          "uuid": "dd4b1384e36afdbe4c452802209ded77052fa667"
         },
         {
-          "url": "https://www.getswivel.io/press-releases/swivel-partners-with-federal-reserve-experts-to-host-exclusive-webinar-series-on-the-future-of-instant-payments/",
-          "uuid": "5ae4c767d1b659865b154c0f20ef3ff927688c06"
+          "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance/ppp-e-learning-modules",
+          "uuid": "1e2c70a82d608f3d7df5d7a332f7011b6f760ed5"
         },
         {
-          "url": "https://www.getswivel.io/press-releases/swbcs-swivel-offers-enhanced-payment-experience-with-new-stored-cards-feature/",
-          "uuid": "652fb5fc12d1f0228ee5d09197779b5da488135e"
+          "url": "https://academy.worldbank.org/en/infrastructure/energy/utilities-knowledge-exchange-platform",
+          "uuid": "312214b2512f99217bf33c82f94f143a21eb86f8"
         },
         {
-          "url": "https://www.getswivel.io/press-releases/crocker-joins-swivel-as-chief-operating-officer/",
-          "uuid": "5f2ed42806d13802b0f5ac91c28d44b08de1fba9"
+          "url": "https://academy.worldbank.org/en/infrastructure/energy/scaling-up-energy-efficiency",
+          "uuid": "8352ec3fee2277e797cc8b86f521ececaabc5392"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance/infrastructure-hot-topics",
+          "uuid": "c26f7ba3e17dfe116ab7f0e8e209a242cc385666"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance/ppp-gender-toolkit",
+          "uuid": "c1df005283addbb82d386752c4b2c8d6ba31174f"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/infrastructure/transport/transport-funding-and-resilience-program",
+          "uuid": "14d27ffc9e8556d638f08cc7fc60bbbb7b1bb8db"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/infrastructure/infrastructure-finance/financing",
+          "uuid": "437d7548342359d5420f99ddd26be0d0a0895130"
         }
       ]
     },
     {
-      "name": "'Content Listing Page'",
+      "name": "Category Overview Page",
       "cluster": 5,
       "pages": [
         {
-          "url": "https://www.getswivel.io/events/jack-henry-connect/",
-          "uuid": "246ccb6831200464fb5b236d971308994a66dd8c"
+          "url": "https://academy.worldbank.org/en/cross-cutting/data/introduction-to-behavioral-science-in-public-policy",
+          "uuid": "3b863b228d0e8e47986429e1a5b07352b5c388dd"
         },
         {
-          "url": "https://www.getswivel.io/events/eta-strategic-leadership-forum/",
-          "uuid": "5b1fbcf04bc2831e82652c13d7169e303de54c62"
+          "url": "https://academy.worldbank.org/en/cross-cutting/data/manage-successful-field-research",
+          "uuid": "7f633838d5142c112dbc42e558fc526fbf1fac0a"
         },
         {
-          "url": "https://www.getswivel.io/events/aft-association-for-financial-technology/",
-          "uuid": "84352153707b61e516be17dfd26a3aaf885d2d9a"
+          "url": "https://academy.worldbank.org/en/cross-cutting/gender/reproductive-health-from-advocacy-to-action-gender-equality-and-development",
+          "uuid": "2fc98113e3ca8db127df943c8baeded882779c9d"
         },
         {
-          "url": "https://www.getswivel.io/events/venturetech/",
-          "uuid": "e2dc34b2b5419f4055b178516e8aada8014d1762"
-        },
-        {
-          "url": "https://www.getswivel.io/events/nextgen-payments-forum-15th-nextgen-payements-regtech-forum/",
-          "uuid": "8c145bfb7fa199aee618635108403c3f94e5f0f9"
-        },
-        {
-          "url": "https://www.getswivel.io/events/testing-event-251/",
-          "uuid": "a376c979c8d20694ea89f30f5c6a3414409b18be"
-        },
-        {
-          "url": "https://www.getswivel.io/events/testing-event-251-2/",
-          "uuid": "730379d5cadce8394592604fbfef730f2bec9920"
-        },
-        {
-          "url": "https://www.getswivel.io/events/ccul-reach/",
-          "uuid": "6836eeca70b5ab22355cc1c1a8a807af1f14964e"
-        },
-        {
-          "url": "https://www.getswivel.io/events/cuna-lending-council-conference/",
-          "uuid": "5d6ad101e5659b2e8d295878fb961988df3edb78"
-        },
-        {
-          "url": "https://www.getswivel.io/events/go-west-maxx/",
-          "uuid": "e9931dd5bea10d973ed2a8cee500529255abba39"
-        },
-        {
-          "url": "https://www.getswivel.io/events/akuvo-conference/",
-          "uuid": "e7f23aa2254dbcb3d9fb3c72c3a22bae159e46ab"
-        },
-        {
-          "url": "https://www.getswivel.io/events/jack-henry-connect-2/",
-          "uuid": "3cb6706fbd3cbb645f53393d6a90600976076c0d"
-        },
-        {
-          "url": "https://www.getswivel.io/events/aft-association-for-financial-technology-2/",
-          "uuid": "f3dbdbd99538454131c4088601867e691f006cd5"
-        },
-        {
-          "url": "https://www.getswivel.io/events/go-west-maxx-2/",
-          "uuid": "7eb19009de54264836e1da56f4a5e1aa5b6295f6"
-        },
-        {
-          "url": "https://www.getswivel.io/events/eta-strategic-leadership-forum-2/",
-          "uuid": "eb789beb84398e431473167d4029f5b9b5f43e20"
-        },
-        {
-          "url": "https://www.getswivel.io/events/fintech_devcon/",
-          "uuid": "138deb7e4c95569ed2738e3aeb98aaec11c329b4"
-        },
-        {
-          "url": "https://www.getswivel.io/events/ccul-reach-2/",
-          "uuid": "227e31d90f4a9af07a87724b67549e19a444c08b"
-        },
-        {
-          "url": "https://www.getswivel.io/events/venturetech-2/",
-          "uuid": "5e2faadc51eb0c0ee5647b33ea48e8ebf78903e6"
-        },
-        {
-          "url": "https://www.getswivel.io/events/cu-build-2024/",
-          "uuid": "19fba25b871cf82993603469f25ea59212d21058"
-        },
-        {
-          "url": "https://www.getswivel.io/events/cuna-lending-council-conference-americas-credit-unions/",
-          "uuid": "adda4787aa69a65511d9a39cde6f843178db9d5f"
+          "url": "https://academy.worldbank.org/en/cross-cutting/data/women-business-and-the-law",
+          "uuid": "11051f87a3fa3e59dcf2fba9d019c3229a2e8f4c"
         }
       ]
     },
     {
-      "name": "'Content Hub Page'",
+      "name": "'Project Overview Page'",
       "cluster": 6,
       "pages": [
         {
-          "url": "https://www.getswivel.io/chase/electronic-communication-agreement/",
-          "uuid": "6816ceeca99900a1fd5f383413095aa25974f5a1"
+          "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/city-credit-worthiness-initiative",
+          "uuid": "2e42f44be7f9cf3f97f161338a3c14f80a2798af"
         },
         {
-          "url": "https://www.getswivel.io/chase/terms-of-use/",
-          "uuid": "236be198da9df77ee9647955dd8f4a386792a8a2"
+          "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/vienna-knowledge-center-competitive-and-livable-cities",
+          "uuid": "e3cbd5b6a7eccce4117abaf10ba3d8859c9fed77"
         },
         {
-          "url": "https://www.getswivel.io/chase/high-risk-acceptable-use-policy/",
-          "uuid": "9ab07b311ee092c1645b8014a3454eb98d398e23"
+          "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/roadmap-for--safer-and-resilient",
+          "uuid": "de3f618b940e309033ed646cdb3ffaa7df6e4f94"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/understanding-risk-forum",
+          "uuid": "775ff69b60b60919407755dbc1c99b5f0ff3473b"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/solid-waste-management",
+          "uuid": "7c9e1726b68485f1ea6645f198fc3d76570a10d2"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/tokyo-development-learning-center-technical-deep-dives",
+          "uuid": "1b53e6a3bf82181b2bcd169c665bdcca05840931"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/gpsc-regional-city-academy-in-asia",
+          "uuid": "200020524029d0bf61e992b03e5017af0431759c"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/land-conference",
+          "uuid": "41a03cd076bc60ca8ca120ed92c5d7e54617f790"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/municipal-finances",
+          "uuid": "0f45dfdf88c08cb68f734e22e24078d4f129c746"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/nature-based-solutions-capacity-building-series",
+          "uuid": "33e249ebe85aec5d9ff4383c892cc4909afff5ee"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/Smart-cities-for-sustainable-development",
+          "uuid": "4647830cb84ab458e9aa9d7a14a0a28587e6f4a1"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/emergency-preparedness-response-lessons-learned-exercise-series",
+          "uuid": "96ed136fc4785e80a856d02df6d39f45bb40aa88"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/infrastructure/urban-resilience/city-resilience-program",
+          "uuid": "45c5581268bdd4eaf407c137fc94605549390fce"
         }
       ]
     },
     {
-      "name": "Footer-focused layout",
+      "name": "Category Listing Page",
       "cluster": 7,
       "pages": [
         {
-          "url": "https://www.getswivel.io/company-testimonials/amoco-federal-credit-union/",
-          "uuid": "656677a2ceaca1d35cdfec57e276c36dd0611b77"
+          "url": "https://academy.worldbank.org/en/our-programs",
+          "uuid": "9e3607d5a50eb921a9393c422ba48d4e7e794e07"
         },
         {
-          "url": "https://www.getswivel.io/company-testimonials/rio-grande-credit-union/",
-          "uuid": "83e7c32fc63d9ac2237d5729d1a279eb740847fc"
+          "url": "https://academy.worldbank.org/en/events",
+          "uuid": "59ebe54f2646d4cbce8b244d02e408aa3a416f55"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-instrument",
+          "uuid": "5c2e540de08a6c4640be8e21f4d1d9e4e87f7412"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/how-we-work",
+          "uuid": "110a2ea91c6ade23604d57800353c14af3ef3a7f"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/cross-cutting/gender",
+          "uuid": "9d52274aa97abde3694f6984e31d21d31bbc8c14"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/cross-cutting/data",
+          "uuid": "b0b673944d5633aab4aaf67cff92d5e5b01c6f4b"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/education",
+          "uuid": "0212f2aec15af2974ea5992ddadb3f48ec5c54f4"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/social-protection",
+          "uuid": "fa16ea5aa069233d964ad6a8615f712c5a7804bd"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/digital/digital-transformation",
+          "uuid": "969cfbcc26a1883504be7974e8ed9fb37966177c"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/people/health",
+          "uuid": "215f3a413cac42bc448285002a3851c0d48b42e8"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/cross-cutting/jobs",
+          "uuid": "5af7996d692e0fb80fc747efb3060aeee8c2c665"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/accelerating-emobility",
+          "uuid": "0ba02fa41482f0a36409ea83f5971522c1896704"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/debt-vulnerability-resilience",
+          "uuid": "e1a4f440c1d22777f9c004c8f25dafec86d6a87c"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/powering-utilities",
+          "uuid": "38e812127d984b3a04e216f4229dee17b52c262c"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/drought-management",
+          "uuid": "04bece085ae3f167247e384b474c2d371f68d871"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/jobs-through-local-value-chain",
+          "uuid": "0c944d346ad1551ea9548680da0006362ab0bacd"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/guarantees",
+          "uuid": "f776d41cdf00aacff9815803857aec083df67054"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/climate-risk-finance",
+          "uuid": "4de9643b85b85bcb698878e50e7e74b1b7c95cdb"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/sustaining-health-financing",
+          "uuid": "0bd26c5a5c77c7647153077a96b9591dcb350002"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/low-methane-rice",
+          "uuid": "5295543600d8501a19def2b3c966c654de529ef3"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/domestic-resource-mobilization",
+          "uuid": "5358b46f8cefc253c141aa06dc822b6a084bfb95"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/our-programs/by-theme/jobs-for-the-poor",
+          "uuid": "c270192363e9b189c9559b2d70e4fdb9e464e0df"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/resource",
+          "uuid": "ce57989b3f0c1bea3cf4c3fcabca4f856e07b84d"
         }
       ]
     },
     {
-      "name": "E-commerce Product Page",
+      "name": "'Content Overview Page'",
       "cluster": 8,
       "pages": [
         {
-          "url": "https://www.getswivel.io/",
-          "uuid": "aa6d8da42d485440622d39c1d67bf62c41aa7ce7"
+          "url": "https://academy.worldbank.org/en/prosperity/fci/national-aml",
+          "uuid": "dc43b690143ee73ceae4682030db41490e4b3dec"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/fci/fast-payments-and-financial-market-infrastructure",
+          "uuid": "0cfc5fdf3d1dc71e4aeeb524ee3a32ba42e5c604"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/fci/sustainable-msme-finance-for-financial-institutions",
+          "uuid": "c9b59d489381c0eee83d935a9370302e88b9d573"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/fci/guide-to-green-bond-issuance",
+          "uuid": "32b4cf3bbb8c9b768d058433d1d25194b7733f4d"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/fci/annual-seminar-for-senior-bank-supervisors-from-emerging-economies",
+          "uuid": "4ddb9ff8af02d4bd801faec18d1a7648708d3754"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/fci/disaster-risk-finance-in-the-pacific",
+          "uuid": "54e4633b96c9c56623f9e012f7ec76c259cede5d"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/fci/fundamentals-of-disaster-risk-finance",
+          "uuid": "32366dd2f739aeb72ee5d80177d2a4163db5887c"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/fci/introduction-to-disaster-risk-finance-analytics",
+          "uuid": "800322e068789b830e0b9b5eab4e0fc99f84ece7"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/fci/disaster-risk-finance-in-the-pacific-get-ready-to-respond",
+          "uuid": "e6e08f2d49b646a372e939ca3786785a8f57247f"
         }
       ]
     },
     {
-      "name": "'Footer-focused layout'",
+      "name": "'Content Overview Page'",
       "cluster": 9,
       "pages": [
         {
-          "url": "https://www.getswivel.io/case-studies-post/weokie-federal-credit-union-2/",
-          "uuid": "ec1747ddc6f8776d72d5374f2f56c2d3bcf4e405"
+          "url": "https://academy.worldbank.org/en/planet/environment",
+          "uuid": "86b793e8fe9a576d6c3645f69501d98ae400030d"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture",
+          "uuid": "8fbc509616a2a15b4c1ca72ea6770386693e1a63"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/water",
+          "uuid": "e3e64bbaff0a87ca681fb3f1514af40c939c824f"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/climate-change",
+          "uuid": "53aa412d6589ae97430d4c44b0b32d00c172bfb0"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/water/irrigation-operator",
+          "uuid": "ede055afb5d83fdff17fff4dc17bbbc546862262"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/environment/learn-blue-brief",
+          "uuid": "537b5f88020c5889ccd66b3da84accbe4205e508"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/environment/introduction-to-nature-based-solutions",
+          "uuid": "4a35d3c85d815c6820704df7d37cf6c1370babab"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/environment/circular-economy-self-paced-e-learning",
+          "uuid": "d5a50ac1091294e572d82a93671c9085675b52a6"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture/ifc-food-safety-foundation-course",
+          "uuid": "9121c9a64806ca7bfd6534392a4ffba93dd8d824"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture/gender-in-climate-smart-agriculture-projects",
+          "uuid": "fc1d90d443fbb8ba66adc99beaf7896bc28c9c03"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture/foodborne-illnesses-and-personal-hygiene",
+          "uuid": "060c03f33f85b43db38302fe7444520b738837e0"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture/agribusiness-leadership-program",
+          "uuid": "aaf87558ed7ca7dba860eaf176a6bd4e55af4887"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture/agricultural-soil-fertility-management-in-the-era-of-climate-change",
+          "uuid": "1e1744c954cc401ed3ae047646e86297af1365d8"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture/agriculture-innovation-systems",
+          "uuid": "06e091e4574852627a27cab6fc3fd2d5afc4b9ee"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture/agTech-harnessing-technologies-for-sustainable-food-agriculture-systems",
+          "uuid": "7a6c8d64f88a8c8778a74d6d4ea7a3e39b2601ef"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture/digital-ag-series-big-data-platform-scaling-up-data-driven-digital-agriculture-learnings-from-the-kenya-experience",
+          "uuid": "bc207de7862e6e026ed2a03e7d60c4a0a6664477"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture/e-learning-on-digital-agriculture",
+          "uuid": "98f7948be7a0509b6b2577f9cce1e60addb422da"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/climate-change/resilience-monitoring-and-evaluation",
+          "uuid": "bc200740605c7a775b3e9b9426ed9c4a93d8d4e3"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/climate-change/integrated-land-use-initiatives",
+          "uuid": "0e39984f9e3b1d1e3e4bba10e3433a7d75b17cf5"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/water/taking-action-to-achieve-inclusive-wash",
+          "uuid": "d4be04870ad2686a4f883dca7b43d284383b6513"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/environment/the-e-s-academy-for-municipal-officers",
+          "uuid": "d6b79aa643c23220e8b710b482b1e8deecbd12bd"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/water/irrigated-agriculture",
+          "uuid": "487b72bb8bf9b3d7d0bee3ec30e2d4db48f5b28f"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/water/earth-observation",
+          "uuid": "9c68c764452d17d38f2942b55381cdd48c6c1600"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/environment/ocean-governance-capacity-building-training-program-e-learning-course",
+          "uuid": "07aaf04f5621a8679620860836f317cdbb9e1b28"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/environment/managing-environmental-and-social-performance",
+          "uuid": "533f61036461af70133da47c0b069cd9a8695a15"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/environment/ifrs-sustainability-disclosure-standards",
+          "uuid": "bc89deb3401984e678a18940119d18c84a180875"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/environment/embedding-ecosystem-services-into-policy",
+          "uuid": "6225d9f0155bd8d7c72d48b5097a99cfc767ee73"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/environment/technical-design-and-premium-calculations-for-crop-climate-insurances",
+          "uuid": "7a4d74616ed4ce84edaf46278b9596c5a120590b"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/environment/sustainability-training-and-e-learning-program",
+          "uuid": "cc2e69a0ea19912a9b3e3cb4a1a44710535cd966"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture/shining-a-brighter-light-data-driven-evidence-on-adoption-and-diffusion-of-agriculture-innovations-in-ethiopia",
+          "uuid": "bada3c2f1cae599be3e9ab5f426326324403f4e5"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture/introduction-to-index-insurance",
+          "uuid": "7f76f03e46fda36ad50da629eba53b4520805376"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/climate-change/guide-to-green-bond-issuance",
+          "uuid": "2fce36428f8a2e8afe3fa61c5d231974957a237d"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/climate-change/climate-warehouse-end-to-end-digital-infrastructure-for-carbon-markets",
+          "uuid": "b2cc40d73f6c6e1352ec379dd2fe070374e87479"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/climate-change/climate-resilient-transport-in-small-island-developing-states",
+          "uuid": "f1434434490c7b5f175cab9e283e16909055cd9c"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/climate-change/climate-change-and-health",
+          "uuid": "0cfac1f3a047d92b9e232a12be58c81d269f6178"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture/sustainable-agricultural-banking-program",
+          "uuid": "f9a6cc753717c6c72e4f632e44ca2dd594b725b4"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture/ifc-food-safety-handbook-course",
+          "uuid": "861f75d82e7aee1ee7988c06acd770ecb37f2bdf"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/water/water-women-and-jobs",
+          "uuid": "63e30a78739803a419633fd4ff8f6ea9a39fc4c9"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture/ifc-food-safety-reforms-course-learning-from-the-best",
+          "uuid": "afdf09079b37fae1b1c67d8900f7a8cdf32e7c4c"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/agriculture/ifc-food-safety-internal-audit-course-for-staff",
+          "uuid": "13dda9fb5682cbc2037aa1dd740fd78ce9bd3179"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/planet/water/water-utility-creditworthiness",
+          "uuid": "5450bc412283527c8b1f2310e10029c8218a83ef"
         }
       ]
     },
     {
-      "name": "'Profile Page'",
+      "name": "Course Overview Page",
       "cluster": 10,
       "pages": [
         {
-          "url": "https://www.getswivel.io/case-studies-post/lone-star-credit-union/",
-          "uuid": "6facdff00f49081dbe950e474994285e074da61c"
+          "url": "https://academy.worldbank.org/en/prosperity/trade-investment-competitiveness/barcelona-competitiveness-summer-school",
+          "uuid": "ea12f9e61bfbd75225294a89a9fda44c411ab57e"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/trade-investment-competitiveness/trade-facilitation-and-standards-compliance",
+          "uuid": "5356a8e1edf9a4741f613b30e17978017cb5d1b6"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/trade-investment-competitiveness/business-of-the-state-and-private-sector-development",
+          "uuid": "2f915eada802d3131caeb6beb116b5437167cc17"
         }
       ]
     },
     {
-      "name": "'Portfolio Showcase'",
+      "name": "Course Listing",
       "cluster": 11,
       "pages": [
         {
-          "url": "https://www.getswivel.io/perspectives/back-to-the-basics-steps-to-take-to-improve-users-online-payment-experience/",
-          "uuid": "574c134ce19d9938e4a0c4e67e5e62aa96ebb6fb"
+          "url": "https://academy.worldbank.org/en/prosperity/capital-market/capital-markets-postgraduate-program",
+          "uuid": "c92c00eb48d979c8d32f189b282eaf2215e8153f"
         },
         {
-          "url": "https://www.getswivel.io/perspectives/opportunities-for-humanization-to-make-a-difference-during-final-pay-offs/",
-          "uuid": "309568e890b0083fdafeedffff95f46f39c92d60"
+          "url": "https://academy.worldbank.org/en/prosperity/capital-market/training-on-gender-equality-in-global-capital-markets",
+          "uuid": "0c1c86ed63808a269cfd0cac69c8ba30e819d50d"
+        },
+        {
+          "url": "https://academy.worldbank.org/en/prosperity/capital-market/scaleX",
+          "uuid": "0caa256e394e20b45f80f6c5e3b188374607d78c"
         }
       ]
     },
     {
-      "name": "'Footer layout page'",
+      "name": "'Overview Page'",
       "cluster": 12,
       "pages": [
         {
-          "url": "https://www.getswivel.io/downlodables/meet-the-payment-preferences-of-todays-consumers/",
-          "uuid": "187a570745a8bd7ce0faf5447faeebecd5060e2f"
+          "url": "https://academy.worldbank.org/en/digital/digital-transformation/trade-facilitation-and-standards-compliance-digital-public-infrastructure",
+          "uuid": "ddbe0d1c8eabb78378c1b9a23ea91ec907874577"
         },
         {
-          "url": "https://www.getswivel.io/downlodables/equal-and-opposite-reactions-payment-preferences-across-the-generational-divide/",
-          "uuid": "20f2084df268cb73e6d4fcf40b8068e95d252cf2"
+          "url": "https://academy.worldbank.org/en/digital/digital-transformation/global-digital-summit",
+          "uuid": "64eee60178e608c770e2fe2d8595fafc8283d526"
         }
       ]
     }
