@@ -3,7 +3,7 @@
     "title": "URL Pattern Grouper Analysis Report",
     "customer": "National Rural Utilities Cooperative Finance Corporation",
     "domain": "www.nrucfc.coop",
-    "analysis_date": "2025-08-08 19:22:01",
+    "analysis_date": "2025-08-18 12:40:37",
     "total_pages_analyzed": 792
   },
   "content_analysis": {
@@ -33,15 +33,27 @@
       "form_types": {
         "Search": {
           "page_count": 789,
-          "percentage": 99.6
+          "percentage": 99.6,
+          "sample_urls": [
+            "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/-shark-tank--star-to-deliver-keynote-at-ncsc-remote-annual-meeti.html",
+            "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/2020-cfc-district-meetings--seven-new-directors-elected.html",
+            "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/2020-cfc-district-meetings-and-elections-go-virtual.html"
+          ]
         },
         "Login/Registration, Search": {
           "page_count": 2,
-          "percentage": 0.3
+          "percentage": 0.3,
+          "sample_urls": [
+            "https://www.nrucfc.coop/content/nrucfc/en/contact.html",
+            "https://www.nrucfc.coop/content/solutions/en/contact.html"
+          ]
         },
         "Contact/Lead, Search": {
           "page_count": 1,
-          "percentage": 0.1
+          "percentage": 0.1,
+          "sample_urls": [
+            "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/physical-security-concerns-grow-across-the-utility-industry.html"
+          ]
         }
       },
       "forms_per_page": {
