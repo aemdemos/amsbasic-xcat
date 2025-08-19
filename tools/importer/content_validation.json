@@ -459,106 +459,66 @@
   ],
   "pages": [
     {
-      "url": "https://www.getswivel.io/",
+      "url": "https://efundsforschools.com/",
       "differences": [
         {
-          "change_type": "deletion",
-          "text": "Skip to content "
+          "change_type": "insertion",
+          "text": "Home About Us Blog Tradeshows & Events Schedule Newsletters and Updates The EFS Story Tech Support Contact Us Toggle Navigation Search for: Search \uf002 "
         },
         {
           "change_type": "equal",
-          "text": "SOLUTIONS SWIVEL Pay Digital Payments Interactive Voice Response SWIVEL Enable Integrated Administrative Portal Real-Time Payment Data Posting Text Message Payment Reminders Information Security and Risk Mitigation Collections SWIVEL Connect Integrators & Partners Transaction Enablement\u2122 SWIVEL Pay Digital Payments Interactive Voice Response SWIVEL Enable Integrated Administrative Portal Real-Time Data Posting Text Message Payment Reminders Information Security and Risk Mitigation Collections SWIVEL Connect Integrators & Partners Digital Payments Interactive Voice Response Integrated Administrative Portal Real-Time Payment Data Posting Text Message Payment Reminders Information Security and Risk Mitigation Collections Integrators & Partners OUR DNA RESOURCES ABOUT CAREERS CONTACT US "
+          "text": "Skip to content Toggle Navigation SCHOOL LOGIN HOME ABOUT US TECH SUPPORT CONTACT US PAYMENT SOLUTIONS AutoPay and Recurring Payment Cash and Checks Credit and Debit Cards Direct Debit Electronic Receipting K12 Student Wallet Online and Mobile POS (Point-of-Sale) Single Pay CAMPUS SOLUTIONS Athletics and Fine Arts Before- and After-School Child Care Business Managers and Bookkeepers Food Services Fundraising and Donations Human Resources Library and Media Center Student Fee Management Summer School and Community Education Transportation and Facility Rentals INTEGRATIONS AND RESOURCES Integration Partners News and Updates Tradeshows & Events Schedule Newsletters and Updates The e~Funds (EFS) Story Contact Tech Support RISK AND SECURITY School Log-in "
         },
         {
           "change_type": "deletion",
-          "text": "Transaction Enablement\u2122 Platform Get SWIVEL, an integrated Transaction Enablement\u2122 platform laser focused on serving financial institutions and the humans behind every transaction. From payments and funding to collections, SWIVEL makes transaction enablement easy and secure \u2013 with love for your account holders. Request A Demo Learn More Powerful Payment Solutions SWIVEL\u2019s integrated Payment Solutions platform is laser-focused on serving financial institutions and the human behind every transaction. From payments and funding to collections, SWIVEL makes payment solutions easy and secure \u2013 with love for your account holders. Request A Demo Connect 2 Core\u00ae Ready for instant payment visibility? Then you are ready for Connect2Core. Learn More Payment Solutions Easy and Secure\u2026 SWIVEL Pay Digital Payments Digital Wallets Interactive Voice Response In-Person Call Center SWIVEL Enable Integrated Administrative Portal Real-Time Data Posting Text Message Payment Reminders Information Security and Risk Mitigation\u200b Collections SWIVEL Connect Integrators & Partners SDKs APIs SSO Security & Compliance It\u2019s in our DNA SWIVEL is here to keep your institution up-to-date every step of the way with unusual activity monitoring, penetration testing, red-flag signaling, and more. Using complex networks of data, our system is ever-growing. Unusual transactions are flagged with detailed, actionable messages sent to your risk team. 20 + YEARS OF EXPERIENCE 2,000 + CREDIT UNIONS & BANKS SERVED $ 12 B+ In Transactions Processed Annually Information Security and Risk Mitigation\u200b Ensure safe and secure transactions We safeguard your transactions and payments with unusual activity monitoring, actionable messages to your risk teams, and a range of fraud, AML, and"
+          "text": "Toggle Navigation Home About Us Blog Tradeshows & Events Schedule Newsletters and Updates The EFS Story Tech Support Contact Us Search for: "
+        },
+        {
+          "change_type": "equal",
+          "text": "School Log-in"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Toggle Navigation"
+        },
+        {
+          "change_type": "equal",
+          "text": " PAYMENT SOLUTIONS AutoPay and Recurring Payment Cash and Checks Credit and Debit Cards Direct Debit Electronic Receipting K12 Student Wallet Online and Mobile POS (Point-of-Sale) Single Pay CAMPUS SOLUTIONS Athletics and Fine Arts Before- and After-School Child Care Business Managers and Bookkeepers Food Services Fundraising and Donations Human Resources Library and Media Center Student Fee Management Summer School and Community Education Transportation and Facility Rentals INTEGRATIONS Integration Partners Tradeshows & Events Schedule Newsletters and Updates The e~Funds (EFS) Story "
+        },
+        {
+          "change_type": "deletion",
+          "text": "RISK AND SECURITY "
+        },
+        {
+          "change_type": "equal",
+          "text": "Payment Solutions for K-12 Schools EXPLORE SOLUTIONS Learn why EFS Solutions are considered to be \u201cConveniently the Best!\u201d K-12 All-in-One Best-in-Class GET STARTED TODAY A True, Single-Source K-12 Payment Processor with Best-in-Class Integrations for Your Campus K-12 Payment Solutions Built for Schools by Schools GET STARTED TODAY Solutions designed to minimize labor cost and provide time savings to staff and parents Trusted by More Than 10,000 Schools Institutions and Organizations VIEW CAMPUS SOLUTIONS! "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Home admin 2022"
         },
         {
           "change_type": "insertion",
-          "text": "404"
+          "text": "Homeadmin2022"
         },
         {
           "change_type": "equal",
-          "text": " "
+          "text": "-08-03T20:07:50+00:00 Payment processing shouldn\u2019t cost you time and money. See how EFS saves you both. LEARN MORE e~Funds for Schools (EFS) allows schools to collect for all items via one payment processing source . The EFS program can be used by all departments and entities throughout the district. Funds from payments can automatically be deposited to an unlimited number of bank accounts. Discover Our Full Suite of Easy-to-Use Payment Features & Resources e~Funds for Schools (EFS) allows schools to collect for all items via one payment processing source . The EFS program can be used by all departments and entities throughout the district. Funds from payments can automatically be deposited to an unlimited number of bank accounts. Discover Our Full Suite of Easy-to-Use Payment Features & Resources Payment Solutions Campus Solutions Integrations and Resources Risk and Security 1039 3 Mile Rd NW Grand Rapids, MI 49544 1-866-770-5856 Toll Free 1-616-784-2376 Fax Quick Links Home Sitemap Disclosures and Legal Payment Solutions Campus Solutions Integrations and Resources Risk and Security Contact SCHOOL LOGIN Search for"
         },
         {
           "change_type": "deletion",
-          "text": "BSA"
+          "text": ": \u00a9 "
         },
         {
           "change_type": "insertion",
-          "text": "Page"
+          "text": ": Search... \uf002 \u00a9 "
         },
         {
           "change_type": "equal",
-          "text": " "
-        },
-        {
-          "change_type": "deletion",
-          "text": "detection"
-        },
-        {
-          "change_type": "insertion",
-          "text": "Not"
-        },
-        {
-          "change_type": "equal",
-          "text": " "
-        },
-        {
-          "change_type": "deletion",
-          "text": "capabilities. Learn"
-        },
-        {
-          "change_type": "insertion",
-          "text": "Found"
-        },
-        {
-          "change_type": "equal",
-          "text": " "
-        },
-        {
-          "change_type": "deletion",
-          "text": "More Integration Integrate with"
-        },
-        {
-          "change_type": "insertion",
-          "text": "Go"
-        },
-        {
-          "change_type": "equal",
-          "text": " "
-        },
-        {
-          "change_type": "deletion",
-          "text": "ease Seamlessly integrate with popular core banking platforms, enterprise business systems, and easily adapt if needed. Learn More Engagement Engage the way consumers want Communicate with account holders by mobile or online, IVR, and text \u2013 so they can easily make payments, stay informed, and get updates. Learn More Rails Handle every transaction With the world of payments rapidly evolving, our versatile platform enables today\u2019s transaction methods and keeps your financial institution ready for tomorrow\u2019s. Learn More Our Industry Partners What Our Clients Say \u201cSWIVEL provides our account holders with the self-service tools they need to quickly and conveniently manage loan payments.\u201d \u201cWith SWIVEL, we\u2019ve seen an 80%+ switch from agent-aided payments to online payments.\u201d Speed and Simplicity Versatile Money Handling Capabilities Certificate Of Deposit Funding Fee Payment Services Automated Capabilities With Cores Easy Loan Payment Options Mutiple Payment Options Multiple Settlement Options Robust Reporting Capabilities Convenient New Account Funding Self-Serve Payments Specialized Support For Collectors Payment Reminders Learn more about Payment Solutions 9311 San Pedro Avenue, Suite 600 San Antonio, TX 78216 1-888-610-2574"
-        },
-        {
-          "change_type": "insertion",
-          "text": "home"
-        },
-        {
-          "change_type": "equal",
-          "text": " Swivel Transactions, LLC 9311 San Pedro Ave., Ste 600 San Antonio, TX 78216 1-888-610-2574"
-        },
-        {
-          "change_type": "deletion",
-          "text": " Developer Portal"
-        },
-        {
-          "change_type": "equal",
-          "text": " Quick Links Our DNA Resources About Careers Contact Us SWIVEL Status Page Solutions Digital Payments Interactive Voice Response Integrated Administrative Portal Real-Time Payment Data Posting Text Message Payment Reminders Information Security and Risk Mitigation Collections Integrators & Partners Documents High-Risk Transaction & Acceptable Use Policy Privacy Policy Electronic Communication Agreement Terms of Use"
-        },
-        {
-          "change_type": "deletion",
-          "text": " Newsletter Sign Up"
-        },
-        {
-          "change_type": "equal",
-          "text": " Card Brand Rules"
+          "text": "Copyright 2022 e~Funds for Schools - All Rights Reserved Page load link Go to Top"
         }
       ],
-      "similarity_score": 0.67405146589339
+      "similarity_score": 0.9979398558911955
     }
   ]
 }
