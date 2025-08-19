@@ -45,3 +45,106 @@
     padding: 40px 32px;
   }
 }
+
+.hero {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  min-height: 80px;
+  padding: 32px 48px 0 48px;
+  width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+/* Background image as a true background layer */
+.hero > div:first-child {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  display: flex;
+}
+.hero > div:first-child picture,
+.hero > div:first-child img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  object-position: left center;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* Foreground content (button area) */
+.hero > div:last-child {
+  position: relative;
+  z-index: 1;
+  margin-left: auto;
+  margin-top: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+  min-width: 0;
+}
+
+/* Button styling and alignment */
+.hero .button-container {
+  margin: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+
+.hero .button-container .button {
+  background: #7cc242;
+  color: #fff;
+  border-radius: 4px;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 15px;
+  letter-spacing: 0.5px;
+  padding: 12px 32px;
+  margin: 0;
+  box-shadow: none;
+  border: none;
+  line-height: 1.25;
+  display: inline-block;
+  vertical-align: middle;
+  min-width: 120px;
+  transition: background 0.2s;
+}
+
+.hero .button-container .button:hover,
+.hero .button-container .button:focus {
+  background: #6da636;
+}
+
+/* Remove unwanted margin from images */
+.hero img {
+  margin: 0;
+}
+
+/* Responsive: stack on small screens, reduce padding */
+@media (max-width: 700px) {
+  .hero {
+    flex-direction: column;
+    min-height: 110px;
+    padding: 16px 12px 0 12px;
+    justify-content: flex-start;
+  }
+  .hero > div:last-child {
+    margin-left: 0;
+    width: 100%;
+    justify-content: flex-start;
+  }
+  .hero .button-container .button {
+    width: 100%;
+    text-align: center;
+  }
+}
