@@ -1,36 +1,69 @@
 /* global WebImporter */
 export default function parse(element, { document }) {
-  // Block table: 1 column, 3 rows; header is 'Hero'
+  // Table header as required by the example
   const headerRow = ['Hero'];
 
-  // There is no image in the provided HTML for the background row
-  const backgroundRow = [''];
-
-  // Gather all relevant content from the element (headings, paragraphs)
-  // We want to reference actual elements from the DOM, preserving hierarchy and formatting.
-  const contentElements = [];
-  // We'll select all headings and paragraphs in reading order from the section
-  element.querySelectorAll(':scope h1, :scope h2, :scope h3, :scope h4, :scope h5, :scope h6, :scope p').forEach((el) => {
-    if (el.textContent.trim()) {
-      contentElements.push(el);
+  // 1. Extract the background image (if any)
+  let bgImgUrl = '';
+  // Check for .parallax-inner background image style
+  const parallaxInner = element.querySelector('.parallax-inner');
+  if (parallaxInner && parallaxInner.style.backgroundImage) {
+    const bg = parallaxInner.style.backgroundImage;
+    if (bg && bg.startsWith('url(')) {
+      bgImgUrl = bg.replace(/^url\(["']?/, '').replace(/["']?\)$/, '');
     }
-  });
-  // If no heading/paragraph was found, fallback to any text content
-  let contentCell = '';
-  if (contentElements.length > 0) {
-    contentCell = contentElements;
-  } else {
-    const txt = element.textContent.trim();
-    contentCell = txt ? txt : '';
+  }
+  // If not found, check for faded background style var
+  if (!bgImgUrl) {
+    const faded = element.querySelector('.fullwidth-faded');
+    if (faded) {
+      let fadedBg = faded.style.getPropertyValue('--awb-background-image') || '';
+      if (fadedBg) {
+        fadedBg = fadedBg.replace(/^url\(/, '').replace(/\)$/, '');
+        bgImgUrl = fadedBg;
+      }
+    }
   }
 
-  const contentRow = [contentCell];
+  // Create an img element for background image if URL exists
+  let bgImgElem = null;
+  if (bgImgUrl) {
+    bgImgElem = document.createElement('img');
+    bgImgElem.src = bgImgUrl;
+    bgImgElem.alt = '';
+    // Do not set width or height inline; let CSS handle it
+  }
 
+  // 2. Compose second row: background image (optional)
+  // If there is a background image, use it; otherwise, empty string
+  const secondRowCell = bgImgElem ? bgImgElem : '';
+
+  // 3. Compose third row: headline, subheadline, CTA (all optional)
+  // For this specific example, only the CTA button exists in the source HTML
+  let thirdRowContent = [];
+  // Extract CTA button from the 3rd column
+  const ctaCol = element.querySelector('.fusion-builder-column-8');
+  if (ctaCol) {
+    const ctaBtn = ctaCol.querySelector('a');
+    if (ctaBtn) {
+      thirdRowContent.push(ctaBtn);
+    }
+  }
+  // If no CTA button, row should be empty
+  if (thirdRowContent.length === 0) {
+    thirdRowContent = [''];
+  }
+
+  // Construct table rows as per the block definition (exactly 1 column)
   const cells = [
     headerRow,
-    backgroundRow,
-    contentRow
+    [secondRowCell],
+    [thirdRowContent.length === 1 ? thirdRowContent[0] : thirdRowContent]
   ];
+
+  // Create the table
   const table = WebImporter.DOMUtils.createTable(cells, document);
+
+  // Replace the original element with the new block table
   element.replaceWith(table);
 }

@@ -1,30 +1,30 @@
 /* global WebImporter */
 export default function parse(element, { document }) {
-  // Get immediate columns for this inner section
-  const columns = element.querySelectorAll(':scope > div > div');
-  const numCols = columns.length || 1;
+  // Find the column wrapper and nav
+  const column = element.querySelector('.fusion-layout-column');
+  if (!column) return;
+  const nav = column.querySelector('nav');
+  if (!nav) return;
 
-  // Table header row: always a single cell, even if multiple columns in data row
-  const headerRow = ['Columns (columns3)'];
+  // Find the main menu list
+  const menu = nav.querySelector('ul.fusion-menu');
+  if (!menu) return;
+  const lis = Array.from(menu.children).filter(el => el.tagName === 'LI');
 
-  // Second row: each column's content as a cell, referencing direct widget blocks from .elementor-widget-wrap
-  const cells = [];
-  columns.forEach((col) => {
-    const wrap = col.querySelector('.elementor-widget-wrap');
-    if (wrap) {
-      // Use all widgets inside as the cell content, or [] if empty
-      const widgets = Array.from(wrap.children);
-      cells.push(widgets.length ? widgets : []);
-    } else {
-      cells.push([]);
-    }
-  });
-  // Defensive: pad to at least two columns, if expected by layout
-  while (cells.length < numCols) {
-    cells.push([]);
-  }
-  // Build table rows: header (single cell), then actual columns row
-  const tableData = [headerRow, cells];
-  const block = WebImporter.DOMUtils.createTable(tableData, document);
-  element.replaceWith(block);
+  // Gather the first three menu items for the columns
+  // If fewer than three, fill with empty string
+  const columns = [
+    lis[0] || '',
+    lis[1] || '',
+    lis[2] || '',
+  ];
+
+  // Table structure: header row, content row with 3 columns
+  const cells = [
+    ['Columns (columns3)'],
+    columns
+  ];
+
+  const table = WebImporter.DOMUtils.createTable(cells, document);
+  element.replaceWith(table);
 }
