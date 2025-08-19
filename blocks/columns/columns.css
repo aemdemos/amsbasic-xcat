@@ -116,7 +116,6 @@
   border-radius: 0;
 }
 
-/* Row of columns: side-by-side on desktop, stacks on mobile */
 .columns.columns5 > div {
   display: flex;
   flex-direction: row;
@@ -152,7 +151,6 @@
   }
 }
 
-/* Each column: icon + text stacked vertically and centered */
 .columns.columns5 > div > div {
   display: flex;
   flex-direction: column;
@@ -166,7 +164,6 @@
   justify-content: flex-start;
 }
 
-/* Restore and size icons: block, large, margin below for space */
 .columns.columns5 img {
   display: block;
   max-width: 180px;
@@ -178,7 +175,6 @@
   box-shadow: none;
 }
 
-/* Tweak icon size for responsiveness */
 @media (width <= 900px) {
   .columns.columns5 img {
     max-width: 140px;
@@ -193,7 +189,6 @@
   }
 }
 
-/* Headings/text labels styling */
 .columns.columns5 h2 {
   color: #3380c4;
   font-size: 1.45rem;
@@ -219,8 +214,249 @@
   text-decoration: underline;
 }
 
-/* Remove extra margin above/below images and headings in columns block only */
 .columns.columns5 p {
   margin: 0;
   padding: 0;
+}
+
+
+.columns.columns6 {
+  background: #ededed;
+  font-family: var(--body-font-family);
+  padding: 0;
+}
+
+/* Main columns layout */
+.columns.columns6 > div {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 80px;
+  align-items: start;
+  padding: 48px 40px;
+  min-height: 320px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+@media (width <= 1000px) {
+  .columns.columns6 > div {
+    grid-template-columns: 1fr;
+    gap: 32px;
+    padding: 32px 10px;
+    min-height: unset;
+  }
+}
+
+/* --- Left Column: Logo + Contact --- */
+.columns.columns6 > div > div:first-child {
+  min-width: 230px;
+  max-width: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 0;
+  padding-top: 0; /* Remove extra top spacing */
+}
+
+/* Logo always visible at the very top, add space below */
+.columns.columns6 > div > div:first-child > p:first-child {
+  margin-top: 0;
+  margin-bottom: 18px;
+}
+
+/* All icon+text lines as flex row, vertically centered and spaced */
+.columns.columns6 > div > div:first-child p {
+  display: flex;
+  align-items: center;
+  margin: 0 0 2px;
+  color: #7d7d7d;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.7;
+}
+
+.columns.columns6 > div > div:first-child p > picture {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 10px;
+  min-width: 24px;
+  height: 28px;
+}
+
+.columns.columns6 > div > div:first-child p > picture img {
+  height: 28px;
+  width: auto;
+  object-fit: contain;
+  filter: none;
+}
+
+/* Tighter grouping for address and phone blocks */
+.columns.columns6 > div > div:first-child p + p {
+  margin-top: 0;
+}
+
+/* --- Center Column: Quick Links --- */
+.columns.columns6 > div > div:nth-child(2) {
+  min-width: 200px;
+  max-width: 330px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.columns.columns6 > div > div:nth-child(2) h4 {
+  color: #555;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0 0 18px;
+  letter-spacing: 0.01em;
+}
+
+.columns.columns6 > div > div:nth-child(2) ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  width: 100%;
+}
+
+.columns.columns6 > div > div:nth-child(2) ul li {
+  margin-bottom: 6px;
+  font-size: 16px;
+  color: #7d7d7d;
+  font-weight: 400;
+  line-height: 1.8;
+}
+
+.columns.columns6 > div > div:nth-child(2) ul li a {
+  color: #7d7d7d;
+  text-decoration: none;
+  font-weight: 400;
+  transition: color 0.2s;
+  display: inline-block;
+}
+
+.columns.columns6 > div > div:nth-child(2) ul li:first-child a {
+  color: #2491cf;
+  font-weight: bold;
+}
+
+/* --- Right Column: Login Button + Search --- */
+.columns.columns6 > div > div:nth-child(3) {
+  min-width: 240px;
+  max-width: 320px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 30px;
+  justify-content: flex-start;
+}
+
+/* Login Button at the top, right aligned */
+.columns.columns6 > div > div:nth-child(3) .button-container {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.columns.columns6 > div > div:nth-child(3) .button-container .button {
+  background: #fdb32b;
+  color: #fff;
+  font-size: 16px;
+  text-transform: uppercase;
+  border-radius: 6px;
+  padding: 14px 38px;
+  text-align: center;
+  font-weight: bold;
+  border: none;
+  margin-bottom: 0;
+  text-decoration: none;
+  box-shadow: none;
+  letter-spacing: 0.03em;
+  display: inline-block;
+  min-width: 190px;
+}
+
+/* --- Search Bar: horizontal alignment and styling --- */
+
+/* Group the two sibling p's into a row below the button */
+.columns.columns6 > div > div:nth-child(3) .button-container + p,
+.columns.columns6 > div > div:nth-child(3) .button-container + p + p {
+  margin: 0;
+  font-size: 15px;
+  color: #555;
+}
+
+.columns.columns6 > div > div:nth-child(3) .search-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 0;
+  width: 100%;
+  max-width: 260px;
+  gap: 0;
+}
+
+/* If a .search-row can't be added, simulate flex row using inline-block and negative margins */
+.columns.columns6 > div > div:nth-child(3) .button-container + p {
+  width: 180px;
+  padding: 7px 12px 7px 10px;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px 0 0 4px;
+  margin-right: -4px;
+  box-sizing: border-box;
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 0;
+}
+
+.columns.columns6 > div > div:nth-child(3) .button-container + p + p {
+  width: 36px;
+  padding: 7px 0;
+  background: #000;
+  color: #fff;
+  border: 1px solid #ccc;
+  border-left: none;
+  border-radius: 0 4px 4px 0;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 18px;
+  margin-left: 0;
+  margin-bottom: 0;
+  box-sizing: border-box;
+}
+
+@media (width >= 1000px) {
+  .columns.columns6 > div > div:nth-child(3) {
+    min-width: 260px;
+  }
+}
+
+/* Responsive adjustment for right column */
+@media (width <= 1000px) {
+  .columns.columns6 > div > div:nth-child(3) {
+    align-items: flex-start;
+  }
+
+  .columns.columns6 > div > div:nth-child(3) .button-container {
+    justify-content: flex-start;
+  }
+}
+
+/* --- Force inline-block and vertical alignment for search bar on desktop --- */
+@media (width >= 900px) {
+  .columns.columns6 > div > div:nth-child(3) .button-container + p,
+  .columns.columns6 > div > div:nth-child(3) .button-container + p + p {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .columns.columns6 > div > div:nth-child(3) .button-container + p + p {
+    margin-left: 0;
+  }
 }
