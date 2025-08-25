@@ -1,12 +1,12 @@
 {
-  "originUrl": "https://efundsforschools.com",
+  "originUrl": "https://swbcmortage.com",
   "aborted": false,
   "urls": [
     {
-      "url": "https://efundsforschools.com/",
+      "url": "https://swbcmortage.com/",
       "source": "MANUAL",
       "targetPath": "/",
-      "id": "3bd6c0efdb18e88e57410b672d92b6609139f64e"
+      "id": "67b1295ca1c82479f06297cc13c0ae1d0f940717"
     }
   ],
   "lastCrawled": null,
@@ -17,5 +17,6 @@
       "MANUAL"
     ]
   },
-  "extractionErrors": []
+  "extractionErrors": [],
+  "errorCountMessage": "none"
 }
