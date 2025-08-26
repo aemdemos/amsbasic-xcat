@@ -34,118 +34,6 @@
 }
 
 
-.columns.columns5 {
-  background: linear-gradient(180deg, #fff 0%, #e6f7fc 38%, #179fe8 100%);
-  padding: 64px 0 100px;
-  width: 100%;
-  overflow: hidden;
-  border-radius: 0;
-}
-
-.columns.columns5 > div {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: flex-start;
-  gap: 0;
-  width: 100%;
-  max-width: unset;
-  margin: 0;
-  padding: 0;
-}
-
-@media (width <= 1080px) {
-  .columns.columns5 > div {
-    justify-content: space-evenly;
-    gap: 16px;
-  }
-}
-
-@media (width <= 900px) {
-  .columns.columns5 > div {
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 32px;
-  }
-}
-
-@media (width <= 700px) {
-  .columns.columns5 > div {
-    flex-direction: column;
-    align-items: center;
-    gap: 40px;
-  }
-}
-
-.columns.columns5 > div > div {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  min-width: 0;
-  flex: 1 1 0;
-  max-width: 350px;
-  margin: 0 8px;
-  box-sizing: border-box;
-  justify-content: flex-start;
-}
-
-.columns.columns5 img {
-  display: block;
-  max-width: 180px;
-  width: auto;
-  height: auto;
-  margin: 0 auto 32px;
-  border: 0;
-  background: none;
-  box-shadow: none;
-}
-
-@media (width <= 900px) {
-  .columns.columns5 img {
-    max-width: 140px;
-    margin-bottom: 22px;
-  }
-}
-
-@media (width <= 600px) {
-  .columns.columns5 img {
-    max-width: 90px;
-    margin-bottom: 14px;
-  }
-}
-
-.columns.columns5 h2 {
-  color: #3380c4;
-  font-size: 1.45rem;
-  font-family: var(--heading-font-family), sans-serif;
-  font-weight: 900;
-  margin: 0;
-  text-align: center;
-  line-height: 1.18;
-  letter-spacing: 0.01em;
-  padding: 0;
-}
-
-.columns.columns5 h2 a {
-  color: #3380c4;
-  font-weight: 900;
-  text-decoration: none;
-  transition: color 0.18s;
-}
-
-.columns.columns5 h2 a:hover,
-.columns.columns5 h2 a:focus {
-  color: #27608c;
-  text-decoration: underline;
-}
-
-.columns.columns5 p {
-  margin: 0;
-  padding: 0;
-}
-
-
 .columns.columns6 {
   background: #ededed;
   font-family: var(--body-font-family);
@@ -539,11 +427,10 @@
   padding: 0;
 }
 
-/* Flex layout: side by side, image top-aligned */
 .columns.columns4 > div {
   display: flex;
   flex-direction: row;
-  align-items: flex-start; /* TOP-ALIGN image and text columns */
+  align-items: flex-start;
   gap: 40px;
   width: 100%;
   box-sizing: border-box;
@@ -551,7 +438,6 @@
   border: none;
 }
 
-/* TEXT COLUMN (left) */
 .columns.columns4 > div > div:first-child {
   background: #fff;
   padding: 0 36px 0 44px;
@@ -592,7 +478,6 @@
   font-family: var(--body-font-family);
 }
 
-/* Divider lines after each button container except last */
 .columns.columns4 > div > div:first-child p.button-container {
   border-bottom: 1px solid #e5e5e5;
   padding-bottom: 16px;
@@ -605,7 +490,6 @@
   margin-bottom: 0;
 }
 
-/* Button override */
 .columns.columns4 > div > div:first-child .button-container .button {
   background: none;
   color: #0057ff;
@@ -645,10 +529,9 @@
   border-color: #1d3ecf;
 }
 
-/* IMAGE COLUMN (right) */
 .columns.columns4 > div > .columns-img-col {
   display: flex;
-  align-items: flex-start;  /* Top-align the image */
+  align-items: flex-start;
   justify-content: flex-start;
   box-sizing: border-box;
   flex: 0 0 440px;
@@ -671,7 +554,6 @@
   box-sizing: border-box;
 }
 
-/* Responsive: Stack columns vertically, shrink image, adjust paddings */
 @media (width <= 900px) {
   .columns.columns4 > div {
     flex-direction: column;
@@ -708,5 +590,349 @@
   .columns.columns4 > div > .columns-img-col img {
     width: 180px;
     height: 180px;
+  }
+}
+
+
+.columns.columns5 {
+  background: #fff;
+  font-family: var(--body-font-family);
+  padding: 0;
+  border-radius: 0;
+  width: 100%;
+  overflow: visible;
+}
+
+/* Layout: Flex row for columns, balanced widths and gap */
+.columns.columns5 > div {
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+  padding: 60px 0;
+  width: 100%;
+  max-width: 1160px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+}
+
+/* Responsive: stack columns */
+@media (width <= 950px) {
+  .columns.columns5 > div {
+    flex-direction: column;
+    gap: 36px;
+    padding: 32px 0;
+  }
+}
+
+/* EVENTS COLUMN (LEFT) */
+.columns.columns5 > div > div:first-child {
+  background: #0052FF;
+  border-radius: 20px;
+  color: #fff;
+  padding: 40px 38px 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: 370px;
+  max-width: 440px;
+  width: 100%;
+  box-shadow: 0 4px 24px 0 rgb(0 30 90 / 6%);
+  text-align: left;
+  box-sizing: border-box;
+}
+
+/* EVENTS HEADER */
+.columns.columns5 > div > div:first-child h2 {
+  color: #000;
+  font-family: var(--heading-font-family);
+  font-size: 2.1rem;
+  font-weight: 700;
+  margin: 0 0 26px;
+  line-height: 1.15;
+  letter-spacing: 0.01em;
+  text-align: left;
+}
+
+/* EVENTS TITLE */
+.columns.columns5 > div > div:first-child h3 {
+  color: #fff;
+  font-size: 1.55rem;
+  font-weight: 700;
+  margin: 0 0 10px;
+  line-height: 1.13;
+  text-align: left;
+}
+
+.columns.columns5 > div > div:first-child h3 a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+/* EVENTS DATE & LOCATION */
+.columns.columns5 > div > div:first-child h4 {
+  font-size: 1.09rem;
+  font-weight: 700;
+  margin: 0 0 16px;
+  line-height: 1.23;
+}
+
+.columns.columns5 > div > div:first-child h4 a {
+  color: #B3D1FF;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+/* EVENTS DESCRIPTION */
+.columns.columns5 > div > div:first-child .button-container:first-of-type {
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.columns.columns5 > div > div:first-child .button-container:first-of-type a {
+  color: #fff;
+  font-size: 1.04rem;
+  font-weight: 400;
+  background: none;
+  border: none;
+  text-align: left;
+  padding: 0;
+  margin: 0;
+  box-shadow: none;
+  line-height: 1.6;
+  border-radius: 0;
+  max-width: 100%;
+  white-space: normal;
+  letter-spacing: 0;
+}
+
+/* EVENTS "LEARN MORE" LINK styled as text, left aligned */
+.columns.columns5 > div > div:first-child .button-container:nth-of-type(2) {
+  margin-bottom: 10px;
+  width: 100%;
+  text-align: left;
+}
+
+.columns.columns5 > div > div:first-child .button-container:nth-of-type(2) a {
+  background: none;
+  color: #fff;
+  font-weight: 700;
+  font-size: 1rem;
+  text-transform: uppercase;
+  text-decoration: underline;
+  border: none;
+  padding: 0;
+  box-shadow: none;
+  letter-spacing: 0.13em;
+  cursor: pointer;
+  margin-bottom: 0;
+  display: inline;
+}
+
+/* EVENTS LOGO BOX: restrict width, center logo, reduce excess space */
+.columns.columns5 > div > div:first-child p:last-of-type {
+  background: #fff;
+  border-radius: 14px;
+  padding: 14px 18px;
+  margin: 18px 0 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 210px;
+  width: 100%;
+  box-sizing: border-box;
+  align-self: flex-start;
+}
+
+.columns.columns5 > div > div:first-child p:last-of-type picture,
+.columns.columns5 > div > div:first-child p:last-of-type img {
+  width: auto;
+  max-width: 160px;
+  min-width: 80px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+
+/* PRESS RELEASES COLUMN (RIGHT) */
+.columns.columns5 > div > div:last-child {
+  background: none;
+  padding: 0 24px;
+  color: #000;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  min-width: 0;
+  max-width: 560px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Press Releases header and button row */
+.columns.columns5 > div > div:last-child .columns-header-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 24px;
+}
+
+.columns.columns5 > div > div:last-child > h2 {
+  display: inline-block;
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: #000;
+  margin-bottom: 0;
+}
+
+.columns.columns5 > div > div:last-child > .button-container:first-of-type {
+  display: inline-block;
+  margin-left: auto;
+  margin-bottom: 0;
+  vertical-align: middle;
+}
+
+/* "VIEW ALL PRESS RELEASES" BUTTON */
+.columns.columns5 > div > div:last-child .button-container:first-of-type a.button {
+  background: #0052FF;
+  color: #fff;
+  font-weight: 700;
+  font-size: 1rem;
+  padding: 13px 30px;
+  border-radius: 999px;
+  text-decoration: none;
+  border: none;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 4%);
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  min-width: 180px;
+}
+
+/* PRESS RELEASES ENTRY STYLING */
+.columns.columns5 > div > div:last-child h3 {
+  font-size: 1.08rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 32px;
+  margin-bottom: 2px;
+  color: #000;
+  letter-spacing: 0.03em;
+  line-height: 1.18;
+  text-align: left;
+  padding-left: 0;
+}
+
+.columns.columns5 > div > div:last-child h3 a {
+  color: #000;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+/* DATE */
+.columns.columns5 > div > div:last-child h4 {
+  color: #000;
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 6px;
+  margin-top: 0;
+  text-align: left;
+  padding-left: 0;
+}
+
+.columns.columns5 > div > div:last-child h4 a {
+  color: #000;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+/* DESCRIPTION: Black regular text, not link-styled */
+.columns.columns5 > div > div:last-child .button-container:nth-of-type(n+2):nth-of-type(odd) {
+  margin-bottom: 2px;
+  width: 100%;
+  text-align: left;
+}
+
+.columns.columns5 > div > div:last-child .button-container:nth-of-type(n+2):nth-of-type(odd) a {
+  color: #000;
+  font-size: 1rem;
+  font-weight: 400;
+  background: none;
+  border: none;
+  text-align: left;
+  padding: 0;
+  box-shadow: none;
+  line-height: 1.6;
+  border-radius: 0;
+  max-width: 100%;
+  white-space: normal;
+  letter-spacing: 0;
+  text-decoration: none;
+  display: inline;
+}
+
+/* "READ MORE" LINK: blue, bold, uppercase, underline */
+.columns.columns5 > div > div:last-child .button-container:nth-of-type(n+2):nth-of-type(even) {
+  width: 100%;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.columns.columns5 > div > div:last-child .button-container:nth-of-type(n+2):nth-of-type(even) a.button {
+  background: none;
+  color: #0052FF;
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: underline;
+  border: none;
+  padding: 0;
+  box-shadow: none;
+  letter-spacing: 0.07em;
+  cursor: pointer;
+  margin-bottom: 0;
+  display: inline;
+}
+
+/* SEPARATOR: light gray line between releases, inset for alignment */
+.columns.columns5 > div > div:last-child h3:not(:first-of-type) {
+  border-top: 1px solid #E4E4E4;
+  padding-top: 28px;
+  margin-top: 20px;
+  width: 90%;
+  margin-left: 5%;
+}
+
+/* Reduce extra vertical gap after "Read More" */
+.columns.columns5 > div > div:last-child .button-container + h3 {
+  margin-top: 16px;
+}
+
+/* Responsive adjustments: tight columns, logo box, and button */
+@media (width <= 600px) {
+  .columns.columns5 > div > div:first-child {
+    padding: 18px 8px;
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .columns.columns5 > div > div:last-child {
+    padding: 0 6px;
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .columns.columns5 > div > div:first-child p:last-of-type {
+    padding: 8px 5px;
+    max-width: 130px;
+  }
+
+  .columns.columns5 > div > div:first-child p:last-of-type img {
+    max-width: 80px;
+    min-width: 40px;
   }
 }
