@@ -603,7 +603,6 @@
   overflow: visible;
 }
 
-/* Layout: Flex row for columns, balanced widths and gap */
 .columns.columns5 > div {
   display: flex;
   flex-direction: row;
@@ -616,7 +615,6 @@
   align-items: flex-start;
 }
 
-/* Responsive: stack columns */
 @media (width <= 950px) {
   .columns.columns5 > div {
     flex-direction: column;
@@ -625,7 +623,6 @@
   }
 }
 
-/* EVENTS COLUMN (LEFT) */
 .columns.columns5 > div > div:first-child {
   background: #0052FF;
   border-radius: 20px;
@@ -642,7 +639,6 @@
   box-sizing: border-box;
 }
 
-/* EVENTS HEADER */
 .columns.columns5 > div > div:first-child h2 {
   color: #000;
   font-family: var(--heading-font-family);
@@ -654,7 +650,6 @@
   text-align: left;
 }
 
-/* EVENTS TITLE */
 .columns.columns5 > div > div:first-child h3 {
   color: #fff;
   font-size: 1.55rem;
@@ -670,7 +665,6 @@
   font-weight: 700;
 }
 
-/* EVENTS DATE & LOCATION */
 .columns.columns5 > div > div:first-child h4 {
   font-size: 1.09rem;
   font-weight: 700;
@@ -684,7 +678,6 @@
   font-weight: 700;
 }
 
-/* EVENTS DESCRIPTION */
 .columns.columns5 > div > div:first-child .button-container:first-of-type {
   margin-bottom: 10px;
   width: 100%;
@@ -707,7 +700,6 @@
   letter-spacing: 0;
 }
 
-/* EVENTS "LEARN MORE" LINK styled as text, left aligned */
 .columns.columns5 > div > div:first-child .button-container:nth-of-type(2) {
   margin-bottom: 10px;
   width: 100%;
@@ -730,7 +722,6 @@
   display: inline;
 }
 
-/* EVENTS LOGO BOX: restrict width, center logo, reduce excess space */
 .columns.columns5 > div > div:first-child p:last-of-type {
   background: #fff;
   border-radius: 14px;
@@ -755,8 +746,6 @@
   margin: 0 auto;
 }
 
-
-/* PRESS RELEASES COLUMN (RIGHT) */
 .columns.columns5 > div > div:last-child {
   background: none;
   padding: 0 24px;
@@ -771,7 +760,6 @@
   box-sizing: border-box;
 }
 
-/* Press Releases header and button row */
 .columns.columns5 > div > div:last-child .columns-header-row {
   display: flex;
   flex-direction: row;
@@ -797,7 +785,6 @@
   vertical-align: middle;
 }
 
-/* "VIEW ALL PRESS RELEASES" BUTTON */
 .columns.columns5 > div > div:last-child .button-container:first-of-type a.button {
   background: #0052FF;
   color: #fff;
@@ -813,7 +800,6 @@
   min-width: 180px;
 }
 
-/* PRESS RELEASES ENTRY STYLING */
 .columns.columns5 > div > div:last-child h3 {
   font-size: 1.08rem;
   font-weight: 700;
@@ -833,7 +819,6 @@
   font-weight: 700;
 }
 
-/* DATE */
 .columns.columns5 > div > div:last-child h4 {
   color: #000;
   font-size: 1rem;
@@ -850,7 +835,6 @@
   font-weight: 700;
 }
 
-/* DESCRIPTION: Black regular text, not link-styled */
 .columns.columns5 > div > div:last-child .button-container:nth-of-type(n+2):nth-of-type(odd) {
   margin-bottom: 2px;
   width: 100%;
@@ -875,7 +859,6 @@
   display: inline;
 }
 
-/* "READ MORE" LINK: blue, bold, uppercase, underline */
 .columns.columns5 > div > div:last-child .button-container:nth-of-type(n+2):nth-of-type(even) {
   width: 100%;
   text-align: left;
@@ -898,7 +881,6 @@
   display: inline;
 }
 
-/* SEPARATOR: light gray line between releases, inset for alignment */
 .columns.columns5 > div > div:last-child h3:not(:first-of-type) {
   border-top: 1px solid #E4E4E4;
   padding-top: 28px;
@@ -907,12 +889,10 @@
   margin-left: 5%;
 }
 
-/* Reduce extra vertical gap after "Read More" */
 .columns.columns5 > div > div:last-child .button-container + h3 {
   margin-top: 16px;
 }
 
-/* Responsive adjustments: tight columns, logo box, and button */
 @media (width <= 600px) {
   .columns.columns5 > div > div:first-child {
     padding: 18px 8px;
@@ -934,5 +914,87 @@
   .columns.columns5 > div > div:first-child p:last-of-type img {
     max-width: 80px;
     min-width: 40px;
+  }
+}
+
+
+.columns.columns7 {
+  background: #fff;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  margin: 0;
+  width: 100%;
+}
+
+.columns.columns7 > div {
+  padding: 0;
+  margin: 0;
+}
+
+.columns.columns7 > div > div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: auto; /* Only as wide as content, prevents stretching */
+  gap: 2rem; /* Controls space between heading & button */
+}
+
+.columns.columns7 > div > div > div {
+  flex: 0 0 auto; /* Prevents stretching */
+}
+
+.columns.columns7 h2 {
+  margin: 0;
+  font-family: var(--heading-font-family);
+  font-size: 2.25rem;
+  font-weight: 900;
+  color: #000;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.columns.columns7 .button-container {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.columns.columns7 .button-container .button {
+  background-color: #0057ff;
+  color: #fff;
+  border: none;
+  border-radius: 2em;
+  padding: 0.5em 2.2em;
+  font-size: 1rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  box-shadow: none;
+  margin: 0;
+  line-height: 1.2;
+  letter-spacing: 0.01em;
+  min-width: 0;
+  max-width: 100%;
+  display: inline-block;
+  width: auto;
+}
+
+@media (width <= 700px) {
+  .columns.columns7 > div > div {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.5rem;
+    width: 100%;
+  }
+
+  .columns.columns7 > div > div > div {
+    width: 100%;
+  }
+
+  .columns.columns7 .button-container {
+    justify-content: flex-start;
   }
 }
