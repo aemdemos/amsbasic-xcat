@@ -459,66 +459,306 @@
   ],
   "pages": [
     {
-      "url": "https://efundsforschools.com/",
+      "url": "https://www.coherent.com/",
       "differences": [
         {
-          "change_type": "insertion",
-          "text": "Home About Us Blog Tradeshows & Events Schedule Newsletters and Updates The EFS Story Tech Support Contact Us Toggle Navigation Search for: Search \uf002 "
+          "change_type": "deletion",
+          "text": "What are you looking for? Open Navigation Menu Close Navigation Menu Contact Sales "
         },
         {
           "change_type": "equal",
-          "text": "Skip to content Toggle Navigation SCHOOL LOGIN HOME ABOUT US TECH SUPPORT CONTACT US PAYMENT SOLUTIONS AutoPay and Recurring Payment Cash and Checks Credit and Debit Cards Direct Debit Electronic Receipting K12 Student Wallet Online and Mobile POS (Point-of-Sale) Single Pay CAMPUS SOLUTIONS Athletics and Fine Arts Before- and After-School Child Care Business Managers and Bookkeepers Food Services Fundraising and Donations Human Resources Library and Media Center Student Fee Management Summer School and Community Education Transportation and Facility Rentals INTEGRATIONS AND RESOURCES Integration Partners News and Updates Tradeshows & Events Schedule Newsletters and Updates The e~Funds (EFS) Story Contact Tech Support RISK AND SECURITY School Log-in "
+          "text": "English (US) English (US) English (US) Deutsch \u4e2d\u6587 \u65e5\u672c\u8a9e \ud55c\uad6d\uc5b4 "
         },
         {
           "change_type": "deletion",
-          "text": "Toggle Navigation Home About Us Blog Tradeshows & Events Schedule Newsletters and Updates The EFS Story Tech Support Contact Us Search for: "
-        },
-        {
-          "change_type": "equal",
-          "text": "School Log-in"
-        },
-        {
-          "change_type": "deletion",
-          "text": " Toggle Navigation"
-        },
-        {
-          "change_type": "equal",
-          "text": " PAYMENT SOLUTIONS AutoPay and Recurring Payment Cash and Checks Credit and Debit Cards Direct Debit Electronic Receipting K12 Student Wallet Online and Mobile POS (Point-of-Sale) Single Pay CAMPUS SOLUTIONS Athletics and Fine Arts Before- and After-School Child Care Business Managers and Bookkeepers Food Services Fundraising and Donations Human Resources Library and Media Center Student Fee Management Summer School and Community Education Transportation and Facility Rentals INTEGRATIONS Integration Partners Tradeshows & Events Schedule Newsletters and Updates The e~Funds (EFS) Story "
-        },
-        {
-          "change_type": "deletion",
-          "text": "RISK AND SECURITY "
-        },
-        {
-          "change_type": "equal",
-          "text": "Payment Solutions for K-12 Schools EXPLORE SOLUTIONS Learn why EFS Solutions are considered to be \u201cConveniently the Best!\u201d K-12 All-in-One Best-in-Class GET STARTED TODAY A True, Single-Source K-12 Payment Processor with Best-in-Class Integrations for Your Campus K-12 Payment Solutions Built for Schools by Schools GET STARTED TODAY Solutions designed to minimize labor cost and provide time savings to staff and parents Trusted by More Than 10,000 Schools Institutions and Organizations VIEW CAMPUS SOLUTIONS! "
-        },
-        {
-          "change_type": "deletion",
-          "text": "Home admin 2022"
+          "text": "Close Region * United States Canada Afghanistan Aland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo (Brazzaville) Congo, (Kinshasa) Cook Islands Costa Rica Croatia Cuba Cura\u00e7ao Cyprus Czech Republic C\u00f4te d'Ivoire Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau"
         },
         {
           "change_type": "insertion",
-          "text": "Homeadmin2022"
+          "text": "What"
         },
         {
           "change_type": "equal",
-          "text": "-08-03T20:07:50+00:00 Payment processing shouldn\u2019t cost you time and money. See how EFS saves you both. LEARN MORE e~Funds for Schools (EFS) allows schools to collect for all items via one payment processing source . The EFS program can be used by all departments and entities throughout the district. Funds from payments can automatically be deposited to an unlimited number of bank accounts. Discover Our Full Suite of Easy-to-Use Payment Features & Resources e~Funds for Schools (EFS) allows schools to collect for all items via one payment processing source . The EFS program can be used by all departments and entities throughout the district. Funds from payments can automatically be deposited to an unlimited number of bank accounts. Discover Our Full Suite of Easy-to-Use Payment Features & Resources Payment Solutions Campus Solutions Integrations and Resources Risk and Security 1039 3 Mile Rd NW Grand Rapids, MI 49544 1-866-770-5856 Toll Free 1-616-784-2376 Fax Quick Links Home Sitemap Disclosures and Legal Payment Solutions Campus Solutions Integrations and Resources Risk and Security Contact SCHOOL LOGIN Search for"
+          "text": " "
         },
         {
           "change_type": "deletion",
-          "text": ": \u00a9 "
+          "text": "Guyana"
         },
         {
           "change_type": "insertion",
-          "text": ": Search... \uf002 \u00a9 "
+          "text": "are"
         },
         {
           "change_type": "equal",
-          "text": "Copyright 2022 e~Funds for Schools - All Rights Reserved Page load link Go to Top"
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Haiti"
+        },
+        {
+          "change_type": "insertion",
+          "text": "you"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Honduras"
+        },
+        {
+          "change_type": "insertion",
+          "text": "looking"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Hong"
+        },
+        {
+          "change_type": "insertion",
+          "text": "for? Open"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Kong, SAR"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Navigation"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "China"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Menu"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Hungary Iceland"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Close"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "India"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Navigation"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Indonesia Iran, Islamic Republic"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Menu"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "of"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Contact"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Iraq"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Sales"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Ireland"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Close"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Isle"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Name"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "of"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Email"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Man"
+        },
+        {
+          "change_type": "insertion",
+          "text": "First"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Israel"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Name * Last"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Italy"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Name * Email * Phone * Company"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Ivory"
+        },
+        {
+          "change_type": "insertion",
+          "text": "or"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Coast Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Kosovo Kuwait Kyrgyzstan Lao PDR Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao, SAR China Macedonia Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands Netherlands Antilles New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island North Korea North Macedonia Northern Mariana Islands Norway Oman Pakistan Palau Palestine Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Romania Russian Rwanda R\u00e9union Saint-Barth\u00e9lemy Saint Helena Saint Kitts and Nevis Saint Lucia Saint-Martin Saint Pierre and Miquelon Saint Vincent and Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Slovakia Slovenia Solomon Islands Somalia South Africa South Korea South Sudan Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Islands Swaziland Sweden Switzerland Syria Taiwan Tajikistan Tanzania, United Republic of Thailand Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu U.S. Virgin Islands Uganda Ukraine United Arab Emirates United Kingdom Uruguay Uzbekistan Vanuatu Vatican City Venezuela (Bolivarian Republic) Vietnam Wallis and Futuna Islands Western Sahara Yemen Zambia Zimbabwe "
+        },
+        {
+          "change_type": "insertion",
+          "text": "Institution * Region * "
+        },
+        {
+          "change_type": "equal",
+          "text": "State "
+        },
+        {
+          "change_type": "deletion",
+          "text": "AL AK AZ AR CA CO CT DE DC FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY "
+        },
+        {
+          "change_type": "equal",
+          "text": "Opt In"
+        },
+        {
+          "change_type": "deletion",
+          "text": " "
+        },
+        {
+          "change_type": "insertion",
+          "text": " [ ]"
+        },
+        {
+          "change_type": "equal",
+          "text": "YES! I want Coherent news and promotions emailed to me. "
+        },
+        {
+          "change_type": "insertion",
+          "text": "Submit "
+        },
+        {
+          "change_type": "equal",
+          "text": "Required field If you need technical support or service, please visit Support . Privacy Policy Datacenter and Communications Industrial Solutions Support Company Networking Optical Transceivers Open Datacom Telecom Optical Circuit Switch Open Active Optical Cables Open Direct Attach Cables Open Optical Instrumentation Open Optoelectronic Devices Open GaAs VCSEL & Photodiodes InP Lasers & Photodiodes Integrated Circuits Communication Components Open Photodetectors & Receivers Dynamic Components IC-TROSA Passive Components Pump Lasers Wavelength Management Open Amplifiers Dynamic Modules Optical Monitoring Passive Modules Pluggable Optical Line Systems Subsystems & Line Cards Lasers Lasers Open CO\u2082 Lasers Diode Laser Modules Diode Lasers Excimer Lasers Machine Vision Lasers Fiber Lasers Ion Lasers CW Solid State Lasers Ultrafast Laser Amplifiers Ultrafast Laser Oscillators Ultrashort Pulse Lasers Nanosecond Lasers Laser Engines Machines & Systems Open Laser Cutting & Drilling Laser Marking & Engraving Laser Welding UV Laser Systems Laser FrameWork Software Laser FrameWork Accessories Components & Accessories Diode Laser Components Lasers for Sensing Specialty Optical Fibers Fiber Sensor Components Optical Fiber Assemblies Beam Delivery Components Processing Heads Laser Measurement Instruments Optics Open Filters Optical Devices & Subassemblies Thermal Imaging Tinsley Custom Optics Crystals Laser Optics General Optics Manufacturing Capabilities Materials Open Ceramics & Metal Matrix Ceramics & Composites Capabilities Metal Matrix Composites Reaction-Bonded SiC Ion Implantation Ion Implanter Disk Refurbishment & Coating Ion Implantation Foundry Services Engineered Materials Rare Specialty Metals Thermoelectrics Wide-Bandgap Electronics SiC Substrates & Epitaxy Solutions Communications Open Cloud Networking Enterprise Networking Terrestial Submarine Space Aerospace & Defense Open Satellite & Space Navigation, Guidance & Sensing Intelligence, Surveillance & Reconnaissance Multi-Domain Materials Directed Energy Future Warfighter Industrial Open Automotive Manufacturing HEV & EV Body in White Powertrain Electric Motor Manufacturing Fuel Cell Manufacturing Fabricating & Metalworking Marking and Engraving Electronics Manufacturing Semiconductor Manufacturing Display Manufacturing Pulsed Laser Deposition Electronics Open Consumer Electronics Automotive Electronics Sensing, Imaging & Ranging Scientific Open Ultrafast Spectroscopy Interferometry Cold Atoms & Quantum Optics Titanium Sapphire Pumping Multiphoton Excitation Microscopy Terahertz Generation Attosecond & EUV Generation Ablation Processes Life Sciences & Medical Open Bioinstrumentation Flow Cytometry Microscopy & Imaging DNA Sequencing Spectroscopy Raman Techniques Medical Applications Dermatology Surgical Dentistry Opthalmic Therapeutic Medical Devices Company About Us Open Leadership Environmental Social Governance Newsroom Open Blog Press Releases Success Stories Glossary Investor Relations Open Financial Releases Financial Webcasts Investor Presentations Annual Filings SEC Filings ESG Company Open Careers Coherent Labs Locations Events Legal ISO Certificates Contact Us DISPLAY MANUFACTURING Deliver laser solutions that drive innovations in display manufacturing and performance, especially for mobile devices. Learn More DRIVING EVEN FASTER DATACOM See why the rapid growth in AI/ML is driving a demand for faster datacom enabled by innovative Coherent solutions. Read the Blog 1.6T-DR8 TRANSCEIVER Silicon photonics-based 1.6T-DR8 transceiver module using a Marvell\u00ae Ara 3 nm optical digital signal processor (DSP), featuring 200 Gbps electrical and optical interfaces. Learn More OPTICAL CIRCUIT SWITCH The OCS optimizes data center networks by minimizing electrical switches and optical-electrical-optical (OEO) conversions, resulting in significant cost savings, reduced power consumption, and improved latency for GPU connections. Learn More PRECISION MANUFACTURING Weld metals and heat thermoplastic composites with efficiency, high throughput, and reduced costs. Learn More SEMI CAP EQUIPMENT Build equipment that maximizes throughput and yield using cutting-edge optics, lasers, and composite materials. Learn More "
+        },
+        {
+          "change_type": "deletion",
+          "text": "DISPLAY MANUFACTURING Deliver laser solutions that drive innovations in display manufacturing and performance, especially for mobile devices. Learn More DRIVING EVEN FASTER DATACOM See why the rapid growth in AI/ML is driving a demand for faster datacom enabled by innovative Coherent solutions. Read the Blog "
+        },
+        {
+          "change_type": "equal",
+          "text": "WE HARNESS PHOTONS TO DRIVE INNOVATION The photon is the fundamental building block of our universe. See how we use it to generate, modulate, amplify, direct, and detect for the datacenter, communications, and industrial markets. "
+        },
+        {
+          "change_type": "insertion",
+          "text": "https://s7d1.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d1.scene7.com/is/content&emailurl=https://s7d1.scene7.com/s7/emailFriend&serverUrl=https://s7d1.scene7.com/is/image/&config=Scene7SharedAssets/Universal%5FHTML5%5FVideo&contenturl=https://s7d1.scene7.com/skins/&asset=coherentinc/coherent-photons-drive-innovation?rel=0&modestbranding=1 "
+        },
+        {
+          "change_type": "equal",
+          "text": "Markets Datacenter and Communications Datacenter Enable ultra-high-speed data transmission and optimized power efficiency for hyperscale and enterprise datacenters with our advanced optical transceivers, active optical cables, and high-performance laser and component solutions. Discover Our Solutions Communications Transform global communications networks with our comprehensive portfolio of coherent transceivers and modules, lasers, amplifiers, and photonic devices. Our innovations support faster, more efficient data transport across metro, long-haul, subsea, and space-based networks. Discover Our Solutions Industrial Precision Manufacturing Perform fast, high-precision cutting, welding, marking, and ablation of metals and plastics with laser sources and systems. Discover Our Solutions Semiconductor & Display Capital equipment Innovative, high-precision equipment and laser solutions for next-gen chips and mobile displays. Discover Our Solutions Automotive & Energy Solutions Meet EV production challenges with cutting-edge technology that improves performance and reliability, and also lowers costs. Discover Our Solutions Instrumentation See how we\u2019re helping professionals and institutions \u2014 from research facilities and OEMs to hospitals and dentists \u2014 achieve better outcomes. Discover Our Solutions EVENTS FABTECH 2025 September 8 - 11, 2025 Chicago, IL FABTECH is North America\u2019s largest metal forming, fabricating, welding and finishing event. Visit us at booth# A-3131 to discover cutting-edge technologies shaping the industry's future at the can't miss event for manufacturers. Learn More Press Releases View all Press Releases COHERENT INTRODUCES 100G TRANSIMPEDANCE AMPLIFIERS FOR 400G/800G OPTICAL TRANSCEIVERS July 24, 2025 Coherent Corp. announces the addition of the 56 Gbaud PAM4 transimpedance amplifier (TIA) to its open-market ASIC portfolio. Read More Coherent to Showcase Innovative Products, Technologies and Thought Leadership at Laser World of Photonics 2025 June 24, 2025 Coherent will bring also expert insights thanks to its thought leaders that will present at panels and technical sessions, and other events. Read More Highlight The Industry\u2019s Most Vertically Integrated Datacom Transceivers From Silicon photonics, VCSEL arrays, lenses, filters and couplers, and isolators, Coherent is a vertically integrated supplier alleviating supply chain uncertainty to better support our customers. Learn More Resources View the Resource Page Press Releases Videos White Papers Success Stories Glossary shop.coherent.com ABOUT US LOCATIONS INVESTOR RELATIONS BLOG COHERENT LABS EVENTS NEWSROOM LEGAL RESOURCES CAREERS Contact Sales INNOVATIONS THAT RESONATE Privacy Statement | Cookie Policy | Legal Notice | \u00a9 Copyright Coherent Corp. 2025 All Rights Reserved UK Modern Slavery and Human Trafficking Statement"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Close Region * United States Canada Afghanistan Aland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo (Brazzaville) Congo, (Kinshasa) Cook Islands Costa Rica Croatia Cuba Cura\u00e7ao Cyprus Czech Republic C\u00f4te d'Ivoire Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Honduras Hong Kong, SAR China Hungary Iceland India Indonesia Iran, Islamic Republic of Iraq Ireland Isle of Man Israel Italy Ivory Coast Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Kosovo Kuwait Kyrgyzstan Lao PDR Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao, SAR China Macedonia Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands Netherlands Antilles New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island North Korea North Macedonia Northern Mariana Islands Norway Oman Pakistan Palau Palestine Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Romania Russian Rwanda R\u00e9union Saint-Barth\u00e9lemy Saint Helena Saint Kitts and Nevis Saint Lucia Saint-Martin Saint Pierre and Miquelon Saint Vincent and Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Slovakia Slovenia Solomon Islands Somalia South Africa South Korea South Sudan Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Islands Swaziland Sweden Switzerland Syria Taiwan Tajikistan Tanzania, United Republic of Thailand Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu U.S. Virgin Islands Uganda Ukraine United Arab Emirates United Kingdom Uruguay Uzbekistan Vanuatu Vatican City Venezuela (Bolivarian Republic) Vietnam Wallis and Futuna Islands Western Sahara Yemen Zambia Zimbabwe State AL AK AZ AR CA CO CT DE DC FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY Opt In YES! I want Coherent news and promotions emailed to me. Required field If you need technical support or service, please visit Support . Privacy Policy"
         }
       ],
-      "similarity_score": 0.9979398558911955
+      "similarity_score": 0.7404256577708893
     }
   ]
 }
