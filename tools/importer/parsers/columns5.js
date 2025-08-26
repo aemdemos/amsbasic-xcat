@@ -1,42 +1,52 @@
 /* global WebImporter */
 export default function parse(element, { document }) {
-  // Find the .fusion-fullwidth that contains the 4 columns for the columns5 block
-  const columnsFullwidth = Array.from(element.querySelectorAll('.fusion-fullwidth')).find(fw => {
-    const row = fw.querySelector(':scope > .fusion-builder-row');
-    if (!row) return false;
-    const cols = row.querySelectorAll(':scope > .fusion-layout-column');
-    return cols.length === 4;
-  });
-  if (!columnsFullwidth) return;
+  // 1. Find the main .layout-container__content
+  let mainContent = element.querySelector('.layout-container__content');
+  if (!mainContent) mainContent = element;
 
-  // Get the 4 columns
-  const cols = columnsFullwidth.querySelectorAll(':scope > .fusion-builder-row > .fusion-layout-column');
-  const rowCells = Array.from(cols).map(col => {
-    // Find the .fusion-column-wrapper in this column, which contains all display content
-    const wrapper = col.querySelector('.fusion-column-wrapper');
-    if (!wrapper) return '';
-    // Collect all children of the wrapper except empty text nodes
-    const children = Array.from(wrapper.childNodes).filter(node => {
-      // Keep all element nodes, and text nodes with actual (non-whitespace) content
-      return (node.nodeType === 1) || (node.nodeType === 3 && node.textContent.trim());
-    });
-    // If multiple elements, return as array; else just the single element
-    if (children.length === 1) {
-      return children[0];
-    } else if (children.length > 1) {
-      return children;
+  // 2. Find the top-level row with columns
+  let columnsRow = null;
+  if (mainContent.querySelector('.wrapper > .row')) {
+    columnsRow = mainContent.querySelector('.wrapper > .row');
+  } else if (mainContent.querySelector('.row')) {
+    columnsRow = mainContent.querySelector('.row');
+  }
+
+  // 3. Get the immediate .col children (columns)
+  let columns = [];
+  if (columnsRow) {
+    columns = Array.from(columnsRow.children).filter((col) => col.classList.contains('col'));
+  } else {
+    // Fallback: treat immediate children as columns
+    columns = Array.from(mainContent.children);
+  }
+
+  // 4. For each column, extract the main content inside, referencing the correct element
+  const contentRow = columns.map((col) => {
+    // If there's an .aem-Grid directly under the col, use all its children as content
+    const aemGrid = col.querySelector(':scope > .aem-Grid');
+    if (aemGrid) {
+      // If only one child, use that, else group all children in a div
+      const gridChildren = Array.from(aemGrid.children);
+      if (gridChildren.length === 1) {
+        return gridChildren[0];
+      } else {
+        const wrapper = document.createElement('div');
+        gridChildren.forEach(child => wrapper.appendChild(child));
+        return wrapper;
+      }
     } else {
-      return '';
+      // Otherwise, use the col directly
+      return col;
     }
   });
 
-  // Compose table rows
-  const cells = [
-    ['Columns (columns5)'], // header matches exactly
-    rowCells
-  ];
+  // 5. Build the table
+  const table = WebImporter.DOMUtils.createTable([
+    ['Columns (columns5)'],
+    contentRow,
+  ], document);
 
-  // Create table and replace original block
-  const blockTable = WebImporter.DOMUtils.createTable(cells, document);
-  columnsFullwidth.replaceWith(blockTable);
+  // 6. Replace the original element
+  element.replaceWith(table);
 }
