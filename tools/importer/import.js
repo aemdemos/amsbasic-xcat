@@ -11,11 +11,12 @@
  */
 /* global WebImporter */
 /* eslint-disable no-console */
-import columns6Parser from './parsers/columns6.js';
-import columns3Parser from './parsers/columns3.js';
-import hero2Parser from './parsers/hero2.js';
+import carousel2Parser from './parsers/carousel2.js';
 import columns5Parser from './parsers/columns5.js';
-import carousel4Parser from './parsers/carousel4.js';
+import columns4Parser from './parsers/columns4.js';
+import columns8Parser from './parsers/columns8.js';
+import columns3Parser from './parsers/columns3.js';
+import columns7Parser from './parsers/columns7.js';
 import headerParser from './parsers/header.js';
 import metadataParser from './parsers/metadata.js';
 import cleanupTransformer from './transformers/cleanup.js';
@@ -32,11 +33,12 @@ import {
 
 const parsers = {
   metadata: metadataParser,
-  columns6: columns6Parser,
-  columns3: columns3Parser,
-  hero2: hero2Parser,
+  carousel2: carousel2Parser,
   columns5: columns5Parser,
-  carousel4: carousel4Parser,
+  columns4: columns4Parser,
+  columns8: columns8Parser,
+  columns3: columns3Parser,
+  columns7: columns7Parser,
   ...customParsers,
 };
 
