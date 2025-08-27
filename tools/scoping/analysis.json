@@ -3,7 +3,7 @@
     "title": "URL Pattern Grouper Analysis Report",
     "customer": "National Rural Utilities Cooperative Finance Corporation",
     "domain": "www.nrucfc.coop",
-    "analysis_date": "2025-08-18 12:40:37",
+    "analysis_date": "2025-08-27 17:17:53",
     "total_pages_analyzed": 792
   },
   "content_analysis": {
@@ -277,30 +277,172 @@
       "URL Pattern 1": {
         "total_pages": 178,
         "template_groups": {
-          "Template 41": 119,
-          "Template 53": 14,
-          "Template 49": 6,
-          "Template 47": 4,
-          "Template 46": 4,
-          "Template 45": 3,
-          "Template 55": 3,
-          "Template 40": 3,
-          "Template 63": 3,
-          "Template 58": 2,
-          "Template 48": 2,
-          "Template 50": 2,
-          "Template 54": 2,
-          "Template 44": 1,
-          "Template 51": 1,
-          "Template 52": 1,
-          "Template 57": 1,
-          "Template 56": 1,
-          "Template 43": 1,
-          "Template 59": 1,
-          "Template 60": 1,
-          "Template 61": 1,
-          "Template 62": 1,
-          "Template 64": 1
+          "Template 41": {
+            "page_count": 119,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/-shark-tank--star-to-deliver-keynote-at-ncsc-remote-annual-meeti.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 53": {
+            "page_count": 14,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cfc-board-proposes-bylaw-changes.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table, Carousel",
+            "unknown_uuids": {}
+          },
+          "Template 49": {
+            "page_count": 6,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cdf-offers--friends-of-sheldon-petersen--fundraising-opportunity.html",
+            "sample_template_details": "Hero, Cards, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 47": {
+            "page_count": 4,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/at-cfc-with-sheldon-petersen.html",
+            "sample_template_details": "Hero, Cards, Video, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 46": {
+            "page_count": 4,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/add-cfc-s-new-email-domains-to-your-safe-sender-list.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table, Tabs",
+            "unknown_uuids": {}
+          },
+          "Template 45": {
+            "page_count": 3,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/2025-economic-and-industry-trends-report-page.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR1": "608b1eac-17-f8489e9c691cb6a2b003c273daa64b9f2d837001"
+            }
+          },
+          "Template 55": {
+            "page_count": 3,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cfc-delivers--60-million-in-patronage-capital.html",
+            "sample_template_details": "Cards, Hero, UNKNOWN-CLUSTER-MAJOR5, Embed (video), Table",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR5": "993408a8-05-e74838d7751c72f678a4af125385676a622e47de"
+            }
+          },
+          "Template 40": {
+            "page_count": 3,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cfc-form-12s-deadline-extended-to-june-30.html",
+            "sample_template_details": "Cards, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 63": {
+            "page_count": 3,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/petersen--don-discuss-esg--cfc-s-sustainability-bond.html",
+            "sample_template_details": "Cards, Hero, Video, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 58": {
+            "page_count": 2,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/district-1-newcomer-elected-to-cfc-board.html",
+            "sample_template_details": "Cards, Hero, UNKNOWN-CLUSTER-MAJOR5, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR5": "68e71f2f-04-b3597d9c766eceac604c1202d3223a51715cfa58",
+              "UNKNOWN-CLUSTER-MAJOR1": "68e71f2f-04-b3597d9c766eceac604c1202d3223a51715cfa58"
+            }
+          },
+          "Template 48": {
+            "page_count": 2,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/budgetpro-enhancements-benefit-new--veteran-users.html",
+            "sample_template_details": "Cards, unknown-cluster10, Hero, Embed (video), Table",
+            "unknown_uuids": {
+              "unknown-cluster10": "1f13f675-04-1d8b2118b9115f8e3922d6458eb63afb14a105ea"
+            }
+          },
+          "Template 50": {
+            "page_count": 2,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cfc-board-affirms-bylaw-amendment-proposal.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table, Video",
+            "unknown_uuids": {}
+          },
+          "Template 54": {
+            "page_count": 2,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cfc-ceo-andrew-don-addresses-recent-bank-failures.html",
+            "sample_template_details": "Video, Cards, Hero, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 44": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/2020-cfc-district-meetings-and-elections-go-virtual.html",
+            "sample_template_details": "Columns, Cards, Hero, UNKNOWN-CLUSTER-MAJOR5, Embed (video), Table",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR5": "9eae563d-04-b3597d9c766eceac604c1202d3223a51715cfa58"
+            }
+          },
+          "Template 51": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cfc-board-elects-new-officers--committee-chairs.html",
+            "sample_template_details": "Cards, Columns, Hero, Embed (video), Table, Carousel, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR1": "231fc538-06-f8489e9c691cb6a2b003c273daa64b9f2d837001"
+            }
+          },
+          "Template 52": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cfc-board-elects-new-officers-during-special-meeting.html",
+            "sample_template_details": "Cards, Columns, Hero, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR1": "b18427e5-05-e74838d7751c72f678a4af125385676a622e47de"
+            }
+          },
+          "Template 57": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cfc-update--business-continuity-and-capital-market-stabilization.html",
+            "sample_template_details": "Video, Hero, Cards, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 56": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cfc-helps-members-adjust-to-changing-climate-of-rate-design.html",
+            "sample_template_details": "Columns, Cards, Hero, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 43": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/former-co-op-cfo-rob-carr-joins-rvp-ranks.html",
+            "sample_template_details": "Hero, Embed (video), Cards, Table",
+            "unknown_uuids": {}
+          },
+          "Template 59": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/fannin-ec-builds-new-hq-with-financing-from-cfc.html",
+            "sample_template_details": "Cards, unknown-cluster10, Hero, Embed (video), Table, Carousel",
+            "unknown_uuids": {
+              "unknown-cluster10": "42f72bc2-13-5a0a794be11756c64423b18361dc2d6efb76b726"
+            }
+          },
+          "Template 60": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/krta-expert-shares-four-krta-toolpak-tips.html",
+            "sample_template_details": "Cards, unknown-cluster10, Hero, Embed (video), Table, Tabs",
+            "unknown_uuids": {
+              "unknown-cluster10": "7b019191-25-22a6af76cdab3cc475b32aa923e9da6a922d48a4"
+            }
+          },
+          "Template 61": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/members-show-strong-participation-in-cfc-investments.html",
+            "sample_template_details": "Hero, UNKNOWN-CLUSTER-MAJOR5, Cards, Video, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR5": "de320194-06-c474d3a8763f728f23021c9398ff8c66f0727bbc",
+              "UNKNOWN-CLUSTER-MAJOR1": "de320194-06-c474d3a8763f728f23021c9398ff8c66f0727bbc"
+            }
+          },
+          "Template 62": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/new-speakers-added-to-cfc-ibes-lineup--deadlines-approach.html",
+            "sample_template_details": "Cards, Columns, Hero, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 64": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/wattles-praises-cfc-s-determination-in-president-s-report.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table, Carousel, Tabs",
+            "unknown_uuids": {}
+          }
         },
         "top_template_details": {
           "Cards, Hero, Embed (video), Table": 119,
@@ -311,11 +453,46 @@
       "URL Pattern 2": {
         "total_pages": 127,
         "template_groups": {
-          "Template 58": 99,
-          "Template 41": 19,
-          "Template 48": 5,
-          "Template 72": 3,
-          "Template 71": 1
+          "Template 58": {
+            "page_count": 99,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/economy/Eyes-on-the-Economy-Homebuilder-Sentiment-Leading-Indicators-Inflation.html",
+            "sample_template_details": "Cards, Hero, UNKNOWN-CLUSTER-MAJOR5, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR5": "c5351f4a-13-6a7232f4ef19f2c6dbe7d112b7b908e454acb6b8",
+              "UNKNOWN-CLUSTER-MAJOR1": "c5351f4a-13-6a7232f4ef19f2c6dbe7d112b7b908e454acb6b8"
+            }
+          },
+          "Template 41": {
+            "page_count": 19,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/economy/-i-want-steak---strong--economy-hides-consumer-reality.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 48": {
+            "page_count": 5,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/economy/economic-analysis-of-the-2023-krta-results-.html",
+            "sample_template_details": "Cards, unknown-cluster10, Hero, Embed (video), Table",
+            "unknown_uuids": {
+              "unknown-cluster10": "66bce1ea-06-bb7dae1bece5c52d172fe95a25082b2937ea4737"
+            }
+          },
+          "Template 72": {
+            "page_count": 3,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/economy/eyes-on-the-economy-economic-outlook-manufacturing-contraction-inflation.html",
+            "sample_template_details": "Cards, Hero, UNKNOWN-CLUSTER-MAJOR5, Embed (social), Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR5": "500a16a9-14-f16097d9799e96140d5f2e7c7326e3e9df2cca7e",
+              "UNKNOWN-CLUSTER-MAJOR1": "500a16a9-14-f16097d9799e96140d5f2e7c7326e3e9df2cca7e"
+            }
+          },
+          "Template 71": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/economy/economic---market-watch.html",
+            "sample_template_details": "Columns, Embed (social), Embed (video), Cards, Table, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR1": "064480e8-08-3bc928ec24237934bf749dc08e9ae357d5a4411b"
+            }
+          }
         },
         "top_template_details": {
           "Cards, Hero, UNKNOWN-CLUSTER-MAJOR5, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1": 99,
@@ -326,22 +503,114 @@
       "URL Pattern 3": {
         "total_pages": 70,
         "template_groups": {
-          "Template 41": 37,
-          "Template 45": 6,
-          "Template 40": 4,
-          "Template 46": 3,
-          "Template 49": 3,
-          "Template 53": 3,
-          "Template 73": 2,
-          "Template 63": 2,
-          "Template 48": 2,
-          "Template 54": 2,
-          "Template 74": 1,
-          "Template 75": 1,
-          "Template 50": 1,
-          "Template 76": 1,
-          "Template 77": 1,
-          "Template 59": 1
+          "Template 41": {
+            "page_count": 37,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/accurate-interconnection-studies-can-lower-grid-costs--improve-t.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 45": {
+            "page_count": 6,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/2023-economic-and-industry-trends.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR1": "e69ab9e4-06-f8489e9c691cb6a2b003c273daa64b9f2d837001"
+            }
+          },
+          "Template 40": {
+            "page_count": 4,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/chargescape-s-ambitions--what-electric-co-ops-need-to-know.html",
+            "sample_template_details": "Cards, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 46": {
+            "page_count": 3,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/2020-solar-growth-sets-record--primed-to-quadruple-by-2030.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table, Tabs",
+            "unknown_uuids": {}
+          },
+          "Template 49": {
+            "page_count": 3,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/georgia-co-op-prepares-for-campus-microgrid-with-smartflowers.html",
+            "sample_template_details": "Hero, Cards, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 53": {
+            "page_count": 3,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/electric-cooperatives-prepare-for-virtual-power-plants-.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table, Carousel",
+            "unknown_uuids": {}
+          },
+          "Template 73": {
+            "page_count": 2,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/cfc-cio-shares-new-post-pandemic-enterprise-it-expectations-.html",
+            "sample_template_details": "Cards, Hero, Video, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR1": "6e87d639-06-f8489e9c691cb6a2b003c273daa64b9f2d837001"
+            }
+          },
+          "Template 63": {
+            "page_count": 2,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/cfc-supports-growing-member-broadband-interest.html",
+            "sample_template_details": "Cards, Hero, Video, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 48": {
+            "page_count": 2,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/electric-supply-forecast-to-meet-normal-summer-peak-demand.html",
+            "sample_template_details": "Cards, unknown-cluster10, Hero, Embed (video), Table",
+            "unknown_uuids": {
+              "unknown-cluster10": "1eaae7f6-07-bb7dae1bece5c52d172fe95a25082b2937ea4737"
+            }
+          },
+          "Template 54": {
+            "page_count": 2,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/electric-industry-transformation-requires-new-technology.html",
+            "sample_template_details": "Video, Cards, Hero, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 74": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/cfc-helps-missouri-co-op-evolve-with-new-rate-option.html",
+            "sample_template_details": "Columns, Cards, Hero, Video, Embed (video), Table, Tabs",
+            "unknown_uuids": {}
+          },
+          "Template 75": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/cfc-report-tackles-the-hype-and-hope-surrounding-blockchain.html",
+            "sample_template_details": "Columns, Hero, Cards, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 50": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/electric-vehicle-charging-standards--practices-take-shape.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table, Video",
+            "unknown_uuids": {}
+          },
+          "Template 76": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/physical-security-concerns-grow-across-the-utility-industry.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table, unknown-cluster131",
+            "unknown_uuids": {
+              "unknown-cluster131": "074f6175-10-cac1b6f971a97f78f33dac6f742427339cf9f888"
+            }
+          },
+          "Template 77": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/us-ev-market-grows-in-q2-2024.html",
+            "sample_template_details": "Hero, Embed (video), Cards, Table, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR1": "d7940bd9-10-7638e7932d45abe13a1ad0352f818983d6e844e2"
+            }
+          },
+          "Template 59": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/what-electric-cooperative-leaders-need-to-know-about-smrs.html",
+            "sample_template_details": "Cards, unknown-cluster10, Hero, Embed (video), Table, Carousel",
+            "unknown_uuids": {
+              "unknown-cluster10": "ef7c0386-09-cac1b6f971a97f78f33dac6f742427339cf9f888"
+            }
+          }
         },
         "top_template_details": {
           "Cards, Hero, Embed (video), Table": 37,
@@ -352,21 +621,100 @@
       "URL Pattern 4": {
         "total_pages": 68,
         "template_groups": {
-          "Template 41": 36,
-          "Template 53": 9,
-          "Template 54": 7,
-          "Template 67": 4,
-          "Template 49": 2,
-          "Template 56": 1,
-          "Template 55": 1,
-          "Template 65": 1,
-          "Template 66": 1,
-          "Template 32": 1,
-          "Template 63": 1,
-          "Template 68": 1,
-          "Template 69": 1,
-          "Template 47": 1,
-          "Template 70": 1
+          "Template 41": {
+            "page_count": 36,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/co-op-news/2022-ncb-co-op-100-includes-22-electric-cooperatives--cfc.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 53": {
+            "page_count": 9,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/co-op-news/cfc-helps-cooperative-bring-broadband-to-rural-indiana-.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table, Carousel",
+            "unknown_uuids": {}
+          },
+          "Template 54": {
+            "page_count": 7,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/co-op-news/NOVEC-Leaders-Share-Insights-on-Managing-Data-Center-Growth.html",
+            "sample_template_details": "Video, Cards, Hero, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 67": {
+            "page_count": 4,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/co-op-news/copper-valley-goes--behind-the-switch--to-connect-with-consumers.html",
+            "sample_template_details": "Embed (video), Cards, Table",
+            "unknown_uuids": {}
+          },
+          "Template 49": {
+            "page_count": 2,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/co-op-news/cfc-assists-smeco-with-successful-private-placement.html",
+            "sample_template_details": "Hero, Cards, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 56": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/co-op-news/cfc-assists-chugach-with-successful-utility-acquisition-.html",
+            "sample_template_details": "Columns, Cards, Hero, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 55": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/co-op-news/ceeus-expands-into-mid-atlantic-with-cfc-support.html",
+            "sample_template_details": "Cards, Hero, UNKNOWN-CLUSTER-MAJOR5, Embed (video), Table",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR5": "e5d0fe57-04-b3597d9c766eceac604c1202d3223a51715cfa58"
+            }
+          },
+          "Template 65": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/co-op-news/cfc-helps-norris-electric-focus-on-the-future.html",
+            "sample_template_details": "Columns, Cards, Hero, Embed (video), Table, Carousel",
+            "unknown_uuids": {}
+          },
+          "Template 66": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/co-op-news/cfc-helps-roanoke-ec-launch-new-ev-subscription-rate-program.html",
+            "sample_template_details": "Columns, Cards, Hero, Video, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 32": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/co-op-news/emergency-lines-of-credit-help-hurricane-ravaged-co-ops-recover.html",
+            "sample_template_details": "Columns, Embed (video), Cards, Table",
+            "unknown_uuids": {}
+          },
+          "Template 63": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/co-op-news/g-t-executive-discusses-managing-generation-resources.html",
+            "sample_template_details": "Cards, Hero, Video, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 68": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/co-op-news/krta--huge-boost-in-kwh-sales-underpins-cooperative-financials.html",
+            "sample_template_details": "Hero, Cards, Embed (video), Table, Carousel",
+            "unknown_uuids": {}
+          },
+          "Template 69": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/co-op-news/nisc-chief-vern-dosch-to-retire.html",
+            "sample_template_details": "Embed (video), Cards, Table, Video, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR1": "43f5a088-06-f8489e9c691cb6a2b003c273daa64b9f2d837001"
+            }
+          },
+          "Template 47": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/co-op-news/richland-ec-members-honk-horns-to-vote-at-annual-meeting.html",
+            "sample_template_details": "Hero, Cards, Video, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 70": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/co-op-news/wrec-partners-with-vincent-house-to-address-mental-health.html",
+            "sample_template_details": "Cards, Embed (video), Table, Carousel",
+            "unknown_uuids": {}
+          }
         },
         "top_template_details": {
           "Cards, Hero, Embed (video), Table": 36,
@@ -377,17 +725,76 @@
       "URL Pattern 5": {
         "total_pages": 65,
         "template_groups": {
-          "Template 41": 43,
-          "Template 62": 8,
-          "Template 49": 3,
-          "Template 40": 3,
-          "Template 52": 2,
-          "Template 32": 1,
-          "Template 46": 1,
-          "Template 78": 1,
-          "Template 50": 1,
-          "Template 67": 1,
-          "Template 63": 1
+          "Template 41": {
+            "page_count": 43,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/events-training/-meet-the-experts--at-our-new-forum-showcase-.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 62": {
+            "page_count": 8,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/events-training/-dirty-jobs--host-takes-the-cfc-ibes-2024-stage.html",
+            "sample_template_details": "Cards, Columns, Hero, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 49": {
+            "page_count": 3,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/events-training/don-t-miss-these-complimentary-orientations.html",
+            "sample_template_details": "Hero, Cards, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 40": {
+            "page_count": 3,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/events-training/earn-the-cooperative-financial-professional-certificate-next.html",
+            "sample_template_details": "Cards, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 52": {
+            "page_count": 2,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/events-training/former-boeing-ford-ceo--economic-insider-highlight-cfc-ibes.html",
+            "sample_template_details": "Cards, Columns, Hero, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR1": "f417c8a8-05-e74838d7751c72f678a4af125385676a622e47de"
+            }
+          },
+          "Template 32": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/events-training/cfc-form-7-training-now-available.html",
+            "sample_template_details": "Columns, Embed (video), Cards, Table",
+            "unknown_uuids": {}
+          },
+          "Template 46": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/events-training/cfc-forum-2024-speaker-recordings-now-available.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table, Tabs",
+            "unknown_uuids": {}
+          },
+          "Template 78": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/events-training/ibes-2023-speaker-videos-now-available.html",
+            "sample_template_details": "Cards, Hero, UNKNOWN-CLUSTER-MAJOR5, Embed (video), Table, Tabs",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR5": "e4a746b7-04-b3597d9c766eceac604c1202d3223a51715cfa58"
+            }
+          },
+          "Template 50": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/events-training/register-for-forum-pre-conference-workshops.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table, Video",
+            "unknown_uuids": {}
+          },
+          "Template 67": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/events-training/the-countdown-to-cfc-ibes-2023-is-on.html",
+            "sample_template_details": "Embed (video), Cards, Table",
+            "unknown_uuids": {}
+          },
+          "Template 63": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/events-training/theres-still-time-to-register-for-forum.html",
+            "sample_template_details": "Cards, Hero, Video, Embed (video), Table",
+            "unknown_uuids": {}
+          }
         },
         "top_template_details": {
           "Cards, Hero, Embed (video), Table": 43,
@@ -398,9 +805,24 @@
       "URL Pattern 6": {
         "total_pages": 64,
         "template_groups": {
-          "Template 88": 38,
-          "Template 89": 14,
-          "Template 87": 12
+          "Template 88": {
+            "page_count": 38,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/tags/battery-storage.html",
+            "sample_template_details": "Embed (video), Cards, Table, Video",
+            "unknown_uuids": {}
+          },
+          "Template 89": {
+            "page_count": 14,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/tags/broadband.html",
+            "sample_template_details": "Hero, Embed (video), Cards, Table, Video",
+            "unknown_uuids": {}
+          },
+          "Template 87": {
+            "page_count": 12,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/tags/100-percent-borrower.html",
+            "sample_template_details": "Cards, Embed (video), Table, Video",
+            "unknown_uuids": {}
+          }
         },
         "top_template_details": {
           "Embed (video), Cards, Table, Video": 38,
@@ -411,17 +833,78 @@
       "URL Pattern 7": {
         "total_pages": 57,
         "template_groups": {
-          "Template 41": 15,
-          "Template 73": 9,
-          "Template 63": 8,
-          "Template 54": 8,
-          "Template 40": 7,
-          "Template 82": 3,
-          "Template 83": 3,
-          "Template 81": 1,
-          "Template 84": 1,
-          "Template 85": 1,
-          "Template 86": 1
+          "Template 41": {
+            "page_count": 15,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/podcast/2025-industry-and-economic-trends.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 73": {
+            "page_count": 9,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/podcast/-dirty-jobs--host-shares-the-importance-of-line-workers--skilled.html",
+            "sample_template_details": "Cards, Hero, Video, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR1": "609811b3-06-f8489e9c691cb6a2b003c273daa64b9f2d837001"
+            }
+          },
+          "Template 63": {
+            "page_count": 8,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/podcast/ai-disrupts-power-demand-estimates--what-electric-cooperatives-n.html",
+            "sample_template_details": "Cards, Hero, Video, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 54": {
+            "page_count": 8,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/podcast/ai-s-role-in-enhancing-operations-and-member-services.html",
+            "sample_template_details": "Video, Cards, Hero, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 40": {
+            "page_count": 7,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/podcast/a-preview-of-the-2023-economic-and-energy-picture-for-co-ops.html",
+            "sample_template_details": "Cards, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 82": {
+            "page_count": 3,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/podcast/Enhancing-Efficiency-Member-Experience-with-AI.html",
+            "sample_template_details": "Cards, Hero, Embed (social), Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR1": "0bab196c-06-f8489e9c691cb6a2b003c273daa64b9f2d837001"
+            }
+          },
+          "Template 83": {
+            "page_count": 3,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/podcast/hear-how-winter-storm-elliott-caused-the-perfect-storm-.html",
+            "sample_template_details": "Cards, Embed (social), Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 81": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/podcast/cfc-solutions-cast-season-two--defending-electric-infrastructure.html",
+            "sample_template_details": "Cards, Embed (social), Embed (video), Table, Hero",
+            "unknown_uuids": {}
+          },
+          "Template 84": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/podcast/industry-insights--new-ferc-rule-impacts-2024-interconnection-qu.html",
+            "sample_template_details": "Video, Cards, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 85": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/podcast/michigan-ceo-explores-lessons-learned-from-first-year-challenges.html",
+            "sample_template_details": "Embed (social), Embed (video), Cards, Table, Hero, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR1": "f08440b0-06-c474d3a8763f728f23021c9398ff8c66f0727bbc"
+            }
+          },
+          "Template 86": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/podcast/using-alert-systems-to-protect-members-from-scammers.html",
+            "sample_template_details": "Cards, Hero, Embed (social), Embed (video), Table",
+            "unknown_uuids": {}
+          }
         },
         "top_template_details": {
           "Cards, Hero, Embed (video), Table": 15,
@@ -432,18 +915,80 @@
       "URL Pattern 8": {
         "total_pages": 52,
         "template_groups": {
-          "Template 41": 28,
-          "Template 53": 7,
-          "Template 75": 3,
-          "Template 49": 3,
-          "Template 32": 2,
-          "Template 55": 2,
-          "Template 68": 2,
-          "Template 79": 1,
-          "Template 63": 1,
-          "Template 70": 1,
-          "Template 80": 1,
-          "Template 66": 1
+          "Template 41": {
+            "page_count": 28,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/on-your-side/alabama--tennessee-co-ops-power-up-guatemalan-village.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 53": {
+            "page_count": 7,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/on-your-side/cfc--ncsc-directors-present-educational-fund-checks-to-mrea-.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table, Carousel",
+            "unknown_uuids": {}
+          },
+          "Template 75": {
+            "page_count": 3,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/on-your-side/big-sky-co-ops-electrify-rural-bolivia--with-cfc-assist.html",
+            "sample_template_details": "Columns, Hero, Cards, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 49": {
+            "page_count": 3,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/on-your-side/international-program-spotlights.html",
+            "sample_template_details": "Hero, Cards, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 32": {
+            "page_count": 2,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/on-your-side/cfc-grant-helps-ok--co-co-ops-light-up-guatemalan-village.html",
+            "sample_template_details": "Columns, Embed (video), Cards, Table",
+            "unknown_uuids": {}
+          },
+          "Template 55": {
+            "page_count": 2,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/on-your-side/cfc-helps-indiana-co-op-map-bold-vision-.html",
+            "sample_template_details": "Cards, Hero, UNKNOWN-CLUSTER-MAJOR5, Embed (video), Table",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR5": "9d115f25-10-caaac6fcae4ffba3d795123ea63cdc40f57c6be8"
+            }
+          },
+          "Template 68": {
+            "page_count": 2,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/on-your-side/keystone-and-garden-state-communications-get-boost-from-cfc.html",
+            "sample_template_details": "Hero, Cards, Embed (video), Table, Carousel",
+            "unknown_uuids": {}
+          },
+          "Template 79": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/on-your-side/cfc-offers-new-insight-on-connecting-with-co-op-consumers.html",
+            "sample_template_details": "Hero, Video, Embed (video), Cards, Table",
+            "unknown_uuids": {}
+          },
+          "Template 63": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/on-your-side/cfc-supports-project-indiana-mission-to-guatemala.html",
+            "sample_template_details": "Cards, Hero, Video, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 70": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/on-your-side/cfc-supports-electric-co-op-employee-assistance-funds--restorati.html",
+            "sample_template_details": "Cards, Embed (video), Table, Carousel",
+            "unknown_uuids": {}
+          },
+          "Template 80": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/on-your-side/georgia-co-ops-complete-guatemalan-electrification-project.html",
+            "sample_template_details": "Cards, Hero, Embed (social), Embed (video), Table, Carousel",
+            "unknown_uuids": {}
+          },
+          "Template 66": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/on-your-side/charitable-success--from-conception-to-raising--500-000-for-co-o.html",
+            "sample_template_details": "Columns, Cards, Hero, Video, Embed (video), Table",
+            "unknown_uuids": {}
+          }
         },
         "top_template_details": {
           "Cards, Hero, Embed (video), Table": 28,
@@ -454,12 +999,48 @@
       "URL Pattern 9": {
         "total_pages": 13,
         "template_groups": {
-          "Template 25": 4,
-          "Template 28": 3,
-          "Template 6": 2,
-          "Template 26": 2,
-          "Template 24": 1,
-          "Template 27": 1
+          "Template 25": {
+            "page_count": 4,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/news/stories/cfc-delivers--72-million-in-patronage-capital-.html",
+            "sample_template_details": "Cards, Hero, Embed (social), Video, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 28": {
+            "page_count": 3,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/news/stories/georgia-co-ops-help-commercial-member-meet-esg-goals.html",
+            "sample_template_details": "Hero, Cards, Embed (social), Video, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 6": {
+            "page_count": 2,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/news/stories/charitable-success--from-conception-to-raising--500-000-for-co-o.html",
+            "sample_template_details": "Hero, Cards, Embed (social), Video, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR1": "64d8f261-05-cdfa451e46115e4458b4b08925d93455967e6f9e"
+            }
+          },
+          "Template 26": {
+            "page_count": 2,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/news/stories/cfc-helps-cooperative-bring-broadband-to-rural-indiana-.html",
+            "sample_template_details": "Cards, Hero, Embed (social), Video, Embed (video), Table, Carousel",
+            "unknown_uuids": {}
+          },
+          "Template 24": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/news/stories/cfc--ncsc-grants-help-florida-co-ops-power-guatemala.html",
+            "sample_template_details": "Cards, unknown-cluster10, Hero, Embed (social), Video, Embed (video), Table",
+            "unknown_uuids": {
+              "unknown-cluster10": "9bf9ab2a-08-f884542ee54fd62ec0b5469e9cf844c1a3517229"
+            }
+          },
+          "Template 27": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/news/stories/cooperative-family-fund-helps-support-co-op-families-.html",
+            "sample_template_details": "Cards, Hero, Embed (social), Video, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR1": "e8807825-04-b426b3c249ff7e4a8408cb5e032fa139e9a71a23"
+            }
+          }
         },
         "top_template_details": {
           "Cards, Hero, Embed (social), Video, Embed (video), Table": 4,
@@ -470,14 +1051,54 @@
       "URL Pattern 10": {
         "total_pages": 12,
         "template_groups": {
-          "Template 12": 4,
-          "Template 15": 2,
-          "Template 2": 1,
-          "Template 13": 1,
-          "Template 16": 1,
-          "Template 3": 1,
-          "Template 22": 1,
-          "Template 30": 1
+          "Template 12": {
+            "page_count": 4,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/affiliates.html",
+            "sample_template_details": "Video, Table, Columns",
+            "unknown_uuids": {}
+          },
+          "Template 15": {
+            "page_count": 2,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/contact.html",
+            "sample_template_details": "Video, Hero, Table, Columns",
+            "unknown_uuids": {}
+          },
+          "Template 2": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc.html",
+            "sample_template_details": "Hero, Table, Columns, Cards, Cards (no images)",
+            "unknown_uuids": {}
+          },
+          "Template 13": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/careers.html",
+            "sample_template_details": "Video, Table, Columns, Cards (no images), Hero",
+            "unknown_uuids": {}
+          },
+          "Template 16": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/events-training.html",
+            "sample_template_details": "Cards, Video, Hero, Table, Columns",
+            "unknown_uuids": {}
+          },
+          "Template 3": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations.html",
+            "sample_template_details": "Cards, Table, Columns",
+            "unknown_uuids": {}
+          },
+          "Template 22": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/member-services.html",
+            "sample_template_details": "Embed (social), Video, Hero, Table, Columns, Cards, Cards (no images)",
+            "unknown_uuids": {}
+          },
+          "Template 30": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/our-members.html",
+            "sample_template_details": "Hero, Table, Columns, Cards",
+            "unknown_uuids": {}
+          }
         },
         "top_template_details": {
           "Video, Table, Columns": 4,
@@ -488,12 +1109,42 @@
       "URL Pattern 11": {
         "total_pages": 10,
         "template_groups": {
-          "Template 36": 4,
-          "Template 40": 2,
-          "Template 37": 1,
-          "Template 38": 1,
-          "Template 39": 1,
-          "Template 41": 1
+          "Template 36": {
+            "page_count": 4,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/cfc-news.html",
+            "sample_template_details": "Cards, Columns, Embed (video), Table, Hero",
+            "unknown_uuids": {}
+          },
+          "Template 40": {
+            "page_count": 2,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/meet-the-research-teams.html",
+            "sample_template_details": "Cards, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 37": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/contact.html",
+            "sample_template_details": "Embed (video), Cards, Table, Columns",
+            "unknown_uuids": {}
+          },
+          "Template 38": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/economy.html",
+            "sample_template_details": "Columns, Embed (video), Cards, Table, Hero",
+            "unknown_uuids": {}
+          },
+          "Template 39": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/events-training.html",
+            "sample_template_details": "Cards, Columns, Embed (video), Table",
+            "unknown_uuids": {}
+          },
+          "Template 41": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/multimedia.html",
+            "sample_template_details": "Cards, Hero, Embed (video), Table",
+            "unknown_uuids": {}
+          }
         },
         "top_template_details": {
           "Cards, Columns, Embed (video), Table, Hero": 4,
@@ -504,9 +1155,30 @@
       "URL Pattern 12": {
         "total_pages": 9,
         "template_groups": {
-          "Template 33": 5,
-          "Template 35": 3,
-          "Template 34": 1
+          "Template 33": {
+            "page_count": 5,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/author/alisha-pinto.html",
+            "sample_template_details": "Hero, Cards, Embed (video), Table, unknown-cluster52",
+            "unknown_uuids": {
+              "unknown-cluster52": "9f07b46e-03-c50df93bc55dd2cec73191ebc7fe5a4805686aaf"
+            }
+          },
+          "Template 35": {
+            "page_count": 3,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/author/everly-johnston.html",
+            "sample_template_details": "Cards, Embed (video), Table, unknown-cluster52",
+            "unknown_uuids": {
+              "unknown-cluster52": "f0370017-03-c50df93bc55dd2cec73191ebc7fe5a4805686aaf"
+            }
+          },
+          "Template 34": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/solutions/en/author/antony-davies.html",
+            "sample_template_details": "Embed (video), Cards, Table, unknown-cluster52",
+            "unknown_uuids": {
+              "unknown-cluster52": "946f0b11-03-c50df93bc55dd2cec73191ebc7fe5a4805686aaf"
+            }
+          }
         },
         "top_template_details": {
           "Hero, Cards, Embed (video), Table, unknown-cluster52": 5,
@@ -517,7 +1189,12 @@
       "URL Pattern 13": {
         "total_pages": 8,
         "template_groups": {
-          "Template 12": 8
+          "Template 12": {
+            "page_count": 8,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/CFC-Tabulates-Initial-Results-for-2020-Key-Ratio-Trend-Analysis.html",
+            "sample_template_details": "Video, Table, Columns",
+            "unknown_uuids": {}
+          }
         },
         "top_template_details": {
           "Video, Table, Columns": 8
@@ -526,9 +1203,24 @@
       "URL Pattern 15": {
         "total_pages": 7,
         "template_groups": {
-          "Template 12": 5,
-          "Template 23": 1,
-          "Template 29": 1
+          "Template 12": {
+            "page_count": 5,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021.html",
+            "sample_template_details": "Video, Table, Columns",
+            "unknown_uuids": {}
+          },
+          "Template 23": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/news/stories.html",
+            "sample_template_details": "Cards, Embed (social), Video, Embed (video), Table, Hero",
+            "unknown_uuids": {}
+          },
+          "Template 29": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/news/the-cfc-difference.html",
+            "sample_template_details": "Table, Columns, Video",
+            "unknown_uuids": {}
+          }
         },
         "top_template_details": {
           "Video, Table, Columns": 5,
@@ -539,7 +1231,12 @@
       "URL Pattern 14": {
         "total_pages": 7,
         "template_groups": {
-          "Template 12": 7
+          "Template 12": {
+            "page_count": 7,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022/cfc-initial-2021-key-ratio-trend-analysis-results.html",
+            "sample_template_details": "Video, Table, Columns",
+            "unknown_uuids": {}
+          }
         },
         "top_template_details": {
           "Video, Table, Columns": 7
@@ -548,13 +1245,48 @@
       "URL Pattern 16": {
         "total_pages": 7,
         "template_groups": {
-          "Template 3": 1,
-          "Template 4": 1,
-          "Template 5": 1,
-          "Template 8": 1,
-          "Template 9": 1,
-          "Template 10": 1,
-          "Template 11": 1
+          "Template 3": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/board-of-directors.html",
+            "sample_template_details": "Cards, Table, Columns",
+            "unknown_uuids": {}
+          },
+          "Template 4": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/cfc-holiday-calendar.html",
+            "sample_template_details": "Table, Columns",
+            "unknown_uuids": {}
+          },
+          "Template 5": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/corporate-responsibility.html",
+            "sample_template_details": "Embed (social), Video, Embed (video), Cards, Table, Hero",
+            "unknown_uuids": {}
+          },
+          "Template 8": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/faqs.html",
+            "sample_template_details": "Table, Columns, Accordion",
+            "unknown_uuids": {}
+          },
+          "Template 9": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/our-history.html",
+            "sample_template_details": "Columns, Table, Carousel",
+            "unknown_uuids": {}
+          },
+          "Template 10": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/senior-leadership.html",
+            "sample_template_details": "Table, Columns, Cards",
+            "unknown_uuids": {}
+          },
+          "Template 11": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/what-we-do.html",
+            "sample_template_details": "Columns, Table",
+            "unknown_uuids": {}
+          }
         },
         "top_template_details": {
           "Cards, Table, Columns": 1,
@@ -565,7 +1297,12 @@
       "URL Pattern 17": {
         "total_pages": 7,
         "template_groups": {
-          "Template 12": 7
+          "Template 12": {
+            "page_count": 7,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023/cfc-board-of-directors-elects-officers--felkel--norton--suggs.html",
+            "sample_template_details": "Video, Table, Columns",
+            "unknown_uuids": {}
+          }
         },
         "top_template_details": {
           "Video, Table, Columns": 7
@@ -574,11 +1311,40 @@
       "URL Pattern 18": {
         "total_pages": 6,
         "template_groups": {
-          "Template 17": 2,
-          "Template 18": 1,
-          "Template 19": 1,
-          "Template 20": 1,
-          "Template 21": 1
+          "Template 17": {
+            "page_count": 2,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/corporate-governance.html",
+            "sample_template_details": "Columns, Cards (no images), Table",
+            "unknown_uuids": {}
+          },
+          "Template 18": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/credit-ratings.html",
+            "sample_template_details": "Columns, Table, UNKNOWN-CLUSTER-MAJOR1, Cards",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR1": "2a870d4a-06-f8489e9c691cb6a2b003c273daa64b9f2d837001"
+            }
+          },
+          "Template 19": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/financial-reporting.html",
+            "sample_template_details": "Table, Columns, Tabs, UNKNOWN-CLUSTER-MAJOR1",
+            "unknown_uuids": {
+              "UNKNOWN-CLUSTER-MAJOR1": "acb2f9da-04-b3597d9c766eceac604c1202d3223a51715cfa58"
+            }
+          },
+          "Template 20": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/institutional-investing.html",
+            "sample_template_details": "Table (striped), Table, Columns, Cards",
+            "unknown_uuids": {}
+          },
+          "Template 21": {
+            "page_count": 1,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/retail-investing.html",
+            "sample_template_details": "Table (striped), Table, Columns, Accordion",
+            "unknown_uuids": {}
+          }
         },
         "top_template_details": {
           "Columns, Cards (no images), Table": 2,
@@ -589,7 +1355,12 @@
       "URL Pattern 19": {
         "total_pages": 6,
         "template_groups": {
-          "Template 12": 6
+          "Template 12": {
+            "page_count": 6,
+            "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/news/2024/cfc-launches-new-investment-product-to-retail-investors.html",
+            "sample_template_details": "Video, Table, Columns",
+            "unknown_uuids": {}
+          }
         },
         "top_template_details": {
           "Video, Table, Columns": 6
@@ -639,6 +1410,8 @@
           }
         ],
         "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/-shark-tank--star-to-deliver-keynote-at-ncsc-remote-annual-meeti.html",
+        "sample_template_details": "Cards, Hero, Embed (video), Table",
+        "unknown_uuids": {},
         "insight": "Pages with 'Template 41' template are similar across 8 URL patterns"
       },
       {
@@ -656,6 +1429,8 @@
           }
         ],
         "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/district-1-newcomer-elected-to-cfc-board.html",
+        "sample_template_details": "Cards, Hero, UNKNOWN-CLUSTER-MAJOR5, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+        "unknown_uuids": {},
         "insight": "Pages with 'Template 58' template are similar across 2 URL patterns"
       },
       {
@@ -689,6 +1464,8 @@
           }
         ],
         "sample_url": "https://www.nrucfc.coop/content/nrucfc/en/affiliates.html",
+        "sample_template_details": "Video, Table, Columns",
+        "unknown_uuids": {},
         "insight": "Pages with 'Template 12' template are similar across 6 URL patterns"
       },
       {
@@ -714,6 +1491,8 @@
           }
         ],
         "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cfc-board-proposes-bylaw-changes.html",
+        "sample_template_details": "Cards, Hero, Embed (video), Table, Carousel",
+        "unknown_uuids": {},
         "insight": "Pages with 'Template 53' template are similar across 4 URL patterns"
       },
       {
@@ -743,6 +1522,8 @@
           }
         ],
         "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cfc-form-12s-deadline-extended-to-june-30.html",
+        "sample_template_details": "Cards, Embed (video), Table",
+        "unknown_uuids": {},
         "insight": "Pages with 'Template 40' template are similar across 5 URL patterns"
       },
       {
@@ -768,6 +1549,8 @@
           }
         ],
         "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cfc-ceo-andrew-don-addresses-recent-bank-failures.html",
+        "sample_template_details": "Video, Cards, Hero, Embed (video), Table",
+        "unknown_uuids": {},
         "insight": "Pages with 'Template 54' template are similar across 4 URL patterns"
       },
       {
@@ -797,6 +1580,8 @@
           }
         ],
         "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cdf-offers--friends-of-sheldon-petersen--fundraising-opportunity.html",
+        "sample_template_details": "Hero, Cards, Embed (video), Table",
+        "unknown_uuids": {},
         "insight": "Pages with 'Template 49' template are similar across 5 URL patterns"
       },
       {
@@ -830,6 +1615,8 @@
           }
         ],
         "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/petersen--don-discuss-esg--cfc-s-sustainability-bond.html",
+        "sample_template_details": "Cards, Hero, Video, Embed (video), Table",
+        "unknown_uuids": {},
         "insight": "Pages with 'Template 63' template are similar across 6 URL patterns"
       },
       {
@@ -847,6 +1634,10 @@
           }
         ],
         "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/energy-tech/cfc-cio-shares-new-post-pandemic-enterprise-it-expectations-.html",
+        "sample_template_details": "Cards, Hero, Video, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+        "unknown_uuids": {
+          "UNKNOWN-CLUSTER-MAJOR1": "6e87d639-06-f8489e9c691cb6a2b003c273daa64b9f2d837001"
+        },
         "insight": "Pages with 'Template 73' template are similar across 2 URL patterns"
       },
       {
@@ -864,6 +1655,10 @@
           }
         ],
         "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/2025-economic-and-industry-trends-report-page.html",
+        "sample_template_details": "Cards, Hero, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+        "unknown_uuids": {
+          "UNKNOWN-CLUSTER-MAJOR1": "608b1eac-17-f8489e9c691cb6a2b003c273daa64b9f2d837001"
+        },
         "insight": "Pages with 'Template 45' template are similar across 2 URL patterns"
       },
       {
@@ -885,6 +1680,10 @@
           }
         ],
         "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/budgetpro-enhancements-benefit-new--veteran-users.html",
+        "sample_template_details": "Cards, unknown-cluster10, Hero, Embed (video), Table",
+        "unknown_uuids": {
+          "unknown-cluster10": "1f13f675-04-1d8b2118b9115f8e3922d6458eb63afb14a105ea"
+        },
         "insight": "Pages with 'Template 48' template are similar across 3 URL patterns"
       },
       {
@@ -902,6 +1701,8 @@
           }
         ],
         "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/new-speakers-added-to-cfc-ibes-lineup--deadlines-approach.html",
+        "sample_template_details": "Cards, Columns, Hero, Embed (video), Table",
+        "unknown_uuids": {},
         "insight": "Pages with 'Template 62' template are similar across 2 URL patterns"
       },
       {
@@ -923,6 +1724,8 @@
           }
         ],
         "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/add-cfc-s-new-email-domains-to-your-safe-sender-list.html",
+        "sample_template_details": "Cards, Hero, Embed (video), Table, Tabs",
+        "unknown_uuids": {},
         "insight": "Pages with 'Template 46' template are similar across 3 URL patterns"
       },
       {
@@ -944,6 +1747,8 @@
           }
         ],
         "sample_url": "https://www.nrucfc.coop/content/solutions/en/stories/cfc-news/cfc-delivers--60-million-in-patronage-capital.html",
+        "sample_template_details": "Cards, Hero, UNKNOWN-CLUSTER-MAJOR5, Embed (video), Table",
+        "unknown_uuids": {},
         "insight": "Pages with 'Template 55' template are similar across 3 URL patterns"
       }
     ]
@@ -973,6 +1778,56 @@
       "Cards, Hero, Embed (social), Table, Columns, Carousel": 2,
       "Video, Table, Columns, Hero": 1
     }
+  },
+  "ungrouped_pages_with_unknowns_analysis": {
+    "total_ungrouped_with_unknowns": 3,
+    "ungrouped_pages_with_unknowns": [
+      {
+        "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/corporate-responsibility/broadband-service.html",
+        "template": "Template 6",
+        "template_details": "Hero, Cards, Embed (social), Video, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+        "unknown_uuids": {
+          "UNKNOWN-CLUSTER-MAJOR1": "d8432930-04-cdfa451e46115e4458b4b08925d93455967e6f9e"
+        },
+        "has_forms": true,
+        "form_count": 1,
+        "has_iframes": false,
+        "iframe_count": 0
+      },
+      {
+        "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/corporate-responsibility/renewable-energy.html",
+        "template": "Template 6",
+        "template_details": "Hero, Cards, Embed (social), Video, Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+        "unknown_uuids": {
+          "UNKNOWN-CLUSTER-MAJOR1": "0f2beee0-04-cdfa451e46115e4458b4b08925d93455967e6f9e"
+        },
+        "has_forms": true,
+        "form_count": 1,
+        "has_iframes": false,
+        "iframe_count": 0
+      },
+      {
+        "url": "https://www.nrucfc.coop/content/solutions/en/resources/economic-market-watch-archive.html",
+        "template": "Template 42",
+        "template_details": "Cards, Embed (social), Embed (video), Table, UNKNOWN-CLUSTER-MAJOR1",
+        "unknown_uuids": {
+          "UNKNOWN-CLUSTER-MAJOR1": "3858934a-05-e74838d7751c72f678a4af125385676a622e47de"
+        },
+        "has_forms": true,
+        "form_count": 1,
+        "has_iframes": true,
+        "iframe_count": 3
+      }
+    ],
+    "unique_unknown_clusters_in_ungrouped": [
+      "UNKNOWN-CLUSTER-MAJOR1"
+    ],
+    "insights": [
+      "These 3 pages contain unknown elements but don't follow common URL patterns",
+      "Each page may require individual analysis due to unique content structures",
+      "Unknown clusters indicate unrecognized page elements that may need custom handling",
+      "Total unique unknown clusters in ungrouped pages: 1"
+    ]
   },
   "unknown_block_analysis": {
     "unknown_blocks_available": true,
