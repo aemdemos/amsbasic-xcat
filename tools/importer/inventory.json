@@ -6,15 +6,488 @@
       "totalBoxes": 1,
       "instances": [
         {
-          "url": "https://www.coherent.com/",
-          "urlHash": "7f7cc9756f1ae00c4c3d5f9ca56630393416e39a",
-          "uuid": "7f7cc975-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+          "url": "https://www.aemshop.net/fr/footer",
+          "urlHash": "0337d2f4d02efb4546940034bb1e19501b8e1996",
+          "uuid": "0337d2f4-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/product-recommendations",
+          "urlHash": "07659c355961b0a2bbb71a15729bf8baa00b6c75",
+          "uuid": "07659c35-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/forgotpassword",
+          "urlHash": "088ce961bf40e526bfad8875b7ea425ed20bd1aa",
+          "uuid": "088ce961-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/mini-cart",
+          "urlHash": "0a83e02c3e13b1b1a955edfff26d836af7ccb7ef",
+          "uuid": "0a83e02c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/mini-cart",
+          "urlHash": "0bfeb64e6d7eca7cceef5403426a17e2a6416f4f",
+          "uuid": "0bfeb64e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/cards",
+          "urlHash": "0c829b0dc1c61aea04927a7d3ff5de5b21e0a4e9",
+          "uuid": "0c829b0d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/accordion",
+          "urlHash": "0db6b4cb35d966f5b93eef16f21937078ac90969",
+          "uuid": "0db6b4cb-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/apparel",
+          "urlHash": "127c4cfb094c9c46add09f7b307f189599472675",
+          "uuid": "127c4cfb-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/empty-cart",
+          "urlHash": "17def231be817cca04d09880c71166402fba63a5",
+          "uuid": "17def231-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/order-details",
+          "urlHash": "231b9c68799558e474437b393a271c92908d0eb2",
+          "uuid": "231b9c68-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/",
+          "urlHash": "270371d68aaca8b51eab8c32538239a7b456a41f",
+          "uuid": "270371d6-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/create-return",
+          "urlHash": "2e8631a26469b044ba6c8df3c1fdd5a9b66afaec",
+          "uuid": "2e8631a2-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/account",
+          "urlHash": "2f921d50fff59406eb4f7ed37313359879088b7d",
+          "uuid": "2f921d50-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/widgets/apparel",
+          "urlHash": "301c1d4582bf1d865396b2974fa8c768347d17cb",
+          "uuid": "301c1d45-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/address",
+          "urlHash": "3334651afc4f39cc9125f1a65cfb007a3785340f",
+          "uuid": "3334651a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/apparel",
+          "urlHash": "34374bf72dfd50482af0c10d9aa7006d98929c97",
+          "uuid": "34374bf7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/createpassword",
+          "urlHash": "3ca20ce07c1bae5fa270905fb9bb83c1ac41e249",
+          "uuid": "3ca20ce0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/footer",
+          "urlHash": "3da327c1bd69351ce5b9403bccd5b323c37a3d37",
+          "uuid": "3da327c1-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/store-switcher",
+          "urlHash": "3f0fa0807631cd04a3cf4894b431cfdeb1946717",
+          "uuid": "3f0fa080-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/fragment",
+          "urlHash": "42ae37c71e69b1b6a6f70093045298bae87f7067",
+          "uuid": "42ae37c7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/return-details",
+          "urlHash": "451de5baab673b1e2749be129e232191e5cdeb89",
+          "uuid": "451de5ba-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/cart",
+          "urlHash": "494d5c45cea722bc725ae1577d51bb7f7fcaee81",
+          "uuid": "494d5c45-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/checkout",
+          "urlHash": "497aa0a0c0183934b9f898fbab844f59fee45d7e",
+          "uuid": "497aa0a0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/returns",
+          "urlHash": "4d862535ff9c74614cdcde8e6b2287bb2cf85485",
+          "uuid": "4d862535-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/returns",
+          "urlHash": "5557fbfdeaa4dad2fd0127c3c24279e1cafde515",
+          "uuid": "5557fbfd-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/metadata",
+          "urlHash": "58a582944b1f5eff31d7f2f80451c548b2555eab",
+          "uuid": "58a58294-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/templates/product-details-page",
+          "urlHash": "59bc8927b4e47dfad802616fabd4b07c0d507227",
+          "uuid": "59bc8927-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/return-details",
+          "urlHash": "5de57baf40ea361f0830e626d0fa7ab886e68244",
+          "uuid": "5de57baf-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/order-details",
+          "urlHash": "60dcd324078c8e35ff4592247ae2485db91487ad",
+          "uuid": "60dcd324-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/orders",
+          "urlHash": "613dbfccc04a98becb5451a7ef844121f1b774f7",
+          "uuid": "613dbfcc-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/orders",
+          "urlHash": "64ffdd7f20a03ecfdeb8f440764ad4882a7b923d",
+          "uuid": "64ffdd7f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/enrichment/product-banner",
+          "urlHash": "6b39ffada2817ee9ac12d75e8e854c756bb6cfd1",
+          "uuid": "6b39ffad-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/section-metadata",
+          "urlHash": "6c4a89e363870343f540b7f033b066987102cc82",
+          "uuid": "6c4a89e3-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/products/default",
+          "urlHash": "7447be05fbd0d0024d5b9fd137ee01afee7499f5",
+          "uuid": "7447be05-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/return-details",
+          "urlHash": "780f834bc035aa753afc679ab3b9bb7a6934e3fa",
+          "uuid": "780f834b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/enrichment/product-banner",
+          "urlHash": "78300ab3a1cb8f7b9c83a66e145500c2010e09fd",
+          "uuid": "78300ab3-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/store-switcher",
+          "urlHash": "7c3c38dc23f49d5b0e9c49271d8f6c8c7a77d326",
+          "uuid": "7c3c38dc-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/empty-cart",
+          "urlHash": "7ea450c8f6a4a414b3699234ce32a06e18344482",
+          "uuid": "7ea450c8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/search",
+          "urlHash": "82ad49779cd3a836d711936fec9ead815b0a37e9",
+          "uuid": "82ad4977-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/support",
+          "urlHash": "8345ed8ddbd3594985b91a23a163e607bd8eb339",
+          "uuid": "8345ed8d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/create-return",
+          "urlHash": "8734d28067faa4b030740b8033ee85d262ceb099",
+          "uuid": "8734d280-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/wishlist",
+          "urlHash": "8e36b21141df215ed13fc2acec31b8cd2e7a82b0",
+          "uuid": "8e36b211-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/create",
+          "urlHash": "900d263cde191d412147cb7b8fa1ffa4604c004c",
+          "uuid": "900d263c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/templates/category-page",
+          "urlHash": "908783150b5eff4973d10aad9b39e776ec341391",
+          "uuid": "90878315-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/columns",
+          "urlHash": "92fd68d7233c2db57648bed3cd90f85d8181534d",
+          "uuid": "92fd68d7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/cart",
+          "urlHash": "932bd72c55e9168f484bd6bd575696d92c88d693",
+          "uuid": "932bd72c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/hero",
+          "urlHash": "9352b2adc6144e860532b0fed2fa372c6e4f7b4b",
+          "uuid": "9352b2ad-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/products/default",
+          "urlHash": "945508b469b9350c6ca77b909bc9c63885d60232",
+          "uuid": "945508b4-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/forgotpassword",
+          "urlHash": "94c64fd3f793efa992f0091637a421bf783c25c4",
+          "uuid": "94c64fd3-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/sidebar-fragment",
+          "urlHash": "9c1a2e0363a27c14b707206450c75c86a34bc40e",
+          "uuid": "9c1a2e03-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/createpassword",
+          "urlHash": "9e4aeef832f2e774e72e0c168f924fe908c34e22",
+          "uuid": "9e4aeef8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/create",
+          "urlHash": "9f586ad8e9b8157065f675e713205e23a0859bcf",
+          "uuid": "9f586ad8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/gear",
+          "urlHash": "a1df567ad8322d22b2909615eec0e4a478eb5dfc",
+          "uuid": "a1df567a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/order-details",
+          "urlHash": "a3bdf704a7461b0e93d1dddcea10e733771af20f",
+          "uuid": "a3bdf704-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/login",
+          "urlHash": "a621482998c6c74c3feb01112f8f4929498a71d0",
+          "uuid": "a6214829-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/return-details",
+          "urlHash": "ab181d792861299598cc1659ea87429d5239b6b3",
+          "uuid": "ab181d79-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/",
+          "urlHash": "b221bc145ef3b1ba41c65dd62e5c7f7525562c1a",
+          "uuid": "b221bc14-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/create-return",
+          "urlHash": "b7d8d296910b8e3d1e8ab10d57a1aa360de2eefc",
+          "uuid": "b7d8d296-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/sidebar-fragment",
+          "urlHash": "bd67b9b0c6215a1bf0a77f2188000e5dde781f01",
+          "uuid": "bd67b9b0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/address",
+          "urlHash": "bfa2db7a3b25823489ade8876c09c81b1c501c70",
+          "uuid": "bfa2db7a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/sales/guest/view/",
+          "urlHash": "c2c306c08f516f7cc864f777b7f1ecf721486f9a",
+          "uuid": "c2c306c0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/order-status",
+          "urlHash": "c53ca30ddf8d84c5d9f498267a722bc6bbd96087",
+          "uuid": "c53ca30d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/login",
+          "urlHash": "c8ffadca5fa68d71921c5e6e6b77f4c9aa61e150",
+          "uuid": "c8ffadca-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/account/confirm/",
+          "urlHash": "ccdbda1789ad24b35cd3d85502822e555de9e529",
+          "uuid": "ccdbda17-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/enrichment/category-banner",
+          "urlHash": "d3b7368773a31863a93c6a0c4b1db0babb88bcd3",
+          "uuid": "d3b73687-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/sales/order/view/",
+          "urlHash": "d87f563bc2792a3077d47d341fc5268dade27d52",
+          "uuid": "d87f563b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/nav",
+          "urlHash": "dab7350e8a70cc00477ec53ce3be0cf0c76bad98",
+          "uuid": "dab7350e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/order-details",
+          "urlHash": "db8b5d75c4eb149f39a9f36e344fa6b3123ebf4f",
+          "uuid": "db8b5d75-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/privacy-policy",
+          "urlHash": "e13f5cc5be8699087697a7f2d16a577c3109be81",
+          "uuid": "e13f5cc5-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/search",
+          "urlHash": "e434376cf2dea04651fb8eefaf975ca197fe4325",
+          "uuid": "e434376c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/enrichment/category-banner",
+          "urlHash": "e4e15fda1597466672f57bfcf3f7e740d3ceb6dd",
+          "uuid": "e4e15fda-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/support",
+          "urlHash": "e4ff49aa21b64d69aa94eef9bfaa1c229fbde34d",
+          "uuid": "e4ff49aa-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/account/createpassword/",
+          "urlHash": "e78e9ac2df247568dc5f53de5fdaedc498aede2a",
+          "uuid": "e78e9ac2-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/create-return",
+          "urlHash": "e9a6c0f9ed60475dcf68c623096593103b11a4dd",
+          "uuid": "e9a6c0f9-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/nav",
+          "urlHash": "ea33cb4f19c6a782ffe360c98a246a2300821de6",
+          "uuid": "ea33cb4f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/account",
+          "urlHash": "f71747c11eca14cd15b0418d130a26bccec53460",
+          "uuid": "f71747c1-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/wishlist",
+          "urlHash": "fb68e1593d27a89d656933db1ced89e0bd646320",
+          "uuid": "fb68e159-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/checkout",
+          "urlHash": "fd09521be7ea972c29e38c2ef1899ecc6e96a291",
+          "uuid": "fd09521b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/privacy-policy",
+          "urlHash": "fd761ad11871a80d7800350677d3d247e88773e2",
+          "uuid": "fd761ad1-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/order-status",
+          "urlHash": "ffa85369db40fffe00e96f057bf4b1f2cd87f8c6",
+          "uuid": "ffa85369-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
         }
       ],
       "styles": {
-        "height": 116,
-        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box"
+        "height": 64
       }
     },
     {
@@ -23,14 +496,488 @@
       "totalBoxes": 1,
       "instances": [
         {
-          "url": "https://www.coherent.com/",
-          "urlHash": "7f7cc9756f1ae00c4c3d5f9ca56630393416e39a",
-          "uuid": "7f7cc975-08-1cd5e60707bc11e5ffed495174408904fc84dcf4",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]"
+          "url": "https://www.aemshop.net/fr/footer",
+          "urlHash": "0337d2f4d02efb4546940034bb1e19501b8e1996",
+          "uuid": "0337d2f4-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/product-recommendations",
+          "urlHash": "07659c355961b0a2bbb71a15729bf8baa00b6c75",
+          "uuid": "07659c35-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/forgotpassword",
+          "urlHash": "088ce961bf40e526bfad8875b7ea425ed20bd1aa",
+          "uuid": "088ce961-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/mini-cart",
+          "urlHash": "0a83e02c3e13b1b1a955edfff26d836af7ccb7ef",
+          "uuid": "0a83e02c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/mini-cart",
+          "urlHash": "0bfeb64e6d7eca7cceef5403426a17e2a6416f4f",
+          "uuid": "0bfeb64e-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/cards",
+          "urlHash": "0c829b0dc1c61aea04927a7d3ff5de5b21e0a4e9",
+          "uuid": "0c829b0d-05-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/accordion",
+          "urlHash": "0db6b4cb35d966f5b93eef16f21937078ac90969",
+          "uuid": "0db6b4cb-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/apparel",
+          "urlHash": "127c4cfb094c9c46add09f7b307f189599472675",
+          "uuid": "127c4cfb-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/empty-cart",
+          "urlHash": "17def231be817cca04d09880c71166402fba63a5",
+          "uuid": "17def231-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/order-details",
+          "urlHash": "231b9c68799558e474437b393a271c92908d0eb2",
+          "uuid": "231b9c68-14-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/",
+          "urlHash": "270371d68aaca8b51eab8c32538239a7b456a41f",
+          "uuid": "270371d6-06-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/create-return",
+          "urlHash": "2e8631a26469b044ba6c8df3c1fdd5a9b66afaec",
+          "uuid": "2e8631a2-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/account",
+          "urlHash": "2f921d50fff59406eb4f7ed37313359879088b7d",
+          "uuid": "2f921d50-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/widgets/apparel",
+          "urlHash": "301c1d4582bf1d865396b2974fa8c768347d17cb",
+          "uuid": "301c1d45-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/address",
+          "urlHash": "3334651afc4f39cc9125f1a65cfb007a3785340f",
+          "uuid": "3334651a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/apparel",
+          "urlHash": "34374bf72dfd50482af0c10d9aa7006d98929c97",
+          "uuid": "34374bf7-06-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/createpassword",
+          "urlHash": "3ca20ce07c1bae5fa270905fb9bb83c1ac41e249",
+          "uuid": "3ca20ce0-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/footer",
+          "urlHash": "3da327c1bd69351ce5b9403bccd5b323c37a3d37",
+          "uuid": "3da327c1-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/store-switcher",
+          "urlHash": "3f0fa0807631cd04a3cf4894b431cfdeb1946717",
+          "uuid": "3f0fa080-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/fragment",
+          "urlHash": "42ae37c71e69b1b6a6f70093045298bae87f7067",
+          "uuid": "42ae37c7-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/return-details",
+          "urlHash": "451de5baab673b1e2749be129e232191e5cdeb89",
+          "uuid": "451de5ba-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/cart",
+          "urlHash": "494d5c45cea722bc725ae1577d51bb7f7fcaee81",
+          "uuid": "494d5c45-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/checkout",
+          "urlHash": "497aa0a0c0183934b9f898fbab844f59fee45d7e",
+          "uuid": "497aa0a0-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/returns",
+          "urlHash": "4d862535ff9c74614cdcde8e6b2287bb2cf85485",
+          "uuid": "4d862535-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/returns",
+          "urlHash": "5557fbfdeaa4dad2fd0127c3c24279e1cafde515",
+          "uuid": "5557fbfd-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/metadata",
+          "urlHash": "58a582944b1f5eff31d7f2f80451c548b2555eab",
+          "uuid": "58a58294-01-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/templates/product-details-page",
+          "urlHash": "59bc8927b4e47dfad802616fabd4b07c0d507227",
+          "uuid": "59bc8927-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/return-details",
+          "urlHash": "5de57baf40ea361f0830e626d0fa7ab886e68244",
+          "uuid": "5de57baf-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/order-details",
+          "urlHash": "60dcd324078c8e35ff4592247ae2485db91487ad",
+          "uuid": "60dcd324-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/orders",
+          "urlHash": "613dbfccc04a98becb5451a7ef844121f1b774f7",
+          "uuid": "613dbfcc-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/orders",
+          "urlHash": "64ffdd7f20a03ecfdeb8f440764ad4882a7b923d",
+          "uuid": "64ffdd7f-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/enrichment/product-banner",
+          "urlHash": "6b39ffada2817ee9ac12d75e8e854c756bb6cfd1",
+          "uuid": "6b39ffad-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/section-metadata",
+          "urlHash": "6c4a89e363870343f540b7f033b066987102cc82",
+          "uuid": "6c4a89e3-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/products/default",
+          "urlHash": "7447be05fbd0d0024d5b9fd137ee01afee7499f5",
+          "uuid": "7447be05-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/return-details",
+          "urlHash": "780f834bc035aa753afc679ab3b9bb7a6934e3fa",
+          "uuid": "780f834b-11-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/enrichment/product-banner",
+          "urlHash": "78300ab3a1cb8f7b9c83a66e145500c2010e09fd",
+          "uuid": "78300ab3-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/store-switcher",
+          "urlHash": "7c3c38dc23f49d5b0e9c49271d8f6c8c7a77d326",
+          "uuid": "7c3c38dc-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/empty-cart",
+          "urlHash": "7ea450c8f6a4a414b3699234ce32a06e18344482",
+          "uuid": "7ea450c8-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/search",
+          "urlHash": "82ad49779cd3a836d711936fec9ead815b0a37e9",
+          "uuid": "82ad4977-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/support",
+          "urlHash": "8345ed8ddbd3594985b91a23a163e607bd8eb339",
+          "uuid": "8345ed8d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/create-return",
+          "urlHash": "8734d28067faa4b030740b8033ee85d262ceb099",
+          "uuid": "8734d280-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/wishlist",
+          "urlHash": "8e36b21141df215ed13fc2acec31b8cd2e7a82b0",
+          "uuid": "8e36b211-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/create",
+          "urlHash": "900d263cde191d412147cb7b8fa1ffa4604c004c",
+          "uuid": "900d263c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/templates/category-page",
+          "urlHash": "908783150b5eff4973d10aad9b39e776ec341391",
+          "uuid": "90878315-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/columns",
+          "urlHash": "92fd68d7233c2db57648bed3cd90f85d8181534d",
+          "uuid": "92fd68d7-05-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/cart",
+          "urlHash": "932bd72c55e9168f484bd6bd575696d92c88d693",
+          "uuid": "932bd72c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/hero",
+          "urlHash": "9352b2adc6144e860532b0fed2fa372c6e4f7b4b",
+          "uuid": "9352b2ad-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/products/default",
+          "urlHash": "945508b469b9350c6ca77b909bc9c63885d60232",
+          "uuid": "945508b4-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/forgotpassword",
+          "urlHash": "94c64fd3f793efa992f0091637a421bf783c25c4",
+          "uuid": "94c64fd3-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/sidebar-fragment",
+          "urlHash": "9c1a2e0363a27c14b707206450c75c86a34bc40e",
+          "uuid": "9c1a2e03-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/createpassword",
+          "urlHash": "9e4aeef832f2e774e72e0c168f924fe908c34e22",
+          "uuid": "9e4aeef8-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/create",
+          "urlHash": "9f586ad8e9b8157065f675e713205e23a0859bcf",
+          "uuid": "9f586ad8-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/gear",
+          "urlHash": "a1df567ad8322d22b2909615eec0e4a478eb5dfc",
+          "uuid": "a1df567a-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/order-details",
+          "urlHash": "a3bdf704a7461b0e93d1dddcea10e733771af20f",
+          "uuid": "a3bdf704-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/login",
+          "urlHash": "a621482998c6c74c3feb01112f8f4929498a71d0",
+          "uuid": "a6214829-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/return-details",
+          "urlHash": "ab181d792861299598cc1659ea87429d5239b6b3",
+          "uuid": "ab181d79-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/",
+          "urlHash": "b221bc145ef3b1ba41c65dd62e5c7f7525562c1a",
+          "uuid": "b221bc14-06-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/create-return",
+          "urlHash": "b7d8d296910b8e3d1e8ab10d57a1aa360de2eefc",
+          "uuid": "b7d8d296-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/sidebar-fragment",
+          "urlHash": "bd67b9b0c6215a1bf0a77f2188000e5dde781f01",
+          "uuid": "bd67b9b0-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/address",
+          "urlHash": "bfa2db7a3b25823489ade8876c09c81b1c501c70",
+          "uuid": "bfa2db7a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/sales/guest/view/",
+          "urlHash": "c2c306c08f516f7cc864f777b7f1ecf721486f9a",
+          "uuid": "c2c306c0-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/order-status",
+          "urlHash": "c53ca30ddf8d84c5d9f498267a722bc6bbd96087",
+          "uuid": "c53ca30d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/login",
+          "urlHash": "c8ffadca5fa68d71921c5e6e6b77f4c9aa61e150",
+          "uuid": "c8ffadca-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/account/confirm/",
+          "urlHash": "ccdbda1789ad24b35cd3d85502822e555de9e529",
+          "uuid": "ccdbda17-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/enrichment/category-banner",
+          "urlHash": "d3b7368773a31863a93c6a0c4b1db0babb88bcd3",
+          "uuid": "d3b73687-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/sales/order/view/",
+          "urlHash": "d87f563bc2792a3077d47d341fc5268dade27d52",
+          "uuid": "d87f563b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/nav",
+          "urlHash": "dab7350e8a70cc00477ec53ce3be0cf0c76bad98",
+          "uuid": "dab7350e-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/order-details",
+          "urlHash": "db8b5d75c4eb149f39a9f36e344fa6b3123ebf4f",
+          "uuid": "db8b5d75-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/privacy-policy",
+          "urlHash": "e13f5cc5be8699087697a7f2d16a577c3109be81",
+          "uuid": "e13f5cc5-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/search",
+          "urlHash": "e434376cf2dea04651fb8eefaf975ca197fe4325",
+          "uuid": "e434376c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/enrichment/category-banner",
+          "urlHash": "e4e15fda1597466672f57bfcf3f7e740d3ceb6dd",
+          "uuid": "e4e15fda-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/support",
+          "urlHash": "e4ff49aa21b64d69aa94eef9bfaa1c229fbde34d",
+          "uuid": "e4ff49aa-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/account/createpassword/",
+          "urlHash": "e78e9ac2df247568dc5f53de5fdaedc498aede2a",
+          "uuid": "e78e9ac2-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/create-return",
+          "urlHash": "e9a6c0f9ed60475dcf68c623096593103b11a4dd",
+          "uuid": "e9a6c0f9-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/nav",
+          "urlHash": "ea33cb4f19c6a782ffe360c98a246a2300821de6",
+          "uuid": "ea33cb4f-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/account",
+          "urlHash": "f71747c11eca14cd15b0418d130a26bccec53460",
+          "uuid": "f71747c1-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/wishlist",
+          "urlHash": "fb68e1593d27a89d656933db1ced89e0bd646320",
+          "uuid": "fb68e159-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/checkout",
+          "urlHash": "fd09521be7ea972c29e38c2ef1899ecc6e96a291",
+          "uuid": "fd09521b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/privacy-policy",
+          "urlHash": "fd761ad11871a80d7800350677d3d247e88773e2",
+          "uuid": "fd761ad1-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/order-status",
+          "urlHash": "ffa85369db40fffe00e96f057bf4b1f2cd87f8c6",
+          "uuid": "ffa85369-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
         }
       ],
       "styles": {
-        "background": "rgb(0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box"
       }
     }
   ],
@@ -39,161 +986,2044 @@
       "name": "header",
       "cluster": 1,
       "source": "Header",
-      "target": "Header",
+      "target": "Header (header1)",
       "key": "header1",
       "instances": [
         {
-          "url": "https://www.coherent.com/",
-          "urlHash": "7f7cc9756f1ae00c4c3d5f9ca56630393416e39a",
-          "uuid": "7f7cc975-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]",
-          "section": "section-1"
+          "url": "https://www.aemshop.net/.da/library/blocks/product-recommendations",
+          "urlHash": "07659c355961b0a2bbb71a15729bf8baa00b6c75",
+          "uuid": "07659c35-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/forgotpassword",
+          "urlHash": "088ce961bf40e526bfad8875b7ea425ed20bd1aa",
+          "uuid": "088ce961-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/mini-cart",
+          "urlHash": "0bfeb64e6d7eca7cceef5403426a17e2a6416f4f",
+          "uuid": "0bfeb64e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/cards",
+          "urlHash": "0c829b0dc1c61aea04927a7d3ff5de5b21e0a4e9",
+          "uuid": "0c829b0d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/accordion",
+          "urlHash": "0db6b4cb35d966f5b93eef16f21937078ac90969",
+          "uuid": "0db6b4cb-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/empty-cart",
+          "urlHash": "17def231be817cca04d09880c71166402fba63a5",
+          "uuid": "17def231-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/",
+          "urlHash": "270371d68aaca8b51eab8c32538239a7b456a41f",
+          "uuid": "270371d6-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/account",
+          "urlHash": "2f921d50fff59406eb4f7ed37313359879088b7d",
+          "uuid": "2f921d50-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/apparel",
+          "urlHash": "34374bf72dfd50482af0c10d9aa7006d98929c97",
+          "uuid": "34374bf7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/createpassword",
+          "urlHash": "3ca20ce07c1bae5fa270905fb9bb83c1ac41e249",
+          "uuid": "3ca20ce0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/footer",
+          "urlHash": "3da327c1bd69351ce5b9403bccd5b323c37a3d37",
+          "uuid": "3da327c1-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/fragment",
+          "urlHash": "42ae37c71e69b1b6a6f70093045298bae87f7067",
+          "uuid": "42ae37c7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/checkout",
+          "urlHash": "497aa0a0c0183934b9f898fbab844f59fee45d7e",
+          "uuid": "497aa0a0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/returns",
+          "urlHash": "4d862535ff9c74614cdcde8e6b2287bb2cf85485",
+          "uuid": "4d862535-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/metadata",
+          "urlHash": "58a582944b1f5eff31d7f2f80451c548b2555eab",
+          "uuid": "58a58294-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/templates/product-details-page",
+          "urlHash": "59bc8927b4e47dfad802616fabd4b07c0d507227",
+          "uuid": "59bc8927-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/return-details",
+          "urlHash": "5de57baf40ea361f0830e626d0fa7ab886e68244",
+          "uuid": "5de57baf-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/orders",
+          "urlHash": "64ffdd7f20a03ecfdeb8f440764ad4882a7b923d",
+          "uuid": "64ffdd7f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/section-metadata",
+          "urlHash": "6c4a89e363870343f540b7f033b066987102cc82",
+          "uuid": "6c4a89e3-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/enrichment/product-banner",
+          "urlHash": "78300ab3a1cb8f7b9c83a66e145500c2010e09fd",
+          "uuid": "78300ab3-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/store-switcher",
+          "urlHash": "7c3c38dc23f49d5b0e9c49271d8f6c8c7a77d326",
+          "uuid": "7c3c38dc-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/search",
+          "urlHash": "82ad49779cd3a836d711936fec9ead815b0a37e9",
+          "uuid": "82ad4977-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/support",
+          "urlHash": "8345ed8ddbd3594985b91a23a163e607bd8eb339",
+          "uuid": "8345ed8d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/create-return",
+          "urlHash": "8734d28067faa4b030740b8033ee85d262ceb099",
+          "uuid": "8734d280-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/templates/category-page",
+          "urlHash": "908783150b5eff4973d10aad9b39e776ec341391",
+          "uuid": "90878315-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/columns",
+          "urlHash": "92fd68d7233c2db57648bed3cd90f85d8181534d",
+          "uuid": "92fd68d7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/cart",
+          "urlHash": "932bd72c55e9168f484bd6bd575696d92c88d693",
+          "uuid": "932bd72c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/hero",
+          "urlHash": "9352b2adc6144e860532b0fed2fa372c6e4f7b4b",
+          "uuid": "9352b2ad-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/products/default",
+          "urlHash": "945508b469b9350c6ca77b909bc9c63885d60232",
+          "uuid": "945508b4-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/sidebar-fragment",
+          "urlHash": "9c1a2e0363a27c14b707206450c75c86a34bc40e",
+          "uuid": "9c1a2e03-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/create",
+          "urlHash": "9f586ad8e9b8157065f675e713205e23a0859bcf",
+          "uuid": "9f586ad8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/order-details",
+          "urlHash": "a3bdf704a7461b0e93d1dddcea10e733771af20f",
+          "uuid": "a3bdf704-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/return-details",
+          "urlHash": "ab181d792861299598cc1659ea87429d5239b6b3",
+          "uuid": "ab181d79-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/address",
+          "urlHash": "bfa2db7a3b25823489ade8876c09c81b1c501c70",
+          "uuid": "bfa2db7a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/sales/guest/view/",
+          "urlHash": "c2c306c08f516f7cc864f777b7f1ecf721486f9a",
+          "uuid": "c2c306c0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/order-status",
+          "urlHash": "c53ca30ddf8d84c5d9f498267a722bc6bbd96087",
+          "uuid": "c53ca30d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/login",
+          "urlHash": "c8ffadca5fa68d71921c5e6e6b77f4c9aa61e150",
+          "uuid": "c8ffadca-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/account/confirm/",
+          "urlHash": "ccdbda1789ad24b35cd3d85502822e555de9e529",
+          "uuid": "ccdbda17-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/enrichment/category-banner",
+          "urlHash": "d3b7368773a31863a93c6a0c4b1db0babb88bcd3",
+          "uuid": "d3b73687-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/sales/order/view/",
+          "urlHash": "d87f563bc2792a3077d47d341fc5268dade27d52",
+          "uuid": "d87f563b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/order-details",
+          "urlHash": "db8b5d75c4eb149f39a9f36e344fa6b3123ebf4f",
+          "uuid": "db8b5d75-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/privacy-policy",
+          "urlHash": "e13f5cc5be8699087697a7f2d16a577c3109be81",
+          "uuid": "e13f5cc5-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/account/createpassword/",
+          "urlHash": "e78e9ac2df247568dc5f53de5fdaedc498aede2a",
+          "uuid": "e78e9ac2-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/customer/create-return",
+          "urlHash": "e9a6c0f9ed60475dcf68c623096593103b11a4dd",
+          "uuid": "e9a6c0f9-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/nav",
+          "urlHash": "ea33cb4f19c6a782ffe360c98a246a2300821de6",
+          "uuid": "ea33cb4f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/wishlist",
+          "urlHash": "fb68e1593d27a89d656933db1ced89e0bd646320",
+          "uuid": "fb68e159-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
         }
       ]
     },
     {
-      "name": "Carousel",
+      "name": "Cards (no images)",
       "cluster": 2,
-      "source": "Carousel",
-      "target": "Carousel",
-      "key": "carousel2",
+      "source": "Cards",
+      "target": "Cards (cardsNoImages2)",
+      "key": "cardsNoImages2",
       "instances": [
         {
-          "url": "https://www.coherent.com/",
-          "urlHash": "7f7cc9756f1ae00c4c3d5f9ca56630393416e39a",
-          "uuid": "7f7cc975-01-f45127b63bf95d530e115c4c96045d5053d7b8d6",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-2"
+          "url": "https://www.aemshop.net/fr/order-details",
+          "urlHash": "231b9c68799558e474437b393a271c92908d0eb2",
+          "uuid": "231b9c68-04-6e104f304e8c3775dda599659d95006731a1a433",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/return-details",
+          "urlHash": "780f834bc035aa753afc679ab3b9bb7a6934e3fa",
+          "uuid": "780f834b-04-6e104f304e8c3775dda599659d95006731a1a433",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[4]"
         }
       ]
     },
     {
-      "name": "Columns",
+      "name": "header",
       "cluster": 3,
-      "source": "Columns",
-      "target": "Columns (columns3)",
-      "key": "columns3",
+      "source": "Header",
+      "target": "Header (header3)",
+      "key": "header3",
       "instances": [
         {
-          "url": "https://www.coherent.com/",
-          "urlHash": "7f7cc9756f1ae00c4c3d5f9ca56630393416e39a",
-          "uuid": "7f7cc975-02-9e459fad8455d430762ea0a76ea02e1043093bf4",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
-          "section": "section-3"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 4,
-      "source": "Columns",
-      "target": "Columns (columns4)",
-      "key": "columns4",
-      "instances": [
+          "url": "https://www.aemshop.net/fr/footer",
+          "urlHash": "0337d2f4d02efb4546940034bb1e19501b8e1996",
+          "uuid": "0337d2f4-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
         {
-          "url": "https://www.coherent.com/",
-          "urlHash": "7f7cc9756f1ae00c4c3d5f9ca56630393416e39a",
-          "uuid": "7f7cc975-04-274e32b81631181a611166e29718961be06255ac",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[1]/div[2]",
-          "section": "section-4"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 5,
-      "source": "Columns",
-      "target": "Columns (columns5)",
-      "key": "columns5",
-      "instances": [
+          "url": "https://www.aemshop.net/fr/mini-cart",
+          "urlHash": "0a83e02c3e13b1b1a955edfff26d836af7ccb7ef",
+          "uuid": "0a83e02c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
         {
-          "url": "https://www.coherent.com/",
-          "urlHash": "7f7cc9756f1ae00c4c3d5f9ca56630393416e39a",
-          "uuid": "7f7cc975-05-e538691211b1af3e3f3f8177a34afd6244e47f75",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[1]/div[3]",
-          "section": "section-1"
+          "url": "https://www.aemshop.net/fr/apparel",
+          "urlHash": "127c4cfb094c9c46add09f7b307f189599472675",
+          "uuid": "127c4cfb-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/order-details",
+          "urlHash": "231b9c68799558e474437b393a271c92908d0eb2",
+          "uuid": "231b9c68-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/create-return",
+          "urlHash": "2e8631a26469b044ba6c8df3c1fdd5a9b66afaec",
+          "uuid": "2e8631a2-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/widgets/apparel",
+          "urlHash": "301c1d4582bf1d865396b2974fa8c768347d17cb",
+          "uuid": "301c1d45-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/address",
+          "urlHash": "3334651afc4f39cc9125f1a65cfb007a3785340f",
+          "uuid": "3334651a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/store-switcher",
+          "urlHash": "3f0fa0807631cd04a3cf4894b431cfdeb1946717",
+          "uuid": "3f0fa080-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/return-details",
+          "urlHash": "451de5baab673b1e2749be129e232191e5cdeb89",
+          "uuid": "451de5ba-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/cart",
+          "urlHash": "494d5c45cea722bc725ae1577d51bb7f7fcaee81",
+          "uuid": "494d5c45-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/returns",
+          "urlHash": "5557fbfdeaa4dad2fd0127c3c24279e1cafde515",
+          "uuid": "5557fbfd-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/order-details",
+          "urlHash": "60dcd324078c8e35ff4592247ae2485db91487ad",
+          "uuid": "60dcd324-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/orders",
+          "urlHash": "613dbfccc04a98becb5451a7ef844121f1b774f7",
+          "uuid": "613dbfcc-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/enrichment/product-banner",
+          "urlHash": "6b39ffada2817ee9ac12d75e8e854c756bb6cfd1",
+          "uuid": "6b39ffad-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/products/default",
+          "urlHash": "7447be05fbd0d0024d5b9fd137ee01afee7499f5",
+          "uuid": "7447be05-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/return-details",
+          "urlHash": "780f834bc035aa753afc679ab3b9bb7a6934e3fa",
+          "uuid": "780f834b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/empty-cart",
+          "urlHash": "7ea450c8f6a4a414b3699234ce32a06e18344482",
+          "uuid": "7ea450c8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/wishlist",
+          "urlHash": "8e36b21141df215ed13fc2acec31b8cd2e7a82b0",
+          "uuid": "8e36b211-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/create",
+          "urlHash": "900d263cde191d412147cb7b8fa1ffa4604c004c",
+          "uuid": "900d263c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/forgotpassword",
+          "urlHash": "94c64fd3f793efa992f0091637a421bf783c25c4",
+          "uuid": "94c64fd3-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/createpassword",
+          "urlHash": "9e4aeef832f2e774e72e0c168f924fe908c34e22",
+          "uuid": "9e4aeef8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/gear",
+          "urlHash": "a1df567ad8322d22b2909615eec0e4a478eb5dfc",
+          "uuid": "a1df567a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/login",
+          "urlHash": "a621482998c6c74c3feb01112f8f4929498a71d0",
+          "uuid": "a6214829-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/",
+          "urlHash": "b221bc145ef3b1ba41c65dd62e5c7f7525562c1a",
+          "uuid": "b221bc14-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/create-return",
+          "urlHash": "b7d8d296910b8e3d1e8ab10d57a1aa360de2eefc",
+          "uuid": "b7d8d296-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/sidebar-fragment",
+          "urlHash": "bd67b9b0c6215a1bf0a77f2188000e5dde781f01",
+          "uuid": "bd67b9b0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/nav",
+          "urlHash": "dab7350e8a70cc00477ec53ce3be0cf0c76bad98",
+          "uuid": "dab7350e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/search",
+          "urlHash": "e434376cf2dea04651fb8eefaf975ca197fe4325",
+          "uuid": "e434376c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/enrichment/category-banner",
+          "urlHash": "e4e15fda1597466672f57bfcf3f7e740d3ceb6dd",
+          "uuid": "e4e15fda-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/support",
+          "urlHash": "e4ff49aa21b64d69aa94eef9bfaa1c229fbde34d",
+          "uuid": "e4ff49aa-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/customer/account",
+          "urlHash": "f71747c11eca14cd15b0418d130a26bccec53460",
+          "uuid": "f71747c1-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/checkout",
+          "urlHash": "fd09521be7ea972c29e38c2ef1899ecc6e96a291",
+          "uuid": "fd09521b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/privacy-policy",
+          "urlHash": "fd761ad11871a80d7800350677d3d247e88773e2",
+          "uuid": "fd761ad1-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/order-status",
+          "urlHash": "ffa85369db40fffe00e96f057bf4b1f2cd87f8c6",
+          "uuid": "ffa85369-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
         }
       ]
     },
     {
       "name": "unknown",
-      "cluster": 6,
+      "cluster": 4,
       "instances": [
         {
-          "url": "https://www.coherent.com/",
-          "urlHash": "7f7cc9756f1ae00c4c3d5f9ca56630393416e39a",
-          "uuid": "7f7cc975-06-f5177081c01ba74363c666f67021d81dad090585",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-5"
+          "url": "https://www.aemshop.net/checkout",
+          "urlHash": "497aa0a0c0183934b9f898fbab844f59fee45d7e",
+          "uuid": "497aa0a0-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/checkout",
+          "urlHash": "fd09521be7ea972c29e38c2ef1899ecc6e96a291",
+          "uuid": "fd09521b-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 5,
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/fr/order-details",
+          "urlHash": "231b9c68799558e474437b393a271c92908d0eb2",
+          "uuid": "231b9c68-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/return-details",
+          "urlHash": "780f834bc035aa753afc679ab3b9bb7a6934e3fa",
+          "uuid": "780f834b-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Table",
+      "cluster": 6,
+      "source": "Table",
+      "target": "Table (table6)",
+      "key": "table6",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/fr/order-details",
+          "urlHash": "231b9c68799558e474437b393a271c92908d0eb2",
+          "uuid": "231b9c68-09-2eaa1a8dea946b58a28a1fc7071e98b82eac3304",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/order-details",
+          "urlHash": "231b9c68799558e474437b393a271c92908d0eb2",
+          "uuid": "231b9c68-10-ddd9edc6dfd2491708ba9c7c095d140395faad40",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/order-details",
+          "urlHash": "231b9c68799558e474437b393a271c92908d0eb2",
+          "uuid": "231b9c68-11-c59d3a3d6671965f7cef8299d1458a884e1887d0",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/order-details",
+          "urlHash": "231b9c68799558e474437b393a271c92908d0eb2",
+          "uuid": "231b9c68-12-2b14178df07acf84470c68058275b1dd6cfa223a",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/order-details",
+          "urlHash": "231b9c68799558e474437b393a271c92908d0eb2",
+          "uuid": "231b9c68-13-3ac46271ac7c3816687ec343f8f97b3156c433a3",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/return-details",
+          "urlHash": "780f834bc035aa753afc679ab3b9bb7a6934e3fa",
+          "uuid": "780f834b-06-3e186edd821c52d31fd75875c261bbeb008d69b9",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/return-details",
+          "urlHash": "780f834bc035aa753afc679ab3b9bb7a6934e3fa",
+          "uuid": "780f834b-07-e81515fbe6f36168114cc3e9f255721d566fa93c",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/return-details",
+          "urlHash": "780f834bc035aa753afc679ab3b9bb7a6934e3fa",
+          "uuid": "780f834b-08-bd4762020e27c45a6d6d4d0321e71659bb7d7998",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/return-details",
+          "urlHash": "780f834bc035aa753afc679ab3b9bb7a6934e3fa",
+          "uuid": "780f834b-09-d8bc66f9122eef0ded3be6229ad718911b4687de",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/return-details",
+          "urlHash": "780f834bc035aa753afc679ab3b9bb7a6934e3fa",
+          "uuid": "780f834b-10-c39a27e9197bf27ba99410f194d23935391add28",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 7,
+      "key": "hero7",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/fr/order-details",
+          "urlHash": "231b9c68799558e474437b393a271c92908d0eb2",
+          "uuid": "231b9c68-08-af314dfad8a1f6206a50e1bc5006d5f3afb9e7f6",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/return-details",
+          "urlHash": "780f834bc035aa753afc679ab3b9bb7a6934e3fa",
+          "uuid": "780f834b-05-e38b6b417b12eebd852e446a350ae66ab65d6823",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 8,
+      "key": "hero8",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/",
+          "urlHash": "270371d68aaca8b51eab8c32538239a7b456a41f",
+          "uuid": "270371d6-01-0e656e90ffa9b526f8ce51ba23e08542406d6fcc",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/",
+          "urlHash": "b221bc145ef3b1ba41c65dd62e5c7f7525562c1a",
+          "uuid": "b221bc14-01-0e656e90ffa9b526f8ce51ba23e08542406d6fcc",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]"
         }
       ]
     },
     {
       "name": "Columns",
-      "cluster": 7,
+      "cluster": 9,
       "source": "Columns",
-      "target": "Columns (columns7)",
-      "key": "columns7",
+      "target": "Columns (columns9)",
+      "key": "columns9",
       "instances": [
         {
-          "url": "https://www.coherent.com/",
-          "urlHash": "7f7cc9756f1ae00c4c3d5f9ca56630393416e39a",
-          "uuid": "7f7cc975-07-4fd822cc3348a5e66bb3dd79fdbc2b791ee9875c",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]",
+          "url": "https://www.aemshop.net/",
+          "urlHash": "270371d68aaca8b51eab8c32538239a7b456a41f",
+          "uuid": "270371d6-03-516bd61c849c9e46833f85a0f2c9b3ecf6eeafe8",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/",
+          "urlHash": "b221bc145ef3b1ba41c65dd62e5c7f7525562c1a",
+          "uuid": "b221bc14-03-516bd61c849c9e46833f85a0f2c9b3ecf6eeafe8",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 10,
+      "source": "Cards",
+      "target": "Cards (cards10)",
+      "key": "cards10",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/fr/search",
+          "urlHash": "e434376cf2dea04651fb8eefaf975ca197fe4325",
+          "uuid": "e434376c-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 11,
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/fr/order-details",
+          "urlHash": "231b9c68799558e474437b393a271c92908d0eb2",
+          "uuid": "231b9c68-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/return-details",
+          "urlHash": "780f834bc035aa753afc679ab3b9bb7a6934e3fa",
+          "uuid": "780f834b-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 12,
+      "source": "Columns",
+      "target": "Columns (columns12)",
+      "key": "columns12",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/fr/customer/order-details",
+          "urlHash": "60dcd324078c8e35ff4592247ae2485db91487ad",
+          "uuid": "60dcd324-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 13,
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/fr/cart",
+          "urlHash": "494d5c45cea722bc725ae1577d51bb7f7fcaee81",
+          "uuid": "494d5c45-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
+        },
+        {
+          "url": "https://www.aemshop.net/cart",
+          "urlHash": "932bd72c55e9168f484bd6bd575696d92c88d693",
+          "uuid": "932bd72c-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (no header)",
+      "cluster": 14,
+      "source": "Table (no header)",
+      "target": "Table (no header, tableNoHeader14)",
+      "key": "tableNoHeader14",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/fr/order-details",
+          "urlHash": "231b9c68799558e474437b393a271c92908d0eb2",
+          "uuid": "231b9c68-06-d8bc66f9122eef0ded3be6229ad718911b4687de",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 15,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages15)",
+      "key": "cardsNoImages15",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/fr/customer/create-return",
+          "urlHash": "b7d8d296910b8e3d1e8ab10d57a1aa360de2eefc",
+          "uuid": "b7d8d296-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 16,
+      "source": "Cards",
+      "target": "Cards (cards16)",
+      "key": "cards16",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/fr/order-details",
+          "urlHash": "231b9c68799558e474437b393a271c92908d0eb2",
+          "uuid": "231b9c68-07-aa3cf1542e13e7be02fddfab3cd99dc870fefb1e",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 17,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages17)",
+      "key": "cardsNoImages17",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/fr/customer/return-details",
+          "urlHash": "451de5baab673b1e2749be129e232191e5cdeb89",
+          "uuid": "451de5ba-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 18,
+      "source": "Cards",
+      "target": "Cards (cards18)",
+      "key": "cards18",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/search",
+          "urlHash": "82ad49779cd3a836d711936fec9ead815b0a37e9",
+          "uuid": "82ad4977-01-1202332ce7cd8307efd803d8735fefc8bda3f610",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 19,
+      "key": "hero19",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/hero",
+          "urlHash": "9352b2adc6144e860532b0fed2fa372c6e4f7b4b",
+          "uuid": "9352b2ad-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 20,
+      "source": "Columns",
+      "target": "Columns (columns20)",
+      "key": "columns20",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/columns",
+          "urlHash": "92fd68d7233c2db57648bed3cd90f85d8181534d",
+          "uuid": "92fd68d7-04-6e104f304e8c3775dda599659d95006731a1a433",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 21,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages21)",
+      "key": "cardsNoImages21",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/cards",
+          "urlHash": "0c829b0dc1c61aea04927a7d3ff5de5b21e0a4e9",
+          "uuid": "0c829b0d-04-6e104f304e8c3775dda599659d95006731a1a433",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 22,
+      "source": "Cards",
+      "target": "Cards (cards22)",
+      "key": "cards22",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/fr/order-details",
+          "urlHash": "231b9c68799558e474437b393a271c92908d0eb2",
+          "uuid": "231b9c68-05-e38b6b417b12eebd852e446a350ae66ab65d6823",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 23,
+      "source": "Cards",
+      "target": "Cards (cards23)",
+      "key": "cards23",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/fr/widgets/apparel",
+          "urlHash": "301c1d4582bf1d865396b2974fa8c768347d17cb",
+          "uuid": "301c1d45-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/gear",
+          "urlHash": "a1df567ad8322d22b2909615eec0e4a478eb5dfc",
+          "uuid": "a1df567a-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Search",
+      "cluster": 24,
+      "source": "Search",
+      "target": "Search (search24)",
+      "key": "search24",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/.da/library/templates/category-page",
+          "urlHash": "908783150b5eff4973d10aad9b39e776ec341391",
+          "uuid": "90878315-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 25,
+      "source": "Cards",
+      "target": "Cards (cards25)",
+      "key": "cards25",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/fr/apparel",
+          "urlHash": "127c4cfb094c9c46add09f7b307f189599472675",
+          "uuid": "127c4cfb-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 26,
+      "source": "Cards",
+      "target": "Cards (cards26)",
+      "key": "cards26",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/.da/library/blocks/cards",
+          "urlHash": "0c829b0dc1c61aea04927a7d3ff5de5b21e0a4e9",
+          "uuid": "0c829b0d-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.aemshop.net/",
+          "urlHash": "270371d68aaca8b51eab8c32538239a7b456a41f",
+          "uuid": "270371d6-05-7fdd2b4f0f950f88f30b01c875ca8e93b42e4d0e",
+          "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.aemshop.net/fr/",
+          "urlHash": "b221bc145ef3b1ba41c65dd62e5c7f7525562c1a",
+          "uuid": "b221bc14-05-7fdd2b4f0f950f88f30b01c875ca8e93b42e4d0e",
+          "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]",
           "section": "section-1"
         }
       ]
     },
     {
       "name": "Columns",
-      "cluster": 8,
+      "cluster": 27,
       "source": "Columns",
-      "target": "Columns (columns8)",
-      "key": "columns8",
+      "target": "Columns (columns27)",
+      "key": "columns27",
       "instances": [
         {
-          "url": "https://www.coherent.com/",
-          "urlHash": "7f7cc9756f1ae00c4c3d5f9ca56630393416e39a",
-          "uuid": "7f7cc975-08-1cd5e60707bc11e5ffed495174408904fc84dcf4",
-          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]",
-          "section": "section-3"
+          "url": "https://www.aemshop.net/.da/library/blocks/columns",
+          "urlHash": "92fd68d7233c2db57648bed3cd90f85d8181534d",
+          "uuid": "92fd68d7-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 28,
+      "source": "Cards",
+      "target": "Cards (cards28)",
+      "key": "cards28",
+      "instances": [
+        {
+          "url": "https://www.aemshop.net/apparel",
+          "urlHash": "34374bf72dfd50482af0c10d9aa7006d98929c97",
+          "uuid": "34374bf7-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
         }
       ]
     }
   ],
   "outliers": [
     {
-      "url": "https://www.coherent.com/",
-      "urlHash": "7f7cc9756f1ae00c4c3d5f9ca56630393416e39a",
-      "uuid": "7f7cc975-03-c27b2565d9ce16f6b5cbd5edde30cdfa5a31d57a",
-      "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]",
-      "section": "section-4"
+      "url": "https://www.aemshop.net/fr/footer",
+      "urlHash": "0337d2f4d02efb4546940034bb1e19501b8e1996",
+      "uuid": "0337d2f4-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/footer",
+      "urlHash": "0337d2f4d02efb4546940034bb1e19501b8e1996",
+      "uuid": "0337d2f4-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/blocks/product-recommendations",
+      "urlHash": "07659c355961b0a2bbb71a15729bf8baa00b6c75",
+      "uuid": "07659c35-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/blocks/product-recommendations",
+      "urlHash": "07659c355961b0a2bbb71a15729bf8baa00b6c75",
+      "uuid": "07659c35-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/forgotpassword",
+      "urlHash": "088ce961bf40e526bfad8875b7ea425ed20bd1aa",
+      "uuid": "088ce961-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/forgotpassword",
+      "urlHash": "088ce961bf40e526bfad8875b7ea425ed20bd1aa",
+      "uuid": "088ce961-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/mini-cart",
+      "urlHash": "0a83e02c3e13b1b1a955edfff26d836af7ccb7ef",
+      "uuid": "0a83e02c-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/mini-cart",
+      "urlHash": "0a83e02c3e13b1b1a955edfff26d836af7ccb7ef",
+      "uuid": "0a83e02c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/mini-cart",
+      "urlHash": "0bfeb64e6d7eca7cceef5403426a17e2a6416f4f",
+      "uuid": "0bfeb64e-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/mini-cart",
+      "urlHash": "0bfeb64e6d7eca7cceef5403426a17e2a6416f4f",
+      "uuid": "0bfeb64e-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/blocks/cards",
+      "urlHash": "0c829b0dc1c61aea04927a7d3ff5de5b21e0a4e9",
+      "uuid": "0c829b0d-01-1202332ce7cd8307efd803d8735fefc8bda3f610",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/blocks/cards",
+      "urlHash": "0c829b0dc1c61aea04927a7d3ff5de5b21e0a4e9",
+      "uuid": "0c829b0d-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/blocks/cards",
+      "urlHash": "0c829b0dc1c61aea04927a7d3ff5de5b21e0a4e9",
+      "uuid": "0c829b0d-05-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/blocks/accordion",
+      "urlHash": "0db6b4cb35d966f5b93eef16f21937078ac90969",
+      "uuid": "0db6b4cb-01-23a133af1adcb55c8c0e4a5b484b17b4fe32517b",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/details[5]/div[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/blocks/accordion",
+      "urlHash": "0db6b4cb35d966f5b93eef16f21937078ac90969",
+      "uuid": "0db6b4cb-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/apparel",
+      "urlHash": "127c4cfb094c9c46add09f7b307f189599472675",
+      "uuid": "127c4cfb-01-1202332ce7cd8307efd803d8735fefc8bda3f610",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/apparel",
+      "urlHash": "127c4cfb094c9c46add09f7b307f189599472675",
+      "uuid": "127c4cfb-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/apparel",
+      "urlHash": "127c4cfb094c9c46add09f7b307f189599472675",
+      "uuid": "127c4cfb-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/empty-cart",
+      "urlHash": "17def231be817cca04d09880c71166402fba63a5",
+      "uuid": "17def231-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/empty-cart",
+      "urlHash": "17def231be817cca04d09880c71166402fba63a5",
+      "uuid": "17def231-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/order-details",
+      "urlHash": "231b9c68799558e474437b393a271c92908d0eb2",
+      "uuid": "231b9c68-01-1202332ce7cd8307efd803d8735fefc8bda3f610",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/order-details",
+      "urlHash": "231b9c68799558e474437b393a271c92908d0eb2",
+      "uuid": "231b9c68-14-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/",
+      "urlHash": "270371d68aaca8b51eab8c32538239a7b456a41f",
+      "uuid": "270371d6-02-8cdf091a50d8a29688208f1a49c3aa0874e36321",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/",
+      "urlHash": "270371d68aaca8b51eab8c32538239a7b456a41f",
+      "uuid": "270371d6-04-58ba820679040862b94ffd9804d9204b6c03e429",
+      "xpath": "/html[1]/body[1]/main[1]/div[3]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/",
+      "urlHash": "270371d68aaca8b51eab8c32538239a7b456a41f",
+      "uuid": "270371d6-06-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/create-return",
+      "urlHash": "2e8631a26469b044ba6c8df3c1fdd5a9b66afaec",
+      "uuid": "2e8631a2-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/create-return",
+      "urlHash": "2e8631a26469b044ba6c8df3c1fdd5a9b66afaec",
+      "uuid": "2e8631a2-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/account",
+      "urlHash": "2f921d50fff59406eb4f7ed37313359879088b7d",
+      "uuid": "2f921d50-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/account",
+      "urlHash": "2f921d50fff59406eb4f7ed37313359879088b7d",
+      "uuid": "2f921d50-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/widgets/apparel",
+      "urlHash": "301c1d4582bf1d865396b2974fa8c768347d17cb",
+      "uuid": "301c1d45-01-1202332ce7cd8307efd803d8735fefc8bda3f610",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/widgets/apparel",
+      "urlHash": "301c1d4582bf1d865396b2974fa8c768347d17cb",
+      "uuid": "301c1d45-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/address",
+      "urlHash": "3334651afc4f39cc9125f1a65cfb007a3785340f",
+      "uuid": "3334651a-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/address",
+      "urlHash": "3334651afc4f39cc9125f1a65cfb007a3785340f",
+      "uuid": "3334651a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/apparel",
+      "urlHash": "34374bf72dfd50482af0c10d9aa7006d98929c97",
+      "uuid": "34374bf7-01-1202332ce7cd8307efd803d8735fefc8bda3f610",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/apparel",
+      "urlHash": "34374bf72dfd50482af0c10d9aa7006d98929c97",
+      "uuid": "34374bf7-03-b698a1b53e0931b19c76b6b2e292c001aa93fb5f",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[1]/section[1]/div[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/apparel",
+      "urlHash": "34374bf72dfd50482af0c10d9aa7006d98929c97",
+      "uuid": "34374bf7-04-40525d01952d7ff0443ad2833c77cda9a3a00985",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[1]/section[1]/div[2]/div[1]/span[4]"
+    },
+    {
+      "url": "https://www.aemshop.net/apparel",
+      "urlHash": "34374bf72dfd50482af0c10d9aa7006d98929c97",
+      "uuid": "34374bf7-05-6e104f304e8c3775dda599659d95006731a1a433",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.aemshop.net/apparel",
+      "urlHash": "34374bf72dfd50482af0c10d9aa7006d98929c97",
+      "uuid": "34374bf7-06-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/createpassword",
+      "urlHash": "3ca20ce07c1bae5fa270905fb9bb83c1ac41e249",
+      "uuid": "3ca20ce0-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/createpassword",
+      "urlHash": "3ca20ce07c1bae5fa270905fb9bb83c1ac41e249",
+      "uuid": "3ca20ce0-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/footer",
+      "urlHash": "3da327c1bd69351ce5b9403bccd5b323c37a3d37",
+      "uuid": "3da327c1-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/footer",
+      "urlHash": "3da327c1bd69351ce5b9403bccd5b323c37a3d37",
+      "uuid": "3da327c1-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/store-switcher",
+      "urlHash": "3f0fa0807631cd04a3cf4894b431cfdeb1946717",
+      "uuid": "3f0fa080-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/store-switcher",
+      "urlHash": "3f0fa0807631cd04a3cf4894b431cfdeb1946717",
+      "uuid": "3f0fa080-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/blocks/fragment",
+      "urlHash": "42ae37c71e69b1b6a6f70093045298bae87f7067",
+      "uuid": "42ae37c7-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/blocks/fragment",
+      "urlHash": "42ae37c71e69b1b6a6f70093045298bae87f7067",
+      "uuid": "42ae37c7-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/return-details",
+      "urlHash": "451de5baab673b1e2749be129e232191e5cdeb89",
+      "uuid": "451de5ba-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/cart",
+      "urlHash": "494d5c45cea722bc725ae1577d51bb7f7fcaee81",
+      "uuid": "494d5c45-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/checkout",
+      "urlHash": "497aa0a0c0183934b9f898fbab844f59fee45d7e",
+      "uuid": "497aa0a0-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/returns",
+      "urlHash": "4d862535ff9c74614cdcde8e6b2287bb2cf85485",
+      "uuid": "4d862535-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/returns",
+      "urlHash": "4d862535ff9c74614cdcde8e6b2287bb2cf85485",
+      "uuid": "4d862535-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/returns",
+      "urlHash": "5557fbfdeaa4dad2fd0127c3c24279e1cafde515",
+      "uuid": "5557fbfd-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/returns",
+      "urlHash": "5557fbfdeaa4dad2fd0127c3c24279e1cafde515",
+      "uuid": "5557fbfd-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/blocks/metadata",
+      "urlHash": "58a582944b1f5eff31d7f2f80451c548b2555eab",
+      "uuid": "58a58294-01-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/templates/product-details-page",
+      "urlHash": "59bc8927b4e47dfad802616fabd4b07c0d507227",
+      "uuid": "59bc8927-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/templates/product-details-page",
+      "urlHash": "59bc8927b4e47dfad802616fabd4b07c0d507227",
+      "uuid": "59bc8927-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/return-details",
+      "urlHash": "5de57baf40ea361f0830e626d0fa7ab886e68244",
+      "uuid": "5de57baf-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/return-details",
+      "urlHash": "5de57baf40ea361f0830e626d0fa7ab886e68244",
+      "uuid": "5de57baf-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/order-details",
+      "urlHash": "60dcd324078c8e35ff4592247ae2485db91487ad",
+      "uuid": "60dcd324-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/orders",
+      "urlHash": "613dbfccc04a98becb5451a7ef844121f1b774f7",
+      "uuid": "613dbfcc-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/orders",
+      "urlHash": "613dbfccc04a98becb5451a7ef844121f1b774f7",
+      "uuid": "613dbfcc-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/orders",
+      "urlHash": "64ffdd7f20a03ecfdeb8f440764ad4882a7b923d",
+      "uuid": "64ffdd7f-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/orders",
+      "urlHash": "64ffdd7f20a03ecfdeb8f440764ad4882a7b923d",
+      "uuid": "64ffdd7f-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/enrichment/product-banner",
+      "urlHash": "6b39ffada2817ee9ac12d75e8e854c756bb6cfd1",
+      "uuid": "6b39ffad-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/enrichment/product-banner",
+      "urlHash": "6b39ffada2817ee9ac12d75e8e854c756bb6cfd1",
+      "uuid": "6b39ffad-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/blocks/section-metadata",
+      "urlHash": "6c4a89e363870343f540b7f033b066987102cc82",
+      "uuid": "6c4a89e3-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/blocks/section-metadata",
+      "urlHash": "6c4a89e363870343f540b7f033b066987102cc82",
+      "uuid": "6c4a89e3-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/products/default",
+      "urlHash": "7447be05fbd0d0024d5b9fd137ee01afee7499f5",
+      "uuid": "7447be05-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/products/default",
+      "urlHash": "7447be05fbd0d0024d5b9fd137ee01afee7499f5",
+      "uuid": "7447be05-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/return-details",
+      "urlHash": "780f834bc035aa753afc679ab3b9bb7a6934e3fa",
+      "uuid": "780f834b-01-1202332ce7cd8307efd803d8735fefc8bda3f610",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/return-details",
+      "urlHash": "780f834bc035aa753afc679ab3b9bb7a6934e3fa",
+      "uuid": "780f834b-11-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/enrichment/product-banner",
+      "urlHash": "78300ab3a1cb8f7b9c83a66e145500c2010e09fd",
+      "uuid": "78300ab3-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/enrichment/product-banner",
+      "urlHash": "78300ab3a1cb8f7b9c83a66e145500c2010e09fd",
+      "uuid": "78300ab3-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/store-switcher",
+      "urlHash": "7c3c38dc23f49d5b0e9c49271d8f6c8c7a77d326",
+      "uuid": "7c3c38dc-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/store-switcher",
+      "urlHash": "7c3c38dc23f49d5b0e9c49271d8f6c8c7a77d326",
+      "uuid": "7c3c38dc-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/empty-cart",
+      "urlHash": "7ea450c8f6a4a414b3699234ce32a06e18344482",
+      "uuid": "7ea450c8-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/empty-cart",
+      "urlHash": "7ea450c8f6a4a414b3699234ce32a06e18344482",
+      "uuid": "7ea450c8-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/search",
+      "urlHash": "82ad49779cd3a836d711936fec9ead815b0a37e9",
+      "uuid": "82ad4977-02-8d0b0043eebc1c2ac80d43033b05b21f12c3bf08",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]/div[1]/div[1]/section[1]/div[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/search",
+      "urlHash": "82ad49779cd3a836d711936fec9ead815b0a37e9",
+      "uuid": "82ad4977-03-e9f27efb5f786afc80c2f34e9430a7658a6dfe84",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]/div[1]/div[1]/section[1]/div[2]/div[1]/span[4]"
+    },
+    {
+      "url": "https://www.aemshop.net/search",
+      "urlHash": "82ad49779cd3a836d711936fec9ead815b0a37e9",
+      "uuid": "82ad4977-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/support",
+      "urlHash": "8345ed8ddbd3594985b91a23a163e607bd8eb339",
+      "uuid": "8345ed8d-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/support",
+      "urlHash": "8345ed8ddbd3594985b91a23a163e607bd8eb339",
+      "uuid": "8345ed8d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/create-return",
+      "urlHash": "8734d28067faa4b030740b8033ee85d262ceb099",
+      "uuid": "8734d280-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/create-return",
+      "urlHash": "8734d28067faa4b030740b8033ee85d262ceb099",
+      "uuid": "8734d280-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/wishlist",
+      "urlHash": "8e36b21141df215ed13fc2acec31b8cd2e7a82b0",
+      "uuid": "8e36b211-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/wishlist",
+      "urlHash": "8e36b21141df215ed13fc2acec31b8cd2e7a82b0",
+      "uuid": "8e36b211-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/create",
+      "urlHash": "900d263cde191d412147cb7b8fa1ffa4604c004c",
+      "uuid": "900d263c-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/create",
+      "urlHash": "900d263cde191d412147cb7b8fa1ffa4604c004c",
+      "uuid": "900d263c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/templates/category-page",
+      "urlHash": "908783150b5eff4973d10aad9b39e776ec341391",
+      "uuid": "90878315-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/blocks/columns",
+      "urlHash": "92fd68d7233c2db57648bed3cd90f85d8181534d",
+      "uuid": "92fd68d7-01-1202332ce7cd8307efd803d8735fefc8bda3f610",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/blocks/columns",
+      "urlHash": "92fd68d7233c2db57648bed3cd90f85d8181534d",
+      "uuid": "92fd68d7-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/blocks/columns",
+      "urlHash": "92fd68d7233c2db57648bed3cd90f85d8181534d",
+      "uuid": "92fd68d7-05-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/cart",
+      "urlHash": "932bd72c55e9168f484bd6bd575696d92c88d693",
+      "uuid": "932bd72c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/.da/library/blocks/hero",
+      "urlHash": "9352b2adc6144e860532b0fed2fa372c6e4f7b4b",
+      "uuid": "9352b2ad-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/products/default",
+      "urlHash": "945508b469b9350c6ca77b909bc9c63885d60232",
+      "uuid": "945508b4-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/products/default",
+      "urlHash": "945508b469b9350c6ca77b909bc9c63885d60232",
+      "uuid": "945508b4-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/forgotpassword",
+      "urlHash": "94c64fd3f793efa992f0091637a421bf783c25c4",
+      "uuid": "94c64fd3-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/forgotpassword",
+      "urlHash": "94c64fd3f793efa992f0091637a421bf783c25c4",
+      "uuid": "94c64fd3-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/sidebar-fragment",
+      "urlHash": "9c1a2e0363a27c14b707206450c75c86a34bc40e",
+      "uuid": "9c1a2e03-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/sidebar-fragment",
+      "urlHash": "9c1a2e0363a27c14b707206450c75c86a34bc40e",
+      "uuid": "9c1a2e03-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/createpassword",
+      "urlHash": "9e4aeef832f2e774e72e0c168f924fe908c34e22",
+      "uuid": "9e4aeef8-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/createpassword",
+      "urlHash": "9e4aeef832f2e774e72e0c168f924fe908c34e22",
+      "uuid": "9e4aeef8-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/create",
+      "urlHash": "9f586ad8e9b8157065f675e713205e23a0859bcf",
+      "uuid": "9f586ad8-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/create",
+      "urlHash": "9f586ad8e9b8157065f675e713205e23a0859bcf",
+      "uuid": "9f586ad8-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/gear",
+      "urlHash": "a1df567ad8322d22b2909615eec0e4a478eb5dfc",
+      "uuid": "a1df567a-01-1202332ce7cd8307efd803d8735fefc8bda3f610",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/gear",
+      "urlHash": "a1df567ad8322d22b2909615eec0e4a478eb5dfc",
+      "uuid": "a1df567a-03-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/order-details",
+      "urlHash": "a3bdf704a7461b0e93d1dddcea10e733771af20f",
+      "uuid": "a3bdf704-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/order-details",
+      "urlHash": "a3bdf704a7461b0e93d1dddcea10e733771af20f",
+      "uuid": "a3bdf704-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/login",
+      "urlHash": "a621482998c6c74c3feb01112f8f4929498a71d0",
+      "uuid": "a6214829-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/login",
+      "urlHash": "a621482998c6c74c3feb01112f8f4929498a71d0",
+      "uuid": "a6214829-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/return-details",
+      "urlHash": "ab181d792861299598cc1659ea87429d5239b6b3",
+      "uuid": "ab181d79-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/return-details",
+      "urlHash": "ab181d792861299598cc1659ea87429d5239b6b3",
+      "uuid": "ab181d79-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/",
+      "urlHash": "b221bc145ef3b1ba41c65dd62e5c7f7525562c1a",
+      "uuid": "b221bc14-02-8cdf091a50d8a29688208f1a49c3aa0874e36321",
+      "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/",
+      "urlHash": "b221bc145ef3b1ba41c65dd62e5c7f7525562c1a",
+      "uuid": "b221bc14-04-58ba820679040862b94ffd9804d9204b6c03e429",
+      "xpath": "/html[1]/body[1]/main[1]/div[3]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/",
+      "urlHash": "b221bc145ef3b1ba41c65dd62e5c7f7525562c1a",
+      "uuid": "b221bc14-06-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/create-return",
+      "urlHash": "b7d8d296910b8e3d1e8ab10d57a1aa360de2eefc",
+      "uuid": "b7d8d296-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/sidebar-fragment",
+      "urlHash": "bd67b9b0c6215a1bf0a77f2188000e5dde781f01",
+      "uuid": "bd67b9b0-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/sidebar-fragment",
+      "urlHash": "bd67b9b0c6215a1bf0a77f2188000e5dde781f01",
+      "uuid": "bd67b9b0-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/address",
+      "urlHash": "bfa2db7a3b25823489ade8876c09c81b1c501c70",
+      "uuid": "bfa2db7a-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/address",
+      "urlHash": "bfa2db7a3b25823489ade8876c09c81b1c501c70",
+      "uuid": "bfa2db7a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/sales/guest/view/",
+      "urlHash": "c2c306c08f516f7cc864f777b7f1ecf721486f9a",
+      "uuid": "c2c306c0-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/sales/guest/view/",
+      "urlHash": "c2c306c08f516f7cc864f777b7f1ecf721486f9a",
+      "uuid": "c2c306c0-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/order-status",
+      "urlHash": "c53ca30ddf8d84c5d9f498267a722bc6bbd96087",
+      "uuid": "c53ca30d-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/order-status",
+      "urlHash": "c53ca30ddf8d84c5d9f498267a722bc6bbd96087",
+      "uuid": "c53ca30d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/login",
+      "urlHash": "c8ffadca5fa68d71921c5e6e6b77f4c9aa61e150",
+      "uuid": "c8ffadca-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/login",
+      "urlHash": "c8ffadca5fa68d71921c5e6e6b77f4c9aa61e150",
+      "uuid": "c8ffadca-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/account/confirm/",
+      "urlHash": "ccdbda1789ad24b35cd3d85502822e555de9e529",
+      "uuid": "ccdbda17-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/account/confirm/",
+      "urlHash": "ccdbda1789ad24b35cd3d85502822e555de9e529",
+      "uuid": "ccdbda17-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/enrichment/category-banner",
+      "urlHash": "d3b7368773a31863a93c6a0c4b1db0babb88bcd3",
+      "uuid": "d3b73687-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/enrichment/category-banner",
+      "urlHash": "d3b7368773a31863a93c6a0c4b1db0babb88bcd3",
+      "uuid": "d3b73687-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/sales/order/view/",
+      "urlHash": "d87f563bc2792a3077d47d341fc5268dade27d52",
+      "uuid": "d87f563b-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/sales/order/view/",
+      "urlHash": "d87f563bc2792a3077d47d341fc5268dade27d52",
+      "uuid": "d87f563b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/nav",
+      "urlHash": "dab7350e8a70cc00477ec53ce3be0cf0c76bad98",
+      "uuid": "dab7350e-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/nav",
+      "urlHash": "dab7350e8a70cc00477ec53ce3be0cf0c76bad98",
+      "uuid": "dab7350e-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/order-details",
+      "urlHash": "db8b5d75c4eb149f39a9f36e344fa6b3123ebf4f",
+      "uuid": "db8b5d75-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/order-details",
+      "urlHash": "db8b5d75c4eb149f39a9f36e344fa6b3123ebf4f",
+      "uuid": "db8b5d75-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/privacy-policy",
+      "urlHash": "e13f5cc5be8699087697a7f2d16a577c3109be81",
+      "uuid": "e13f5cc5-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/privacy-policy",
+      "urlHash": "e13f5cc5be8699087697a7f2d16a577c3109be81",
+      "uuid": "e13f5cc5-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/search",
+      "urlHash": "e434376cf2dea04651fb8eefaf975ca197fe4325",
+      "uuid": "e434376c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/enrichment/category-banner",
+      "urlHash": "e4e15fda1597466672f57bfcf3f7e740d3ceb6dd",
+      "uuid": "e4e15fda-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/enrichment/category-banner",
+      "urlHash": "e4e15fda1597466672f57bfcf3f7e740d3ceb6dd",
+      "uuid": "e4e15fda-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/support",
+      "urlHash": "e4ff49aa21b64d69aa94eef9bfaa1c229fbde34d",
+      "uuid": "e4ff49aa-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/support",
+      "urlHash": "e4ff49aa21b64d69aa94eef9bfaa1c229fbde34d",
+      "uuid": "e4ff49aa-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/account/createpassword/",
+      "urlHash": "e78e9ac2df247568dc5f53de5fdaedc498aede2a",
+      "uuid": "e78e9ac2-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/account/createpassword/",
+      "urlHash": "e78e9ac2df247568dc5f53de5fdaedc498aede2a",
+      "uuid": "e78e9ac2-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/create-return",
+      "urlHash": "e9a6c0f9ed60475dcf68c623096593103b11a4dd",
+      "uuid": "e9a6c0f9-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/customer/create-return",
+      "urlHash": "e9a6c0f9ed60475dcf68c623096593103b11a4dd",
+      "uuid": "e9a6c0f9-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/nav",
+      "urlHash": "ea33cb4f19c6a782ffe360c98a246a2300821de6",
+      "uuid": "ea33cb4f-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/nav",
+      "urlHash": "ea33cb4f19c6a782ffe360c98a246a2300821de6",
+      "uuid": "ea33cb4f-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/account",
+      "urlHash": "f71747c11eca14cd15b0418d130a26bccec53460",
+      "uuid": "f71747c1-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/customer/account",
+      "urlHash": "f71747c11eca14cd15b0418d130a26bccec53460",
+      "uuid": "f71747c1-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/wishlist",
+      "urlHash": "fb68e1593d27a89d656933db1ced89e0bd646320",
+      "uuid": "fb68e159-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/wishlist",
+      "urlHash": "fb68e1593d27a89d656933db1ced89e0bd646320",
+      "uuid": "fb68e159-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/checkout",
+      "urlHash": "fd09521be7ea972c29e38c2ef1899ecc6e96a291",
+      "uuid": "fd09521b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/privacy-policy",
+      "urlHash": "fd761ad11871a80d7800350677d3d247e88773e2",
+      "uuid": "fd761ad1-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/privacy-policy",
+      "urlHash": "fd761ad11871a80d7800350677d3d247e88773e2",
+      "uuid": "fd761ad1-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/order-status",
+      "urlHash": "ffa85369db40fffe00e96f057bf4b1f2cd87f8c6",
+      "uuid": "ffa85369-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
+    },
+    {
+      "url": "https://www.aemshop.net/fr/order-status",
+      "urlHash": "ffa85369db40fffe00e96f057bf4b1f2cd87f8c6",
+      "uuid": "ffa85369-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+      "xpath": "/html[1]/body[1]/footer[1]",
+      "section": "section-1"
     }
   ],
   "sections": [
     {
       "name": "section-1",
-      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
-      "count": 3
+      "background": "rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 84
     },
     {
       "name": "section-2",
-      "background": "rgb(0, 50, 255) none repeat scroll 0% 0% / auto padding-box border-box",
-      "count": 1
+      "background": "rgb(232, 232, 232) linear-gradient(to right, rgb(232, 232, 232) 0%, rgb(250, 250, 250) 20%, rgb(232, 232, 232) 40%, rgb(232, 232, 232) 100%) no-repeat scroll 399.7px 0px / auto padding-box border-box",
+      "count": 2
     },
     {
       "name": "section-3",
-      "background": "rgb(0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-      "count": 2
-    },
-    {
-      "name": "section-4",
-      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(255, 255, 255) 69%, rgb(243, 243, 243) 80%) repeat scroll 0% 0% / auto padding-box border-box",
-      "count": 2
-    },
-    {
-      "name": "section-5",
-      "background": "rgb(243, 243, 243) none repeat scroll 0% 0% / auto padding-box border-box",
+      "background": "rgb(232, 232, 232) linear-gradient(to right, rgb(232, 232, 232) 0%, rgb(250, 250, 250) 20%, rgb(232, 232, 232) 40%, rgb(232, 232, 232) 100%) no-repeat scroll -300.2px 0px / auto padding-box border-box",
       "count": 1
     }
   ]
