@@ -14,6 +14,36 @@
       "targetPath": "/com/en/collections"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/collections/royal-oak.html",
+      "id": "ce8b69fe83e3811e221386601afa9d077fc3b498",
+      "targetPath": "/com/en/collections/royal-oak"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/collections/royal-oak-offshore.html",
+      "id": "bb7ff5e5a87aa3e2bb8e1fc15441545d7048ba22",
+      "targetPath": "/com/en/collections/royal-oak-offshore"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/collections/royal-oak-concept.html",
+      "id": "67a8e29e2bae2c8b00c0f076481096e8e5a3d4f0",
+      "targetPath": "/com/en/collections/royal-oak-concept"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/collections/Millenary.html",
+      "id": "7afd84251b2b49e6bb8b3da724a9c075f43ffa91",
+      "targetPath": "/com/en/collections/millenary"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/collections/code-11-59.html",
+      "id": "decdd0ec22cea6ea1be40f54882b7279d2b9e8b2",
+      "targetPath": "/com/en/collections/code-11-59"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/collections/REmaster01.html",
+      "id": "8be8641abd1eb82ba6874e490b18ca6f73edb11c",
+      "targetPath": "/com/en/collections/remaster01"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/collections/haute-joaillerie.html",
       "id": "532889b02f1f11424890049f41adc521a50086a0",
       "targetPath": "/com/en/collections/haute-joaillerie"
@@ -154,9 +184,19 @@
       "targetPath": "/com/en/about/audemars-piguet-contemporary/art-basel"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/about/foundation.html",
+      "id": "b9b131e066d062d20268a79ca22536561cf254d1",
+      "targetPath": "/com/en/about/foundation"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/about/our-commitments.html",
       "id": "d2fa0d9d91d1ff7840af7fabacba05f35d2ccff4",
       "targetPath": "/com/en/about/our-commitments"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/about/golf.html",
+      "id": "357e904d2873aed5cb4249fb1fd594a3e3754ecf",
+      "targetPath": "/com/en/about/golf"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/about/commitments.html",
@@ -477,6 +517,36 @@
       "url": "https://www.audemarspiguet.com/com/en/news/music/syncing-sounds-150.html",
       "id": "f5b9085f7d09f41eca9f86e8d4efdd9814661648",
       "targetPath": "/com/en/news/music/syncing-sounds-150"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/news/golf/harmony-mastery.html",
+      "id": "484c722bbb50b6b1d8e3f11936d1fcd9cd16d1c7",
+      "targetPath": "/com/en/news/golf/harmony-mastery"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/news/golf/manhattan-masters.html",
+      "id": "76ba971ef55a43a5772b518d9d0e552d0c1c5d6a",
+      "targetPath": "/com/en/news/golf/manhattan-masters"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/news/golf/midnight-masters.html",
+      "id": "98a996ee4e2230461651ea6e4c1aff46e4f05b4e",
+      "targetPath": "/com/en/news/golf/midnight-masters"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/news/golf/Golf-Invitationals.html",
+      "id": "398bd91007583797b754b7af477d100b257fa8bd",
+      "targetPath": "/com/en/news/golf/golf-invitationals"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/news/golf/out-of-bounds.html",
+      "id": "439254b9732327aa0b60a95fe53134d9ec45a684",
+      "targetPath": "/com/en/news/golf/out-of-bounds"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/news/golf/international-putting-institute.html",
+      "id": "d92e2457781c84d65753f5099d734a5a49e62786",
+      "targetPath": "/com/en/news/golf/international-putting-institute"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/news/savoir-faire/a-unique-watch-from-1943.html",
@@ -1024,6 +1094,11 @@
       "targetPath": "/com/en/legal/aphk"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/legal/privacy-notice-china.html",
+      "id": "92ab1533f65072238d452968ba65f159952ca0e4",
+      "targetPath": "/com/en/legal/privacy-notice-china"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/legal/liste-filiales.html",
       "id": "b96dd0c200a2deb577637185e27aeb0b51753953",
       "targetPath": "/com/en/legal/liste-filiales"
@@ -1169,6 +1244,36 @@
       "targetPath": "/com/en/watch/royal-oak-jumbo"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch/royal-oak-50-year-anniversary",
+      "id": "8c078a6b8a7ef18f9669df1f1dc0f361fdc255b0",
+      "targetPath": "/com/en/watch/royal-oak-50-year-anniversary"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch/royal-oak-50-year-anniversary/design-evolution",
+      "id": "62e571633837d49d0c5eb5cea3a7ab9942fc8906",
+      "targetPath": "/com/en/watch/royal-oak-50-year-anniversary/design-evolution"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch/royal-oak-50-year-anniversary/chronicles",
+      "id": "264a88800ef9a5a24bee1adc4130522a2e855d52",
+      "targetPath": "/com/en/watch/royal-oak-50-year-anniversary/chronicles"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch/royal-oak-50-year-anniversary/novelties",
+      "id": "73a5f60b3eb74ad4b39864e7f29e7316380a3349",
+      "targetPath": "/com/en/watch/royal-oak-50-year-anniversary/novelties"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch/royal-oak-50-year-anniversary/jumbo",
+      "id": "4a37006a62bb01d55f218b4987ff6c96175251d9",
+      "targetPath": "/com/en/watch/royal-oak-50-year-anniversary/jumbo"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch/royal-oak-50-year-anniversary/design-evolution1",
+      "id": "571a5717569d83d9e9811d3e3d5fc15a9a7cdff0",
+      "targetPath": "/com/en/watch/royal-oak-50-year-anniversary/design-evolution1"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch/play-of-light.html",
       "id": "2a51ffed803b2b5f28a687a27ac2b256ea16983a",
       "targetPath": "/com/en/watch/play-of-light"
@@ -1209,9 +1314,19 @@
       "targetPath": "/com/en/watch/maap-exhibition"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch/code-1159-universelle.html",
+      "id": "d902c77314334aba621251250a25b78447c96a64",
+      "targetPath": "/com/en/watch/code-1159-universelle"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch/royal-oak-offshore-30-years-anniversary.html",
       "id": "77026c091296a62e0577673141ed21c44e08c05c",
       "targetPath": "/com/en/watch/royal-oak-offshore-30-years-anniversary"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch/apxmarvel-spider-man.html",
+      "id": "5a540aeaa27194f52a98675f91aad0fa5b73b86b",
+      "targetPath": "/com/en/watch/apxmarvel-spider-man"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch/royal-oak-offshore-gemsetting.html",
@@ -2014,6 +2129,11 @@
       "targetPath": "/com/en/watch-collection/royal-oak/15500st-oo-1220st-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15500ST.OO.1220ST.02.html",
+      "id": "f089b5eb906ecc54974f5975b01bb012639aa25f",
+      "targetPath": "/com/en/watch-collection/royal-oak/15500st-oo-1220st-02"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15500OR.OO.D002CR.01.html",
       "id": "6f6a0bb087a5f03b34fb1844076710bd5d53b1e3",
       "targetPath": "/com/en/watch-collection/royal-oak/15500or-oo-d002cr-01"
@@ -2054,14 +2174,54 @@
       "targetPath": "/com/en/watch-collection/royal-oak/26585ce-oo-1225ce-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/67652OR.ZZ.1265OR.01.html",
+      "id": "e70a93904f66d01d4ae2329a599ffd4ec3660428",
+      "targetPath": "/com/en/watch-collection/royal-oak/67652or-zz-1265or-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/67652BC.ZZ.1265BC.01.html",
+      "id": "2e0cf1c486c9a7ba4c43d099eac563294ab3acee",
+      "targetPath": "/com/en/watch-collection/royal-oak/67652bc-zz-1265bc-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26331BC.GG.1224BC.01.html",
+      "id": "74a5b9969080cac113198e4a8ced13a31eda45ab",
+      "targetPath": "/com/en/watch-collection/royal-oak/26331bc-gg-1224bc-01"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26586IP.OO.1240IP.01.html",
       "id": "12c9c0397aa6349144f8b7b10b100a24b58f1e4d",
       "targetPath": "/com/en/watch-collection/royal-oak/26586ip-oo-1240ip-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15407BC.GG.1224BC.01.html",
+      "id": "f62828be1981d0b182f65312e67b260bbc5db46a",
+      "targetPath": "/com/en/watch-collection/royal-oak/15407bc-gg-1224bc-01"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15202BC.OO.1240BC.01.html",
       "id": "91b0dc217b319617daba8e76f63d070d1aae1dce",
       "targetPath": "/com/en/watch-collection/royal-oak/15202bc-oo-1240bc-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26315OR.OO.1256OR.01.html",
+      "id": "ae456cc24752c2a57d2f318a7129a0e766510339",
+      "targetPath": "/com/en/watch-collection/royal-oak/26315or-oo-1256or-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26315ST.OO.1256ST.01.html",
+      "id": "080e661ab0db28b57fd0df099fcb508ad86a6163",
+      "targetPath": "/com/en/watch-collection/royal-oak/26315st-oo-1256st-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15500ST.OO.1220ST.03.html",
+      "id": "4282fdf18451f76f5fcb4edf6e46a26f01db4ab1",
+      "targetPath": "/com/en/watch-collection/royal-oak/15500st-oo-1220st-03"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26315ST.OO.1256ST.02.html",
+      "id": "f1634dca69dbc9482cc4c45e8c91588599c2ed99",
+      "targetPath": "/com/en/watch-collection/royal-oak/26315st-oo-1256st-02"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15416CE.OO.1225CE.01.html",
@@ -2084,9 +2244,29 @@
       "targetPath": "/com/en/watch-collection/royal-oak/77350st-oo-1261st-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/77350SR.OO.1261SR.01.html",
+      "id": "af2f735e79c6d993759642cc489882a6ef76598e",
+      "targetPath": "/com/en/watch-collection/royal-oak/77350sr-oo-1261sr-01"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/77353BC.GG.1263BC.01.html",
       "id": "06ae56a5770b186deef50a3e858f5538c0f161cc",
       "targetPath": "/com/en/watch-collection/royal-oak/77353bc-gg-1263bc-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26530ST.OO.1220ST.01.html",
+      "id": "f0615a7c10b5cfeb2f3ccbf5227f22391e4d7cf1",
+      "targetPath": "/com/en/watch-collection/royal-oak/26530st-oo-1220st-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26530OR.OO.1220OR.01.html",
+      "id": "4d12cd311d75bb4350e65af707fa80f439e8295b",
+      "targetPath": "/com/en/watch-collection/royal-oak/26530or-oo-1220or-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26730ST.OO.1320ST.01.html",
+      "id": "34cc7eccc2db364379bf0507da6f61bec9fe3381",
+      "targetPath": "/com/en/watch-collection/royal-oak/26730st-oo-1320st-01"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26730OR.OO.1320OR.01.html",
@@ -2104,6 +2284,31 @@
       "targetPath": "/com/en/watch-collection/royal-oak/77350ce-oo-1266ce-02-a"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/77351OR.ZZ.1261OR.01.html",
+      "id": "baf4db9b2c7fe4793c403880e94e89c6453c8942",
+      "targetPath": "/com/en/watch-collection/royal-oak/77351or-zz-1261or-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/16202ST.OO.1240ST.01.html",
+      "id": "f995242a25188b24734aeb8ef25ca3d6b099ffd1",
+      "targetPath": "/com/en/watch-collection/royal-oak/16202st-oo-1240st-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/16202OR.OO.1240OR.01.html",
+      "id": "a412f52cda760285e7667e431c05844e26d4dee1",
+      "targetPath": "/com/en/watch-collection/royal-oak/16202or-oo-1240or-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26605CB.OO.1248CB.01.html",
+      "id": "26a9a51b5e77ff428ce7197dec8a9eb250fa21ab",
+      "targetPath": "/com/en/watch-collection/royal-oak/26605cb-oo-1248cb-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26613ST.OO.1220ST.01.html",
+      "id": "109924096095e5fcd07d7bd6b2a59966a7205844",
+      "targetPath": "/com/en/watch-collection/royal-oak/26613st-oo-1220st-01"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26522BC.OO.1220BC.01.html",
       "id": "c5aa3be54edcdfba98035fcba1916052ff5db3c7",
       "targetPath": "/com/en/watch-collection/royal-oak/26522bc-oo-1220bc-01"
@@ -2119,6 +2324,16 @@
       "targetPath": "/com/en/watch-collection/royal-oak/15452bc-zy-d600cr-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26615TI.OO.1220TI.01.html",
+      "id": "d0ac60cb91a183e68fa402309e37ca72f7cd45cf",
+      "targetPath": "/com/en/watch-collection/royal-oak/26615ti-oo-1220ti-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26531TI.OO.1220TI.01.html",
+      "id": "3f09323bec2642153c5f4f50338ee5a408f1b3d7",
+      "targetPath": "/com/en/watch-collection/royal-oak/26531ti-oo-1220ti-01"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26591TI.OO.1252TI.02.html",
       "id": "70f41584a9a0746845c5771f584f456f9feb4046",
       "targetPath": "/com/en/watch-collection/royal-oak/26591ti-oo-1252ti-02"
@@ -2127,6 +2342,16 @@
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26607BA.OO.1220BA.01.html",
       "id": "cd1ec0ef12cfa7b1a34656fdee75520dfec8614d",
       "targetPath": "/com/en/watch-collection/royal-oak/26607ba-oo-1220ba-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26614OR.YY.1220OR.01.html",
+      "id": "59bf005476f3331708d1b5b8c02b82038875a757",
+      "targetPath": "/com/en/watch-collection/royal-oak/26614or-yy-1220or-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26318BC.ZZ.1256BC.01.html",
+      "id": "971b71cc296f722b216402dc4f53d48305f4f653",
+      "targetPath": "/com/en/watch-collection/royal-oak/26318bc-zz-1256bc-01"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26331BC.GG.1224BC.03.html",
@@ -2139,9 +2364,19 @@
       "targetPath": "/com/en/watch-collection/royal-oak/26614or-zz-1220or-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/77350CE.OO.1266CE.01.html",
+      "id": "bf2bbfede2908ab14fbbb954f98751d37940cdaa",
+      "targetPath": "/com/en/watch-collection/royal-oak/77350ce-oo-1266ce-01"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/77350CB.OO.1266CB.01.html",
       "id": "9880e070ddff1aac20dba23f0a4af7d596d0192f",
       "targetPath": "/com/en/watch-collection/royal-oak/77350cb-oo-1266cb-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26530TI.OO.1220TI.01.html",
+      "id": "3ab15659521a23f1fe24a5b23a7480df508ac270",
+      "targetPath": "/com/en/watch-collection/royal-oak/26530ti-oo-1220ti-01"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/16204ST.OO.1240ST.01.html",
@@ -2169,6 +2404,21 @@
       "targetPath": "/com/en/watch-collection/royal-oak/26532ic-ee-1220ti-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26533OR.OO.1220OR.01.html",
+      "id": "efdb7ac4e2e48aff6962516e9d478a60d864a1b5",
+      "targetPath": "/com/en/watch-collection/royal-oak/26533or-oo-1220or-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26579CS.OO.1225CS.01.html",
+      "id": "af9e381859db83c0b0a0131a1f5e7c0189db66df",
+      "targetPath": "/com/en/watch-collection/royal-oak/26579cs-oo-1225cs-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15510ST.OO.1320ST.01.html",
+      "id": "29dc1fa5c9310fd62bb1dfe906b9b8442664482a",
+      "targetPath": "/com/en/watch-collection/royal-oak/15510st-oo-1320st-01"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15510ST.OO.1320ST.05.html",
       "id": "45d544186639b7a52c11af5b228f25ca826b0323",
       "targetPath": "/com/en/watch-collection/royal-oak/15510st-oo-1320st-05"
@@ -2177,6 +2427,16 @@
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15510ST.OO.1320ST.02.html",
       "id": "41af49b8aac0e7022ed70507599ea89478c7c6de",
       "targetPath": "/com/en/watch-collection/royal-oak/15510st-oo-1320st-02"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15510OR.OO.D002CR.01.html",
+      "id": "0936cb292a99d636b803d91f1d42f99a8931b499",
+      "targetPath": "/com/en/watch-collection/royal-oak/15510or-oo-d002cr-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15510OR.OO.1320OR.02.html",
+      "id": "fcf7cf99c5aa4f15036b68eae544a2fe7395af8b",
+      "targetPath": "/com/en/watch-collection/royal-oak/15510or-oo-1320or-02"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240ST.OO.1320ST.01.html",
@@ -2229,6 +2489,11 @@
       "targetPath": "/com/en/watch-collection/royal-oak/26730ti-oo-1320ti-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26730ST.OO.1320ST.02.html",
+      "id": "e7a4ad16fca9320f147ce08fbaed235bd272c001",
+      "targetPath": "/com/en/watch-collection/royal-oak/26730st-oo-1320st-02"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26730OR.OO.1320OR.02.html",
       "id": "0df772ede0dd7e02435ffad9cbfbd2463e6481f9",
       "targetPath": "/com/en/watch-collection/royal-oak/26730or-oo-1320or-02"
@@ -2247,6 +2512,11 @@
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26730OR.OO.1320OR.05.html",
       "id": "387b2fe81a73cb6cdaa992ab908c1dc0ddd56ca4",
       "targetPath": "/com/en/watch-collection/royal-oak/26730or-oo-1320or-05"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15202PT.OO.1240PT.01.html",
+      "id": "3e9ef57db00ff2370c16ec2fc17f309236c82a71",
+      "targetPath": "/com/en/watch-collection/royal-oak/15202pt-oo-1240pt-01"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15551OR.ZZ.1356OR.01.html",
@@ -2269,6 +2539,11 @@
       "targetPath": "/com/en/watch-collection/royal-oak/77450sr-oo-1361sr-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/77451ST.ZZ.1361ST.01.html",
+      "id": "fea546d8dda78b33a65a1f1c9d07a011a3d3d73b",
+      "targetPath": "/com/en/watch-collection/royal-oak/77451st-zz-1361st-01"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/77451OR.ZZ.1361OR.01.html",
       "id": "8065ff7cda7c3acf5fd51d09b9a3a2f437365afb",
       "targetPath": "/com/en/watch-collection/royal-oak/77451or-zz-1361or-01"
@@ -2279,6 +2554,16 @@
       "targetPath": "/com/en/watch-collection/royal-oak/26239bc-gg-1224bc-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26239BC.GG.1224BC.02.html",
+      "id": "a6db06e1e58f9b1899eca74237ff519aab8c7b08",
+      "targetPath": "/com/en/watch-collection/royal-oak/26239bc-gg-1224bc-02"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26239OR.GG.1224OR.01.html",
+      "id": "e49d092ecbd9cd64fa2f434c772e06eaf71ef26d",
+      "targetPath": "/com/en/watch-collection/royal-oak/26239or-gg-1224or-01"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26535PT.ZZ.1220PT.01.html",
       "id": "fa1850246b946f83847b62bd9bad6ea2605e6c2c",
       "targetPath": "/com/en/watch-collection/royal-oak/26535pt-zz-1220pt-01"
@@ -2287,6 +2572,21 @@
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15503BC.OO.1220BC.01.html",
       "id": "c04125f0f6c2f4b4418835c574a4416be88e9a33",
       "targetPath": "/com/en/watch-collection/royal-oak/15503bc-oo-1220bc-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26239BC.OO.1220BC.01.html",
+      "id": "4fecd6d2203df4385dbe585bf7a55f145c03dab2",
+      "targetPath": "/com/en/watch-collection/royal-oak/26239bc-oo-1220bc-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26315OR.ZZ.1256OR.01.html",
+      "id": "ca154870a5c53269ab5c9a93b8a8b04466633448",
+      "targetPath": "/com/en/watch-collection/royal-oak/26315or-zz-1256or-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26670ST.OO.1240ST.01.html",
+      "id": "6ba038bc08d60dc101e809be3597cff3736cdb60",
+      "targetPath": "/com/en/watch-collection/royal-oak/26670st-oo-1240st-01"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26735ST.OO.1320ST.01.html",
@@ -2304,9 +2604,24 @@
       "targetPath": "/com/en/watch-collection/royal-oak/15452bc-zy-d007ve-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15469BC.ZZ.D001CR.01.html",
+      "id": "c35d8b60f4ed107455b67d8e231e588b26bb52a9",
+      "targetPath": "/com/en/watch-collection/royal-oak/15469bc-zz-d001cr-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240CE.OO.1225CE.01.html",
+      "id": "8798b5c8a6ef4a85c01d6f33da6bf18c3e4a28f1",
+      "targetPath": "/com/en/watch-collection/royal-oak/26240ce-oo-1225ce-01"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26319OR.AY.1256OR.01.html",
       "id": "d846741359b7bfba77c9d05feec094a2b12b1da4",
       "targetPath": "/com/en/watch-collection/royal-oak/26319or-ay-1256or-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26586TI.OO.1240TI.01.html",
+      "id": "e798603943a3c40422793580b7c98707786ffdfd",
+      "targetPath": "/com/en/watch-collection/royal-oak/26586ti-oo-1240ti-01"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26574ST.OO.1220ST.03.html",
@@ -2324,14 +2639,39 @@
       "targetPath": "/com/en/watch-collection/royal-oak/15452or-zy-d038ve-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15202BC.ZZ.1241BC.02.html",
+      "id": "4367aff4b3d6fbf0e40f1ab4ed425091d114b75e",
+      "targetPath": "/com/en/watch-collection/royal-oak/15202bc-zz-1241bc-02"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15202OR.ZZ.1241OR.01.html",
       "id": "3a60b58042d4e90c614f01d7466087f4b852b569",
       "targetPath": "/com/en/watch-collection/royal-oak/15202or-zz-1241or-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15202BC.ZZ.1241BC.03.html",
+      "id": "3b971b51d264a9fc0b9cd1421d6c7f306793a092",
+      "targetPath": "/com/en/watch-collection/royal-oak/15202bc-zz-1241bc-03"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15552OR.ZZ.1358OR.01.html",
+      "id": "d5bd6177c4c362f6c6f44d82012f2b0403181822",
+      "targetPath": "/com/en/watch-collection/royal-oak/15552or-zz-1358or-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15552BC.ZZ.1358BC.01.html",
+      "id": "f0581e42a278590f983cc74bd471a1033dbf014f",
+      "targetPath": "/com/en/watch-collection/royal-oak/15552bc-zz-1358bc-01"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/77350CE.OO.1266CE.01.A.html",
       "id": "42ca32cc47e92e0b2a809a55e482e2810ab6e4fd",
       "targetPath": "/com/en/watch-collection/royal-oak/77350ce-oo-1266ce-01-a"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26591TI.OO.1252TI.03.html",
+      "id": "1621ec6300c8803c3fe47e2c208b05df231cb730",
+      "targetPath": "/com/en/watch-collection/royal-oak/26591ti-oo-1252ti-03"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26660ST.OO.1356ST.01.html",
@@ -2464,6 +2804,16 @@
       "targetPath": "/com/en/watch-collection/royal-oak/15514bc-rr-1284bc-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15514BC.TM.1284BC.01.html",
+      "id": "d9f86653408a0329b1beadab488db41477016cf8",
+      "targetPath": "/com/en/watch-collection/royal-oak/15514bc-tm-1284bc-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15514BC.AY.1284BC.01.html",
+      "id": "1593c740279333de9ed9787131df1a6957f23cc2",
+      "targetPath": "/com/en/watch-collection/royal-oak/15514bc-ay-1284bc-01"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15514BC.TF.1284BC.01.html",
       "id": "ba15ed770a2b20561e526a98a78e73d63cf12449",
       "targetPath": "/com/en/watch-collection/royal-oak/15514bc-tf-1284bc-01"
@@ -2477,6 +2827,16 @@
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15514BC.SS.1284BC.01.html",
       "id": "c412f1cacc30c5b6264e6b22186a2d9f3fbd7b7a",
       "targetPath": "/com/en/watch-collection/royal-oak/15514bc-ss-1284bc-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15514BC.EE.1284BC.01.html",
+      "id": "e45f57ceb509d9ac131f25f0c9320bb9abbf0f6f",
+      "targetPath": "/com/en/watch-collection/royal-oak/15514bc-ee-1284bc-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15514BC.TV.1284BC.01.html",
+      "id": "e3ba0ca2f2a21f1432f2dbfbbbc2ebf3030eaa61",
+      "targetPath": "/com/en/watch-collection/royal-oak/15514bc-tv-1284bc-01"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/77451ST.ZZ.1361ST.02.html",
@@ -2504,9 +2864,24 @@
       "targetPath": "/com/en/watch-collection/royal-oak/26715st-zz-1356st-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26715OR.ZZ.1356OR.01.html",
+      "id": "34936854ec1896f2dbc869b1e33fe7991d900044",
+      "targetPath": "/com/en/watch-collection/royal-oak/26715or-zz-1356or-01"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240OR.OO.D002CR.01.html",
       "id": "964d013599639768dd1a4fd32cd91af058339133",
       "targetPath": "/com/en/watch-collection/royal-oak/26240or-oo-d002cr-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240OR.OO.D404CR.01.html",
+      "id": "ab04cea4c871a4f86abd7d36f0f05df650a07aae",
+      "targetPath": "/com/en/watch-collection/royal-oak/26240or-oo-d404cr-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15550ST.OO.1356ST.02.html",
+      "id": "dccd1eb967ecef4cd38d5cef34b9a145220a77fa",
+      "targetPath": "/com/en/watch-collection/royal-oak/15550st-oo-1356st-02"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15550ST.OO.1356ST.03.html",
@@ -2524,9 +2899,39 @@
       "targetPath": "/com/en/watch-collection/royal-oak/15550sr-oo-1356sr-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15551ST.ZZ.1356ST.02.html",
+      "id": "cf9e0f72be51cfd8564619d23f8b26b52e05d47f",
+      "targetPath": "/com/en/watch-collection/royal-oak/15551st-zz-1356st-02"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15551ST.ZZ.1356ST.03.html",
+      "id": "9d76f8b4c16c99d5a41055c015f82b0aa41a9f3f",
+      "targetPath": "/com/en/watch-collection/royal-oak/15551st-zz-1356st-03"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15510ST.OO.1320ST.03.html",
+      "id": "c9f924ca3d1f89d875bdcb4a7d72e6a4673bdf25",
+      "targetPath": "/com/en/watch-collection/royal-oak/15510st-oo-1320st-03"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15510ST.OO.1320ST.04.html",
+      "id": "15cd5b784e2f89c53ef2516fc53ffb2dfbcc02a3",
+      "targetPath": "/com/en/watch-collection/royal-oak/15510st-oo-1320st-04"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15510OR.OO.D315CR.01.html",
+      "id": "fa3028adae9a0f8b335d9fc5e9842e0a9cd82691",
+      "targetPath": "/com/en/watch-collection/royal-oak/15510or-oo-d315cr-01"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15510OR.OO.1320OR.01.html",
       "id": "c42080f9e010257432898ef600683dfa41afe639",
       "targetPath": "/com/en/watch-collection/royal-oak/15510or-oo-1320or-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/67630OR.GG.1312OR.01-B.html",
+      "id": "4fb5b56ea06c1ec7fefb0fcbcd1a4b367963b5f1",
+      "targetPath": "/com/en/watch-collection/royal-oak/67630or-gg-1312or-01-b"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/67630BC.GG.1312BC.01-B.html",
@@ -2577,6 +2982,21 @@
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26591TI.OO.1252TI.04.html",
       "id": "e9eb1bb543ba3a6821979d50a83943a95b3f98f5",
       "targetPath": "/com/en/watch-collection/royal-oak/26591ti-oo-1252ti-04"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26530ST.OO.1220ST.99.html",
+      "id": "ea1f76f115c83d7258317c8e0dd570d730699649",
+      "targetPath": "/com/en/watch-collection/royal-oak/26530st-oo-1220st-99"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26730TI.OO.1320TI.04.html",
+      "id": "65e7909bbb35878ae05066d2da9c355808203985",
+      "targetPath": "/com/en/watch-collection/royal-oak/26730ti-oo-1320ti-04"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15510BC.OO.1320BC.01.html",
+      "id": "0294406c77481241d3a7a595b27325822a5232b4",
+      "targetPath": "/com/en/watch-collection/royal-oak/15510bc-oo-1320bc-01"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15417OR.ZZ.1267OR.01.A.html",
@@ -2724,6 +3144,16 @@
       "targetPath": "/com/en/watch-collection/royal-oak/15550st-oo-1356st-08"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15550SR.OO.1356SR.02.html",
+      "id": "4dbcedcb1facdb5f18031e5e0f628f63ca1490d9",
+      "targetPath": "/com/en/watch-collection/royal-oak/15550sr-oo-1356sr-02"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15551ST.ZZ.1356ST.05.html",
+      "id": "8d1f8d19e2b00b551a758f9fd78566c7dd63cc5a",
+      "targetPath": "/com/en/watch-collection/royal-oak/15551st-zz-1356st-05"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15551ST.ZZ.1356ST.06.html",
       "id": "4b49fbf8d57bd74362ad0d8b1f7edd326ae42f23",
       "targetPath": "/com/en/watch-collection/royal-oak/15551st-zz-1356st-06"
@@ -2732,6 +3162,21 @@
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15551OR.ZZ.1356OR.05.html",
       "id": "bf56c550cd527a832150f3650c4d78f774b1fe21",
       "targetPath": "/com/en/watch-collection/royal-oak/15551or-zz-1356or-05"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26660ST.OO.1356ST.02.html",
+      "id": "53461abfb45a192e828a37ea6bfe2cda3967c232",
+      "targetPath": "/com/en/watch-collection/royal-oak/26660st-oo-1356st-02"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/16202ST.OO.1240ST.02.html",
+      "id": "1f402d7156c20551a910690fda4ff7cd1cda99e4",
+      "targetPath": "/com/en/watch-collection/royal-oak/16202st-oo-1240st-02"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/16202OR.OO.1240OR.02.html",
+      "id": "13b1aaf79c08b95d115d5d29a5da169bbc228e3b",
+      "targetPath": "/com/en/watch-collection/royal-oak/16202or-oo-1240or-02"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/16202BA.OO.1240BA.02.html",
@@ -2744,6 +3189,11 @@
       "targetPath": "/com/en/watch-collection/royal-oak/16204or-oo-1240or-03"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26670ST.OO.1240ST.02.html",
+      "id": "d5299a4319e5c3a063fda661e47945feede198e3",
+      "targetPath": "/com/en/watch-collection/royal-oak/26670st-oo-1240st-02"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240ST.OO.1320ST.05.html",
       "id": "0ad1ec5a73ba163065e3d488640719e118048f2a",
       "targetPath": "/com/en/watch-collection/royal-oak/26240st-oo-1320st-05"
@@ -2752,6 +3202,11 @@
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240ST.OO.1320ST.06.html",
       "id": "75da8609f55c289ba9c2b6f5976d614722977786",
       "targetPath": "/com/en/watch-collection/royal-oak/26240st-oo-1320st-06"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240ST.OO.1320ST.07.html",
+      "id": "00999be46c24668c305a2873f76db1a2b9136fba",
+      "targetPath": "/com/en/watch-collection/royal-oak/26240st-oo-1320st-07"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240OR.OO.1320OR.05.html",
@@ -2764,9 +3219,49 @@
       "targetPath": "/com/en/watch-collection/royal-oak/26240or-oo-d315cr-02"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26242OR.ZZ.1322OR.02.html",
+      "id": "be618739d07ceabf4abc80bd7f76ef997b73ca71",
+      "targetPath": "/com/en/watch-collection/royal-oak/26242or-zz-1322or-02"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240ST.OO.1320ST.08.html",
+      "id": "d586f6b9caf0abdd52c66ee263fb087a3fee239a",
+      "targetPath": "/com/en/watch-collection/royal-oak/26240st-oo-1320st-08"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240OR.OO.1320OR.06.html",
+      "id": "c6dcd57e933a1399cc4b2acbfc006992a395a276",
+      "targetPath": "/com/en/watch-collection/royal-oak/26240or-oo-1320or-06"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240OR.OO.1320OR.07.html",
+      "id": "0c2fb479138e1e65298458b3b53561490fe8a2d9",
+      "targetPath": "/com/en/watch-collection/royal-oak/26240or-oo-1320or-07"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240OR.OO.1320OR.08.html",
+      "id": "400b38176abbf31e9a5b87ffe43a942e122a204f",
+      "targetPath": "/com/en/watch-collection/royal-oak/26240or-oo-1320or-08"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240OR.OO.D002CR.02.html",
       "id": "e440ba9c9222cb8b73fd6a6c54b481aa3e62a980",
       "targetPath": "/com/en/watch-collection/royal-oak/26240or-oo-d002cr-02"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240OR.OO.D404CR.02.html",
+      "id": "0fd47e6a00ce811042e2117fa662637fe42c960a",
+      "targetPath": "/com/en/watch-collection/royal-oak/26240or-oo-d404cr-02"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240CE.OO.1225CE.02.html",
+      "id": "966e06a07f95837554f429283e2958d1b3776d72",
+      "targetPath": "/com/en/watch-collection/royal-oak/26240ce-oo-1225ce-02"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15510ST.OO.1320ST.06.html",
+      "id": "5b1b1e51749ef67c3a6c451d85fbd5be57a18397",
+      "targetPath": "/com/en/watch-collection/royal-oak/15510st-oo-1320st-06"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15510ST.OO.1320ST.07.html",
@@ -2779,6 +3274,11 @@
       "targetPath": "/com/en/watch-collection/royal-oak/15510st-oo-1320st-08"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15510OR.OO.D315CR.02.html",
+      "id": "01fdcdb434a7c307eb87a32f98d3577c757bd097",
+      "targetPath": "/com/en/watch-collection/royal-oak/15510or-oo-d315cr-02"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15510OR.OO.1320OR.03.html",
       "id": "96ef2177eb03a291c8800cfdae9686b5fa91d10c",
       "targetPath": "/com/en/watch-collection/royal-oak/15510or-oo-1320or-03"
@@ -2789,9 +3289,29 @@
       "targetPath": "/com/en/watch-collection/royal-oak/15510or-oo-1320or-04"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15510OR.OO.D002CR.02.html",
+      "id": "1c403de9ed4e85c39e4bfda35f566b6739e05bd4",
+      "targetPath": "/com/en/watch-collection/royal-oak/15510or-oo-d002cr-02"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15510ST.OO.1320ST.09.html",
+      "id": "69d4b5bfc31c1fc471846e9fc4f25c611f3868f6",
+      "targetPath": "/com/en/watch-collection/royal-oak/15510st-oo-1320st-09"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15510ST.OO.1320ST.10.html",
       "id": "3f40861ebd5f23c0cec5ac9fc05c710b2c55194d",
       "targetPath": "/com/en/watch-collection/royal-oak/15510st-oo-1320st-10"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26735ST.OO.1320ST.02.html",
+      "id": "f7d3f2751f01f497d5991fdc1491a11b48eaf529",
+      "targetPath": "/com/en/watch-collection/royal-oak/26735st-oo-1320st-02"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/16204BC.OO.1240BC.01.html",
+      "id": "7fae503f8ab3beddeb26c1b6e35f45b979ac286d",
+      "targetPath": "/com/en/watch-collection/royal-oak/16204bc-oo-1240bc-01"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26591IP.OO.1252IP.01.html",
@@ -2799,9 +3319,24 @@
       "targetPath": "/com/en/watch-collection/royal-oak/26591ip-oo-1252ip-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26715BC.ZZ.1356BC.02.html",
+      "id": "c28fa551e33bd47012772c8ac6f0267d44de5b84",
+      "targetPath": "/com/en/watch-collection/royal-oak/26715bc-zz-1356bc-02"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26715OR.ZZ.1356OR.02.html",
+      "id": "de43f4d816af14535a802effda86106172598487",
+      "targetPath": "/com/en/watch-collection/royal-oak/26715or-zz-1356or-02"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240SA.OO.1320SA.01.html",
       "id": "9e3f69efc231e6f89ec51bcd25b8fe8ab4c18fc8",
       "targetPath": "/com/en/watch-collection/royal-oak/26240sa-oo-1320sa-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240BA.OO.1320BA.01.html",
+      "id": "de0f2da5b3fca6ecacfb06a6e75d4715d20dec83",
+      "targetPath": "/com/en/watch-collection/royal-oak/26240ba-oo-1320ba-01"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15550BA.OO.1356BA.02.html",
@@ -2814,9 +3349,24 @@
       "targetPath": "/com/en/watch-collection/royal-oak/26240bc-oo-1320bc-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/77450BA.GG.1361BA.01.html",
+      "id": "2af1e661df5137192613f3c18078c14f19298398",
+      "targetPath": "/com/en/watch-collection/royal-oak/77450ba-gg-1361ba-01"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/16202BC.ZZ.1241BC.01.html",
       "id": "d3d2d7aa1958ddb9302cec53f8fae4ab4ce105ad",
       "targetPath": "/com/en/watch-collection/royal-oak/16202bc-zz-1241bc-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/16202BA.HH.1241BA.01.html",
+      "id": "25d28ae298b7965401cbf9d2524e9869a706d1e2",
+      "targetPath": "/com/en/watch-collection/royal-oak/16202ba-hh-1241ba-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/67656BC.GR.1261BC.01.html",
+      "id": "dfe0389759bd8fd03be8312f108f7ad07e2e6633",
+      "targetPath": "/com/en/watch-collection/royal-oak/67656bc-gr-1261bc-01"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15510BC.OO.1320BC.02.html",
@@ -2829,6 +3379,16 @@
       "targetPath": "/com/en/watch-collection/royal-oak/26240bc-gg-1324bc-02"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240BC.SS.1320BC.01.html",
+      "id": "b7a016e7d427c5e1fa3a5ff39e13253648c5945b",
+      "targetPath": "/com/en/watch-collection/royal-oak/26240bc-ss-1320bc-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/16202BC.ZZ.1241BC.02.html",
+      "id": "dc96488c6e5d5d1f23c3ff11d60794ad4c3cc1cf",
+      "targetPath": "/com/en/watch-collection/royal-oak/16202bc-zz-1241bc-02"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26730BC.ZZ.1320BC.02.html",
       "id": "e4b601c85257644dbf7ecb0caa7513afc81f8172",
       "targetPath": "/com/en/watch-collection/royal-oak/26730bc-zz-1320bc-02"
@@ -2839,14 +3399,49 @@
       "targetPath": "/com/en/watch-collection/royal-oak/26574bc-gg-1224bc-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26625BC.ZZ.1223BC.02.html",
+      "id": "da7ce6a40fb057b15ba0046e3986dcc9ebea66a4",
+      "targetPath": "/com/en/watch-collection/royal-oak/26625bc-zz-1223bc-02"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15412BC.SS.1220BC.02.html",
+      "id": "7966c9ab591d53cfdff8bfb34beb688b8457513b",
+      "targetPath": "/com/en/watch-collection/royal-oak/15412bc-ss-1220bc-02"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15514BC.YY.1284BC.04.html",
+      "id": "9af996ddbad58bf3ead8e2c79443738b8b52d375",
+      "targetPath": "/com/en/watch-collection/royal-oak/15514bc-yy-1284bc-04"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26574BC.OO.1220BC.01.html",
       "id": "34a21bc0178301aef0de221bc94cc980568f7ff6",
       "targetPath": "/com/en/watch-collection/royal-oak/26574bc-oo-1220bc-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26598BC.ZZ.1220BC.01.html",
+      "id": "aad774688c3449be75a57971bd952da2b9ff4783",
+      "targetPath": "/com/en/watch-collection/royal-oak/26598bc-zz-1220bc-01"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/67651BC.ZZ.1261BC.01.html",
       "id": "d5909a09933c80827c3de990480a2ad799646bfb",
       "targetPath": "/com/en/watch-collection/royal-oak/67651bc-zz-1261bc-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/67656BC.ZZ.1261BC.01.html",
+      "id": "24b17d636bd3722d7e6f61e30a7bcdb175d60be4",
+      "targetPath": "/com/en/watch-collection/royal-oak/67656bc-zz-1261bc-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26240BA.OO.1320BA.02.html",
+      "id": "15d771709adefff18a177b96ebb102cff0e0e478",
+      "targetPath": "/com/en/watch-collection/royal-oak/26240ba-oo-1320ba-02"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/67656OR.GR.1261OR.01.html",
+      "id": "3540323ff5c9e7363aa3bf4310b92a6d282f1afd",
+      "targetPath": "/com/en/watch-collection/royal-oak/67656or-gr-1261or-01"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/67651OR.ZZ.1261OR.06.html",
@@ -4079,9 +4674,24 @@
       "targetPath": "/com/en/watch-collection/code-1159/77410or-oo-a825cr-01"
     },
     {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/code-1159/77410OR.OO.A342CR.01.html",
+      "id": "3079d1abdef7a876db617bd32ffdb3017c19f18d",
+      "targetPath": "/com/en/watch-collection/code-1159/77410or-oo-a342cr-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/code-1159/26396BC.OO.D349KB.01.html",
+      "id": "bda5d24c4e5ab679a7a4d0abdfdf40164a7074e5",
+      "targetPath": "/com/en/watch-collection/code-1159/26396bc-oo-d349kb-01"
+    },
+    {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/code-1159/77410BC.ZZ.D132CR.01.html",
       "id": "55a16e4cade7d69706a3ea874bf4c615af7e1dc6",
       "targetPath": "/com/en/watch-collection/code-1159/77410bc-zz-d132cr-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/code-1159/77410OR.ZZ.D343CR.01.html",
+      "id": "8cbc007995865f99669954db0468392788b13083",
+      "targetPath": "/com/en/watch-collection/code-1159/77410or-zz-d343cr-01"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/code-1159/26396QT.OO.D009KB.01.html",
@@ -4097,6 +4707,21 @@
       "url": "https://www.audemarspiguet.com/com/en/watch-collection/code-1159/26397CR.OO.D009KB.01.html",
       "id": "2bf4210c633499448866cd9ecd535d130c08e2de",
       "targetPath": "/com/en/watch-collection/code-1159/26397cr-oo-d009kb-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/code-1159/26397PN.OO.D008KB.01.html",
+      "id": "95cdaa6ccfdf7611980ae702c844e838f98ac473",
+      "targetPath": "/com/en/watch-collection/code-1159/26397pn-oo-d008kb-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/code-1159/26397OR.OO.D417CR.01.html",
+      "id": "fb6476ebba4c9991d6ee4d53d653f82dbc067a27",
+      "targetPath": "/com/en/watch-collection/code-1159/26397or-oo-d417cr-01"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/en/watch-collection/code-1159/26397BC.OO.D357CR.01.html",
+      "id": "baa8cbaec2c8952f05ac707d83d3c8043e5deecd",
+      "targetPath": "/com/en/watch-collection/code-1159/26397bc-oo-d357cr-01"
     }
   ]
 }
