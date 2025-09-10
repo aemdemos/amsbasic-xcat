@@ -1,2131 +1,691 @@
 {
-  "originUrl": "https://www.swbcmortgage.com",
+  "originUrl": "https://www.swbc.com",
   "aborted": false,
-  "lastCrawled": "https://www.swbcmortgage.com/",
+  "lastCrawled": "https://www.swbc.com/",
   "urls": [
     {
-      "url": "https://www.swbcmortgage.com/",
-      "source": "CRAWL",
+      "url": "https://www.swbc.com/",
+      "source": "SITEMAPS",
       "targetPath": "/",
-      "id": "abd076f28f7dada48733a70100be700f357ce50c"
+      "id": "80e4ab4e4ea975cc4f7f586ba0555fe22198641f"
     },
     {
-      "url": "https://www.swbcmortgage.com/abilene",
-      "source": "CRAWL",
-      "targetPath": "/abilene",
-      "id": "a2eaa665bfcd1d46e0d265b7f946301e3a0b42e5"
+      "url": "https://www.swbc.com/404-error-page",
+      "source": "SITEMAPS",
+      "targetPath": "/404-error-page",
+      "id": "bf037c0b541a641e1e57c764711d2ba7b78e45a7"
     },
     {
-      "url": "https://www.swbcmortgage.com/about",
-      "source": "CRAWL",
-      "targetPath": "/about",
-      "id": "e0b193cfe3764ac71d2da1dcf189b7eebfd8fc5b"
+      "url": "https://www.swbc.com/about-swbc/in-the-community",
+      "source": "SITEMAPS",
+      "targetPath": "/about-swbc/in-the-community",
+      "id": "c7dde2518b05b009365fd713067795db15fa3f63"
     },
     {
-      "url": "https://www.swbcmortgage.com/al-coleman",
-      "source": "CRAWL",
-      "targetPath": "/al-coleman",
-      "id": "65270677120187ee1e70fd4fabc384fd5a88a82c"
+      "url": "https://www.swbc.com/about-swbc/press",
+      "source": "SITEMAPS",
+      "targetPath": "/about-swbc/press",
+      "id": "42dfbf8d6ed21d6b6e8a6715ca196a6dcdc43ea5"
     },
     {
-      "url": "https://www.swbcmortgage.com/alexandria",
-      "source": "CRAWL",
-      "targetPath": "/alexandria",
-      "id": "05e5cfdb6c8f24db19f4274ec34b332900de5771"
+      "url": "https://www.swbc.com/account-retention-services",
+      "source": "SITEMAPS",
+      "targetPath": "/account-retention-services",
+      "id": "639165b7a7805eafd3fe60f36eaf72f6e3809745"
     },
     {
-      "url": "https://www.swbcmortgage.com/alexie-joslyn",
-      "source": "CRAWL",
-      "targetPath": "/alexie-joslyn",
-      "id": "e60c29f21b7570953c8e22c53cc15cdad8c7cbcf"
+      "url": "https://www.swbc.com/antique-auto-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/antique-auto-insurance",
+      "id": "0cebcc17f00b3d17f8ec37786e29da17b2c89b82"
     },
     {
-      "url": "https://www.swbcmortgage.com/ali-delatorre",
-      "source": "CRAWL",
-      "targetPath": "/ali-delatorre",
-      "id": "5fc32d18e81620290c57d0ec8e13d4d66de727a2"
+      "url": "https://www.swbc.com/asset-recovery",
+      "source": "SITEMAPS",
+      "targetPath": "/asset-recovery",
+      "id": "4a0966982197a2dabc76c46066588b2fd6c1a7f8"
     },
     {
-      "url": "https://www.swbcmortgage.com/amanda-sessa",
-      "source": "CRAWL",
-      "targetPath": "/amanda-sessa",
-      "id": "0502daf4cb54377c0ba90d4dc6190c82f376229f"
+      "url": "https://www.swbc.com/auto-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/auto-insurance",
+      "id": "1e293f9b283d5b87c268ef262d164557e2fab2d0"
     },
     {
-      "url": "https://www.swbcmortgage.com/andrew-sable",
-      "source": "CRAWL",
-      "targetPath": "/andrew-sable",
-      "id": "1764cf536bfdbdaf64206efbbb3581e825a1c009"
+      "url": "https://www.swbc.com/auto-lending",
+      "source": "SITEMAPS",
+      "targetPath": "/auto-lending",
+      "id": "70e5d660a9516c47d88976bf08c3ba8f86790083"
     },
     {
-      "url": "https://www.swbcmortgage.com/anne-king",
-      "source": "CRAWL",
-      "targetPath": "/anne-king",
-      "id": "4d54df25f38f44ccbd107a30134bdabf3ad07c10"
+      "url": "https://www.swbc.com/autopilot-risk-management-platform",
+      "source": "SITEMAPS",
+      "targetPath": "/autopilot-risk-management-platform",
+      "id": "72ad0ba4523d9a0ecfdcf1bc34982162cff30b2b"
     },
     {
-      "url": "https://www.swbcmortgage.com/anthony-collier",
-      "source": "CRAWL",
-      "targetPath": "/anthony-collier",
-      "id": "63c691672ea4a9f236de7253ec1665a6f4d336e0"
+      "url": "https://www.swbc.com/benefits-funding",
+      "source": "SITEMAPS",
+      "targetPath": "/benefits-funding",
+      "id": "dc6228bf000c97e53bfd8f0fc51602efe4ff7a6f"
     },
     {
-      "url": "https://www.swbcmortgage.com/april-deshano",
-      "source": "CRAWL",
-      "targetPath": "/april-deshano",
-      "id": "6af4f2c0dc422a1d2b637499a590340a94b94389"
+      "url": "https://www.swbc.com/benefits-funding-for-banks",
+      "source": "SITEMAPS",
+      "targetPath": "/benefits-funding-for-banks",
+      "id": "32d96a5c1d328bd4147c23566f1b30252d01e45e"
     },
     {
-      "url": "https://www.swbcmortgage.com/arlington",
-      "source": "CRAWL",
-      "targetPath": "/arlington",
-      "id": "207a84f8e50c48f23fd3a33240955cffdb6a7dd1"
+      "url": "https://www.swbc.com/benefits-pre-funding-for-credit-unions",
+      "source": "SITEMAPS",
+      "targetPath": "/benefits-pre-funding-for-credit-unions",
+      "id": "4a08962b40491601c29f3436bb442e82b70cc31f"
     },
     {
-      "url": "https://www.swbcmortgage.com/atlanta",
-      "source": "CRAWL",
-      "targetPath": "/atlanta",
-      "id": "084bb96cb759b96d07619630ab46fcfaa88d2c47"
+      "url": "https://www.swbc.com/boat-personal-watercraft-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/boat-personal-watercraft-insurance",
+      "id": "9dd7eb65152a3b43ddd2aec6d4fb3d0904ec0710"
     },
     {
-      "url": "https://www.swbcmortgage.com/austin-arboretum",
-      "source": "CRAWL",
-      "targetPath": "/austin-arboretum",
-      "id": "1a429f5c56c1e1222f9d82d424dc7c29ec656381"
+      "url": "https://www.swbc.com/builders-risk-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/builders-risk-insurance",
+      "id": "7a63b98cbfbf946b3f04d15cbfbd3521a06ec4d7"
     },
     {
-      "url": "https://www.swbcmortgage.com/austin-downtown",
-      "source": "CRAWL",
-      "targetPath": "/austin-downtown",
-      "id": "b76b41a92ec0c5e86bddb3b3cacd449fc4740859"
+      "url": "https://www.swbc.com/careers",
+      "source": "SITEMAPS",
+      "targetPath": "/careers",
+      "id": "167ce5e44fce65612743c39dd8dafbf1816c2580"
     },
     {
-      "url": "https://www.swbcmortgage.com/baltimore",
-      "source": "CRAWL",
-      "targetPath": "/baltimore",
-      "id": "caffb70f729c82032dbeac8e7195e5e230ac53ef"
+      "url": "https://www.swbc.com/careers/hr-internships",
+      "source": "SITEMAPS",
+      "targetPath": "/careers/hr-internships",
+      "id": "0bfdd41578cdfb004fc1e2689a8f3d10eea78eba"
     },
     {
-      "url": "https://www.swbcmortgage.com/bao-vue",
-      "source": "CRAWL",
-      "targetPath": "/bao-vue",
-      "id": "b4b75929f65b88a7efbaf77c1348385db305394f"
+      "url": "https://www.swbc.com/collateral-protection-insurance-programs",
+      "source": "SITEMAPS",
+      "targetPath": "/collateral-protection-insurance-programs",
+      "id": "f25f989383fc18731052cb13c9c53163a9d3dcd4"
     },
     {
-      "url": "https://www.swbcmortgage.com/baton-rouge",
-      "source": "CRAWL",
-      "targetPath": "/baton-rouge",
-      "id": "a2fe3e7d7ed1ad01a8c42f0c1a78b60e950cb72b"
+      "url": "https://www.swbc.com/collections-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/collections-insurance",
+      "id": "6ef3edfddaa923b5a6418060d0225b4a5cc3ab7a"
     },
     {
-      "url": "https://www.swbcmortgage.com/bev-creswell",
-      "source": "CRAWL",
-      "targetPath": "/bev-creswell",
-      "id": "ed648ae4761e4fe52474c2ac5a644d46e8b4b4ee"
+      "url": "https://www.swbc.com/college-planning",
+      "source": "SITEMAPS",
+      "targetPath": "/college-planning",
+      "id": "f11cb87641400b023387eb850c3ca54f229b10e5"
     },
     {
-      "url": "https://www.swbcmortgage.com/bill-firmin",
-      "source": "CRAWL",
-      "targetPath": "/bill-firmin",
-      "id": "9f13622afa2984192ea6301e43c5e3fac91adc81"
+      "url": "https://www.swbc.com/commercial-auto-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/commercial-auto-insurance",
+      "id": "bc9d0caffa54fff31024cae981f6c474f0314576"
     },
     {
-      "url": "https://www.swbcmortgage.com/bill-gellatly",
-      "source": "CRAWL",
-      "targetPath": "/bill-gellatly",
-      "id": "8279e026c52035fbc8e6a37683c8b7e6d9185195"
+      "url": "https://www.swbc.com/commercial-flood-excess-flood-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/commercial-flood-excess-flood-insurance",
+      "id": "909a829758cb31e0dc0dca2d4c08c9159f6a11fa"
     },
     {
-      "url": "https://www.swbcmortgage.com/blairsville",
-      "source": "CRAWL",
-      "targetPath": "/blairsville",
-      "id": "ead122233a7320027d9553f90164828aed65bc7c"
+      "url": "https://www.swbc.com/commercial-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/commercial-insurance",
+      "id": "dc2b651f5c56bd2549004fd294034aa484e1dc16"
     },
     {
-      "url": "https://www.swbcmortgage.com/blanco-new-braunfels",
-      "source": "CRAWL",
-      "targetPath": "/blanco-new-braunfels",
-      "id": "33d20f360b40ecd8ffab7cf446f1eced63b5ef63"
+      "url": "https://www.swbc.com/commercial-property-tax-services",
+      "source": "SITEMAPS",
+      "targetPath": "/commercial-property-tax-services",
+      "id": "1069cc5c07f23b70422c884901d7fcbe243ea511"
     },
     {
-      "url": "https://www.swbcmortgage.com/bloomington",
-      "source": "CRAWL",
-      "targetPath": "/bloomington",
-      "id": "47bea5283386bfbdb710505cb382db3ce09de942"
+      "url": "https://www.swbc.com/commercial-umbrella-liability-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/commercial-umbrella-liability-insurance",
+      "id": "b7138bfd9cb2dc0938d6d032cada98ceaa52421f"
     },
     {
-      "url": "https://www.swbcmortgage.com/boulder",
-      "source": "CRAWL",
-      "targetPath": "/boulder",
-      "id": "5c80cd91e83b84e7c9da927c0213a77dabb6f1c4"
+      "url": "https://www.swbc.com/contact-center-solutions",
+      "source": "SITEMAPS",
+      "targetPath": "/contact-center-solutions",
+      "id": "5c0563f93e590694d05d8571a979131d6c488513"
     },
     {
-      "url": "https://www.swbcmortgage.com/brad-poe",
-      "source": "CRAWL",
-      "targetPath": "/brad-poe",
-      "id": "f58a476d4b596989e7927436af8bb6dd8043dfdd"
+      "url": "https://www.swbc.com/corporate-retirement-plan-development",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-retirement-plan-development",
+      "id": "c09f92d3aa59cc07670445af24a5e099483e2af5"
     },
     {
-      "url": "https://www.swbcmortgage.com/brandon-olson",
-      "source": "CRAWL",
-      "targetPath": "/brandon-olson",
-      "id": "2cbc06dd5503f0e3a25cced13ebcb1a117314fcb"
+      "url": "https://www.swbc.com/corporate-retirement-plans",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-retirement-plans",
+      "id": "a9eb72beb15ef202870398d908980cf29bf40490"
     },
     {
-      "url": "https://www.swbcmortgage.com/brian-farasy",
-      "source": "CRAWL",
-      "targetPath": "/brian-farasy",
-      "id": "b9c18fcd9c495bfd54fd7d22f761f64dd7995016"
+      "url": "https://www.swbc.com/credit-life-and-disability",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-life-and-disability",
+      "id": "6dd9c71163821ce505ffdec2935f91100e0317c6"
     },
     {
-      "url": "https://www.swbcmortgage.com/brian-marchica",
-      "source": "CRAWL",
-      "targetPath": "/brian-marchica",
-      "id": "20c729b1bfa3c0a9219623e1afa918d86ee8271d"
+      "url": "https://www.swbc.com/cyber-liability-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/cyber-liability-insurance",
+      "id": "2f27f7f01a900b3150dcb935630553d8b8537dc8"
     },
     {
-      "url": "https://www.swbcmortgage.com/brian-picker",
-      "source": "CRAWL",
-      "targetPath": "/brian-picker",
-      "id": "cda656143a194a5e21892645dfeaddd6cd487209"
+      "url": "https://www.swbc.com/debt-cancellation",
+      "source": "SITEMAPS",
+      "targetPath": "/debt-cancellation",
+      "id": "c287a88976f71db08974ad2bd95990b391017a3b"
     },
     {
-      "url": "https://www.swbcmortgage.com/bridget-mcgee",
-      "source": "CRAWL",
-      "targetPath": "/bridget-mcgee",
-      "id": "f90e196b0d916e20fe33497522e9becd390557d3"
+      "url": "https://www.swbc.com/deferred-compensation-plans",
+      "source": "SITEMAPS",
+      "targetPath": "/deferred-compensation-plans",
+      "id": "5ea59095cd597e938b2a5f71b50d7852ae8d7dd6"
     },
     {
-      "url": "https://www.swbcmortgage.com/broomfield",
-      "source": "CRAWL",
-      "targetPath": "/broomfield",
-      "id": "687f0da1a907a0a1593f157318781180898c6682"
+      "url": "https://www.swbc.com/employee-benefits",
+      "source": "SITEMAPS",
+      "targetPath": "/employee-benefits",
+      "id": "672d3d96ab10c406a8f0f72cc4438463c9dfa4ce"
     },
     {
-      "url": "https://www.swbcmortgage.com/cameron-breed",
-      "source": "CRAWL",
-      "targetPath": "/cameron-breed",
-      "id": "49fbc151065f04629f4c23fe3caac3e234700290"
+      "url": "https://www.swbc.com/employee-benefits-consulting-group",
+      "source": "SITEMAPS",
+      "targetPath": "/employee-benefits-consulting-group",
+      "id": "08f993139e92cfbad2cfd8b584427b855d72bd52"
     },
     {
-      "url": "https://www.swbcmortgage.com/cara-harrison",
-      "source": "CRAWL",
-      "targetPath": "/cara-harrison",
-      "id": "5ef54fe1cb98267dbc2c0006b7af83aad91d253e"
+      "url": "https://www.swbc.com/employee-health-benefits-and-wellness",
+      "source": "SITEMAPS",
+      "targetPath": "/employee-health-benefits-and-wellness",
+      "id": "8ef233bdf52a4d0a8caaa5234c18f4df4d56e28d"
     },
     {
-      "url": "https://www.swbcmortgage.com/career",
-      "source": "CRAWL",
-      "targetPath": "/career",
-      "id": "65f3fc98cd9e6e926a4f15e04a18196f9b896836"
+      "url": "https://www.swbc.com/estate-planning",
+      "source": "SITEMAPS",
+      "targetPath": "/estate-planning",
+      "id": "7aceb1527004326fc93eba76840b9506ea986322"
     },
     {
-      "url": "https://www.swbcmortgage.com/carol-potts",
-      "source": "CRAWL",
-      "targetPath": "/carol-potts",
-      "id": "b159647bb3d95007847ea48988c066d782356b1e"
+      "url": "https://www.swbc.com/event-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/event-insurance",
+      "id": "c99e1c14ce65bc5a46c8431aba44ba7c25e7a181"
     },
     {
-      "url": "https://www.swbcmortgage.com/cartersville",
-      "source": "CRAWL",
-      "targetPath": "/cartersville",
-      "id": "53fb5da1bcf69752b2122fc01e57471484f5f419"
+      "url": "https://www.swbc.com/excess-flood-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/excess-flood-insurance",
+      "id": "21e98fb2977e20240d1eb1fd781cbd023cab510e"
     },
     {
-      "url": "https://www.swbcmortgage.com/ccpa-policy",
-      "source": "CRAWL",
-      "targetPath": "/ccpa-policy",
-      "id": "f85f7c0f032a7930d35851cbd30afa96b7e7ea53"
+      "url": "https://www.swbc.com/executive-benefits",
+      "source": "SITEMAPS",
+      "targetPath": "/executive-benefits",
+      "id": "d991ff7699378ea59acc398cdf86b3eb19b3e287"
     },
     {
-      "url": "https://www.swbcmortgage.com/ccpa-policy/instructions-to-request-deletion-of-personal-information",
-      "source": "CRAWL",
-      "targetPath": "/ccpa-policy/instructions-to-request-deletion-of-personal-information",
-      "id": "7ba3188455ec8686ecacfc03ec2ee553b9097a20"
+      "url": "https://www.swbc.com/executive-life-and-disability",
+      "source": "SITEMAPS",
+      "targetPath": "/executive-life-and-disability",
+      "id": "831427c0dc548b3eba491afd549364504dea9691"
     },
     {
-      "url": "https://www.swbcmortgage.com/central-expressway",
-      "source": "CRAWL",
-      "targetPath": "/central-expressway",
-      "id": "f829c5d4f9e2e282633cd54b0d40b5ea80acbc7c"
+      "url": "https://www.swbc.com/fig/payment-processing/financial-center-first-credit-union",
+      "source": "SITEMAPS",
+      "targetPath": "/fig/payment-processing/financial-center-first-credit-union",
+      "id": "bd30255e7049201edd096fe3142b4679500f23a3"
     },
     {
-      "url": "https://www.swbcmortgage.com/chad-currie",
-      "source": "CRAWL",
-      "targetPath": "/chad-currie",
-      "id": "97da34e8e872890b7b003e9eeef618839d3bde29"
+      "url": "https://www.swbc.com/final-expense-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/final-expense-insurance",
+      "id": "edf46a88bb442c13314901b1bf7219002632312b"
     },
     {
-      "url": "https://www.swbcmortgage.com/chad-wilhelm",
-      "source": "CRAWL",
-      "targetPath": "/chad-wilhelm",
-      "id": "85d9a587d6455dc37776ad3e9fa8a86b26781a88"
+      "url": "https://www.swbc.com/financial-institution-group",
+      "source": "SITEMAPS",
+      "targetPath": "/financial-institution-group",
+      "id": "a047898778800d5d5f3f8bc0bfc84a5f7fa8f170"
     },
     {
-      "url": "https://www.swbcmortgage.com/chesapeake",
-      "source": "CRAWL",
-      "targetPath": "/chesapeake",
-      "id": "ad85020f50f4c8d37c58b07b7d5aee3ad6aba9f8"
+      "url": "https://www.swbc.com/fine-art-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/fine-art-insurance",
+      "id": "e6940e13f5522da2c1d5787c03ef8080533d7ade"
     },
     {
-      "url": "https://www.swbcmortgage.com/chevy-chase",
-      "source": "CRAWL",
-      "targetPath": "/chevy-chase",
-      "id": "7adee43083efe3c9078f0abccd75acae42b42ff0"
+      "url": "https://www.swbc.com/fixed-income-trading",
+      "source": "SITEMAPS",
+      "targetPath": "/fixed-income-trading",
+      "id": "3b846e78e4d14faa8d52536b56e3b0a27768b316"
     },
     {
-      "url": "https://www.swbcmortgage.com/chip-thompson",
-      "source": "CRAWL",
-      "targetPath": "/chip-thompson",
-      "id": "fb0cd12f397d66263a113c03aff48d07958b7544"
+      "url": "https://www.swbc.com/flood-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/flood-insurance",
+      "id": "4075275fd696cf5f5d398e6b0be815d7c23c0b20"
     },
     {
-      "url": "https://www.swbcmortgage.com/chris-goodman",
-      "source": "CRAWL",
-      "targetPath": "/chris-goodman",
-      "id": "b237ab6a7066329e4cc5dea727c7f0574dc30b09"
+      "url": "https://www.swbc.com/flood-products",
+      "source": "SITEMAPS",
+      "targetPath": "/flood-products",
+      "id": "4b0cfd82d0d66fabb61b9c747c38569cb757b0cb"
     },
     {
-      "url": "https://www.swbcmortgage.com/christopher-hoban",
-      "source": "CRAWL",
-      "targetPath": "/christopher-hoban",
-      "id": "a6d1a702565a333850b07fd4e639be189935708d"
+      "url": "https://www.swbc.com/gap",
+      "source": "SITEMAPS",
+      "targetPath": "/gap",
+      "id": "5b56455cb6f4e4a02a2afc72e9a92058f759b240"
     },
     {
-      "url": "https://www.swbcmortgage.com/christopher-woods",
-      "source": "CRAWL",
-      "targetPath": "/christopher-woods",
-      "id": "08ebaf144130e5c599a0fdc12dd11c25615f8dd7"
+      "url": "https://www.swbc.com/general-liability-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/general-liability-insurance",
+      "id": "7f9010f923802b038245cd284a74337fb49e27d7"
     },
     {
-      "url": "https://www.swbcmortgage.com/chuck-jones",
-      "source": "CRAWL",
-      "targetPath": "/chuck-jones",
-      "id": "662418e7c53b3fe063dff5889e784f245d5ad34b"
+      "url": "https://www.swbc.com/healthcar-vehicle-protection",
+      "source": "SITEMAPS",
+      "targetPath": "/healthcar-vehicle-protection",
+      "id": "7c2e3ffca8aaef9ecd39e1e87fbe31b6a65aa5b7"
     },
     {
-      "url": "https://www.swbcmortgage.com/chuck-maggio",
-      "source": "CRAWL",
-      "targetPath": "/chuck-maggio",
-      "id": "d7bb02ac6b2f71ed9c0cb21fb780cbe12a123265"
+      "url": "https://www.swbc.com/homeowners-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/homeowners-insurance",
+      "id": "2b04b83e9b69abde2acd5fb4aae6edeaca186bbb"
     },
     {
-      "url": "https://www.swbcmortgage.com/cindy-machen",
-      "source": "CRAWL",
-      "targetPath": "/cindy-machen",
-      "id": "2a8428b3d3a872845d63c4351742ae34ac2bf52e"
+      "url": "https://www.swbc.com/institutional-practice",
+      "source": "SITEMAPS",
+      "targetPath": "/institutional-practice",
+      "id": "d15159ffee94877aac69936ea34084dec0c17769"
     },
     {
-      "url": "https://www.swbcmortgage.com/cj-little",
-      "source": "CRAWL",
-      "targetPath": "/cj-little",
-      "id": "1ff89f5ec2556defb999646afe7c44f55cb9ac1f"
+      "url": "https://www.swbc.com/insurance-services",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance-services",
+      "id": "9a80fc7a414be633fae83e3b967f09be80612c8e"
     },
     {
-      "url": "https://www.swbcmortgage.com/clarks-summit",
-      "source": "CRAWL",
-      "targetPath": "/clarks-summit",
-      "id": "d23caafbcc64d1fbcf0ab176435c1e0c77900180"
+      "url": "https://www.swbc.com/insurance-tracking-and-placement",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance-tracking-and-placement",
+      "id": "99f5ffdb035f21855df762e2baffb3c934009636"
     },
     {
-      "url": "https://www.swbcmortgage.com/colorado-springs",
-      "source": "CRAWL",
-      "targetPath": "/colorado-springs",
-      "id": "5dde4387dd383a15b398a1db59c8f8f97f732752"
+      "url": "https://www.swbc.com/investment-disclosure",
+      "source": "SITEMAPS",
+      "targetPath": "/investment-disclosure",
+      "id": "4065d017797092555d2e45693c1fa3db08d0916b"
     },
     {
-      "url": "https://www.swbcmortgage.com/columbia",
-      "source": "CRAWL",
-      "targetPath": "/columbia",
-      "id": "48b86360c2534b0af2f6ff200be3a9643d781a6b"
+      "url": "https://www.swbc.com/investment-portfolio-management",
+      "source": "SITEMAPS",
+      "targetPath": "/investment-portfolio-management",
+      "id": "c1e93c3cdc079dff8df08190c80261f1d040143e"
     },
     {
-      "url": "https://www.swbcmortgage.com/contact-us",
-      "source": "CRAWL",
-      "targetPath": "/contact-us",
-      "id": "0d7f6c131506417dc7bdb2ae4b3b6c2422f59799"
+      "url": "https://www.swbc.com/investment-portfolio-review",
+      "source": "SITEMAPS",
+      "targetPath": "/investment-portfolio-review",
+      "id": "4cadb83a1e89cb577bd59824fe4c179776e9cbb5"
     },
     {
-      "url": "https://www.swbcmortgage.com/corey-jones",
-      "source": "CRAWL",
-      "targetPath": "/corey-jones",
-      "id": "dd96adf5ff77efa38aa4dda92a76fab52c7d2405"
+      "url": "https://www.swbc.com/investment-services",
+      "source": "SITEMAPS",
+      "targetPath": "/investment-services",
+      "id": "2ea76db569b2fc8a7876345c794fc9012909cef6"
     },
     {
-      "url": "https://www.swbcmortgage.com/corporate-headquarters",
-      "source": "CRAWL",
-      "targetPath": "/corporate-headquarters",
-      "id": "d928f545c765e4e527197e9d20ec8a34ceecdad4"
+      "url": "https://www.swbc.com/jewelry-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/jewelry-insurance",
+      "id": "13a14789b5d1c0043cce7ca2d3f9d6900dce5991"
     },
     {
-      "url": "https://www.swbcmortgage.com/corpus-christi",
-      "source": "CRAWL",
-      "targetPath": "/corpus-christi",
-      "id": "aba0cd93289dcea8e183a12807a17f3e202df059"
+      "url": "https://www.swbc.com/key-person-life-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/key-person-life-insurance",
+      "id": "b09152027134d6754a7d697ac978c8339cf3da27"
     },
     {
-      "url": "https://www.swbcmortgage.com/courtney-gillis",
-      "source": "CRAWL",
-      "targetPath": "/courtney-gillis",
-      "id": "2b29b6a07d1e12e083fd098d817f8cb05bebc664"
+      "url": "https://www.swbc.com/landlord-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/landlord-insurance",
+      "id": "d985d79510e79c6bad19fbbc90c54c51afcf0e5b"
     },
     {
-      "url": "https://www.swbcmortgage.com/crimson-cloud",
-      "source": "CRAWL",
-      "targetPath": "/crimson-cloud",
-      "id": "1e57b7adb1148f4ed6522ebbcc89c96d1b47f02b"
+      "url": "https://www.swbc.com/lender-placed-insurance-programs",
+      "source": "SITEMAPS",
+      "targetPath": "/lender-placed-insurance-programs",
+      "id": "7640fee672b7925d19afbfbb6dc0d5d11eff1044"
     },
     {
-      "url": "https://www.swbcmortgage.com/dallas",
-      "source": "CRAWL",
-      "targetPath": "/dallas",
-      "id": "d1951186f1cb14904d5230504916bdfe3aa4691a"
+      "url": "https://www.swbc.com/liability-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/liability-insurance",
+      "id": "d2e8bcf4887214603ed76914e794d530c09f31d2"
     },
     {
-      "url": "https://www.swbcmortgage.com/dan-nordquist",
-      "source": "CRAWL",
-      "targetPath": "/dan-nordquist",
-      "id": "1c445264ad0cf832d4bfa2df61d15ffc404432a3"
+      "url": "https://www.swbc.com/licenses-disclosures",
+      "source": "SITEMAPS",
+      "targetPath": "/licenses-disclosures",
+      "id": "170a64cd1df26ddd5437013e086586ebe90246bd"
     },
     {
-      "url": "https://www.swbcmortgage.com/darlene-fuller",
-      "source": "CRAWL",
-      "targetPath": "/darlene-fuller",
-      "id": "a23940db71fde812f1c0591237d6c044aef97d84"
+      "url": "https://www.swbc.com/life-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/life-insurance",
+      "id": "4c92ca2acaf1c7acee4514719aa1e691510e808f"
     },
     {
-      "url": "https://www.swbcmortgage.com/dave-craig",
-      "source": "CRAWL",
-      "targetPath": "/dave-craig",
-      "id": "739feb7addb6e55806efcf36137554ee55a7d9d1"
+      "url": "https://www.swbc.com/life-insurance-company",
+      "source": "SITEMAPS",
+      "targetPath": "/life-insurance-company",
+      "id": "fe9d2bffc0092d9a4bf278801c35cf6e0a0a345b"
     },
     {
-      "url": "https://www.swbcmortgage.com/dave-fahrmann",
-      "source": "CRAWL",
-      "targetPath": "/dave-fahrmann",
-      "id": "5e1ac82f422c6d5d1fc34478c01ad3b46d0fc31f"
+      "url": "https://www.swbc.com/mmp",
+      "source": "SITEMAPS",
+      "targetPath": "/mmp",
+      "id": "2378d294e991d4988f7a962d170d5b5b554c9a9d"
     },
     {
-      "url": "https://www.swbcmortgage.com/dave-king",
-      "source": "CRAWL",
-      "targetPath": "/dave-king",
-      "id": "19f594952159288b70cf325e7c2af4e5aa0dfc90"
+      "url": "https://www.swbc.com/motorcycle-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/motorcycle-insurance",
+      "id": "a5688d53eae2f4df47f26f1736a18702b6771b43"
     },
     {
-      "url": "https://www.swbcmortgage.com/david-chance",
-      "source": "CRAWL",
-      "targetPath": "/david-chance",
-      "id": "67c11b9a5200b1b45f9b13a5cefd73f2323876a9"
+      "url": "https://www.swbc.com/nmls-consumer-access",
+      "source": "SITEMAPS",
+      "targetPath": "/nmls-consumer-access",
+      "id": "714b2c4c8c21f23fa0ef05ed17c7ae9980c8f5bc"
     },
     {
-      "url": "https://www.swbcmortgage.com/david-hudson",
-      "source": "CRAWL",
-      "targetPath": "/david-hudson",
-      "id": "999cf9b95fdc4c9a98217f78d04f033cfb5fb195"
+      "url": "https://www.swbc.com/outsourced-collections",
+      "source": "SITEMAPS",
+      "targetPath": "/outsourced-collections",
+      "id": "05c90828ba290e98828a048b514e4c68b433fb37"
     },
     {
-      "url": "https://www.swbcmortgage.com/david-labrot",
-      "source": "CRAWL",
-      "targetPath": "/david-labrot",
-      "id": "055c8d14f9b2b07580184a6b31313150e77a7d89"
+      "url": "https://www.swbc.com/payment-protection",
+      "source": "SITEMAPS",
+      "targetPath": "/payment-protection",
+      "id": "0fda672ee022d3e69619bddb26e444ccd70b8685"
     },
     {
-      "url": "https://www.swbcmortgage.com/david-lippe",
-      "source": "CRAWL",
-      "targetPath": "/david-lippe",
-      "id": "8ca6bfd426e192463deefa2474822276a46498b3"
+      "url": "https://www.swbc.com/payment-solutions",
+      "source": "SITEMAPS",
+      "targetPath": "/payment-solutions",
+      "id": "c03c61738051c7e770854306707961a9f7009407"
     },
     {
-      "url": "https://www.swbcmortgage.com/david-lowe",
-      "source": "CRAWL",
-      "targetPath": "/david-lowe",
-      "id": "15c5376daf38eea07ce74e60aadfd76cfa4b6e04"
+      "url": "https://www.swbc.com/pet-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance",
+      "id": "6b2ba44ede9a444560a1459e02fca6fd8ef87f7b"
     },
     {
-      "url": "https://www.swbcmortgage.com/david-richards",
-      "source": "CRAWL",
-      "targetPath": "/david-richards",
-      "id": "edd0dd864039f8d7e0f6cabca25ba5950163823e"
+      "url": "https://www.swbc.com/portfolio-management-services",
+      "source": "SITEMAPS",
+      "targetPath": "/portfolio-management-services",
+      "id": "143bcaf10ac9bd16cd793ac7d8c70f3ce1fa76a8"
     },
     {
-      "url": "https://www.swbcmortgage.com/dean-riddell",
-      "source": "CRAWL",
-      "targetPath": "/dean-riddell",
-      "id": "b8da3de2643a4526c6b8a663c21f803814512aa2"
+      "url": "https://www.swbc.com/primary-flood-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/primary-flood-insurance",
+      "id": "3ecfc3cc30581a360754ab04ae4cca76bf048855"
     },
     {
-      "url": "https://www.swbcmortgage.com/dean-sargent",
-      "source": "CRAWL",
-      "targetPath": "/dean-sargent",
-      "id": "c25866b6f5a57737d646505658d009d94d0011e2"
+      "url": "https://www.swbc.com/products-services/business/commercial-insurance/special-event-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/products-services/business/commercial-insurance/special-event-insurance",
+      "id": "67035d5f3f18298c5fb6784ef6c9ac555ea602cd"
     },
     {
-      "url": "https://www.swbcmortgage.com/delmi-sanabria",
-      "source": "CRAWL",
-      "targetPath": "/delmi-sanabria",
-      "id": "09f0c6d361693dd88c3107a4e564fa5d1620dba8"
+      "url": "https://www.swbc.com/products-services/individual/insurance/life-insurance/permanent-life-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/products-services/individual/insurance/life-insurance/permanent-life-insurance",
+      "id": "9ae60e04ab2072ac0df6aa9af49bca6691a85c5d"
     },
     {
-      "url": "https://www.swbcmortgage.com/denise-cameron",
-      "source": "CRAWL",
-      "targetPath": "/denise-cameron",
-      "id": "6e82845132a4ddac93a145de1c2d6df93fc0d89d"
+      "url": "https://www.swbc.com/products-services/insurance/individuals/life-insurance/permanent-life-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/products-services/insurance/individuals/life-insurance/permanent-life-insurance",
+      "id": "a8fb2abd4b87114e9370ad69c01b8a1f50384653"
     },
     {
-      "url": "https://www.swbcmortgage.com/donald-ster",
-      "source": "CRAWL",
-      "targetPath": "/donald-ster",
-      "id": "7b29669627e3d9c5e582ddeec819aaaaebef927a"
+      "url": "https://www.swbc.com/professional-liability-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/professional-liability-insurance",
+      "id": "93fe62e1443f1069e086f5d653f4ed0ee7e08fa8"
     },
     {
-      "url": "https://www.swbcmortgage.com/eddie-okeefe",
-      "source": "CRAWL",
-      "targetPath": "/eddie-okeefe",
-      "id": "d6980f4d39a2a7a356321886df426134f650efec"
+      "url": "https://www.swbc.com/property-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/property-insurance",
+      "id": "ef36f9a2482e576aa172b6e6e04dd2f99f5a43b7"
     },
     {
-      "url": "https://www.swbcmortgage.com/ellison-brimage",
-      "source": "CRAWL",
-      "targetPath": "/ellison-brimage",
-      "id": "a7d447752d602007d9906819d3ea17136edb3884"
+      "url": "https://www.swbc.com/real-estate",
+      "source": "SITEMAPS",
+      "targetPath": "/real-estate",
+      "id": "6667516f9dafb96ce487e09b3b5239f67c945e2d"
     },
     {
-      "url": "https://www.swbcmortgage.com/englewood",
-      "source": "CRAWL",
-      "targetPath": "/englewood",
-      "id": "841e987a796ebf40ad11e7266e570b6167850f8c"
+      "url": "https://www.swbc.com/real-estate-investor-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/real-estate-investor-insurance",
+      "id": "eb427ef89fb3285e7ca5f477e5b4db5b01f36c02"
     },
     {
-      "url": "https://www.swbcmortgage.com/eric-fairhurst",
-      "source": "CRAWL",
-      "targetPath": "/eric-fairhurst",
-      "id": "fbbb6fa5277a9440340c2c03dad457c9c0cdcf9e"
+      "url": "https://www.swbc.com/renters-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/renters-insurance",
+      "id": "78715fd2652d4c43b9cb3e476eecfe057bd7f584"
     },
     {
-      "url": "https://www.swbcmortgage.com/ethan-lawson",
-      "source": "CRAWL",
-      "targetPath": "/ethan-lawson",
-      "id": "ff00a1bfd8636a45888a6f1db81034055b97da38"
+      "url": "https://www.swbc.com/reo-asset-protection-programs",
+      "source": "SITEMAPS",
+      "targetPath": "/reo-asset-protection-programs",
+      "id": "af43e0bc823f268fe2158c6430297a35d92eb97d"
     },
     {
-      "url": "https://www.swbcmortgage.com/evan-saunderson",
-      "source": "CRAWL",
-      "targetPath": "/evan-saunderson",
-      "id": "1a73221ae5fb22841bf0f4c36cde8ebdd068a68c"
+      "url": "https://www.swbc.com/residential-flood-insurance-excess-flood-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/residential-flood-insurance-excess-flood-insurance",
+      "id": "005418c1b0ed66e4554b1448cb5a19225a162133"
     },
     {
-      "url": "https://www.swbcmortgage.com/faqs",
-      "source": "CRAWL",
-      "targetPath": "/faqs",
-      "id": "a2f16fdf4034f334f5435e391f14c540c9f391a4"
+      "url": "https://www.swbc.com/resources",
+      "source": "SITEMAPS",
+      "targetPath": "/resources",
+      "id": "edf457420d2b2b3e5532c1a84301a34ed7cd3e63"
     },
     {
-      "url": "https://www.swbcmortgage.com/faqs/10-ways-to-improve-your-credit-score",
-      "source": "CRAWL",
-      "targetPath": "/faqs/10-ways-to-improve-your-credit-score",
-      "id": "ab40485f12447d54aa6c8efac5a45422d0751916"
+      "url": "https://www.swbc.com/retail-checking-strategies",
+      "source": "SITEMAPS",
+      "targetPath": "/retail-checking-strategies",
+      "id": "f889e3b532e4f82e3de8186786e66d86760d91ea"
     },
     {
-      "url": "https://www.swbcmortgage.com/faqs/5-questions-to-ask-before-you-refinance-your-mortgage",
-      "source": "CRAWL",
-      "targetPath": "/faqs/5-questions-to-ask-before-you-refinance-your-mortgage",
-      "id": "6aafccc81a4697616c6b3bf9d0e763e1e3f7fd34"
+      "url": "https://www.swbc.com/retail-investment-services",
+      "source": "SITEMAPS",
+      "targetPath": "/retail-investment-services",
+      "id": "03e010f2bb4d84564411a5a9528fffc4dfdbc1a4"
     },
     {
-      "url": "https://www.swbcmortgage.com/faqs/6-tips-to-save-big-when-remodeling-your-home",
-      "source": "CRAWL",
-      "targetPath": "/faqs/6-tips-to-save-big-when-remodeling-your-home",
-      "id": "c45ba62feb26b37c0776c816fbcbae163067de96"
+      "url": "https://www.swbc.com/retirement-plan-services",
+      "source": "SITEMAPS",
+      "targetPath": "/retirement-plan-services",
+      "id": "f464620d7b4fbbcea21b0ba5bd6a1a06b8ef8c56"
     },
     {
-      "url": "https://www.swbcmortgage.com/faqs/a-handy-guide-to-the-home-loan-closing-process",
-      "source": "CRAWL",
-      "targetPath": "/faqs/a-handy-guide-to-the-home-loan-closing-process",
-      "id": "e991840db0d827673b36b69885d701eb19dec83a"
+      "url": "https://www.swbc.com/retirement-plan-sponsor-services",
+      "source": "SITEMAPS",
+      "targetPath": "/retirement-plan-sponsor-services",
+      "id": "0f5c07da8f323be8da1a9e691bc59b8c5d5d0d41"
     },
     {
-      "url": "https://www.swbcmortgage.com/faqs/gather-these-documents-to-apply-for-a-mortgage",
-      "source": "CRAWL",
-      "targetPath": "/faqs/gather-these-documents-to-apply-for-a-mortgage",
-      "id": "5ac241294a148225b61f09a0e235c48118a08ac8"
+      "url": "https://www.swbc.com/retirement-planning",
+      "source": "SITEMAPS",
+      "targetPath": "/retirement-planning",
+      "id": "c74ac0312dc126fe2066b2ce242d8465729f6bbd"
     },
     {
-      "url": "https://www.swbcmortgage.com/faqs/home-inspection-vs-real-estate-appraisal",
-      "source": "CRAWL",
-      "targetPath": "/faqs/home-inspection-vs-real-estate-appraisal",
-      "id": "50b1baf3815b4c00eb7604f0738e8eb90e1a1794"
+      "url": "https://www.swbc.com/rv-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/rv-insurance",
+      "id": "7b6fbcd4441b33ccc2a284a56abd66fdaec639fe"
     },
     {
-      "url": "https://www.swbcmortgage.com/faqs/improve-your-bad-credit-score-for-your-home-loan",
-      "source": "CRAWL",
-      "targetPath": "/faqs/improve-your-bad-credit-score-for-your-home-loan",
-      "id": "8e2143735e44011be1bf59708f35f2a636e8fd68"
+      "url": "https://www.swbc.com/search",
+      "source": "SITEMAPS",
+      "targetPath": "/search",
+      "id": "b8fdf5762701fa47013712b68fd61b6319797b7b"
     },
     {
-      "url": "https://www.swbcmortgage.com/faqs/the-truth-about-va-loans",
-      "source": "CRAWL",
-      "targetPath": "/faqs/the-truth-about-va-loans",
-      "id": "af4d3c0d60f117df4dacbe9951f2c39a93158899"
+      "url": "https://www.swbc.com/serp",
+      "source": "SITEMAPS",
+      "targetPath": "/serp",
+      "id": "714bf3aa42f85bfc603b2ce8bd4d49f907b90b1b"
     },
     {
-      "url": "https://www.swbcmortgage.com/faqs/what-you-need-to-know-before-starting-a-home-renovation",
-      "source": "CRAWL",
-      "targetPath": "/faqs/what-you-need-to-know-before-starting-a-home-renovation",
-      "id": "ed516711b411f1059939c1ac77e576df57c3d72b"
+      "url": "https://www.swbc.com/split-dollar-life-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/split-dollar-life-insurance",
+      "id": "589c2add2141e4a940f682ad2dc143625401d5bf"
     },
     {
-      "url": "https://www.swbcmortgage.com/faqs/why-military-veterans-should-use-a-va-home-loan",
-      "source": "CRAWL",
-      "targetPath": "/faqs/why-military-veterans-should-use-a-va-home-loan",
-      "id": "da4b9d1d689568e62456279fe20705a0953a57e5"
+      "url": "https://www.swbc.com/success-stories/fig/collections/california-credit-union",
+      "source": "SITEMAPS",
+      "targetPath": "/success-stories/fig/collections/california-credit-union",
+      "id": "fed0a1e56ccb12653a24c0b2e7005b7e1d6229ea"
     },
     {
-      "url": "https://www.swbcmortgage.com/find-a-pro",
-      "source": "CRAWL",
-      "targetPath": "/find-a-pro",
-      "id": "be07f3536e961c24ad283c740affc867bdb254c7"
+      "url": "https://www.swbc.com/success-stories/fig/collections/fairwinds-credit-union",
+      "source": "SITEMAPS",
+      "targetPath": "/success-stories/fig/collections/fairwinds-credit-union",
+      "id": "34dddf2df4eea652a1b6919324aca210fb52bac8"
     },
     {
-      "url": "https://www.swbcmortgage.com/find-a-pro/search-results?branch=",
-      "source": "CRAWL",
-      "targetPath": "/find-a-pro/search-results",
-      "id": "d7966cd7c84a74453ffe57331d87d2fe660789e4"
+      "url": "https://www.swbc.com/success-stories/fig/collections/partners-financial-credit-union",
+      "source": "SITEMAPS",
+      "targetPath": "/success-stories/fig/collections/partners-financial-credit-union",
+      "id": "5f2b7cd2de86309ba0ae0f81c4fe2030dc74c05c"
     },
     {
-      "url": "https://www.swbcmortgage.com/find-a-pro/search-results?latitude=",
-      "source": "CRAWL",
-      "targetPath": "/find-a-pro/search-results",
-      "id": "493f205fa4d5a3b773e8f24a16947afdc74c1353"
+      "url": "https://www.swbc.com/success-stories/fig/gap/heritage-federal-credit-union",
+      "source": "SITEMAPS",
+      "targetPath": "/success-stories/fig/gap/heritage-federal-credit-union",
+      "id": "edd5cec1fae4076bc2ac4dd2d586f5192d184fa9"
     },
     {
-      "url": "https://www.swbcmortgage.com/find-a-pro/search-results?lo=",
-      "source": "CRAWL",
-      "targetPath": "/find-a-pro/search-results",
-      "id": "6d73c18dc6297303c0cbea4cb5ba418f3f269947"
+      "url": "https://www.swbc.com/success-stories/fig/mmp/loco-credit-union",
+      "source": "SITEMAPS",
+      "targetPath": "/success-stories/fig/mmp/loco-credit-union",
+      "id": "5ce827d9a673c95c26f40ec1aaee0125f5436f4e"
     },
     {
-      "url": "https://www.swbcmortgage.com/find-a-pro/search-results?location=",
-      "source": "CRAWL",
-      "targetPath": "/find-a-pro/search-results",
-      "id": "b6526b90eec836bdc2fda27e78206cd82e2cfdca"
+      "url": "https://www.swbc.com/success-stories/fig/payment/usalliance-financial",
+      "source": "SITEMAPS",
+      "targetPath": "/success-stories/fig/payment/usalliance-financial",
+      "id": "eea60f8bf520f2990c51f20abd9f67943022cf12"
     },
     {
-      "url": "https://www.swbcmortgage.com/find-a-pro/search-results?name=",
-      "source": "CRAWL",
-      "targetPath": "/find-a-pro/search-results",
-      "id": "965d54f254d50be2128411233853c915d2c56e5c"
+      "url": "https://www.swbc.com/success-stories/fig/total-solution/financial-center-first-credit-union",
+      "source": "SITEMAPS",
+      "targetPath": "/success-stories/fig/total-solution/financial-center-first-credit-union",
+      "id": "d72f84e546067cad36c1f77c2c6d4e534df7e627"
     },
     {
-      "url": "https://www.swbcmortgage.com/find-a-pro/search-results?zip=",
-      "source": "CRAWL",
-      "targetPath": "/find-a-pro/search-results",
-      "id": "9fcaee0d189ec0efb8cc15371947551c0fae6be9"
+      "url": "https://www.swbc.com/success-stories/insurance-services/reyes-automotive",
+      "source": "SITEMAPS",
+      "targetPath": "/success-stories/insurance-services/reyes-automotive",
+      "id": "e1969e9cbb7d502a9427176dfcba175de8586f18"
     },
     {
-      "url": "https://www.swbcmortgage.com/fort-smith",
-      "source": "CRAWL",
-      "targetPath": "/fort-smith",
-      "id": "fd51eafed0721214ecf35d3327546c15b20e5b5b"
+      "url": "https://www.swbc.com/swbc-mexico",
+      "source": "SITEMAPS",
+      "targetPath": "/swbc-mexico",
+      "id": "ae456c3ab565a63bc5d186d7ad34a9672ea83ed6"
     },
     {
-      "url": "https://www.swbcmortgage.com/franklin-cool-springs",
-      "source": "CRAWL",
-      "targetPath": "/franklin-cool-springs",
-      "id": "5a22904b5af88f4efb29c678b36d805c43cbf3be"
+      "url": "https://www.swbc.com/swivel",
+      "source": "SITEMAPS",
+      "targetPath": "/swivel",
+      "id": "31ca2d63ab567d0041564d49cf9069510973dc7b"
     },
     {
-      "url": "https://www.swbcmortgage.com/franklin-cool-springs6",
-      "source": "CRAWL",
-      "targetPath": "/franklin-cool-springs6",
-      "id": "a3f12bd7bc551b5e093f14e0d41e14281a36edb2"
+      "url": "https://www.swbc.com/term-life-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/term-life-insurance",
+      "id": "02a169b7a4988c4b00b427fdbb7fc3da5cf638a4"
     },
     {
-      "url": "https://www.swbcmortgage.com/franklin-cool-springs8",
-      "source": "CRAWL",
-      "targetPath": "/franklin-cool-springs8",
-      "id": "d33c59810d4abd42995c435eb39fd6c4e2d805d4"
+      "url": "https://www.swbc.com/umbrella-liability-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/umbrella-liability-insurance",
+      "id": "4fae043bb471630db5d210d349a94af5662ce264"
     },
     {
-      "url": "https://www.swbcmortgage.com/fredric-wilson",
-      "source": "CRAWL",
-      "targetPath": "/fredric-wilson",
-      "id": "941786bcd5d62034064c9145cb0890368cfff425"
+      "url": "https://www.swbc.com/vehicle-and-loan-protection",
+      "source": "SITEMAPS",
+      "targetPath": "/vehicle-and-loan-protection",
+      "id": "0f28e64a3e3da838d63a0b4a725628aea3327dbd"
     },
     {
-      "url": "https://www.swbcmortgage.com/fulton",
-      "source": "CRAWL",
-      "targetPath": "/fulton",
-      "id": "34185ba148bdabc0cab1861b86e3b4ec1b4e72ec"
+      "url": "https://www.swbc.com/vehicle-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/vehicle-insurance",
+      "id": "ba264fffef9f546e5e95b2e2a7d8db898ca57e6f"
     },
     {
-      "url": "https://www.swbcmortgage.com/gabriel-cardenas",
-      "source": "CRAWL",
-      "targetPath": "/gabriel-cardenas",
-      "id": "9ec619acfe37b6c13a7eb2fb51f84be8ea9e5954"
+      "url": "https://www.swbc.com/vehicle-return-protection",
+      "source": "SITEMAPS",
+      "targetPath": "/vehicle-return-protection",
+      "id": "25182612e5bcf505f7e57326d5fc420b07b24898"
     },
     {
-      "url": "https://www.swbcmortgage.com/gina-desantis",
-      "source": "CRAWL",
-      "targetPath": "/gina-desantis",
-      "id": "36c73d09377547b83c5817cdce49a70b9b7b69fd"
+      "url": "https://www.swbc.com/voluntary-employee-benefits",
+      "source": "SITEMAPS",
+      "targetPath": "/voluntary-employee-benefits",
+      "id": "6a2384ba126ffde25af619dfa3f6b0f1f3cdd98d"
     },
     {
-      "url": "https://www.swbcmortgage.com/greenville",
-      "source": "CRAWL",
-      "targetPath": "/greenville",
-      "id": "2ac8389e6560f5382d4aa1b51affd7b7daec0b81"
+      "url": "https://www.swbc.com/voluntary-protection-products",
+      "source": "SITEMAPS",
+      "targetPath": "/voluntary-protection-products",
+      "id": "2abefe8c571a295047c7e4a023d51012e285c779"
     },
     {
-      "url": "https://www.swbcmortgage.com/greg-goodman",
-      "source": "CRAWL",
-      "targetPath": "/greg-goodman",
-      "id": "e2aa4eaaa78b40c91fc96c0e211b92eb9a3ffdc9"
+      "url": "https://www.swbc.com/wealth-management",
+      "source": "SITEMAPS",
+      "targetPath": "/wealth-management",
+      "id": "cccbebba59c09525c49a265c7aafc8fb6dfb2fcb"
     },
     {
-      "url": "https://www.swbcmortgage.com/havre-de-grace",
-      "source": "CRAWL",
-      "targetPath": "/havre-de-grace",
-      "id": "5478e7a92092cce9099144ec66249226a608de15"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/hersel-lawson",
-      "source": "CRAWL",
-      "targetPath": "/hersel-lawson",
-      "id": "a25e6cd621bff2823b11d3941a70bf5ba26a9728"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/home",
-      "source": "CRAWL",
-      "targetPath": "/home",
-      "id": "1f37b8feddca714d91e99a689cbce5b38f5a1e35"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/hot-springs",
-      "source": "CRAWL",
-      "targetPath": "/hot-springs",
-      "id": "0ac87c8e6d6e1f2e29d474c0e7d9f1bdf7efde53"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/houston-clear-lake",
-      "source": "CRAWL",
-      "targetPath": "/houston-clear-lake",
-      "id": "c5a1f34aaca4504f3492ec9682c2bf2b79fe705e"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jack-lippe",
-      "source": "CRAWL",
-      "targetPath": "/jack-lippe",
-      "id": "221f593dec77c2199e876b6719216d72ac3ae8af"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jackie-smith",
-      "source": "CRAWL",
-      "targetPath": "/jackie-smith",
-      "id": "73ff42aff779a84f0cf1b3d37c90ca0679e267fa"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jacksonville",
-      "source": "CRAWL",
-      "targetPath": "/jacksonville",
-      "id": "d96080b117a5ecdfc4e908407608f0372b0701e8"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jacob-ryon",
-      "source": "CRAWL",
-      "targetPath": "/jacob-ryon",
-      "id": "497e9d31a32c9a06673faa985c517da692d41417"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jamie-lenes",
-      "source": "CRAWL",
-      "targetPath": "/jamie-lenes",
-      "id": "fbac8138ae0a7bfc99a436a3a3d842326eade260"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jamie-morrison",
-      "source": "CRAWL",
-      "targetPath": "/jamie-morrison",
-      "id": "f5903251974ee6dd65713459d5aa7a1b77a7b141"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jan-smith",
-      "source": "CRAWL",
-      "targetPath": "/jan-smith",
-      "id": "6c96b24c2d3a4a76efa798bba949460b42f54885"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jason-cree",
-      "source": "CRAWL",
-      "targetPath": "/jason-cree",
-      "id": "7866c68b8c170da04bbd2ef2fa6785ece28766f3"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jeff-bither",
-      "source": "CRAWL",
-      "targetPath": "/jeff-bither",
-      "id": "b5193c8b114f4f40ad81774d0013ce12b30fb9e9"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jeff-engeling",
-      "source": "CRAWL",
-      "targetPath": "/jeff-engeling",
-      "id": "934384d2e95101097039ab68fcf04343e087f65d"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jenna-steely",
-      "source": "CRAWL",
-      "targetPath": "/jenna-steely",
-      "id": "236cde63d757d656b520051d71155a0fc1cfda75"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jennifer-nollner",
-      "source": "CRAWL",
-      "targetPath": "/jennifer-nollner",
-      "id": "3ed62accc29bb54f2c3835b316a7be36dce7314a"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jennifer-prisock",
-      "source": "CRAWL",
-      "targetPath": "/jennifer-prisock",
-      "id": "24fabac2a9ab9e6fc2972a43fcab1a75950aac55"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jennifer-sims",
-      "source": "CRAWL",
-      "targetPath": "/jennifer-sims",
-      "id": "e4c32c51f4c1db4fe53c10fb4500c98b3a357c15"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jeremy-radcliffe",
-      "source": "CRAWL",
-      "targetPath": "/jeremy-radcliffe",
-      "id": "58de24a5f5b48316a9a46146bf6dfcaf7464a8f8"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jesse-sanchez",
-      "source": "CRAWL",
-      "targetPath": "/jesse-sanchez",
-      "id": "95ba5a2d052e467c241c483445673317f96fc4c6"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jessica-gilstrap",
-      "source": "CRAWL",
-      "targetPath": "/jessica-gilstrap",
-      "id": "de1e96ba2870f1144cae6c7eb1deb7a1cf8c802d"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jimmy-alexander",
-      "source": "CRAWL",
-      "targetPath": "/jimmy-alexander",
-      "id": "c4177c7fdd0b104272e82e989d4e89931204cdaa"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/john-cortissoz",
-      "source": "CRAWL",
-      "targetPath": "/john-cortissoz",
-      "id": "b0efdf0da1f2ae7af6a34df26cca559e7bc80ade"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/john-pollock",
-      "source": "CRAWL",
-      "targetPath": "/john-pollock",
-      "id": "481201ae196083a58e2e8d3ce40a5c913d9a58d2"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/john-sessa",
-      "source": "CRAWL",
-      "targetPath": "/john-sessa",
-      "id": "e12e4a6e219b175916303b402192eeeb156126f1"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/john-snider",
-      "source": "CRAWL",
-      "targetPath": "/john-snider",
-      "id": "8706c07f770d1dbfb7cec4671b75b157de1b10ac"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/john-tatum",
-      "source": "CRAWL",
-      "targetPath": "/john-tatum",
-      "id": "3d4d7385a84cf7336318772dc809adbe9ee6c073"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jorge-netto",
-      "source": "CRAWL",
-      "targetPath": "/jorge-netto",
-      "id": "7c754b8b38d028f22cec8cf5a62cd0849a93f9fa"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/jose-martinez",
-      "source": "CRAWL",
-      "targetPath": "/jose-martinez",
-      "id": "1fef14c9045bad7f9c05296071883260a3059a4c"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/josh-sparrow",
-      "source": "CRAWL",
-      "targetPath": "/josh-sparrow",
-      "id": "f2e92460e10a78924a6a91c3c58b88a1cb59f035"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/judy-rhodes",
-      "source": "CRAWL",
-      "targetPath": "/judy-rhodes",
-      "id": "9088a5d1111f4b01c80f5e951c07d89a31f19855"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/ka-lia-thao",
-      "source": "CRAWL",
-      "targetPath": "/ka-lia-thao",
-      "id": "8fd0926f33ba50a01040313936ad0168cebb4013"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/kara-wolf",
-      "source": "CRAWL",
-      "targetPath": "/kara-wolf",
-      "id": "bfa8ef652aa8441f766ed8c47aaee1a2f2e93db0"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/kari-story",
-      "source": "CRAWL",
-      "targetPath": "/kari-story",
-      "id": "870d6ff6ecdd89de51708871c5f9cdf5fcae65fa"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/kay-halvorson",
-      "source": "CRAWL",
-      "targetPath": "/kay-halvorson",
-      "id": "ea04108190c0c374afcf02c28a4112a15b8ff290"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/keith-morrow",
-      "source": "CRAWL",
-      "targetPath": "/keith-morrow",
-      "id": "601aa326ac3be13c7baeb5347e9e17a1aaeab4d9"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/kelli-broadbent",
-      "source": "CRAWL",
-      "targetPath": "/kelli-broadbent",
-      "id": "c300360fe510de96412ceac6eebcb5b3c18ae723"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/kenneth-tate",
-      "source": "CRAWL",
-      "targetPath": "/kenneth-tate",
-      "id": "8c884ee519a804002e53aa47b077840cafcfccbb"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/kevin-coleman",
-      "source": "CRAWL",
-      "targetPath": "/kevin-coleman",
-      "id": "7b4b93d14f8eb0c96f5d4f2bf5320c588034c8e0"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/kevin-fuoco",
-      "source": "CRAWL",
-      "targetPath": "/kevin-fuoco",
-      "id": "236e0202149f84ba2f94adeda2978a7fcd2eecf7"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/kevin-handerhan",
-      "source": "CRAWL",
-      "targetPath": "/kevin-handerhan",
-      "id": "b1d6ed8bd691ea0098884f2d7950c2f001e35adb"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/killeen",
-      "source": "CRAWL",
-      "targetPath": "/killeen",
-      "id": "0ba18a2959686577842d2283a39854bd58ddc5b6"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/kim-lape",
-      "source": "CRAWL",
-      "targetPath": "/kim-lape",
-      "id": "4643ee51e6ded4d74a352256721d6619f0f2c144"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/kimberlee-kunkel",
-      "source": "CRAWL",
-      "targetPath": "/kimberlee-kunkel",
-      "id": "b624eb37dee22d070148f513269de48f5175e9f7"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/kris-webb",
-      "source": "CRAWL",
-      "targetPath": "/kris-webb",
-      "id": "ed96663d8873d575bd5306fd8d415a89cfaf13f2"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/kristie-arocha",
-      "source": "CRAWL",
-      "targetPath": "/kristie-arocha",
-      "id": "0f289d954d558eb24540479e0edb4ebf3fdd56bd"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/ladana-inkman",
-      "source": "CRAWL",
-      "targetPath": "/ladana-inkman",
-      "id": "00030c813f800dd07a90d0d23cdd1d2923ef6f9d"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/lakeland",
-      "source": "CRAWL",
-      "targetPath": "/lakeland",
-      "id": "4fa65a669b5c19da93ad4a512b0bc48694d1f16e"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/lance-brenner",
-      "source": "CRAWL",
-      "targetPath": "/lance-brenner",
-      "id": "de17ee2ff03a6bb5447312f554e3d33e8e3700ef"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/landon-olson",
-      "source": "CRAWL",
-      "targetPath": "/landon-olson",
-      "id": "e0ba1cc469760627d248896f3d3ba2b9361d018b"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/lara-long",
-      "source": "CRAWL",
-      "targetPath": "/lara-long",
-      "id": "e83ad059badcdc832dffdcc4ba2f0b14acc163d7"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/laura-jackson",
-      "source": "CRAWL",
-      "targetPath": "/laura-jackson",
-      "id": "419d133635cac476bbaf180cd6f6a1bef2a043a3"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/leslie-lovett",
-      "source": "CRAWL",
-      "targetPath": "/leslie-lovett",
-      "id": "756f0fca133ab91040569c22714cf48ee6192545"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/liane-scofield",
-      "source": "CRAWL",
-      "targetPath": "/liane-scofield",
-      "id": "7891423dda96aed3cbe4ca4c581fa4004661fc09"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/linda-komm",
-      "source": "CRAWL",
-      "targetPath": "/linda-komm",
-      "id": "0e6dbcf4e881f32d2d9ecda10dcd9eaff27fa701"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/lindsey-augustine",
-      "source": "CRAWL",
-      "targetPath": "/lindsey-augustine",
-      "id": "1533bdcd94ac66ca9bf70fabef9559e11cee1e66"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/lisa-ann-lowe",
-      "source": "CRAWL",
-      "targetPath": "/lisa-ann-lowe",
-      "id": "2bff9d45fa444e4fb204ce7f89a1618684236344"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/lisa-baxter",
-      "source": "CRAWL",
-      "targetPath": "/lisa-baxter",
-      "id": "1dd0d786d59d41797dafcca3e39d0114dcf251ad"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/lisa-calzada",
-      "source": "CRAWL",
-      "targetPath": "/lisa-calzada",
-      "id": "afc2fb367633b04c85c588c582cf1fa1c7bce734"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/lisa-reyna",
-      "source": "CRAWL",
-      "targetPath": "/lisa-reyna",
-      "id": "81a242128ee558f994f86e4fee69208d8590da42"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/littleton",
-      "source": "CRAWL",
-      "targetPath": "/littleton",
-      "id": "b92c4f7749cf6ebb94fe95aa35232cd19af5bb63"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/luke-sable",
-      "source": "CRAWL",
-      "targetPath": "/luke-sable",
-      "id": "9f5c7bcd055e39b8bc6f4fe6856608e838fbc862"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/lynchburg",
-      "source": "CRAWL",
-      "targetPath": "/lynchburg",
-      "id": "7c1772a8a6df97c09fe360829241decfd27a1da0"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/lynn-anderson",
-      "source": "CRAWL",
-      "targetPath": "/lynn-anderson",
-      "id": "5fdde3e7331ce3282d4d4998d39051d0dd16d0a4"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mandy-martinez",
-      "source": "CRAWL",
-      "targetPath": "/mandy-martinez",
-      "id": "3f500122afd96ebcf3c3c3f874d6f6ea52891ce6"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/maple-grove",
-      "source": "CRAWL",
-      "targetPath": "/maple-grove",
-      "id": "cdde5b3b76150bfe8df00830d13ce90123b3b739"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/marcela-castillo",
-      "source": "CRAWL",
-      "targetPath": "/marcela-castillo",
-      "id": "6e13c4d7b1df346b12742ba44e09d439bfe6b199"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/marcia-messer",
-      "source": "CRAWL",
-      "targetPath": "/marcia-messer",
-      "id": "93e14042e8b1fc3ae1ca9f42a235f23beddae145"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/marietta",
-      "source": "CRAWL",
-      "targetPath": "/marietta",
-      "id": "f21f4d33a57b92827e3c2a130c9e8de5824dccfa"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mark-baker",
-      "source": "CRAWL",
-      "targetPath": "/mark-baker",
-      "id": "e022e68287f1da54efa0c294e1bcf0200efef0bb"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/marsha-graves",
-      "source": "CRAWL",
-      "targetPath": "/marsha-graves",
-      "id": "59cc5fddb936a6741424a8331b32e412cf298068"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mary-dietz",
-      "source": "CRAWL",
-      "targetPath": "/mary-dietz",
-      "id": "efd76bbdb926aa9fd995c76aff03689e93c3e91f"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mary-zimmerman",
-      "source": "CRAWL",
-      "targetPath": "/mary-zimmerman",
-      "id": "71f9b829748d7f3f541624beac85344423c1a9e4"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/maryam-mozaffari",
-      "source": "CRAWL",
-      "targetPath": "/maryam-mozaffari",
-      "id": "1ee9f6677482166ab4781cafec903a1efd7cc841"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/matt-tenney",
-      "source": "CRAWL",
-      "targetPath": "/matt-tenney",
-      "id": "f87fcd52be8f06a79c57fc18d231e498b9115667"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/matthew-borgerson",
-      "source": "CRAWL",
-      "targetPath": "/matthew-borgerson",
-      "id": "eff2305338d080a495bb2bb405e9649ef1a8112b"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/maureen-brown",
-      "source": "CRAWL",
-      "targetPath": "/maureen-brown",
-      "id": "da54a6169abf1b8d8cd16099f9a3e065fd00bd1f"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/megan-wilson",
-      "source": "CRAWL",
-      "targetPath": "/megan-wilson",
-      "id": "87ae90bf3c82f0a7fe8d623e87202e3be8f09547"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/melissa-camras",
-      "source": "CRAWL",
-      "targetPath": "/melissa-camras",
-      "id": "fded2b9ba164ac15058adac6a16f2602041cfae1"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/merrill-fowler",
-      "source": "CRAWL",
-      "targetPath": "/merrill-fowler",
-      "id": "a5273e58ff3dd7758714182dc8284b19fa672b64"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/miami",
-      "source": "CRAWL",
-      "targetPath": "/miami",
-      "id": "161a6b5743abbbdba0bfb197f60d9dff985d4052"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/michael-easterly",
-      "source": "CRAWL",
-      "targetPath": "/michael-easterly",
-      "id": "1d43f3cd83d678443c54e66f0b528e24b5ffcae0"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/michael-thomas",
-      "source": "CRAWL",
-      "targetPath": "/michael-thomas",
-      "id": "5abcbf0d01e39d22edc094a4ca46d3f23394f09d"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/michele-whitacre",
-      "source": "CRAWL",
-      "targetPath": "/michele-whitacre",
-      "id": "9832e974806b320f751b5f6f22f81ed99a9cf885"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/michelle-sisam",
-      "source": "CRAWL",
-      "targetPath": "/michelle-sisam",
-      "id": "756b0aad6b2a139137b3632abf3b9c5ef0e59638"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mike-bartman",
-      "source": "CRAWL",
-      "targetPath": "/mike-bartman",
-      "id": "3551d69fe97574f2ced2ea747d41c34a89cf7840"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/milynda-hallermann",
-      "source": "CRAWL",
-      "targetPath": "/milynda-hallermann",
-      "id": "1c1c471f677fc90ae95adc5be4b631beebc97858"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mobile",
-      "source": "CRAWL",
-      "targetPath": "/mobile",
-      "id": "324bf8d904e4bb4d5567b7b05cdb94d1edccfca7"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-licenses-disclosures",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-licenses-disclosures",
-      "id": "c48e081fcd89553a692d33be98901deb14dbe501"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-loan-options",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-loan-options",
-      "id": "3274086ddc524849d2f34a7a41cd38c7a67e7c7a"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-loan-options/conventional-mortgage-loans",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-loan-options/conventional-mortgage-loans",
-      "id": "5e00361daf482c1f78a447d581537e6c913153f3"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-loan-options/fha-mortgage-loans",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-loan-options/fha-mortgage-loans",
-      "id": "7dd5dd7a805170bf76a4e64b645a71d01005f92b"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-loan-options/jumbo-mortgage-loans",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-loan-options/jumbo-mortgage-loans",
-      "id": "84b74c5763a9462f8d5fc3fd504a592eddc3048e"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-loan-options/refinance",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-loan-options/refinance",
-      "id": "ebfb61d06daac3e392540d12dd69613ca4b6c6d4"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-loan-options/renovation-mortgage-loans",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-loan-options/renovation-mortgage-loans",
-      "id": "15a7afa73988ae0cc6b917e936c956acd7bd069a"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-loan-options/texas-vet-mortgage-loans",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-loan-options/texas-vet-mortgage-loans",
-      "id": "58998cc33259e9d08ebd7260080db453c04be7d3"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-loan-options/usda-rural-development-mortgage-loans",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-loan-options/usda-rural-development-mortgage-loans",
-      "id": "f219a66a8d2fd03018a49f2595e0bf9dbe6d8175"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-loan-options/va-mortgage-loans",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-loan-options/va-mortgage-loans",
-      "id": "cddff8b5aef5aea13cf400b526dc4195b8fade65"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources",
-      "id": "d5458f87300af5b144a90f60229d578bafe4d1d6"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/3-steps-to-begin-your-kitchen-renovation",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/3-steps-to-begin-your-kitchen-renovation",
-      "id": "4da93b8a1493e44853c46ec0e71af406e6800efd"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/4-ways-to-stage-your-home",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/4-ways-to-stage-your-home",
-      "id": "da11852bae38014d86b814ef0f5ee9219b8f93e8"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/5-questions-to-ask-before-you-refinance-your-mortgage",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/5-questions-to-ask-before-you-refinance-your-mortgage",
-      "id": "8ee56fe59630cde4f50812eac52d9cf7c74e856a"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/6-areas-to-splurge-when-building-your-custom-home",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/6-areas-to-splurge-when-building-your-custom-home",
-      "id": "329e3da4293eff784d3af91d313b7f87d34a5b60"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/6-tips-to-save-big-when-remodeling-your-home",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/6-tips-to-save-big-when-remodeling-your-home",
-      "id": "5aa700965636dce1c091df4d4b2b46fa553addaa"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/a-beginners-guide-to-mortgages",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/a-beginners-guide-to-mortgages",
-      "id": "e240b629517d217827dd5c8f1477e16ac11933bf"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/calculator-list",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/calculator-list",
-      "id": "a93ef4a26eb1eee3f57f21b998fb6400a4507135"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/calculator-list?LOANAMOUNT=0&DOWNPAYMENT=0&DOWNPAYMENT_TYPE=Percent&TERM=30&TERM_UNITS=Years&INTERESTRATE=0&CALCULATORID=HF02&HIDEFORMTAG=TRUE&TEMPLATE_ID=www.swbcmortgage.com_1&PostBack=true",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/calculator-list",
-      "id": "2bd8a65f608595a03142387955369f23a69d945e"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/calculator-list?MAXPAYMENTAMOUNT=0&INSURANCE=0&PROPERTYTAX=0&PROPERTYTAX_TYPE=Percent&ASSOCIATIONDUES=%240.00&DOWNPAYMENT=0+%25&DOWNPAYMENT_TYPE=Percent&TERM=30&TERM_UNITS=Years&INTERESTRATE=0&INCOMETAXRATE=0&CALCULATORID=HF09&HIDEFORMTAG=TRUE&TEMPLATE_ID=www.swbcmortgage.com_1&PostBack=true",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/calculator-list",
-      "id": "8000df458649268bf1e48988045383d60c1fbcc5"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/calculator-list?MONTHLYRENT=%240&RENTERSINSURANCE=%240&RENTINCREASE=0+%25&HOMECOST=%240&DOWNPAYMENT=0+%25&DOWNPAYMENT_TYPE=Percent&INTERESTRATE=0+%25&LOANTERM=30&LOANTERM_UNITS=Years&POINTS=0%25&FEES=%240&PROPERTYTAX=0+%25&PROPERTYTAX_TYPE=Percent&MONTHLYMAINTENANCE=%240&HOMEOWNERSINSURANCE=%240&HOMEAPPRECIATION=0%25&ASSOCIATIONDUES=%240&STATEANDFEDERALTAX=0+%25&INVESTMENTRATEOFRETURN=0%25&LENGTHOFSTAY=5&LENGTHOFSTAY_UNITS=Years&AGENTCOMMISSION=0+%25&AGENTCOMMISSION_TYPE=Percent&CLOSINGFEES=%240&SHOWTOTALEXPENSECHART=False&SHOWCHART=on&CALCULATORID=HF05&HIDEFORMTAG=TRUE&TEMPLATE_ID=www.swbcmortgage.com_1&PostBack=true",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/calculator-list",
-      "id": "0b10a72775b058e4bb4f72dcded09661d028126c"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/calculator-list?ORIGINALLOANAMOUNT=300000&ORIGINALTERM=30&ORIGINALTERM_UNITS=Years&LOANSTARTMONTH=4&LOANSTARTYEAR=2019&CURRENTRATE=0&CASHOUT=0&NEWRATE=0&POINTS=0&OTHERFEES=0&NEWTERM=30&NEWTERM_UNITS=Years&TAXRATE=0&RATEOFRETURN=0&BALLOONTERM=15&BALLOONTERM_UNITS=Years&CURRENTCOMPOUNDING=6&NEWCOMPOUNDING=6&CALCULATORID=HF01&HIDEFORMTAG=TRUE&TEMPLATE_ID=www.swbcmortgage.com_1&PostBack=true",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/calculator-list",
-      "id": "f47dbbd4491251c1f3068137f8bef8dda4937e37"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/do-you-need-a-mortgage-pre-approval-before-house-hunting",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/do-you-need-a-mortgage-pre-approval-before-house-hunting",
-      "id": "972847fd9f8086098341f20955ca4c7f64d57959"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/fixed-rate-versus-adjustable-rate-mortgages",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/fixed-rate-versus-adjustable-rate-mortgages",
-      "id": "0b306fa489bed833ea90052592bf7d04cd7fa1a2"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/flexible-loan-options-for-hopeful-homebuyers",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/flexible-loan-options-for-hopeful-homebuyers",
-      "id": "5942802518f2e67d1eab5e7d87ac81f8910b3ce2"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/from-dreams-to-doorstep",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/from-dreams-to-doorstep",
-      "id": "3ff050fe871cfd9435dad9b965b940d60e3e2066"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/gather-these-documents-to-apply-for-a-mortgage",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/gather-these-documents-to-apply-for-a-mortgage",
-      "id": "d892a3e51197e94fa1a738413ee887254ac0a444"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/helpful-tips-for-first-time-homebuyers",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/helpful-tips-for-first-time-homebuyers",
-      "id": "a253660358bbd552b3b1025d5116695f94f42217"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/home-renovations-to-avoid-when-youre-planning-to-move",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/home-renovations-to-avoid-when-youre-planning-to-move",
-      "id": "7940000a46d5cbc8e82ff1074fe791435a0d50e7"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/how-to-choose-the-right-mortgage-lender-for-you",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/how-to-choose-the-right-mortgage-lender-for-you",
-      "id": "4ae55ef74eb67038735d6f8b6f7f638fef031a18"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/improve-your-bad-credit-score-for-your-home-loan",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/improve-your-bad-credit-score-for-your-home-loan",
-      "id": "4f4fc7897fedc26e17734dc4bbfaca163d6959d1"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/looking-to-sell-signs-its-a-smart-time-to-list-your-home",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/looking-to-sell-signs-its-a-smart-time-to-list-your-home",
-      "id": "b738671a41685254fd6f28cea9150f2c8358619a"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/pid/6490/evl/0/categoryid/16?CategoryName=First-Time-Homebuying",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/pid/6490/evl/0/categoryid/16",
-      "id": "0f6bc42dc1efef5f53d4589f3871fec800819425"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/pid/6490/evl/0/categoryid/17?CategoryName=Financial-Health",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/pid/6490/evl/0/categoryid/17",
-      "id": "349b15853c54075c9fe0fe6831a32e16e01a8cc3"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/pid/6490/evl/0/categoryid/18?CategoryName=Home-Selling",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/pid/6490/evl/0/categoryid/18",
-      "id": "cba833ed1359ba12e3b81dd3cfa8eeab673b4a6b"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/pid/6490/evl/0/categoryid/19?CategoryName=Homebuying",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/pid/6490/evl/0/categoryid/19",
-      "id": "90a9b09daa4932128953a7f20bc8f5f308b678be"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/pid/6490/evl/0/categoryid/20?CategoryName=Refinancing",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/pid/6490/evl/0/categoryid/20",
-      "id": "50fa59985c2452b7d28ceb144810da4391827319"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/pid/6490/evl/0/categoryid/21?CategoryName=Renovating",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/pid/6490/evl/0/categoryid/21",
-      "id": "6cbf9987ca5753dcbdcecca96debf655ce2d47c6"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/pid/6490/evl/0/categoryid/22?CategoryName=VA-or-Vet-Financing",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/pid/6490/evl/0/categoryid/22",
-      "id": "5b7a8b112890e70ea724f8dccacbe2ebd4aa1d84"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/renovate-your-dream-home-with-a-va-renovation-loan",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/renovate-your-dream-home-with-a-va-renovation-loan",
-      "id": "7d8d9356861e155eaaca9ae93b901f1fe13c6d0a"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/selling-your-home-start-by-doing-these-5-things",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/selling-your-home-start-by-doing-these-5-things",
-      "id": "19fa57f74e7b61bf6fe4b97c61790707ec30dd23"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/should-i-sell-or-rent-my-home",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/should-i-sell-or-rent-my-home",
-      "id": "da807abf9b76eb559a08c7dde6d0b304a51c0b38"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/should-you-buy-a-home-before-the-holidays-pros-and-cons-of-a-fall-home-purchase",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/should-you-buy-a-home-before-the-holidays-pros-and-cons-of-a-fall-home-purchase",
-      "id": "71320f1d229138ba5fa43247edb63e39721db7d2"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/smart-tips-for-getting-your-home-ready-to-sell",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/smart-tips-for-getting-your-home-ready-to-sell",
-      "id": "4e3f959d3d7d34c35bf826e3e6b15c4eae3d8eec"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/swbc-mortgage-announces-remington-as-new-coo",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/swbc-mortgage-announces-remington-as-new-coo",
-      "id": "4fb018d3f8b74305664363febcf05c3f38e3b0ae"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/swbc-mortgage-announces-whittier-as-svp-of-production-optimization",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/swbc-mortgage-announces-whittier-as-svp-of-production-optimization",
-      "id": "42f5163d5c8dfc558fe1e21258d7c6d02dc6cc4d"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/swbc-mortgage-expands-access-with-down-payment-grant-program",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/swbc-mortgage-expands-access-with-down-payment-grant-program",
-      "id": "bffdb59e04fc04ed09a35f1a105b60014c2ff7f6"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/swbc-mortgage-honored-with-2025-home-possible-rise-awards174-for-fastest-growth-by-freddie-mac",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/swbc-mortgage-honored-with-2025-home-possible-rise-awards174-for-fastest-growth-by-freddie-mac",
-      "id": "8d181d4f062719df225ad3c63e4c40aaff329f8a"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/the-truth-about-va-loans",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/the-truth-about-va-loans",
-      "id": "e14e96cbce4cc28edc118a4767f431aae453ed81"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/understand-your-mortgage-statements-what-you-need-to-know",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/understand-your-mortgage-statements-what-you-need-to-know",
-      "id": "9c430147d456a96373ec3afc14e81baddf28e4ef"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/what-to-expect-during-home-inspections",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/what-to-expect-during-home-inspections",
-      "id": "df37a1dc59a83fd99b73469dcddc3f883710eff5"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/what-to-look-for-at-an-open-house",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/what-to-look-for-at-an-open-house",
-      "id": "45c6bc68fdc76dfcd250fffad7d7051c15d47560"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/what-you-need-to-know-before-starting-a-home-renovation",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/what-you-need-to-know-before-starting-a-home-renovation",
-      "id": "7d934e63fb222b8dc0ea4023256cf3614c2da7ff"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/why-military-veterans-should-use-a-va-home-loan",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/why-military-veterans-should-use-a-va-home-loan",
-      "id": "144bef1925a7620feec55376ddf2db9194b6ffd1"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/why-summer-is-a-smart-time-to-buy-a-home",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/why-summer-is-a-smart-time-to-buy-a-home",
-      "id": "c01cc6586d0af7899439302b6c232b7e5ad5e821"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/why-working-with-a-local-lender-matters",
-      "source": "CRAWL",
-      "targetPath": "/mortgage-resources/why-working-with-a-local-lender-matters",
-      "id": "54aa49063823f890664efa8293eeaf69da8df5b9"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mount-airy",
-      "source": "CRAWL",
-      "targetPath": "/mount-airy",
-      "id": "c73980cb3e30acb8a54c5790369061b153a4e25e"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/moy-rodriguez",
-      "source": "CRAWL",
-      "targetPath": "/moy-rodriguez",
-      "id": "9511b5dd04a77f667948f86162ec1d44b86cc07b"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/nancy-donado",
-      "source": "CRAWL",
-      "targetPath": "/nancy-donado",
-      "id": "3fd7d59e0c94604917f581826f9844738f5de1de"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/nate-russ",
-      "source": "CRAWL",
-      "targetPath": "/nate-russ",
-      "id": "2c66d5ec37a2af8d99b8d20f508f45751fdb3175"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/natick",
-      "source": "CRAWL",
-      "targetPath": "/natick",
-      "id": "83fb96a80f0f6bd4c968395ac9d665b6ca0efa7d"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/neil-kress",
-      "source": "CRAWL",
-      "targetPath": "/neil-kress",
-      "id": "3b3c0200836347c0fc4112c94974307a4220da27"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/new-bern",
-      "source": "CRAWL",
-      "targetPath": "/new-bern",
-      "id": "2f2aa5890b4b13643239cd1742179326dc3ef6b4"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/nicki-strickland",
-      "source": "CRAWL",
-      "targetPath": "/nicki-strickland",
-      "id": "d947d747b74575da21a6672a747636a60c06d5db"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/nikki-curry",
-      "source": "CRAWL",
-      "targetPath": "/nikki-curry",
-      "id": "f38fb6398087dd8fdd7bb6b54eb5c4d8041e060b"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/noe-garcia",
-      "source": "CRAWL",
-      "targetPath": "/noe-garcia",
-      "id": "b4cd7cd3e253325f4a293991fe2b971f26146708"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/ocean-city",
-      "source": "CRAWL",
-      "targetPath": "/ocean-city",
-      "id": "42fed33a822487c7804abba1fc693fc474bc3d6a"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/oklahoma-city",
-      "source": "CRAWL",
-      "targetPath": "/oklahoma-city",
-      "id": "861796aa9e08b8e9018d264ee065b70d035d9f6d"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/palm-beach-gardens",
-      "source": "CRAWL",
-      "targetPath": "/palm-beach-gardens",
-      "id": "10d12fdfb76ae83f244dbe4d2c4fc4fda7ccd009"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/patricia-wiatrek",
-      "source": "CRAWL",
-      "targetPath": "/patricia-wiatrek",
-      "id": "2f5884981a3f057c613a1a93195e6b0e4e568801"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/patrick-rockett",
-      "source": "CRAWL",
-      "targetPath": "/patrick-rockett",
-      "id": "87cc6c260ba11a21137ffb7ff90fd7c952747143"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/patrick-toronto",
-      "source": "CRAWL",
-      "targetPath": "/patrick-toronto",
-      "id": "49363458ea4c82b4a32e1dcd6a5aeb30f33ce7c3"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/paul-cazalas",
-      "source": "CRAWL",
-      "targetPath": "/paul-cazalas",
-      "id": "c4463bd07e4a4c74291457792f1aad212536ea13"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/paul-holzmeyer",
-      "source": "CRAWL",
-      "targetPath": "/paul-holzmeyer",
-      "id": "30491c2698a46e9f75e70b9bd3962d32dc87422f"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/phyllis-cheong",
-      "source": "CRAWL",
-      "targetPath": "/phyllis-cheong",
-      "id": "a769a8f482e4e7526904b86fe74bfdba80fdc72d"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/plano",
-      "source": "CRAWL",
-      "targetPath": "/plano",
-      "id": "2c6d8bf764edbe24cfa98c095d61f715b350a367"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/port-st-lucie",
-      "source": "CRAWL",
-      "targetPath": "/port-st-lucie",
-      "id": "9b963a6fc76f465b00d30ba250eb292518cd2551"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/privacy-policy",
-      "source": "CRAWL",
-      "targetPath": "/privacy-policy",
-      "id": "e6d85d4dcfa2c422dfd244fc929e65467367fc2e"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/prosper",
-      "source": "CRAWL",
-      "targetPath": "/prosper",
-      "id": "daa3c991183c295066c3d90d9cd51628abec5a66"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/ram-chamlagai",
-      "source": "CRAWL",
-      "targetPath": "/ram-chamlagai",
-      "id": "2a8fe6c58d6f60754be74ba8f6623601c3d9e3e0"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/rebecca-king",
-      "source": "CRAWL",
-      "targetPath": "/rebecca-king",
-      "id": "3a7aceb425619828f027bcabb46ee404fed17e07"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/renee-dalessio",
-      "source": "CRAWL",
-      "targetPath": "/renee-dalessio",
-      "id": "046d049d4fd56dacb6eee19eed132fcb46e054a4"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/renee-goodrich",
-      "source": "CRAWL",
-      "targetPath": "/renee-goodrich",
-      "id": "f058e8e4092ee6c3c044b4ffcf6a29d77d72153d"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/reston",
-      "source": "CRAWL",
-      "targetPath": "/reston",
-      "id": "0dc28ee2deb4e810383b06bde9d8af7ebc4701b5"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/richmond",
-      "source": "CRAWL",
-      "targetPath": "/richmond",
-      "id": "fe70f2fd7c74cbe3ddb0048fb385cf5623be211a"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/roanoke",
-      "source": "CRAWL",
-      "targetPath": "/roanoke",
-      "id": "ff606a814f19be15b907f42c7a05e328284a630a"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/rob-camras",
-      "source": "CRAWL",
-      "targetPath": "/rob-camras",
-      "id": "afa7b7fcb10cd3d6b0f33358f973cf503c3bd0ba"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/rob-flores",
-      "source": "CRAWL",
-      "targetPath": "/rob-flores",
-      "id": "ac8679487a2f92649eac12830e64632875d7f349"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/robbie-hetland",
-      "source": "CRAWL",
-      "targetPath": "/robbie-hetland",
-      "id": "4425532779b0893ce4b6e10bb5b99c8da17f9837"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/robertf",
-      "source": "CRAWL",
-      "targetPath": "/robertf",
-      "id": "860695b00fce980a611db81ae368a84f2ff43a47"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/roger-reyes",
-      "source": "CRAWL",
-      "targetPath": "/roger-reyes",
-      "id": "89ba373ce8c5993b312b2fb7ed0e4fdfa7214f94"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/rose-catalano",
-      "source": "CRAWL",
-      "targetPath": "/rose-catalano",
-      "id": "7f2f749dc66f07d432dc2600a08fda346b6c0124"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/roy-lozano",
-      "source": "CRAWL",
-      "targetPath": "/roy-lozano",
-      "id": "c57aebf9dfc40674e6e4b3fb04f613bcc2db4c06"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/russell-rhodes",
-      "source": "CRAWL",
-      "targetPath": "/russell-rhodes",
-      "id": "68a8c36ddc7aa149cd7773cb6ca179554e9b753e"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/ruth-perez",
-      "source": "CRAWL",
-      "targetPath": "/ruth-perez",
-      "id": "9c6daca2fed94ad87373c719d7ea6a4ab97d821b"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/ryan-angier",
-      "source": "CRAWL",
-      "targetPath": "/ryan-angier",
-      "id": "9fd2cbad1e0a9dbf3a93e479893df4a9876d11ef"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/sallye-gibson",
-      "source": "CRAWL",
-      "targetPath": "/sallye-gibson",
-      "id": "48b43fb5b5a87a59e0f2f05d4e3a0bfadf99c676"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/san-antonio",
-      "source": "CRAWL",
-      "targetPath": "/san-antonio",
-      "id": "93be000ffd828f6d76ac4fe0edc088cf224c2778"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/san-antonio-blanco-at-west-avenue",
-      "source": "CRAWL",
-      "targetPath": "/san-antonio-blanco-at-west-avenue",
-      "id": "27daae96f9c3ff6d3dd2e63ebdee57504e3efef8"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/san-antonio-park-north",
-      "source": "CRAWL",
-      "targetPath": "/san-antonio-park-north",
-      "id": "ef78dcadf2678d4ef1417a539666c9a686082a91"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/sara-lenes",
-      "source": "CRAWL",
-      "targetPath": "/sara-lenes",
-      "id": "a74b06a5bc1396e896fa45dba4e354aef8be62a7"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/savannah",
-      "source": "CRAWL",
-      "targetPath": "/savannah",
-      "id": "4512b6a9d9641ccddc51bc343d3041bf2d4c38e2"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/schuylkill-haven",
-      "source": "CRAWL",
-      "targetPath": "/schuylkill-haven",
-      "id": "6e9c9726473822e1d423cbeb3af11ecd88de0791"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/scott-story",
-      "source": "CRAWL",
-      "targetPath": "/scott-story",
-      "id": "3e9568ef182effd43aac90fc8cea78f23b9c058b"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/sean-williams",
-      "source": "CRAWL",
-      "targetPath": "/sean-williams",
-      "id": "d62757a0b2943b28c4e50d0047740b392935dea4"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/senatobia",
-      "source": "CRAWL",
-      "targetPath": "/senatobia",
-      "id": "cb4f06558b07dbbbe886c083d594477d80396147"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/shane-kimbrough",
-      "source": "CRAWL",
-      "targetPath": "/shane-kimbrough",
-      "id": "2e1be958c2d2579a5988654b5a66c59a5adeed54"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/shane-siniard",
-      "source": "CRAWL",
-      "targetPath": "/shane-siniard",
-      "id": "61779cff2546654b5a8cfb80a03539e11d0e399c"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/sharon-burgoon",
-      "source": "CRAWL",
-      "targetPath": "/sharon-burgoon",
-      "id": "cf419264745560c62d2eda53ad61d6208f2786b1"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/sharon-generotti",
-      "source": "CRAWL",
-      "targetPath": "/sharon-generotti",
-      "id": "9904ad830d337892819a80d79fb943722fad59a8"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/sheri-osland",
-      "source": "CRAWL",
-      "targetPath": "/sheri-osland",
-      "id": "c8c271cb78e969a9394c4ebc17af1fa89ec50905"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/sir-barton-way",
-      "source": "CRAWL",
-      "targetPath": "/sir-barton-way",
-      "id": "bdd6e01e7fd32d0a53023d1734e1bb86b7cd027f"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/smyrna",
-      "source": "CRAWL",
-      "targetPath": "/smyrna",
-      "id": "5a211a97dba7aae3803933812cfbbecd128c50c1"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/smyrna-airport",
-      "source": "CRAWL",
-      "targetPath": "/smyrna-airport",
-      "id": "c26978e68bab8a552f29682b456ac234d8277885"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/smyrna-cadence",
-      "source": "CRAWL",
-      "targetPath": "/smyrna-cadence",
-      "id": "38b192cf9ffb30050e1b9c7554275741aecda992"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/south-ogden",
-      "source": "CRAWL",
-      "targetPath": "/south-ogden",
-      "id": "f8c98b1d84f1fab18fbf5670a35c2f07282da048"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/st-paul",
-      "source": "CRAWL",
-      "targetPath": "/st-paul",
-      "id": "9e8d9ab5a776084d7fc1f79817d655b770583266"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/stefano-doherty",
-      "source": "CRAWL",
-      "targetPath": "/stefano-doherty",
-      "id": "8d50caf9f13e994201d0f83db4ccd416a7d73efa"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/steve-butterweck",
-      "source": "CRAWL",
-      "targetPath": "/steve-butterweck",
-      "id": "d5ea5f5a0836eb80caab23fea66a6ea4c67cdab0"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/steve-furlong",
-      "source": "CRAWL",
-      "targetPath": "/steve-furlong",
-      "id": "6925e03f0cce3a14103a544b62fe339de57962d5"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/stillwater",
-      "source": "CRAWL",
-      "targetPath": "/stillwater",
-      "id": "a866c130129fa29f01acec8fd67d73b93dd7c29d"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/susan-michael",
-      "source": "CRAWL",
-      "targetPath": "/susan-michael",
-      "id": "91c59d520bc23c58cee68f64c530bc11a244cee9"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/swbc-mortgage-corporation1",
-      "source": "CRAWL",
-      "targetPath": "/swbc-mortgage-corporation1",
-      "id": "c08f5419c2b24c7669697666fd3e57aab03eae50"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/tammy-balentine",
-      "source": "CRAWL",
-      "targetPath": "/tammy-balentine",
-      "id": "f14c4395c9a66b2f2f42f0b1b35bcbf5c3fce1fe"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/tanya-nielsen",
-      "source": "CRAWL",
-      "targetPath": "/tanya-nielsen",
-      "id": "3abd26ad0afad1b6e10cefb494fdf12d5b404448"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/teresa-bonner",
-      "source": "CRAWL",
-      "targetPath": "/teresa-bonner",
-      "id": "99d7bc4f16a5ef0260a692347239954ad128e830"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/teresa-lockaby",
-      "source": "CRAWL",
-      "targetPath": "/teresa-lockaby",
-      "id": "c7fb39e6fbc56c3bfffbb53dc4e47a74f871f95c"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/terry-terwedo",
-      "source": "CRAWL",
-      "targetPath": "/terry-terwedo",
-      "id": "3678bcac06e6150e51c96f9e8f89ad77867aed99"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/texarkana",
-      "source": "CRAWL",
-      "targetPath": "/texarkana",
-      "id": "e555768cba21a251323a3441e4f625f3917423e1"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/theresa-guettler",
-      "source": "CRAWL",
-      "targetPath": "/theresa-guettler",
-      "id": "87d85b7130941c9d4aa944a2a1bc2af3ecaecb65"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/tim-blackburn",
-      "source": "CRAWL",
-      "targetPath": "/tim-blackburn",
-      "id": "a2cd97d8c81b848577a89e4c8dda9e8bc8b1b1c8"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/tim-donohue",
-      "source": "CRAWL",
-      "targetPath": "/tim-donohue",
-      "id": "2d95c1cda09c0b9f83e1ded80d4e40b85949e6ae"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/tina-habhegger",
-      "source": "CRAWL",
-      "targetPath": "/tina-habhegger",
-      "id": "d59ef4eee13a891cea9dfc02b625981fcd1b5ae2"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/tj-gladwin",
-      "source": "CRAWL",
-      "targetPath": "/tj-gladwin",
-      "id": "486bee663fd8cc9fb794cd1a766768f107762473"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/tom-gill",
-      "source": "CRAWL",
-      "targetPath": "/tom-gill",
-      "id": "449c2ad8e8a18bd020f61418ae2100783d8aca20"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/tony-demchak",
-      "source": "CRAWL",
-      "targetPath": "/tony-demchak",
-      "id": "c972067425377e39f7345a9e7a29b9d57ff8d645"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/trent-miller",
-      "source": "CRAWL",
-      "targetPath": "/trent-miller",
-      "id": "ac644d2b84914e70d6de833984b75aada4af08b8"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/trice-glass",
-      "source": "CRAWL",
-      "targetPath": "/trice-glass",
-      "id": "0cc250c071f538fa28b9082a8c57f97d7dfb1bc8"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/turnkey",
-      "source": "CRAWL",
-      "targetPath": "/turnkey",
-      "id": "39106d34b13714c061f960e25b4ca288bcae6bf9"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/ty-scoggins",
-      "source": "CRAWL",
-      "targetPath": "/ty-scoggins",
-      "id": "1e10619f0ec7b992b154b243eb31132633bc433c"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/tyler",
-      "source": "CRAWL",
-      "targetPath": "/tyler",
-      "id": "eb6a343d0788d98c2bb1b42875379c066e7b37a2"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/vicky-brietzke",
-      "source": "CRAWL",
-      "targetPath": "/vicky-brietzke",
-      "id": "ba075cbe8dc15a14cda715ac93998d170f122dd6"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/waco",
-      "source": "CRAWL",
-      "targetPath": "/waco",
-      "id": "5c8485b1cf50d89478b45fac89737928669ed296"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/waco-downtown",
-      "source": "CRAWL",
-      "targetPath": "/waco-downtown",
-      "id": "0c6b4f7cea3bfbb40b1602d05d8c83c4039f9775"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/waco-lake-air",
-      "source": "CRAWL",
-      "targetPath": "/waco-lake-air",
-      "id": "5c5f6f28a635d3b7538edad1a5429d28de28b9b4"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/waco-valley-mills",
-      "source": "CRAWL",
-      "targetPath": "/waco-valley-mills",
-      "id": "35f6404ce30c8eb40aef2d247703e832fdb581a9"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/waco-waco-dr",
-      "source": "CRAWL",
-      "targetPath": "/waco-waco-dr",
-      "id": "1a6fc71b66f120c6c25df6c54d425f0177ce7324"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/wesley-engeling",
-      "source": "CRAWL",
-      "targetPath": "/wesley-engeling",
-      "id": "d8c57650573a582e74b0f38445af20ff092634e4"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/whitney-barsalou",
-      "source": "CRAWL",
-      "targetPath": "/whitney-barsalou",
-      "id": "1c7db3ca5359144e826709fb48f7dc512893f87e"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/william-brennen",
-      "source": "CRAWL",
-      "targetPath": "/william-brennen",
-      "id": "dfe1bcc611c16aa018966d0e3ebd4906566fe0f0"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/woodbury",
-      "source": "CRAWL",
-      "targetPath": "/woodbury",
-      "id": "069fb1afb44c1fff876b04f1274e0d6ac1e6c430"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/woodlands",
-      "source": "CRAWL",
-      "targetPath": "/woodlands",
-      "id": "b2b8d16b7b0fe6430edf12802130e390583da83d"
+      "url": "https://www.swbc.com/workers-compensation-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/workers-compensation-insurance",
+      "id": "99486e9097d91ccbb59dec9e9b55dbbb293309d0"
     }
   ],
   "crawlOptions": {
@@ -2135,286 +695,18 @@
     "limit": 1000,
     "sameDomain": true,
     "keepHash": false,
-    "strategy": "crawl",
+    "strategy": "sitemaps",
     "logger": {},
     "strategiesAttempted": [
-      "CRAWL"
+      "SITEMAPS"
     ]
   },
   "extractionErrors": [
     {
-      "url": "https://www.swbcmortgage.com/about-us",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/about"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/About-us",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/about-us"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/careers",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/career"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/FAQs",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/faqs"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/FAQs/10-ways-to-improve-your-credit-score",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/faqs/10-ways-to-improve-your-credit-score"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/FAQs/5-questions-to-ask-before-you-refinance-your-mortgage",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/faqs/5-questions-to-ask-before-you-refinance-your-mortgage"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/FAQs/6-tips-to-save-big-when-remodeling-your-home",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/faqs/6-tips-to-save-big-when-remodeling-your-home"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/FAQs/a-handy-guide-to-the-home-loan-closing-process",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/faqs/a-handy-guide-to-the-home-loan-closing-process"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/FAQs/gather-these-documents-to-apply-for-a-mortgage",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/faqs/gather-these-documents-to-apply-for-a-mortgage"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/FAQs/home-inspection-vs-real-estate-appraisal",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/faqs/home-inspection-vs-real-estate-appraisal"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/FAQs/improve-your-bad-credit-score-for-your-home-loan",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/faqs/improve-your-bad-credit-score-for-your-home-loan"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/FAQs/the-truth-about-va-loans",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/faqs/the-truth-about-va-loans"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/FAQs/what-you-need-to-know-before-starting-a-home-renovation",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/faqs/what-you-need-to-know-before-starting-a-home-renovation"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/FAQs/why-military-veterans-should-use-a-va-home-loan",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/faqs/why-military-veterans-should-use-a-va-home-loan"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Find-a-Pro",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/find-a-pro"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Find-a-pro",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/find-a-pro"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Home",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/home"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/loan-options",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-loan-options"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/loan-options/refinance",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-loan-options/refinance"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/loan-options/renovation-mortgage-loans",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-loan-options/renovation-mortgage-loans"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-loan-options/USDA-Rural-Development-Mortgage-Loans",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-loan-options/usda-rural-development-mortgage-loans"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/3-steps-to-begin-your-kitchen-renovation",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/3-steps-to-begin-your-kitchen-renovation"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/4-ways-to-stage-your-home",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/4-ways-to-stage-your-home"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/5-questions-to-ask-before-you-refinance-your-mortgage",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/5-questions-to-ask-before-you-refinance-your-mortgage"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/6-areas-to-splurge-when-building-your-custom-home",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/6-areas-to-splurge-when-building-your-custom-home"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/6-tips-to-save-big-when-remodeling-your-home",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/6-tips-to-save-big-when-remodeling-your-home"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/Calculator-List",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/calculator-list"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/Calculator-List?LOANAMOUNT=0&DOWNPAYMENT=0&DOWNPAYMENT_TYPE=Percent&TERM=30&TERM_UNITS=Years&INTERESTRATE=0&CALCULATORID=HF02&HIDEFORMTAG=TRUE&TEMPLATE_ID=www.swbcmortgage.com_1&PostBack=true",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/calculator-list?LOANAMOUNT=0&DOWNPAYMENT=0&DOWNPAYMENT_TYPE=Percent&TERM=30&TERM_UNITS=Years&INTERESTRATE=0&CALCULATORID=HF02&HIDEFORMTAG=TRUE&TEMPLATE_ID=www.swbcmortgage.com_1&PostBack=true"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/Calculator-List?MAXPAYMENTAMOUNT=0&INSURANCE=0&PROPERTYTAX=0&PROPERTYTAX_TYPE=Percent&ASSOCIATIONDUES=%240.00&DOWNPAYMENT=0+%25&DOWNPAYMENT_TYPE=Percent&TERM=30&TERM_UNITS=Years&INTERESTRATE=0&INCOMETAXRATE=0&CALCULATORID=HF09&HIDEFORMTAG=TRUE&TEMPLATE_ID=www.swbcmortgage.com_1&PostBack=true",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/calculator-list?MAXPAYMENTAMOUNT=0&INSURANCE=0&PROPERTYTAX=0&PROPERTYTAX_TYPE=Percent&ASSOCIATIONDUES=%240.00&DOWNPAYMENT=0+%25&DOWNPAYMENT_TYPE=Percent&TERM=30&TERM_UNITS=Years&INTERESTRATE=0&INCOMETAXRATE=0&CALCULATORID=HF09&HIDEFORMTAG=TRUE&TEMPLATE_ID=www.swbcmortgage.com_1&PostBack=true"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/Calculator-List?MONTHLYRENT=%240&RENTERSINSURANCE=%240&RENTINCREASE=0+%25&HOMECOST=%240&DOWNPAYMENT=0+%25&DOWNPAYMENT_TYPE=Percent&INTERESTRATE=0+%25&LOANTERM=30&LOANTERM_UNITS=Years&POINTS=0%25&FEES=%240&PROPERTYTAX=0+%25&PROPERTYTAX_TYPE=Percent&MONTHLYMAINTENANCE=%240&HOMEOWNERSINSURANCE=%240&HOMEAPPRECIATION=0%25&ASSOCIATIONDUES=%240&STATEANDFEDERALTAX=0+%25&INVESTMENTRATEOFRETURN=0%25&LENGTHOFSTAY=5&LENGTHOFSTAY_UNITS=Years&AGENTCOMMISSION=0+%25&AGENTCOMMISSION_TYPE=Percent&CLOSINGFEES=%240&SHOWTOTALEXPENSECHART=False&SHOWCHART=on&CALCULATORID=HF05&HIDEFORMTAG=TRUE&TEMPLATE_ID=www.swbcmortgage.com_1&PostBack=true",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/calculator-list?MONTHLYRENT=%240&RENTERSINSURANCE=%240&RENTINCREASE=0+%25&HOMECOST=%240&DOWNPAYMENT=0+%25&DOWNPAYMENT_TYPE=Percent&INTERESTRATE=0+%25&LOANTERM=30&LOANTERM_UNITS=Years&POINTS=0%25&FEES=%240&PROPERTYTAX=0+%25&PROPERTYTAX_TYPE=Percent&MONTHLYMAINTENANCE=%240&HOMEOWNERSINSURANCE=%240&HOMEAPPRECIATION=0%25&ASSOCIATIONDUES=%240&STATEANDFEDERALTAX=0+%25&INVESTMENTRATEOFRETURN=0%25&LENGTHOFSTAY=5&LENGTHOFSTAY_UNITS=Years&AGENTCOMMISSION=0+%25&AGENTCOMMISSION_TYPE=Percent&CLOSINGFEES=%240&SHOWTOTALEXPENSECHART=False&SHOWCHART=on&CALCULATORID=HF05&HIDEFORMTAG=TRUE&TEMPLATE_ID=www.swbcmortgage.com_1&PostBack=true"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/Calculator-List?ORIGINALLOANAMOUNT=300000&ORIGINALTERM=30&ORIGINALTERM_UNITS=Years&LOANSTARTMONTH=4&LOANSTARTYEAR=2019&CURRENTRATE=0&CASHOUT=0&NEWRATE=0&POINTS=0&OTHERFEES=0&NEWTERM=30&NEWTERM_UNITS=Years&TAXRATE=0&RATEOFRETURN=0&BALLOONTERM=15&BALLOONTERM_UNITS=Years&CURRENTCOMPOUNDING=6&NEWCOMPOUNDING=6&CALCULATORID=HF01&HIDEFORMTAG=TRUE&TEMPLATE_ID=www.swbcmortgage.com_1&PostBack=true",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/calculator-list?ORIGINALLOANAMOUNT=300000&ORIGINALTERM=30&ORIGINALTERM_UNITS=Years&LOANSTARTMONTH=4&LOANSTARTYEAR=2019&CURRENTRATE=0&CASHOUT=0&NEWRATE=0&POINTS=0&OTHERFEES=0&NEWTERM=30&NEWTERM_UNITS=Years&TAXRATE=0&RATEOFRETURN=0&BALLOONTERM=15&BALLOONTERM_UNITS=Years&CURRENTCOMPOUNDING=6&NEWCOMPOUNDING=6&CALCULATORID=HF01&HIDEFORMTAG=TRUE&TEMPLATE_ID=www.swbcmortgage.com_1&PostBack=true"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/fixed-rate-versus-adjustable-rate-mortgages",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/fixed-rate-versus-adjustable-rate-mortgages"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/flexible-loan-options-for-hopeful-homebuyers",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/flexible-loan-options-for-hopeful-homebuyers"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/from-dreams-to-doorstep",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/from-dreams-to-doorstep"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/gather-these-documents-to-apply-for-a-mortgage",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/gather-these-documents-to-apply-for-a-mortgage"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/home-renovations-to-avoid-when-youre-planning-to-move",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/home-renovations-to-avoid-when-youre-planning-to-move"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/how-to-choose-the-right-mortgage-lender-for-you",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/how-to-choose-the-right-mortgage-lender-for-you"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/improve-your-bad-credit-score-for-your-home-loan",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/improve-your-bad-credit-score-for-your-home-loan"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/Loan-Options",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/loan-options"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/Loan-Options/Refinance",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/loan-options/refinance"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/Loan-Options/TurnKey",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/loan-options/turnkey"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/looking-to-sell-signs-its-a-smart-time-to-list-your-home",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/looking-to-sell-signs-its-a-smart-time-to-list-your-home"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/PID/6490/evl/0/CategoryID/16?CategoryName=First-Time-Homebuying",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/pid/6490/evl/0/categoryid/16?CategoryName=First-Time-Homebuying"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/PID/6490/evl/0/CategoryID/17?CategoryName=Financial-Health",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/pid/6490/evl/0/categoryid/17?CategoryName=Financial-Health"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/PID/6490/evl/0/CategoryID/18?CategoryName=Home-Selling",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/pid/6490/evl/0/categoryid/18?CategoryName=Home-Selling"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/PID/6490/evl/0/CategoryID/19?CategoryName=Homebuying",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/pid/6490/evl/0/categoryid/19?CategoryName=Homebuying"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/PID/6490/evl/0/CategoryID/20?CategoryName=Refinancing",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/pid/6490/evl/0/categoryid/20?CategoryName=Refinancing"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/PID/6490/evl/0/CategoryID/21?CategoryName=Renovating",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/pid/6490/evl/0/categoryid/21?CategoryName=Renovating"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/PID/6490/evl/0/CategoryID/22?CategoryName=VA-or-Vet-Financing",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/pid/6490/evl/0/categoryid/22?CategoryName=VA-or-Vet-Financing"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/renovate-your-dream-home-with-a-va-renovation-loan",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/renovate-your-dream-home-with-a-va-renovation-loan"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/selling-your-home-start-by-doing-these-5-things",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/selling-your-home-start-by-doing-these-5-things"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/should-i-sell-or-rent-my-home",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/should-i-sell-or-rent-my-home"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/should-you-buy-a-home-before-the-holidays-pros-and-cons-of-a-fall-home-purchase",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/should-you-buy-a-home-before-the-holidays-pros-and-cons-of-a-fall-home-purchase"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/smart-tips-for-getting-your-home-ready-to-sell",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/smart-tips-for-getting-your-home-ready-to-sell"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/swbc-mortgage-announces-remington-as-new-coo",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/swbc-mortgage-announces-remington-as-new-coo"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/swbc-mortgage-announces-whittier-as-svp-of-production-optimization",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/swbc-mortgage-announces-whittier-as-svp-of-production-optimization"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/swbc-mortgage-expands-access-with-down-payment-grant-program",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/swbc-mortgage-expands-access-with-down-payment-grant-program"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/swbc-mortgage-honored-with-2025-home-possible-rise-awards174-for-fastest-growth-by-freddie-mac",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/swbc-mortgage-honored-with-2025-home-possible-rise-awards174-for-fastest-growth-by-freddie-mac"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/the-truth-about-va-loans",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/the-truth-about-va-loans"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/understand-your-mortgage-statements-what-you-need-to-know",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/understand-your-mortgage-statements-what-you-need-to-know"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/what-to-expect-during-home-inspections",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/what-to-expect-during-home-inspections"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/what-to-look-for-at-an-open-house",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/what-to-look-for-at-an-open-house"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/what-you-need-to-know-before-starting-a-home-renovation",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/what-you-need-to-know-before-starting-a-home-renovation"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/why-military-veterans-should-use-a-va-home-loan",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/why-military-veterans-should-use-a-va-home-loan"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/why-summer-is-a-smart-time-to-buy-a-home",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/why-summer-is-a-smart-time-to-buy-a-home"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/Mortgage-Resources/why-working-with-a-local-lender-matters",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/mortgage-resources/why-working-with-a-local-lender-matters"
-    },
-    {
-      "url": "https://www.swbcmortgage.com/mortgage-resources/loan-options/turnkey",
-      "status": "301 Moved Permanently Redirect: https://www.swbcmortgage.com/turnkey"
+      "url": "https://www.swbc.com/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.swbc.com/sitemap.xml): Error: Status: 404"
     }
   ],
-  "errorCountMessage": "{\"E_301\":68}",
+  "errorCountMessage": "{\"others\":1}",
   "error": null
 }
