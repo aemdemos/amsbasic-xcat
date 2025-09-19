@@ -206,12 +206,6 @@
       "targetPath": "/media-centre/articles/2022"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/access-to-healthcare.html",
-      "source": "SITEMAPS",
-      "id": "3ea3f800ac65f6f2294ba77aeac2f87734047322",
-      "targetPath": "/sustainability/access-to-healthcare"
-    },
-    {
       "url": "https://www.astrazeneca.com/what-science-can-do/topics/data-science-ai/biologics-discovery.html",
       "source": "SITEMAPS",
       "id": "92396c50aeb8f4c6c78841164b8d233877c562c8",
@@ -312,12 +306,6 @@
       "source": "SITEMAPS",
       "id": "31ef1b2f96cec4c9eba7a188f2e86d5072275270",
       "targetPath": "/astrazeneca-exchange"
-    },
-    {
-      "url": "https://www.astrazeneca.com/az-suppliers.html",
-      "source": "SITEMAPS",
-      "id": "beb64aaada9ab68c29adc9e9250f23e653dc2ee0",
-      "targetPath": "/az-suppliers"
     },
     {
       "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier.html",
@@ -458,12 +446,6 @@
       "targetPath": "/legal-notice-and-terms-of-use/id"
     },
     {
-      "url": "https://www.astrazeneca.com/legal-notice-and-terms-of-use/ro.html",
-      "source": "SITEMAPS",
-      "id": "8b788bf3ae3b81a6ffc9cc16df05f07b3207c769",
-      "targetPath": "/legal-notice-and-terms-of-use/ro"
-    },
-    {
       "url": "https://www.astrazeneca.com/media-centre.html",
       "source": "SITEMAPS",
       "id": "024dc5b113f46af863f9dcf3e8afcbe78cdb7723",
@@ -488,12 +470,6 @@
       "targetPath": "/our-company/our-locations/cambridge"
     },
     {
-      "url": "https://www.astrazeneca.com/our-company/our-locations/cambridge/Community-in-Cambridge.html",
-      "source": "SITEMAPS",
-      "id": "992d1f32c2f11323e2fdf66888f466be075c9d76",
-      "targetPath": "/our-company/our-locations/cambridge/community-in-cambridge"
-    },
-    {
       "url": "https://www.astrazeneca.com/our-company/our-locations/gaithersburg.html",
       "source": "SITEMAPS",
       "id": "b7fdd63eba8bc3be44942880e0ba41c2f2a9c0d5",
@@ -510,18 +486,6 @@
       "source": "SITEMAPS",
       "id": "4b0869c5841c1eb4caf38510ae9beb2c1dcb220e",
       "targetPath": "/our-therapy-areas"
-    },
-    {
-      "url": "https://www.astrazeneca.com/our-therapy-areas/cardiovascular-renal-and-metabolism/cardiovascular-disease.html",
-      "source": "SITEMAPS",
-      "id": "efc8da7750db7d0f208eab1e8c8e8d67926db80a",
-      "targetPath": "/our-therapy-areas/cardiovascular-renal-and-metabolism/cardiovascular-disease"
-    },
-    {
-      "url": "https://www.astrazeneca.com/our-therapy-areas/cardiovascular-renal-and-metabolism/heart-failure.html",
-      "source": "SITEMAPS",
-      "id": "f68fbd436d0fc03c3950172608e344ee19ebb5ad",
-      "targetPath": "/our-therapy-areas/cardiovascular-renal-and-metabolism/heart-failure"
     },
     {
       "url": "https://www.astrazeneca.com/our-therapy-areas/cardiovascular-renal-and-metabolism/metabolism.html",
@@ -680,12 +644,6 @@
       "targetPath": "/sustainability"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/access-to-healthcare/affordability-and-pricing.html",
-      "source": "SITEMAPS",
-      "id": "5d3327dcad1cf7926e44e23813cd39f8a8ad396c",
-      "targetPath": "/sustainability/access-to-healthcare/affordability-and-pricing"
-    },
-    {
       "url": "https://www.astrazeneca.com/sustainability/access-to-healthcare/equitable-access.html",
       "source": "SITEMAPS",
       "id": "c1aaac9756af9dc68e3d3b4a3f0cd82c4aec02bb",
@@ -714,24 +672,6 @@
       "source": "SITEMAPS",
       "id": "c8d8467104757aaa27d32c03780a0a335169cbd5",
       "targetPath": "/sustainability/climate-change/renewable-energy"
-    },
-    {
-      "url": "https://www.astrazeneca.com/sustainability/environmental-protection/ambition-zero-carbon.html",
-      "source": "SITEMAPS",
-      "id": "135191ee2f70037631a203893d8ce7c0b00405ff",
-      "targetPath": "/sustainability/environmental-protection/ambition-zero-carbon"
-    },
-    {
-      "url": "https://www.astrazeneca.com/sustainability/environmental-protection/natural-resources.html",
-      "source": "SITEMAPS",
-      "id": "8a9e310bd5caae443ce7d1fabffc266b9e85fe69",
-      "targetPath": "/sustainability/environmental-protection/natural-resources"
-    },
-    {
-      "url": "https://www.astrazeneca.com/sustainability/ethics-and-transparency/ethical-business-culture.html",
-      "source": "SITEMAPS",
-      "id": "54e1c0a99fa4129ee1e99f559a7a9a78248cf365",
-      "targetPath": "/sustainability/ethics-and-transparency/ethical-business-culture"
     },
     {
       "url": "https://www.astrazeneca.com/sustainability/ethics-compliance/animals-in-research.html",
