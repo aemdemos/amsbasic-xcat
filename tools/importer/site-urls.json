@@ -1,804 +1,2899 @@
 {
-  "originUrl": "https://www.astrazeneca.com",
-  "customerName": "Astrazeneca-143",
+  "originUrl": "https://www.researchaffiliates.com/",
+  "customerName": "Researchaffiliates",
+  "lastCrawled": "https://www.researchaffiliates.com/",
   "urls": [
     {
-      "url": "https://www.astrazeneca.com/country-sites/thailand/press-releases/LAAB-enhancing-immunity-for-the-elderly-th.html",
-      "source": "SITEMAPS",
-      "id": "138ba5331ac9a87f93a7e004b7cd6981a8ff5259",
-      "targetPath": "/country-sites/thailand/press-releases/laab-enhancing-immunity-for-the-elderly-th"
+      "url": "https://www.researchaffiliates.com/home",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/press-releases/2020/astrazeneca-acquires-oral-pcsk9-inhibitor-programme-from-dogma-therapeutics.html",
-      "source": "SITEMAPS",
-      "id": "369157858de1405c40dd3b3d9fa34dbd5905c5af",
-      "targetPath": "/media-centre/press-releases/2020/astrazeneca-acquires-oral-pcsk9-inhibitor-programme-from-dogma-therapeutics"
+      "url": "https://www.researchaffiliates.com/europe/home",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/press-releases/2022/acquisition-of-teneotwo-for-its-clinical-stage-t-cell-engager-completed.html",
-      "source": "SITEMAPS",
-      "id": "594ad0436270eee386d01eef2a72376d019fa603",
-      "targetPath": "/media-centre/press-releases/2022/acquisition-of-teneotwo-for-its-clinical-stage-t-cell-engager-completed"
+      "url": "https://www.researchaffiliates.com/insights/conversations/fintech-investors-friend-or-foe-part-1",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/press-releases/2021/acquisition-of-alexion-completed.html",
-      "source": "SITEMAPS",
-      "id": "6b5765d69490a139b5eb4fd5a963f0ff2c3ceee5",
-      "targetPath": "/media-centre/press-releases/2021/acquisition-of-alexion-completed"
+      "url": "https://www.researchaffiliates.com/insights/conversations/fintech-investors-friend-or-foe-part-2",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/medical-releases/Anifrolumab-reduces-disease-flares-in-patients-with-systemic-lupus-erythematosus-while-allowing-oral-corticosteroid-tapering.html",
-      "source": "SITEMAPS",
-      "id": "05ba988a4986d317af7fc6b2f76df3efb939d079",
-      "targetPath": "/media-centre/medical-releases/anifrolumab-reduces-disease-flares-in-patients-with-systemic-lupus-erythematosus-while-allowing-oral-corticosteroid-tapering"
+      "url": "https://www.researchaffiliates.com/insights/conversations/what-is-quality",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/press-releases/2023/9m-and-q3-2023-results.html",
-      "source": "SITEMAPS",
-      "id": "f21d0aec08ff6a4b5cdb11f5e78177a0b76698b8",
-      "targetPath": "/media-centre/press-releases/2023/9m-and-q3-2023-results"
+      "url": "https://www.researchaffiliates.com/insights/conversations/the-inverted-yield-curve-and-stock-returns",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/press-releases/2024/9m-and-q3-2024-results.html",
-      "source": "SITEMAPS",
-      "id": "4d3a5afd17c4e01f7a838b517d0a5b99a79f4fbd",
-      "targetPath": "/media-centre/press-releases/2024/9m-and-q3-2024-results"
+      "url": "https://www.researchaffiliates.com/insights/conversations/the-inverted-yield-curve",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/press-releases/2019/H1-2019-results.html",
-      "source": "SITEMAPS",
-      "id": "5956d5c5ba643f03545efbbd6748768801d4e4a4",
-      "targetPath": "/media-centre/press-releases/2019/h1-2019-results"
+      "url": "https://www.researchaffiliates.com/insights/conversations/do-investors-value-sustainability",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/press-releases/2014/astrazenca-scientific-leadership-growth-jp-morgan-healthcare-conference-14012014.html",
-      "source": "SITEMAPS",
-      "id": "f5c2805200770980fc13478385df19eac91cd5a3",
-      "targetPath": "/media-centre/press-releases/2014/astrazenca-scientific-leadership-growth-jp-morgan-healthcare-conference-14012014"
+      "url": "https://www.researchaffiliates.com/insights/conversations/narrative-economics-part-1",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/press-releases/2015/-fda-advisory-committee-recommends-the-approval-of-lesinurad-for-gout-patients-23102015.html",
-      "source": "SITEMAPS",
-      "id": "3d4e8166302a9ce5c5b626c2e549985f22506f06",
-      "targetPath": "/media-centre/press-releases/2015/fda-advisory-committee-recommends-the-approval-of-lesinurad-for-gout-patients-23102015"
+      "url": "https://www.researchaffiliates.com/insights/conversations/the-unintended-consequences-of-thinking-in-dollars",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/our-company/our-people/Elisabeth-Bjork.html",
-      "source": "SITEMAPS",
-      "id": "216b277f1dddfe887dce798abf575a44d227c22a",
-      "targetPath": "/our-company/our-people/elisabeth-bjork"
+      "url": "https://www.researchaffiliates.com/insights/conversations/the-history-of-the-cross-section-of-stock-returns",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/press-releases/2018/1st-line-tagrisso-demonstrates-sustained-benefit-post-progression-in-patients-with-egfr-mutated-non-small-cell-lung-cancer-13042018.html",
-      "source": "SITEMAPS",
-      "id": "cb15803b7f32c7513c1483368f1fa02417166b0b",
-      "targetPath": "/media-centre/press-releases/2018/1st-line-tagrisso-demonstrates-sustained-benefit-post-progression-in-patients-with-egfr-mutated-non-small-cell-lung-cancer-13042018"
+      "url": "https://www.researchaffiliates.com/insights/conversations/surprise-high-employee-satisfaction-more-positive-earnings-surprises",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/press-releases/2017/Siliq-brodalumab-approved-by-the-US-FDA-for-adult-patients-with-moderate-to-severe-plaque-psoriasis-160220170.html",
-      "source": "SITEMAPS",
-      "id": "b62b80271b53bda7e5b6fffba8986d5a006154dc",
-      "targetPath": "/media-centre/press-releases/2017/siliq-brodalumab-approved-by-the-us-fda-for-adult-patients-with-moderate-to-severe-plaque-psoriasis-160220170"
+      "url": "https://www.researchaffiliates.com/insights/conversations/strategies-for-reducing-failures-of-self-control",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/press-releases/2016/AstraZeneca-and-Eli-Lilly-and-company-announce-continuation-of-pivotal-clinical-trial-for-people-with-early-alzheimers-disease-08042016.html",
-      "source": "SITEMAPS",
-      "id": "16bcf88b52947797ae2e71bf85f49db824a1d4ce",
-      "targetPath": "/media-centre/press-releases/2016/astrazeneca-and-eli-lilly-and-company-announce-continuation-of-pivotal-clinical-trial-for-people-with-early-alzheimers-disease-08042016"
+      "url": "https://www.researchaffiliates.com/insights/conversations/flattening-yield-curve",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/press-releases/2013/astrazeneca-accelerated-oncology-pipeline-2013-asco-annual-meeting-16052013.html",
-      "source": "SITEMAPS",
-      "id": "d3ec1d2248750a6cf85e8170bcaec59ef63b3674",
-      "targetPath": "/media-centre/press-releases/2013/astrazeneca-accelerated-oncology-pipeline-2013-asco-annual-meeting-16052013"
+      "url": "https://www.researchaffiliates.com/insights/multimedia",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/press-releases/2010/24-Week-Phase-3-Study-Found-Investigational-Drug-Dapagliflozin-Improved-Glycosylated-Hemoglobin-HbA1c-When-Added-to-Glimepiride-in-Adults-with-Type-2-Diabetes-Mellitus-20092010.html",
-      "source": "SITEMAPS",
-      "id": "316a599a072afdc0e492b93e56f9c4816d44ceca",
-      "targetPath": "/media-centre/press-releases/2010/24-week-phase-3-study-found-investigational-drug-dapagliflozin-improved-glycosylated-hemoglobin-hba1c-when-added-to-glimepiride-in-adults-with-type-2-diabetes-mellitus-20092010"
+      "url": "https://www.researchaffiliates.com/insights/esg",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/press-releases/2009/Advisory-Committee-Briefing-Materials-For-Crestor-sND-11122009.html",
-      "source": "SITEMAPS",
-      "id": "4a18869e5e6efb4e24d044e4ad15653523188636",
-      "targetPath": "/media-centre/press-releases/2009/advisory-committee-briefing-materials-for-crestor-snd-11122009"
+      "url": "https://www.researchaffiliates.com/insights/smart-beta",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/press-releases/2025/acquisition-of-esobiotec-completed.html",
-      "source": "SITEMAPS",
-      "id": "dad45158b690e98454f5a43385d488f64ffa5952",
-      "targetPath": "/media-centre/press-releases/2025/acquisition-of-esobiotec-completed"
+      "url": "https://www.researchaffiliates.com/insights/webinar-factor-investing",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/press-releases/2011/-fda-accepts-new-drug-application-for-investigational-compound-08032011.html",
-      "source": "SITEMAPS",
-      "id": "73e24936c46ffd55c6c3e7e27709a93e50f6984a",
-      "targetPath": "/media-centre/press-releases/2011/fda-accepts-new-drug-application-for-investigational-compound-08032011"
+      "url": "https://www.researchaffiliates.com/insights/demographics",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/press-releases/2012/Alzheimers-cancer-and-rare-disease-research-to-benefit-from-landmark-MRC-AstraZeneca-compound-collaboration-31102012.html",
-      "source": "SITEMAPS",
-      "id": "bc92da447fe958dabe55324c3b4b04fb8107c225",
-      "targetPath": "/media-centre/press-releases/2012/alzheimers-cancer-and-rare-disease-research-to-benefit-from-landmark-mrc-astrazeneca-compound-collaboration-31102012"
+      "url": "https://www.researchaffiliates.com/insights/795-this-too-shall-pass",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/investor-relations/9m-and-q3-2023-results.html",
-      "source": "SITEMAPS",
-      "id": "ddc0efbc4d896d4a35361012354daadded8fcba4",
-      "targetPath": "/investor-relations/9m-and-q3-2023-results"
+      "url": "https://www.researchaffiliates.com/publications",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/what-science-can-do/topics/disease-understanding/Hitting-the-bullseye-finding-better-targets-for-drug-development.html",
-      "source": "SITEMAPS",
-      "id": "df9e28a589e8fe418aa881e6a1ddd1a437aef472",
-      "targetPath": "/what-science-can-do/topics/disease-understanding/hitting-the-bullseye-finding-better-targets-for-drug-development"
+      "url": "https://www.researchaffiliates.com/publications/articles/933-no-excuses-plan-now-for-recession",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/country-sites/african-cluster.html",
-      "source": "SITEMAPS",
-      "id": "29aedc696134baa1fd1277626bf3f205391baf42",
-      "targetPath": "/country-sites/african-cluster"
+      "url": "https://www.researchaffiliates.com/publications/articles/935-necessary-trade-offs",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/articles/2024/AI-solutions-healthcare-emerging-markets.html",
-      "source": "SITEMAPS",
-      "id": "e6c5af00032d80ac0c659fe94c007f9011534ad0",
-      "targetPath": "/media-centre/articles/2024/ai-solutions-healthcare-emerging-markets"
+      "url": "https://www.researchaffiliates.com/publications/articles/939-direct-indexing",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/what-science-can-do/topics/next-generation-therapeutics/Accelerating-innovation-to-transform-cancer-care.html",
-      "source": "SITEMAPS",
-      "id": "dd2be512ee0bd7a27f4e77f1118800aa69ef3c0f",
-      "targetPath": "/what-science-can-do/topics/next-generation-therapeutics/accelerating-innovation-to-transform-cancer-care"
+      "url": "https://www.researchaffiliates.com/publications/articles/946-silver-lining-of-unexpected-inflation",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/articles/2023/advancing-the-science-in-immune-mediated-diseases.html",
-      "source": "SITEMAPS",
-      "id": "a6bad79ffed7c2d8f98418067e757f823364e95b",
-      "targetPath": "/media-centre/articles/2023/advancing-the-science-in-immune-mediated-diseases"
+      "url": "https://www.researchaffiliates.com/publications/articles/attention-3-d-shoppers",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics/T-cell-engager.html",
-      "source": "SITEMAPS",
-      "id": "54110a609eef621083b78be4f5a00cf7e518cfa5",
-      "targetPath": "/r-d/next-generation-therapeutics/t-cell-engager"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2013-10-desert-island-portfolio",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/articles/2022/AZ-Forest-New-Partnership-Commitments.html",
-      "source": "SITEMAPS",
-      "id": "90b323a9c8e9765986c93598cb6c4d48fe5f94fe",
-      "targetPath": "/media-centre/articles/2022/az-forest-new-partnership-commitments"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2013-11-two-nobel-laureates",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/press-releases/2009.html",
-      "source": "SITEMAPS",
-      "id": "c56d55f3f120ad6b93a125b800214ebbf7a72cb5",
-      "targetPath": "/media-centre/press-releases/2009"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2014-2-measuring-skill",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/what-science-can-do/topics/technologies/Kidney-disease-research-organoids.html",
-      "source": "SITEMAPS",
-      "id": "5011bbfa544f739092598574c0f664fd0c50ae8b",
-      "targetPath": "/what-science-can-do/topics/technologies/kidney-disease-research-organoids"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2014-3-a-preference-for-discomfort",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/what-science-can-do/topics/clinical-innovation/Streamlining-clinical-trials-through-digital-solutions.html",
-      "source": "SITEMAPS",
-      "id": "9d3dca0bc90043b84ea5d548a58f4c856a60cde3",
-      "targetPath": "/what-science-can-do/topics/clinical-innovation/streamlining-clinical-trials-through-digital-solutions"
+      "url": "https://www.researchaffiliates.com/publications/articles/125-the-market-impact-of-index-rebalancing",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/country-sites/singapore/press-releases/astrazeneca-and-lucence-collaborate-in-south-east-asia.html",
-      "source": "SITEMAPS",
-      "id": "5e157b87526f073198ff8d10cbe7c59d798fbd84",
-      "targetPath": "/country-sites/singapore/press-releases/astrazeneca-and-lucence-collaborate-in-south-east-asia"
+      "url": "https://www.researchaffiliates.com/publications/articles/134-an-emerging-asset-class-the-case-for-emerging-markets-local-currency-debt",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/our-therapy-areas/oncology/Liver-cancer.html",
-      "source": "SITEMAPS",
-      "id": "f5d200178da7956b902723b27b676a5039c0ca72",
-      "targetPath": "/our-therapy-areas/oncology/liver-cancer"
+      "url": "https://www.researchaffiliates.com/publications/articles/212-true-grit-the-durable-low-volatility-effect",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/articles/2022.html",
-      "source": "SITEMAPS",
-      "id": "839c321ab001b7c11c693c4d70fa0c27efc16ba2",
-      "targetPath": "/media-centre/articles/2022"
+      "url": "https://www.researchaffiliates.com/publications/articles/214-timing-low-volatility-investments",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/what-science-can-do/topics/data-science-ai/biologics-discovery.html",
-      "source": "SITEMAPS",
-      "id": "92396c50aeb8f4c6c78841164b8d233877c562c8",
-      "targetPath": "/what-science-can-do/topics/data-science-ai/biologics-discovery"
+      "url": "https://www.researchaffiliates.com/publications/articles/227-the-outlook-for-emerging-market-bonds",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/partnering/Externally-sponsored-scientific-research-training-centre.html",
-      "source": "SITEMAPS",
-      "id": "40f51abece68adcfb076c6a1143519ecc5f73f4a",
-      "targetPath": "/partnering/externally-sponsored-scientific-research-training-centre"
+      "url": "https://www.researchaffiliates.com/publications/articles/229-the-high-cost-of-equal-weighting",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/country-sites/thailand/press-release/an-open-letter-to-the-people-of-thailand-en.html",
-      "source": "SITEMAPS",
-      "id": "76fec331fa19d7961062e7610a163417397f8fde",
-      "targetPath": "/country-sites/thailand/press-release/an-open-letter-to-the-people-of-thailand-en"
+      "url": "https://www.researchaffiliates.com/publications/articles/249-equal-weight-and-fundamental-weight-index-investing",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/CSP.html",
-      "source": "SITEMAPS",
-      "id": "854c183ac58ae40dd866a625dc940c4233951f4c",
-      "targetPath": "/az-suppliers/az-coupa-supplier/csp"
+      "url": "https://www.researchaffiliates.com/publications/articles/255-from-construction-to-results-fundamental-index-investing-in-the-emerging-markets",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/what-science-can-do/topics/sustainability/biocatalysis-perform-sustainable-chemical-reactions.html",
-      "source": "SITEMAPS",
-      "id": "e38c673ad2ba91f5ae110371f5b43892ec87b62b",
-      "targetPath": "/what-science-can-do/topics/sustainability/biocatalysis-perform-sustainable-chemical-reactions"
+      "url": "https://www.researchaffiliates.com/publications/articles/259-the-moneyball-of-quality-investing",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/investor-relations/annual-reports/annual-report-2015.html",
-      "source": "SITEMAPS",
-      "id": "bfebda4a14cfe7c247ac85581b0c880d55758d68",
-      "targetPath": "/investor-relations/annual-reports/annual-report-2015"
+      "url": "https://www.researchaffiliates.com/publications/articles/282-building-a-better-beta-combining-fundamentals-weighting-low-volatility-and-momentum-strategies",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/archive.html",
-      "source": "SITEMAPS",
-      "id": "9ee6b80b83b34018115e6695855fb4f3930602c8",
-      "targetPath": "/media-centre/archive"
+      "url": "https://www.researchaffiliates.com/publications/articles/284-busting-the-myth-about-size",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/our-therapy-areas/biopharmaceuticals.html",
-      "source": "SITEMAPS",
-      "id": "6b36adc4f20c2cdd0a5ce6a82de01a0b6b32a5b0",
-      "targetPath": "/our-therapy-areas/biopharmaceuticals"
+      "url": "https://www.researchaffiliates.com/publications/articles/289-go-for-the-gold-commodities-and-inflation",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/r-d/our-technologies/acoustic-tube-sample-management.html",
-      "source": "SITEMAPS",
-      "id": "84d440feb3393987414eabb8d7f59bccad0a9c88",
-      "targetPath": "/r-d/our-technologies/acoustic-tube-sample-management"
+      "url": "https://www.researchaffiliates.com/publications/articles/293-exploring-smart-beta",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/patient-reported-outcomes/cardiovascular.html",
-      "source": "SITEMAPS",
-      "id": "676941109a4b9360300e6d9b9515fc14b5d2462e",
-      "targetPath": "/patient-reported-outcomes/cardiovascular"
+      "url": "https://www.researchaffiliates.com/publications/articles/313-year-end-capital-markets-commentary-and-forecast-yesterdays-gone",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/country-sites/thailand/an-open-letter-to-the-people-of-thailand-en.html",
-      "source": "SITEMAPS",
-      "id": "9a5dff9d5dfaf84d2fbe7f83e66c5e4eae7ba0e4",
-      "targetPath": "/country-sites/thailand/an-open-letter-to-the-people-of-thailand-en"
+      "url": "https://www.researchaffiliates.com/publications/articles/316-our-investment-beliefs",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/faq/CSP-linked.html",
-      "source": "SITEMAPS",
-      "id": "758da2ada74e200e6223ca13f42cf3abedf1e3cd",
-      "targetPath": "/az-suppliers/az-coupa-supplier/faq/csp-linked"
+      "url": "https://www.researchaffiliates.com/publications/articles/321-hiring-good-managers-is-hard-ha-try-keeping-them",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/our-company/Contact-us.html",
-      "source": "SITEMAPS",
-      "id": "d12a0c826e0b2fcc99845b44c5d31183aea3fa8e",
-      "targetPath": "/our-company/contact-us"
+      "url": "https://www.researchaffiliates.com/publications/articles/322-what-are-we-doing-to-our-young-investors",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/resources/archive.html",
-      "source": "SITEMAPS",
-      "id": "9d5f73e5bd647cdcd7b63a2affd1df7dd9631984",
-      "targetPath": "/sustainability/resources/archive"
+      "url": "https://www.researchaffiliates.com/publications/articles/338-gdp-growth-cutting-through-the-noise",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre/articles/2025/advancing-sustainable-respiratory-care-with-the-transition-to-pMDIs-with-near-zero-GWP-propellant.html",
-      "source": "SITEMAPS",
-      "id": "c1658d5bb8a819cf7a6799c14ce382eb5dc73f59",
-      "targetPath": "/media-centre/articles/2025/advancing-sustainable-respiratory-care-with-the-transition-to-pmdis-with-near-zero-gwp-propellant"
+      "url": "https://www.researchaffiliates.com/publications/articles/339-flying-high-rafi-at-10-years",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/",
-      "source": "SITEMAPS",
-      "id": "ecda591b69347eb7a8a22676c8ef671a2a80646c",
-      "targetPath": "/"
+      "url": "https://www.researchaffiliates.com/publications/articles/356-theres-diversity-in-value",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/astrazeneca-exchange.html",
-      "source": "SITEMAPS",
-      "id": "31ef1b2f96cec4c9eba7a188f2e86d5072275270",
-      "targetPath": "/astrazeneca-exchange"
+      "url": "https://www.researchaffiliates.com/publications/articles/358-the-danger-in-debalancing",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier.html",
-      "source": "SITEMAPS",
-      "id": "3ead70c0c95ff959e114278689c39ca6855a0cf2",
-      "targetPath": "/az-suppliers/az-coupa-supplier"
+      "url": "https://www.researchaffiliates.com/publications/articles/365-woe-betide-the-value-investor",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/az-suppliers/supplier-contact-information.html",
-      "source": "SITEMAPS",
-      "id": "dbb14d23ae12ac40612761d2c6bef72eceb52aa1",
-      "targetPath": "/az-suppliers/supplier-contact-information"
+      "url": "https://www.researchaffiliates.com/publications/articles/378-black-ice-low-volatility-investing-in-theory-and-practice",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/country-sites.html",
-      "source": "SITEMAPS",
-      "id": "764d91667417a848035aa3491ba064933c44e378",
-      "targetPath": "/country-sites"
+      "url": "https://www.researchaffiliates.com/publications/articles/385-are-buybacks-an-oasis-or-a-mirage",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/country-sites/egypt/az-egypt-statement-30052018.html",
-      "source": "SITEMAPS",
-      "id": "583b91277e354fa6dd0e4f4006025765bf56637a",
-      "targetPath": "/country-sites/egypt/az-egypt-statement-30052018"
+      "url": "https://www.researchaffiliates.com/publications/articles/409-the-multiple-metric-approach",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/country-sites/singapore/press-releases.html",
-      "source": "SITEMAPS",
-      "id": "9a77c8fdb883c78fab34de690b3ecd770888c5ae",
-      "targetPath": "/country-sites/singapore/press-releases"
+      "url": "https://www.researchaffiliates.com/publications/articles/410-a-small-twist-on-the-value-debate",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/country-sites/taiwan/23032020.html",
-      "source": "SITEMAPS",
-      "id": "014a3dfd4fcedcd8f0b942a38adb0f10f74da6c2",
-      "targetPath": "/country-sites/taiwan/23032020"
+      "url": "https://www.researchaffiliates.com/publications/articles/411-pensions-and-the-fundamental-index",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/country-sites/vietnam/legal-notice-and-terms-of-use.html",
-      "source": "SITEMAPS",
-      "id": "2b33bab7bee63914970f6050fd287606465d35ca",
-      "targetPath": "/country-sites/vietnam/legal-notice-and-terms-of-use"
+      "url": "https://www.researchaffiliates.com/publications/articles/412-price-indifferent-indexes-the-equal-weighted-alternative",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/global.html",
-      "source": "SITEMAPS",
-      "id": "c048e347d41e136f3593177c23f49cd2efede240",
-      "targetPath": "/global"
+      "url": "https://www.researchaffiliates.com/publications/articles/419-dynamic-style-and-size-exposures",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/global/en.html",
-      "source": "SITEMAPS",
-      "id": "d96f62c86d372dcce2d5d53945e0543594ed97a3",
-      "targetPath": "/global/en"
+      "url": "https://www.researchaffiliates.com/publications/articles/420-does-the-rafi-strategy-pick-stocks",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/global/en/AstraZeneca-Websites.html",
-      "source": "SITEMAPS",
-      "id": "b1436fd8d3db99527f4bdb299db31e03586cbb86",
-      "targetPath": "/global/en/astrazeneca-websites"
+      "url": "https://www.researchaffiliates.com/publications/articles/422-avoiding-negative-alpha",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/global/en/Resources.html",
-      "source": "SITEMAPS",
-      "id": "837e875842867fbf0eed145c3f8e2417e94ddd7f",
-      "targetPath": "/global/en/resources"
+      "url": "https://www.researchaffiliates.com/publications/articles/423-diversify-your-passive-exposure",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/global/en/annualreport.html",
-      "source": "SITEMAPS",
-      "id": "7a9837e2d0ba2a29b06f5e45d238002e9040aa01",
-      "targetPath": "/global/en/annualreport"
+      "url": "https://www.researchaffiliates.com/publications/articles/425-the-international-fundamental-index",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/global/en/sitemap.html",
-      "source": "SITEMAPS",
-      "id": "85738b3a87f8659627c7a9c8ae9a865f5391d7bc",
-      "targetPath": "/global/en/sitemap"
+      "url": "https://www.researchaffiliates.com/publications/articles/429-calling-the-turns-why-market-timing-is-so-hard",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/government-contract-t-cs.html",
-      "source": "SITEMAPS",
-      "id": "aaa404414debc656b470e7b38212cdc457aba6ff",
-      "targetPath": "/government-contract-t-cs"
+      "url": "https://www.researchaffiliates.com/publications/articles/440-are-stocks-overvalued-a-survey-of-equity-valuation-models",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/investor-relations.html",
-      "source": "SITEMAPS",
-      "id": "d44737938df5af955ed1650d9bcbc69512dba3d8",
-      "targetPath": "/investor-relations"
+      "url": "https://www.researchaffiliates.com/publications/articles/448-how-not-to-wipe-out-with-momentum",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/investor-relations/annual-reports/annual-report-2015/cautionary-statement.html",
-      "source": "SITEMAPS",
-      "id": "e42c7c99cc8eb6c6c63f430c33619c3afb46ec9f",
-      "targetPath": "/investor-relations/annual-reports/annual-report-2015/cautionary-statement"
+      "url": "https://www.researchaffiliates.com/publications/articles/460-reeling-in-small-cap-alpha",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/investor-relations/annual-reports/annual-report-2015/reader-information.html",
-      "source": "SITEMAPS",
-      "id": "3d75fe57e943dccf4f562c2caba1753220745af7",
-      "targetPath": "/investor-relations/annual-reports/annual-report-2015/reader-information"
+      "url": "https://www.researchaffiliates.com/publications/articles/462-from-brutish-to-a-brouhaha-shifting-winds-and-the-demographic-payback",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/investor-relations/annual-reports/annual-report-2016/annual-report-and-cautionary-statement.html",
-      "source": "SITEMAPS",
-      "id": "abd2f4696f15d245d7d76119a0dd8b63a0e24cb9",
-      "targetPath": "/investor-relations/annual-reports/annual-report-2016/annual-report-and-cautionary-statement"
+      "url": "https://www.researchaffiliates.com/publications/articles/470-chasing-performance-with-etfs",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/investor-relations/annual-reports/annual-report-2016/contact-information.html",
-      "source": "SITEMAPS",
-      "id": "8e31bc93dce3c232d3d9336f1d429319fdc02272",
-      "targetPath": "/investor-relations/annual-reports/annual-report-2016/contact-information"
+      "url": "https://www.researchaffiliates.com/publications/articles/488-if-factor-returns-are-predictable-why-is-there-an-investor-return-gap",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/investor-relations/debt-investors/emtn-programme.html",
-      "source": "SITEMAPS",
-      "id": "e5a964214edbd0292d99e2199a13d744a0f180ff",
-      "targetPath": "/investor-relations/debt-investors/emtn-programme"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2008-april-indexing-in-inefficient-markets",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/investor-relations/results-and-presentations/archive.html",
-      "source": "SITEMAPS",
-      "id": "af0f221a3f0d02de6c967a49423f8f7c4e2d2784",
-      "targetPath": "/investor-relations/results-and-presentations/archive"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2008-aug-the-anti-bubble-bursts",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/legal-notice-and-terms-of-use.html",
-      "source": "SITEMAPS",
-      "id": "c8295d1307db3896de62cc81f76082e53864da83",
-      "targetPath": "/legal-notice-and-terms-of-use"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2008-dec-the-perfect-storm",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/legal-notice-and-terms-of-use/id.html",
-      "source": "SITEMAPS",
-      "id": "1b51a4ebe7d82e8aa84e6c50206d447b145ed257",
-      "targetPath": "/legal-notice-and-terms-of-use/id"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2008-feb-will-real-passive-strategy-step-forward",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/media-centre.html",
-      "source": "SITEMAPS",
-      "id": "024dc5b113f46af863f9dcf3e8afcbe78cdb7723",
-      "targetPath": "/media-centre"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2008-jan-2007-a-proof-statement",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/our-company.html",
-      "source": "SITEMAPS",
-      "id": "7e2fb43ade2f44149cabf64ae6b0a0bbedf2949e",
-      "targetPath": "/our-company"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2008-july-f-index-review",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/our-company/leadership/susan-galbraith.html",
-      "source": "SITEMAPS",
-      "id": "c201a90b3550791f036e75486485ad30a9a64614",
-      "targetPath": "/our-company/leadership/susan-galbraith"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2008-june-liquid-alt-more-than-hedge",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/our-company/our-locations/cambridge.html",
-      "source": "SITEMAPS",
-      "id": "ef2eb33a8b350aada22540f73cd1c7f835e20dd6",
-      "targetPath": "/our-company/our-locations/cambridge"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2008-march-easier-path-to-real-returns",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/our-company/our-locations/gaithersburg.html",
-      "source": "SITEMAPS",
-      "id": "b7fdd63eba8bc3be44942880e0ba41c2f2a9c0d5",
-      "targetPath": "/our-company/our-locations/gaithersburg"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2008-may-middle-ground-active-passive-debate",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/our-company/our-locations/gothenburg.html",
-      "source": "SITEMAPS",
-      "id": "69a5dfae5abfc4691a0324341266aa5c66c8d395",
-      "targetPath": "/our-company/our-locations/gothenburg"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2008-nov-emerging-markets-ripe",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/our-therapy-areas.html",
-      "source": "SITEMAPS",
-      "id": "4b0869c5841c1eb4caf38510ae9beb2c1dcb220e",
-      "targetPath": "/our-therapy-areas"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2008-oct-what-a-difference-a-quarter-makes",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/our-therapy-areas/cardiovascular-renal-and-metabolism/metabolism.html",
-      "source": "SITEMAPS",
-      "id": "718cc55479afe9175958ad751f61a90727242bdd",
-      "targetPath": "/our-therapy-areas/cardiovascular-renal-and-metabolism/metabolism"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2008-sept-patience-helps",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/our-therapy-areas/cardiovascular-renal-and-metabolism/renal.html",
-      "source": "SITEMAPS",
-      "id": "cbe19d9f28a3913724122f3f2be63d099afdb04e",
-      "targetPath": "/our-therapy-areas/cardiovascular-renal-and-metabolism/renal"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2009-april-different-this-time",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/our-therapy-areas/respiratory-and-immunology/epithelial-science.html",
-      "source": "SITEMAPS",
-      "id": "f18fe6c650973a5bdad20b4c3ea37069b63f6540",
-      "targetPath": "/our-therapy-areas/respiratory-and-immunology/epithelial-science"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2009-aug-crisis-review-negative-alpha",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/our-therapy-areas/respiratory-and-immunology/lupus.html",
-      "source": "SITEMAPS",
-      "id": "3a1713849c089cbbd660c1cb3d6285277d591344",
-      "targetPath": "/our-therapy-areas/respiratory-and-immunology/lupus"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2009-feb-discounts-relative-performance",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/our-therapy-areas/vaccines-and-immune-therapies/covid-19.html",
-      "source": "SITEMAPS",
-      "id": "6c7c5210a03d1cdf8563234c35b981873bd606c2",
-      "targetPath": "/our-therapy-areas/vaccines-and-immune-therapies/covid-19"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2009-jan-exception-to-every-rule",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/our-therapy-areas/vaccines-and-immune-therapies/hMPV.html",
-      "source": "SITEMAPS",
-      "id": "aeb1b3286cf90b19bb841aec7a2114fdb034b3ef",
-      "targetPath": "/our-therapy-areas/vaccines-and-immune-therapies/hmpv"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2009-july-too-far-too-fast",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/our-therapy-areas/vaccines-and-immune-therapies/respiratory-syncytial-virus.html",
-      "source": "SITEMAPS",
-      "id": "e226f875441c5c8be8520434a8f489b42ead05a1",
-      "targetPath": "/our-therapy-areas/vaccines-and-immune-therapies/respiratory-syncytial-virus"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2009-june-toolkit-fighting-inflation",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/partnering.html",
-      "source": "SITEMAPS",
-      "id": "4895c310e37378025189e5ed2afac432f1661594",
-      "targetPath": "/partnering"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2009-march-2008-worst-year-ever-active",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/partnering/az-suppliers/supplier-contact-form.html",
-      "source": "SITEMAPS",
-      "id": "61567da2e84f982ead799ee25724ad41ebd26394",
-      "targetPath": "/partnering/az-suppliers/supplier-contact-form"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2009-may-great-contra-trade",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/partnering/externally-sponsored-scientific-research-partner-portal/training-centre.html",
-      "source": "SITEMAPS",
-      "id": "83e7e11c6a2aa0f79a6550e8d3196d5f2e536a22",
-      "targetPath": "/partnering/externally-sponsored-scientific-research-partner-portal/training-centre"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2009-nov-3d-hurricane",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/patient-reported-outcomes.html",
-      "source": "SITEMAPS",
-      "id": "a70b827d4d441c82326210d1762cc0c716a781a0",
-      "targetPath": "/patient-reported-outcomes"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2009-oct-rip-van-winkle",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/publication.html",
-      "source": "SITEMAPS",
-      "id": "837d98cf3d61dd82d352e2e5d932cfe3d626a21d",
-      "targetPath": "/publication"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2009-sept-rafi-strategy-quality",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/r-d.html",
-      "source": "SITEMAPS",
-      "id": "f13600bb5d4f7293dba39955ce6e1dd093f0d176",
-      "targetPath": "/r-d"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2010-april-fifty-years-of-rafi",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/r-d/clinical-innovation.html",
-      "source": "SITEMAPS",
-      "id": "0f2bac583c11adbec8ecfebd76ee3a89f8391d01",
-      "targetPath": "/r-d/clinical-innovation"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2010-aug-debt-be-not-proud",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/r-d/data-science-and-ai.html",
-      "source": "SITEMAPS",
-      "id": "661a70cb2fc16cfa857b262a2c1323820ff39ba4",
-      "targetPath": "/r-d/data-science-and-ai"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2010-dec-smoother-ride-target-date-funds",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/r-d/digital-health-revolutionising-healthcare-for-patients.html",
-      "source": "SITEMAPS",
-      "id": "bd91f519a266ab2c46d109fcc9c12fd542168de4",
-      "targetPath": "/r-d/digital-health-revolutionising-healthcare-for-patients"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2010-feb-lessons-from-the-naughties",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/r-d/glossary.html",
-      "source": "SITEMAPS",
-      "id": "53a7468a012b819cb34ec621e3d6b0b8f6e05ae1",
-      "targetPath": "/r-d/glossary"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2010-jan-was-it-really-a-lost-decade",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics.html",
-      "source": "SITEMAPS",
-      "id": "ec3046760900535f65102002632a5f47eede644f",
-      "targetPath": "/r-d/next-generation-therapeutics"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2010-july-the-styleulette-and-rafi",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/r-d/our-approach.html",
-      "source": "SITEMAPS",
-      "id": "e8ee8b4820d486dae4dcea6f0587b3a1874f95bb",
-      "targetPath": "/r-d/our-approach"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2010-june-too-big-to-succeed",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/r-d/our-approach/stem-at-astrazeneca.html",
-      "source": "SITEMAPS",
-      "id": "14690ceea5f2ce83147e54fd11ab53c28d506c65",
-      "targetPath": "/r-d/our-approach/stem-at-astrazeneca"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2010-march-folly-peer-analysis",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/r-d/our-strategic-r-d-centres.html",
-      "source": "SITEMAPS",
-      "id": "60b1bfa1d05bd626934fa75d0c0deb2f3f70a4cd",
-      "targetPath": "/r-d/our-strategic-r-d-centres"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2010-may-an-emerging-conundrum",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/r-d/our-technologies.html",
-      "source": "SITEMAPS",
-      "id": "e7845bef8eb895fc9590a19b4a53efd1bb0023fd",
-      "targetPath": "/r-d/our-technologies"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2010-oct-hope-is-not-strategy",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/r-d/precision-medicine.html",
-      "source": "SITEMAPS",
-      "id": "e705d71a7405a11282ddd5d21f85f0b4fc3aaa0e",
-      "targetPath": "/r-d/precision-medicine"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2010-nov-the-glad-game",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/r-d/transformative-science.html",
-      "source": "SITEMAPS",
-      "id": "24a390fae35d9ba61784c8880696f493e00d2fd0",
-      "targetPath": "/r-d/transformative-science"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2011-april-does-unreal-gdp-drive-our-policy",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/search_results.html",
-      "source": "SITEMAPS",
-      "id": "777e53411b2e7643efea4d37cadabe81bb7fee8c",
-      "targetPath": "/search-results"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2010-sept-401k-fighting-yesterdays-war",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability.html",
-      "source": "SITEMAPS",
-      "id": "683045f1fa83cee1c7b4befcb5bf177e18f0ba61",
-      "targetPath": "/sustainability"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2011-aug-trouble-with-quants",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/access-to-healthcare/equitable-access.html",
-      "source": "SITEMAPS",
-      "id": "c1aaac9756af9dc68e3d3b4a3f0cd82c4aec02bb",
-      "targetPath": "/sustainability/access-to-healthcare/equitable-access"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2011-dec-de-stressing-balanced-fund-investing",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/access-to-healthcare/health-system-resilience.html",
-      "source": "SITEMAPS",
-      "id": "d5079f6546a19e9a92f92ea86e4fbef9a55b66eb",
-      "targetPath": "/sustainability/access-to-healthcare/health-system-resilience"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2011-feb-little-things-make-big-things-happen",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/climate-change/az-forest.html",
-      "source": "SITEMAPS",
-      "id": "86423429745ab7daaa7d4599faf9229a14727f23",
-      "targetPath": "/sustainability/climate-change/az-forest"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2011-jan-rafi-scorecard",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/climate-change/product-sustainability.html",
-      "source": "SITEMAPS",
-      "id": "0ed159d670c6583bfaa36e18e79a860001ebc0cb",
-      "targetPath": "/sustainability/climate-change/product-sustainability"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2011-july-equity-allocations",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/climate-change/renewable-energy.html",
-      "source": "SITEMAPS",
-      "id": "c8d8467104757aaa27d32c03780a0a335169cbd5",
-      "targetPath": "/sustainability/climate-change/renewable-energy"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2011-june-whack",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/ethics-compliance/animals-in-research.html",
-      "source": "SITEMAPS",
-      "id": "db86ffb038cbf05ebc6521a713e73bb136909ea0",
-      "targetPath": "/sustainability/ethics-compliance/animals-in-research"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2011-march-the-biggest-urban-legend",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/ethics-compliance/astrazeneca-and-global-transparency.html",
-      "source": "SITEMAPS",
-      "id": "67c6e5ed0df51464940a743eb820bed47eab6eec",
-      "targetPath": "/sustainability/ethics-compliance/astrazeneca-and-global-transparency"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2011-may-sector-weights",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/ethics-compliance/data-and-ai-ethics.html",
-      "source": "SITEMAPS",
-      "id": "53a4ca571f1f22e7350147d1bdfcb8d9cfec7107",
-      "targetPath": "/sustainability/ethics-compliance/data-and-ai-ethics"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2011-nov-alternative-beta",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/ethics-compliance/our-commitment-to-clinical-trial-transparency.html",
-      "source": "SITEMAPS",
-      "id": "944c05846a80f4c527b4f533bcccf1fccf6415b6",
-      "targetPath": "/sustainability/ethics-compliance/our-commitment-to-clinical-trial-transparency"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2011-oct-the-long-view",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/health-equity/community-investment.html",
-      "source": "SITEMAPS",
-      "id": "03854f51529490362fb51c89bc9d7fe69e656e5d",
-      "targetPath": "/sustainability/health-equity/community-investment"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2011-sept-king-of-the-mountain",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/health-equity/healthcare-delivery.html",
-      "source": "SITEMAPS",
-      "id": "cda866cf688cf38c1d204a7267c6f5f06448919b",
-      "targetPath": "/sustainability/health-equity/healthcare-delivery"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2012-11-dec-jan-a-slippery-year-for-excess-returns",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/health-equity/healthy-heart-africa.html",
-      "source": "SITEMAPS",
-      "id": "41838f260a086c96ced98f97eb08fb0d90fe0ba1",
-      "targetPath": "/sustainability/health-equity/healthy-heart-africa"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2012-april-the-newlyweds-dilemma",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/health-equity/science.html",
-      "source": "SITEMAPS",
-      "id": "8a1a7104bee24290d4ac4b06542c8643e474890c",
-      "targetPath": "/sustainability/health-equity/science"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2012-aug-tomatoes-and-the-low-vol-effect",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/health-systems-resilience/PHSSR.html",
-      "source": "SITEMAPS",
-      "id": "164607823c469fd3f9341a936f550c300fc1f43c",
-      "targetPath": "/sustainability/health-systems-resilience/phssr"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2012-dec-year-end-capital-markets-",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/nature/pharmaceuticals-in-the-environment.html",
-      "source": "SITEMAPS",
-      "id": "6fadf2b02a6086a078e0f8739f47194b38f3ec90",
-      "targetPath": "/sustainability/nature/pharmaceuticals-in-the-environment"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2012-feb-dirt-economics-demographics-matter",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/nature/pharmaceuticals-in-the-environment/EcoPharmacoVigilance-Dashboard.html",
-      "source": "SITEMAPS",
-      "id": "4a1bc55b26397f9db08eff2bda6c971329fd990f",
-      "targetPath": "/sustainability/nature/pharmaceuticals-in-the-environment/ecopharmacovigilance-dashboard"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2012-july-why-we-dont-rebalance",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/nature/pharmaceuticals-in-the-environment/dashboard-archive.html",
-      "source": "SITEMAPS",
-      "id": "64202d5de181f651f91d931738b9f4d48865072c",
-      "targetPath": "/sustainability/nature/pharmaceuticals-in-the-environment/dashboard-archive"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2012-june-playing-against-the-house",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/nature/waste-circularity.html",
-      "source": "SITEMAPS",
-      "id": "a532a41dcc82de9001909d2f1408b061526ab3a3",
-      "targetPath": "/sustainability/nature/waste-circularity"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2012-march-should-you-be-concerned-about",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/sustainability/nature/water-stewardship.html",
-      "source": "SITEMAPS",
-      "id": "f932d90623ed7f1c56c871fa2bbf3391ba9b6fd1",
-      "targetPath": "/sustainability/nature/water-stewardship"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2012-may-institutionalizing-courage",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/terms-and-conditions.html",
-      "source": "SITEMAPS",
-      "id": "8dd816ba0fd271ca4011e9c4382387d270adc67d",
-      "targetPath": "/terms-and-conditions"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2012-nov-1-percent-the-new-normal-growth-rate",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/what-science-can-do.html",
-      "source": "SITEMAPS",
-      "id": "18ce9eb1f19235bff3e1733fe7ef9d462d10e6db",
-      "targetPath": "/what-science-can-do"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2012-oct-eggs-are-not-enough",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/what-science-can-do/stories-of-impact.html",
-      "source": "SITEMAPS",
-      "id": "87fc0a6d187332451ac81c4fc3290d0ef90d9ac6",
-      "targetPath": "/what-science-can-do/stories-of-impact"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2012-sep-the-glidepath-illusion",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/what-science-can-do/stories-of-impact/early-diagnosis-and-treatment-to-transform-care.html",
-      "source": "SITEMAPS",
-      "id": "124506ce2528d4c1efb2e3b135aa615dc695b69d",
-      "targetPath": "/what-science-can-do/stories-of-impact/early-diagnosis-and-treatment-to-transform-care"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2013-09-what-makes-alt-beta-smart",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/what-science-can-do/topics/covid-19/burden-of-disease.html",
-      "source": "SITEMAPS",
-      "id": "e86756ccf4922c33a884f82213d863acaefc0fa6",
-      "targetPath": "/what-science-can-do/topics/covid-19/burden-of-disease"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2013-08-momentum-factor",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/what-science-can-do/topics/covid-19/immunobridging-trials.html",
-      "source": "SITEMAPS",
-      "id": "d9b67246a5b8167884082adb0a87ab614ec2de95",
-      "targetPath": "/what-science-can-do/topics/covid-19/immunobridging-trials"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2013-12-the-challenges-of-year-end-forecasting",
+      "source": "SITEMAP"
     },
     {
-      "url": "https://www.astrazeneca.com/what-science-can-do/topics/covid-19/viral-variants-and-immunocompromised.html",
-      "source": "SITEMAPS",
-      "id": "a42556b5446c91283079a24a26fadbe861d93357",
-      "targetPath": "/what-science-can-do/topics/covid-19/viral-variants-and-immunocompromised"
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2013-april-the-lure-of-hedge-funds",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2013-feb-wait-for-your-pitch",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/s-2013-jan-making-sense-of-low-volatility-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/s-2013-apr-financial-repression-why-it-matters-",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/s-2013-09-smart-beta-and-the-pendulum-of-mispricing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/s-2013-07-avoiding-pricey-low-volatility-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/s-2012-oct-the-role-of-risk-in-asset-allocation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/s-2012-june-selling-hope",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2014-1-the-profits-bubble",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2013-may-searching-for-a-new-investment-paradigm",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2013-march-does-blame-predict-performance",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2013-june-mind-the-expectations-gap",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/f-2013-jan-truth-vs-ignorance",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/s-2014-2-building-better-bond-strategies",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/slugging-it-out-in-the-equity-arena",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/712-dismiss-mmt-at-your-peril",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/711-strike-the-right-balance-in-multi-factor-strategy-design",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/710-alices-adventures-in-factorland-three-blunders-that-plague-factor-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/705-the-winning-formula-mission-culture-team",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/715-bubble-bubble-toil-and-trouble",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/675-is-your-alpha-big-enough-to-cover-its-taxes-a-quartercentury-retrospective",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/673-food-for-thought-integrating-vs-mixing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/668-yes-its-a-bubble-so-what",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/659-unlocking-the-performance-potential-in-esg-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/660-performance-measurement-how-to-do-it-if-we-must",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/655-when-value-goes-global",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/654-craftsmanship-in-smart-beta",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/650-is-manager-selection-worth-the-effort-for-financial-advisors",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/645-cape-fear-why-cape-naysayers-are-wrong",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/704-alternative-risk-premia-a-crisis-or-opportunity",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/703-the-challenges-of-diversity-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/687-the-biggest-failure-in-investment-management-how-smart-beta-can-make-it-better-or-worse",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/686-ignored-risks-of-factor-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/683-alternative-risk-premia-valuable-benefits-for-traditional-portfolios",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/681-rebalance-or-rush-hour",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/682-where-is-the-global-economy-going",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/680-are-our-tdfs-massively-underweight-inflation-fighting-assets",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/679-pundits-predicting-panic-in-emerging-markets",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/674-buy-high-and-sell-low-with-index-funds",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/643-building-portfolios-diversification-without-the-heartburn",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/642-the-bubble-that-never-came-and-other-misconceptions-about-treasury-bonds",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/641-pricing-stocks-and-bonds",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/637-can-momentum-investing-be-saved",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/639-diversification-strikes-again-evidence-from-global-equity-factors",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/636_risk_preparing_clients_for_an_uncertain_journey",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/633-in-defense-of-alpha",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/634-ignoring-starting-yields-nabbing-this-usual-suspect-in-poor-investment-outcomes",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/626-live-from-newport-beach-its-smart-beta",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/590-time-diversification-redux",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/625-cost-and-capacity-comparing-smart-beta-strategies",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/624-a-smart-beta-for-sustainable-growth",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/622-are-you-underweight-fanmag-chillax",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/621-i-was-blindbut-now-i-see-bubbles-in-academe",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/618-cape-fatigue",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/616-which-rafi-index-strategy-is-right-for-you",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/586-the-emerging-markets-hat-trick-time-to-throw-your-hat-in",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/585-uncomfortably-stuck-between-past-and-future-rates-credit-and-alternative-bond-indices",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/615-public-policy-profits-and-populism",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/563-systematic-global-macro",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/614-presidential-politics-and-stock-returns-is-the-relation-real-or-spurious",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/610-why-factor-tilts-are-not-smart-smart-beta",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/604-the-incredible-shrinking-factor-return-unabridged",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/581_record_low_costs_to_trade",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/580_take_the_5_percent_challenge_or_the_lloyd_christmas_lesson",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/560_rethinking_conventional_wisdom_why_not_a_value_bias",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/588-quest-for-the-holy-grail-the-fair-value-of-the-equity-market",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/564_next_seasons_meager_harvest_in_commercial_real_estate",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/479_peak_profits",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/595-forecasting-factor-and-smart-beta-returns",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/541_timing_smart_beta_strategies_of_course_buy_low_sell_high",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/559_a_barrel_of_texas_tea_half-full_or_half-empty",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/562_death_of_the_risk-free_rate",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/496_the_dirty_little_secret_of_passive_investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/543_echoes_of_1999_the_tech_bubble_and_the_asian_flu",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/465_the_china_syndrome_lessons_from_the_a-shares_bubble",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/594-a-smoother-path-to-outperformance-with-multifactor-smart-beta-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/549-how-not-to-get-fired-with-smart-beta-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/548_when_a_storm_is_in_the_offing_fundamental_growth_in_the_us_equity_market",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/466_forecasting_returns_simple_is_not_simplistic",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/497_the_confounding_bias_for_investment_complexity",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/456_are_you_a_ben_graham_defensive_investor",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/414_wheres_the_beef_lies_damned_lies_and_statistics",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/542_negative_rates_are_dangerous_to_your_wealth",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/527_greetings_from_the_cold",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/468_us_inflation_the_expectations_game",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/578-improving-on-traditional-commodity-indices",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/442_how_can_smart_beta_go_horribly_wrong",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/323_gimme_shelter_the_us_dollar_trade_and_its_risks",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/455_is_a_stronger_us_dollar_really_bad_news_three_myths_about_emerging_markets",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/432_slow_growth_a_tale_of_two_theories",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/377_not-so-great_expectations_why_real_interest_rates_wont_soar",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/366_greek_drama",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/364_whats_up_quantitative_easing_and_inflation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/353_the_wild_wild_east_risks_and_opportunities_in_russia",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/281_what_we_know_that_aint_so",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/288_pricing_fine_wines_and_common_stocks",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/331_retirement_planning_millennials_vs_boomers",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/286_target_date_funds_no_happily_ever_after_in_this_fairy_tale",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/211_i_would_choose_emerging_markets_wouldnt_you",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/the_ukrainian_crisis",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/c_2013_12_psychology_contrarian_investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/c_2013_9_the-impact-of-tapering",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/ap-rationing-retirement",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/b_2013_from-qe-to-queasy-fiscal-policy-and-the-risk-of-inflation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/the-death-of-the-dollar",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/223_finding_smart_beta_in_the_factor_zoo",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/319_the_promise_of_smart_beta",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/292_what_smart_beta_means_to_us",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/1-the-genesis-of-smart-beta-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/2-strategy-indices-and-smart-betas",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/3-smart-beta-mpt-diversification",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/5-smartbeta-vs-traditional-value",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/4-smart-beta-and-benchmark-risk",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/6-who-is-on-other-side",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/7-the-value-premium-is-mean-reverting",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/540_to_win_with_smart_beta_ask_if_the_price_is_right",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/434_the_whole_story_factors__asset_classes",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/733-the-advisors-case-for-smart-beta-direct-indexing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/446-elegant-design",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/standing-alone-against-the-crowd",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/601-the-incredible-shrinking-factor-return",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/767-plausible-performance",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/472_investing_versus_flipping",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/413_greek_drama_act_2",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/what-a-difference-an-esg-ratings-provider-makes",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/772-forecasts-or-nowcasts-whats-on-the-horizon-for-the-2020s",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/787-oh-my-whats-this-stuff-really-worth",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/798-leading-in-uncertain-times",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/802-too-soon-pandemic-policy-response-raises-risk-of-inflation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/804-is-value-investing-structurally-impaired",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/809-the-covid-19-crash-and-the-abandonment-of-the-pensioner",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/810-a-quick-survey-of-broken-asset-classes",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/813-is-esg-a-factor",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/814-book-value-is-an-incomplete-measure-of-firm-size",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/factor-returns-relationship-with-the-economy",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/819-tesla-the-largest-cap-stock-ever",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/821-is-diversification-dead",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/822-beware-the-shocks-in-the-road",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/823-surprise-factors-betas-dont-deliver-factor-alphas",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/824-how-covid-19-vaccines-and-brexit-create-the-trade-of-the-2020s",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/825-as-duration-dies-equities-rise",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/826-big-market-delusion-electric-vehicles",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/828-factor-timing-keep-it-simple",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/829-the-time-is-now-climate-transition-investing-for-us-investors",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/832-revisiting-teslas-addition-to-the-sp500",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/842-did-i-miss-the-value-turn",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/845-net-zero-by-2050-australia-get-ready-for-eu-style-climate-investing-regs",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/853-esg-is-a-preference-not-a-strategy",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/864-inflation-is-here-what-now",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/913-cryptocurrencies-the-power-of-memes",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/922-rising-risk-of-stagflation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/924-carbon-intensity-for-climate-mitigation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/925-capital-market-expectations-methodology",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/964-that-was-then-this-is-now",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/969-price-to-fantasy-ratio",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/970-the-buck-stops-here",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/971-rafi-fundamental-index-why-now",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/973-rafi-rocks",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/987-odds-of-a-hard-landing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/121-rebalancing-and-the-value-effect",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/164-an-investors-low-volatility-strategy",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/166-a-framework-for-examining-asset-allocation-alpha",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/205-the-folly-of-blame-why-investors-should-care-about-their-managers-culture",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/209-value-investing-smart-beta-vs-style-indices",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/210-a-study-of-low-volatility-portfolio-construction-methods",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/218-the-market-impact-of-passive-trading",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/220-rip-van-winkle-indexing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/230-smart-beta-for-corporate-bonds-efficient-access-to-premium-returns",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/248-option-writing-strategies-in-a-low-volatility-framework",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/265-smart-beta-the-second-generation-of-index-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/300-a-disciplined-approach-to-investing-taking-emotion-out-of-the-equation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/301-ftse-rafi-index-series",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/318-blame-accountability-and-performance",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/329-getting-smarter-about-commodities",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/347-whither-bonds-after-the-demographic-dividend",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/359-the-myth-of-dynastic-wealth-the-rich-get-poorer",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/373-a-framework-for-assessing-factors-and-implementing-smart-beta-strategies",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/463-investment-firm-culture-a-new-take-on-manager-selection-and-social-responsibility",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/faj-2003-earnings-growth-the-two-percent-dilution",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-1980-nov-cluster-analysis-and-stock-price-comovement",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-1983-jan-systematic-asset-allocation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-1985-june-the-business-cycle-and-security-selection",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-1985-sept-the-pension-sponsors-view-of-asset-allocation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-1986-nov-cluster-analysis-and-manager-selection",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-1987-novl-the-cost-of-portfolio-insurance-tradeoffs-and-choices-",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-1988-nov-pension-funds-resisting-the-mounting-pressure-for-shift-to-conservatism",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-1989-jul-a-disciplined-approach-to-global-asset-allocation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-1989-mar-monitoring-and-rebalancing-the-portfolio",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-1989-sept-a-total-differential-approach-to-equity-duration",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-1993-sep-tactical-currency-allocation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2000-sept-the-increasing-importance-of-industry-factors",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2002-mar-what-risk-premium-is-normal",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2003-jan-dividends-and-dividend-taxation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2003-jan-surprise-higher-dividends-eq-higher-earnings-growth-",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2003-jan-what-cost-noise",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2003-march-demographics-and-capital-market-returns",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2003-march-dividends-and-the-three-dwarfs",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2003-nov-the-measurement-and-control-of-trading-costs",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2003-nov-the-mystery-of-tips",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2003-nov-whos-minding-the-store",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2003-sept-what-risk-matters-a-call-for-papers",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2004-jan-is-our-industry-intellectually-lazy",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2004-jan-managing-investments-for-the-long-term",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2004-july-the-policy-portfolio-problem",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2004-march-the-meaning-of-a-slender-risk-premium",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2004-may-ethics-and-unintended-consequences",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2005-dollar-cost-averaging",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2005-sept-disentangling-size-and-value",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2006-dec-an-overwrought-orthodoxy",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2006-jan-new-frontiers-in-index-investing-an-examination-of-fundamental-indexation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2006-sept-cap-weighted-portfolios-are-sub-optimal-portfolios",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2006-sept-fundamental-indexes-current-and-future-applications",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2007-dec-accounting-based-index-etfs-and-inefficient-markets",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2007-jun-the-age-of-investment-strategy-indices",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2008-jan-noise-capm-and-the-size-and-value-effects",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2009-may-bonds-why-bother",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2009-nov-the-fundamental-debate",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2009-oct-cyclicality-in-stock-market-volatility-and-optimal-portfolio-allocation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2009-risk-managing-the-uncertainty-in-var-model-parameters",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2009-sep-the-development-of-the-etf-market-in-china",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2009-spring-clairvoyant-value-and-the-value-effect",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2009-summer-clairvoyant-value-ii-the-growth-vs-value-cycle",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2009-summer-executive-compensation-and-investor-clientele",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2010-jan-beyond-cap-weight-the-empirical-evidence-for-a-diversified-beta",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2010-nov-debt-be-not-proud",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2010-nov-does-valuation-indifferent-indexing-work-for-the-real-estate-market",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2010-nov-performance-attribution-measuring-dynamic-allocation-skill",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2010-sep-an-examination-of-traditional-style-indices",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2010-spring-valuation-indifferent-weighting-for-bonds",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2010-winter-a-structural-model-of-default-risk",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2011-april-risk-parity-portfolio-vs-other-asset-allocation-heuristic-portfolios",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2011-can-noise-create-the-size-and-value-effects",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2011-jan-a-fundamentally-weighted-broad-based-fixed-income-index",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2011-jan-is-your-alpha-big-enough-to-cover-its-taxes-revisted",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2011-june-the-3-d-hurricane-and-the-new-normal",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2011-sept-a-survey-of-alternative-equity-index-strategies",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2011-sept-selection-bias",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2011-spring-fundamental-index-fixed-income-performance-its-all-in-the-price",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2012-agency-and-institutional-investment",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2012-an-investors-guide-to-smart-beta-strategies",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2012-efficient-algorithms-for-computing-risk-parity-portfolio-weights",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2012-jan-demographic-changes-financial-markets-and-the-economy",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2012-jan-expected-return",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2012-march-can-demographic-transitions-influence-the-economy-and-financial-markets",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2012-sovereign-bond-markets-and-financial-repression",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2012-the-risk-in-risk-parity-a-factor-based-analysis-of-asset-based-risk-parity",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2012-the-winners-curse",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2013-jii-low-volatility-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2013-joim-sell-side-analysts",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2013-joi-new-new-normal",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2013-the-glidepath-illusion",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/smart-beta-investing-in-corporate-bonds",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p-2013-jpm-clairvoyant-discount-rates",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/717-what-is-quality",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/718-transaction-costs-of-factor-investing-strategies",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/719-trade-off-in-multifactor-smart-beta-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/713-tactical-and-tax-aware-gtaa",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/706-the-folly-of-hiring-winners-and-firing-losers",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/670-is-your-alpha-big-enough-to-cover-its-taxes-a-quartercentury-retrospective",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/629-smart-beta-multifactor-construction-methodology-mixing-versus-integrating",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/709-factor-momentum",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/702-a-backtesting-protocol-in-the-era-of-machine-learning",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/632-hobbled-by-benchmarks",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/374-king-of-the-mountain-the-shiller-pe-and-macroeconomic-conditions",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/219_labor_conditions_and_future_capital_market_performance",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/312_will_your_factor_deliver_an_examination_of_factor_robustness_and_implementation_costs_factor_zoology",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/204_the_self-fulfilling_prophecy_of_popular_asset_pricing_models",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/266_the_impact_of_constraints_on_minimum_variance_portfolios",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/206_timing_poorly_a_guide_to_generating_poor_returns_while_investing_in_successful_strategies",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p_2005_march_fundamental_indexation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p_2013_aug_surprising_alpha",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/game-changed-problems-remain",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/reports-of-values-death-may-be-greatly-exaggerated",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/833-why-are-high-exposures-to-factor-betas-unlikely-to-deliver-anticipated-returns",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/834-green-data-or-greenwashing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/839-intangibles-the-missing-ingredient-in-book-value",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/836-momentum-turning-points",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/837-breaking-bad-trends",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/838-decoding-systematic-relative-investing-a-pairs-approach",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/pricing-implications-of-noise",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/is-sector-neutrality-in-factor-investing-a-mistake",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/919-jack-bogle-and-smart-beta",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/926-the-avoidable-costs-of-index-rebalancing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/930-no-good-deed-goes-unpunished-social-vs-investment-objectives",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/931-examining-quantitative-investment-strategies",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/932-wheres-the-beef",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/951-due-diligence",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/952-is-your-alpha-big-enough",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/953-is-your-alpha-big-enough-reply-to-comment",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/954-bull-market-bear-market",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/955-death-of-the-risk-premium",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/956-active-versus-passive-management",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/957-ethics-earnings-and-equity-valuation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/958-will-we-retire-later-and-poorer",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/959-blinded-by-theory",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/961-whats-new-about-the-new-normal",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/968-mitigating-the-hidden-risks-of-factor-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/977-smart-rebalancing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/981-jp-how-transitory-is-inflation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/982-earning-alpha-by-avoiding-the-index-rebalancing-crowd",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/131-rob-arnott-on-the-glidepath-illusion",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/354-understanding-roll-return",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/189-rob-arnott-on-the-3-d-hurricane",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/441_a_smart_beta_approach_to_income_investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/490_beware_of_rising_valuations_in_smart_beta",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/375-jason-hsu-low-volatility-as-a-de-risking-strategy",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/613-why-factor-tilts-are-not-smart-smart-beta",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/474-what-is-small-size-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/477-rae-quality-video",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/558-what-is-momentum-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/476_webinar_why_value_investors_underperform_replay",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/627-a-smart-beta-for-sustainable-growth",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/605-alice-in-factorland-and-the-incredible-shrinking-factor-return",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/671-building-portfolios-diversification-without-the-heartburn",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/646-video-cape-fear-why-cape-naysayers-are-wrong",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/677-integrating-vs-mixing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/651-video-risk-preparing-clients-for-an-uncertain-journey",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/652-video-the-most-dangerous-and-ubiquitous-shortcut-in-financial-planning",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/672-unlocking-the-performance-potential-in-esg",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/635-webinar-replay-a-smoother-path-to-outperformance-with-multi-factor-smart-beta-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/685-webinar-buy-high-and-sell-low-with-index-funds",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/663-webinar-replay-cape-fear-why-cape-naysayers-are-wrong",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/644-webinar-replay-diversification-is-the-free-lunch-worth-the-heartburn",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/623-webinar-replay-forecasting-asset-and-portfolio-expected-returns",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/597-webinar-replay-forecasting-smart-beta-and-factors-history-is-worse-than-useless",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/552_webinar_replay_how_can_smart_beta_go_horribly_wrong",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/582_webinar_replay_timing_smart_beta__presentation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/187-forging-the-frontier",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/690-webinar-how-can-smartbeta-lead-to-better-outcomes",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/599-john-west-on-how-not-to-get-fired-with-smart-beta-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/600-rob-arnott-on-forecasting-smart-beta",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/583_timing_smart_beta_webinar_question_and_answer_session",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/598-chris-brightman-on-dynamic-multi-factor-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/part-1-what-matters-in-multi-factor-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/part-2-ignored-risks-of-factor-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/part-3-multi-factor-design-part-1-mixing-vs-integrating",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/part-4-multi-factor-design-part-2-keep-a-handle-on-trading-costs",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2019-advisor-symposium-rob-arnott-are-valuations-irrelevant",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2019-advisor-symposium-jim-masturzo-a-multi-signal-approach-to-asset-allocation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2019-advisor-symposium-cam-harvey-at-the-nexus-of-financial-and-technological-innovation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2019-advisor-symposium-alex-edmans-the-business-case-for-purposeful-business",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2018-advisor-symposium-feifei-li-smart-beta-selection-pick-the-right-one",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/746-2019-investment-symposium-london-past-is-not-prologue",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2019-advisor-symposium-katy-sherrerd-building-a-sustainable-culture",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2019-advisor-symposium-michele-mazzoleni-factor-strategies-and-market-cycles",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2018-advisor-symposium-juhani-linnainmaa-the-misguided-beliefs-of-financial-advisors",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2018-advisor-symposium-jason-hsu-timing-poorly-and-other-related-investment-sins",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2018-advisor-symposium-rob-arnott-is-your-alpha-big-enough-to-cover-its-taxes",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/bubble-anti-bubbles-and-the-prospects-for-value-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/785-rafi-in-a-growth-dominated-global-market",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/786-capital-market-expectations-for-the-new-decade",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/794-the-economic-impact-of-covid-19-part-iii",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/800-the-great-compression",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/803-capital-market-expectations-covid-19-update",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/807-the-economic-path-forward",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/818-rafi-esg-index-series",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/new-research-insights",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/840-return-forecasts-and-model-portfolios-in-a-post-covid-world",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/844-value-has-rebounded-now-what",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/inflations-near-term-surprise",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/916-beyond-60-40-asset-allocation-in-an-inflationary-environment",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/917-will-value-outperform-while-inflation-rises",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/923-rob-arnott-exchange-at-etf",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/927-gaining-clarity-in-the-esg-investing-space",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/929-rafi-performance-in-a-changing-market-landscape",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/940-carbon-emissions-data",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/941-insights-into-the-inflation-print",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/945-refined-forecasts-and-enhanced-interface",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/972-how-transitory-is-inflation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/980-a-bank-examiners-perspective-on-the-banking-crisis",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/981-navigating-todays-environment",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/865-rob-arnott-on-quant-investing-opportunities-and-pitfalls",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/866-cam-harveys-four-horsemen-of-recesession",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/867-us-stocks-still-very-expensive",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/868-the-perks-and-perils-of-maverick-risk",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/869-chris-brightman-discusses-the-investment-industry",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/870-yes-its-a-bubble-so-what",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/871-cam-harvey-on-planet-money",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/872-rob-arnott-on-morningstars-long-view",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/873-this-is-a-time-of-considerable-risk",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/874-recession-is-coming",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/875-engineering-a-better-index",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/876-rob-arnott-and-jim-oshaughnessy-visit-money-life",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/877-emerging-markets-trading-at-a-shiller-pe",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/878-2020s-perspective-the-death-of-investment-diversification",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/879-be-aware-of-the-cracks-under-your-feet",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/880-why-the-stock-market-hasnt-even-gotten-cheap-yet",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/881-rob-arnott-my-personal-portfolio",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/882-the-exceptional-post-crisis",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/883-market-valuations-amid-the-covid-19-outbreak",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/884-the-week-oil-went-negative",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/885-code-red-revisited",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/886-is-value-dead",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/887-its-a-bubble-dont-bet-against-it",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/888-rob-arnott-on-bubbles",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/889-bubble-bubble-toil-and-trouble",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/890-trending-and-forecasting-with-jim-masturzo",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/891-rob-arnott-on-current-markets",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/892-behind-the-markets-podcast-alex-pickard",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/893-robert-arnott-on-global-asset-management",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/894-modern-monetary-theory-does-not-work",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/895-the-perception-and-the-truth",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/896-inflation-bubbles-and-the-future-of-value-investing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/897-dissecting-smart-beta",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/898-the-death-of-diversification-and-value-too",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/899-bubbles-inflation-and-once-in-a-generation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/900-breaking-bad-trends",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/901-on-the-future-of-finance",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/902-the-information-age-is-about-to-get-interesting",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/903-a-quick-survey-of-broken-asset-classes",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/905-bubbles-quants-and-value",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/906-rob-arnott-on-bubbles-and-valuations-gaps",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/907-feifei-li-market-faces",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/908-why-chronic-misdiagnoses-will-lead-to-persisten-inflation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/909-investors-face-a-new-whip-inflation-now-problem",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/910-were-all-quants-now",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/911-focus-on-what-still-going-to-matter",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/912-factors-fads-and-formative-advice",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/915-vitali-kalesnik-investing-in-a-world",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/918-what-better-time-to-buy-than-during-the-lows",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/934-defi-opportunities-and-risks",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/937-social-media-behind-the-markets",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/938-recession-the-growth-to-value-rotation",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/943-why-they-believe-inflation-hasnt-peaked",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/944-rob-arnott-the-market-huddle",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/947-value-investing-is-back",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/963-show-us-your-portfolio",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/966-small-caps-priced-for-a-decade",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/967-stocks-to-watch",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/974-current-state-of-inflation-and-fed-policy",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/976-surveillance-international-stocks-with-arnott",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/978-the-fed-cant-solve-the-problems-were-facing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/983-cam-harvey-on-10-3-inversions",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/985-the-feds-not-done-breaking-things",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/986-cam-harvey-on-squawk-box",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/solutions",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/solutions/index-documents",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/advisors",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/prf",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/mfdx",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/mfem",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/mfus",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/ftbz50",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/psrw",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pxg",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/omgfria",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/paf",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/qoz",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/crq",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pxc",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pzc",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pdn",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pzw",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/cie",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pxf",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/cwo",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pxh",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/powfremf",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pehh",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/psre",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/cjp",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/prus",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/clu",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pxs",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/rals",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/prfz",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/stxraf",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/oldm40a",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/fnde",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/sfenx",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/sfrex",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/fndf",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/sfnnx",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/fndc",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/sfilx",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/fndb",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/fndx",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/fnda",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/sflnx",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/sfsnx",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/ubsfrca",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/ius",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/isdx",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/isds",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/isem",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/iuss",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/rafe",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/paaix",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pauix",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/peifx",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pzrix",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pfqix",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/ppyix",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pkaix",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pmjix",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pwlix",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pqiix",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/phb",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pfig",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pxtix",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pfatx",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pefix",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pcfix",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/ptsix",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/psruln",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/institutional",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/reena-lalji",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/chris-harper",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/veddad-zahiragic",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/ben-wells",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/andrew-baker",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/li-liang",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/ashwini-acharya",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/thomas-verghese",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/matt-lundberg",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/amie-ko",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/brent-leadbetter",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/cam-harvey",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/chris-ariza",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/chrisbrightman",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/danharkins",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/james-masturzo",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/jeff-wilson",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/joe-steidl",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/josephhattesohl",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/joseph-shim",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/katrina-sherrerd",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/xi-liu",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/shaun-patel",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/seanna-kim",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/rob-arnott",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/omid-shakernia",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/noah-beck",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/elaine-zane",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/ted-hsu",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/alan-lin",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/yu-tomita",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/kathryn-jaitly",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/alex-pickard",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/ari-polychronopoulos",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/jay-jeon",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/forrest-henslee",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/jennifer-macha",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/chrysten-davis",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/que-nguyen",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/careers",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/careers/distribution-associate",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/technology",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/contact-us",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/economist-sees-us-able-to-dodge-recession",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/earnings-season-will-hang-on-price-to-recession",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/inflation-data-suggests-that-we-have-peaked",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/smart-beta-pioneer-reignites-debate-on-factor-timing",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/pour-money-into-multi-factor-strategies",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/experts-forecast-stock-and-bond-returns-2023-edition",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/factor-investing-is-finally-back",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/its-time-to-buy-foreign-assets-with-the-dollar-past-its-peak",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/the-price-to-fantasy-ratio-that-beguiles-investors",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/will-inflation-reignite-later-this-year",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/research-affiliates-that-was-then-this-is-now",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/why-rob-arnott-likes-international-value-stocks",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/nyc-finance-gala-projects-positive-calm-after-bank-stock-rout",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/reimagining-index-funds-can-classic-cap-weighted-indices-be-improved",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/rob-arnott-pioneered-a-stock-investing-technique",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/the-yield-curve-and-inflation-might-be-sending-a-positive-message",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/talk-of-a-mild-recession-is-very-optimistic",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/poor-policy-choices-caused-the-ongoing-inflation-crisis",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/value-investors-set-for-a-stupendous-decade",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/campbell-harvey-on-cnbc-squawk-box",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/can-the-tech-stock-rally-survive-a-recession",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/research-affiliates-expands-european-footprint-as-head-of-equity-research-moves-to-the-firms-london-office",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/research-affiliates-launches-new-rafi-esg-strategy",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/noted-economist-campbell-harvey-joins-research-affiliates",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/research-affiliates-launches-revamped-asset-allocation-interactive-website-6-15-2017",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/ftse-russell-and-research-affiliates-launch-new-smart-beta-index",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/ftse-and-research-affiliates-celebrate-one-year-anniversary-of-f",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/ftse-russell-and-research-affiliates-launch-new-esg-smart-beta-indexes",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/research-affiliates-launches-multi-factor-and-single-factor-index-suite",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/research-affiliates-introduces-smart-beta-interactive-website",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/vitali-kalesnik-of-research-affiliates-wins-graham-and-dodd-award",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/que-nguyen-joins-research-affiliates-as-head-of-product-management",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/twentieth-anniversary",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/legal",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/legal/privacy-policy",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/legal/disclosures",
+      "source": "SITEMAP"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/legal/terms-of-use",
+      "source": "SITEMAP"
     }
   ]
 }
