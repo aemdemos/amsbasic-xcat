@@ -7,3 +7,6 @@ helix-importer-ui
 .DS_Store
 *.bak
 .idea
+
+# Large Excel files
+tools/scoping/crawler-old.xlsx
