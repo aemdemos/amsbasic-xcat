@@ -1,503 +1,515 @@
 {
-  "originUrl": "https://www.aemshop.net",
+  "originUrl": "https://www.nrucfc.coop",
   "aborted": false,
-  "lastCrawled": "https://www.aemshop.net/",
+  "lastCrawled": "https://www.nrucfc.coop/",
   "urls": [
     {
-      "url": "https://www.aemshop.net/",
-      "source": "SITEMAPS",
+      "url": "https://www.nrucfc.coop/",
+      "source": "CRAWL",
       "targetPath": "/",
-      "id": "270371d68aaca8b51eab8c32538239a7b456a41f"
+      "id": "dca43159fcb33e5e6747110e4ba2772496d664a4"
     },
     {
-      "url": "https://www.aemshop.net/.da/library/blocks/accordion",
-      "source": "SITEMAPS",
-      "targetPath": "/da/library/blocks/accordion",
-      "id": "0db6b4cb35d966f5b93eef16f21937078ac90969"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en",
+      "id": "7a066c426a8a069f173e08638fd7b2a5a8844653"
     },
     {
-      "url": "https://www.aemshop.net/.da/library/blocks/cards",
-      "source": "SITEMAPS",
-      "targetPath": "/da/library/blocks/cards",
-      "id": "0c829b0dc1c61aea04927a7d3ff5de5b21e0a4e9"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/about-cfc",
+      "id": "a17338f5410cfcb85eb23b9a47e38ceb0674262b"
     },
     {
-      "url": "https://www.aemshop.net/.da/library/blocks/columns",
-      "source": "SITEMAPS",
-      "targetPath": "/da/library/blocks/columns",
-      "id": "92fd68d7233c2db57648bed3cd90f85d8181534d"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/board-of-directors.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/about-cfc/board-of-directors",
+      "id": "01fccf2739699018e5000461355a247b131b2456"
     },
     {
-      "url": "https://www.aemshop.net/.da/library/blocks/fragment",
-      "source": "SITEMAPS",
-      "targetPath": "/da/library/blocks/fragment",
-      "id": "42ae37c71e69b1b6a6f70093045298bae87f7067"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/cfc-holiday-calendar.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/about-cfc/cfc-holiday-calendar",
+      "id": "a3b5eb6ba3cdc8e9abbc6148113d39fe54d320c6"
     },
     {
-      "url": "https://www.aemshop.net/.da/library/blocks/hero",
-      "source": "SITEMAPS",
-      "targetPath": "/da/library/blocks/hero",
-      "id": "9352b2adc6144e860532b0fed2fa372c6e4f7b4b"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/corporate-responsibility.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/about-cfc/corporate-responsibility",
+      "id": "cc3bb58fb8a689aa63d0e549bdcf243fb327c3d0"
     },
     {
-      "url": "https://www.aemshop.net/.da/library/blocks/metadata",
-      "source": "SITEMAPS",
-      "targetPath": "/da/library/blocks/metadata",
-      "id": "58a582944b1f5eff31d7f2f80451c548b2555eab"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/corporate-responsibility/corporate-citizenship.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/about-cfc/corporate-responsibility/corporate-citizenship",
+      "id": "f94b9e1b179648970bef94c938ef4aa4a5954bf3"
     },
     {
-      "url": "https://www.aemshop.net/.da/library/blocks/product-recommendations",
-      "source": "SITEMAPS",
-      "targetPath": "/da/library/blocks/product-recommendations",
-      "id": "07659c355961b0a2bbb71a15729bf8baa00b6c75"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/faqs.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/about-cfc/faqs",
+      "id": "066a91929c76e1c44e76d9a374f285e75298aac7"
     },
     {
-      "url": "https://www.aemshop.net/.da/library/blocks/section-metadata",
-      "source": "SITEMAPS",
-      "targetPath": "/da/library/blocks/section-metadata",
-      "id": "6c4a89e363870343f540b7f033b066987102cc82"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/our-history.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/about-cfc/our-history",
+      "id": "dc0f8a2de4c5a55669d1f85f34b71912e6d7ecce"
     },
     {
-      "url": "https://www.aemshop.net/.da/library/templates/category-page",
-      "source": "SITEMAPS",
-      "targetPath": "/da/library/templates/category-page",
-      "id": "908783150b5eff4973d10aad9b39e776ec341391"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/senior-leadership.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/about-cfc/senior-leadership",
+      "id": "56631936a64a4ef6ac03c5365ec620297112fa48"
     },
     {
-      "url": "https://www.aemshop.net/.da/library/templates/product-details-page",
-      "source": "SITEMAPS",
-      "targetPath": "/da/library/templates/product-details-page",
-      "id": "59bc8927b4e47dfad802616fabd4b07c0d507227"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/what-we-do.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/about-cfc/what-we-do",
+      "id": "a1fcacf96f473480934b7a149d637465266e4eab"
     },
     {
-      "url": "https://www.aemshop.net/apparel",
-      "source": "SITEMAPS",
-      "targetPath": "/apparel",
-      "id": "34374bf72dfd50482af0c10d9aa7006d98929c97"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/affiliates.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/affiliates",
+      "id": "149365ff3e90a3b245befe61917e1a3a6b99ca14"
     },
     {
-      "url": "https://www.aemshop.net/cart",
-      "source": "SITEMAPS",
-      "targetPath": "/cart",
-      "id": "932bd72c55e9168f484bd6bd575696d92c88d693"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/careers.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/careers",
+      "id": "d2632e0bd7acdf69496db1198ee6c32ce54fb325"
     },
     {
-      "url": "https://www.aemshop.net/checkout",
-      "source": "SITEMAPS",
-      "targetPath": "/checkout",
-      "id": "497aa0a0c0183934b9f898fbab844f59fee45d7e"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/careers/benefits.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/careers/benefits",
+      "id": "54fdc1fdc9fabe18c01fdb31c39d739d8221188a"
     },
     {
-      "url": "https://www.aemshop.net/create-return",
-      "source": "SITEMAPS",
-      "targetPath": "/create-return",
-      "id": "8734d28067faa4b030740b8033ee85d262ceb099"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/careers/life-at-cfc.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/careers/life-at-cfc",
+      "id": "04904ef73696e29851a15f6ef8d4bcd239b1748a"
     },
     {
-      "url": "https://www.aemshop.net/customer/account",
-      "source": "SITEMAPS",
-      "targetPath": "/customer/account",
-      "id": "2f921d50fff59406eb4f7ed37313359879088b7d"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/contact.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/contact",
+      "id": "b84cf9076945a55abe8d1c01a28287e3ed44877d"
     },
     {
-      "url": "https://www.aemshop.net/customer/account/confirm/",
-      "source": "SITEMAPS",
-      "targetPath": "/customer/account/confirm",
-      "id": "ccdbda1789ad24b35cd3d85502822e555de9e529"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/events-training.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/events-training",
+      "id": "98efe2096cf78acecb81895303c325714569bbd4"
     },
     {
-      "url": "https://www.aemshop.net/customer/account/createpassword/",
-      "source": "SITEMAPS",
-      "targetPath": "/customer/account/createpassword",
-      "id": "e78e9ac2df247568dc5f53de5fdaedc498aede2a"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/investor-relations",
+      "id": "d8d2a5a9caabdbbc36817a1997bdc73a9da95948"
     },
     {
-      "url": "https://www.aemshop.net/customer/address",
-      "source": "SITEMAPS",
-      "targetPath": "/customer/address",
-      "id": "bfa2db7a3b25823489ade8876c09c81b1c501c70"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/corporate-governance.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/investor-relations/corporate-governance",
+      "id": "303af885b1f57ff365f1ca0c00221f53dba48fa1"
     },
     {
-      "url": "https://www.aemshop.net/customer/create",
-      "source": "SITEMAPS",
-      "targetPath": "/customer/create",
-      "id": "9f586ad8e9b8157065f675e713205e23a0859bcf"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/credit-ratings.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/investor-relations/credit-ratings",
+      "id": "2a870d4a72981770fcea9dfcde7007cc7f8f08a5"
     },
     {
-      "url": "https://www.aemshop.net/customer/create-return",
-      "source": "SITEMAPS",
-      "targetPath": "/customer/create-return",
-      "id": "e9a6c0f9ed60475dcf68c623096593103b11a4dd"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/events-presentations.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/investor-relations/events-presentations",
+      "id": "1c4d2e4cceb8659ae837e962139221693547f6b3"
     },
     {
-      "url": "https://www.aemshop.net/customer/createpassword",
-      "source": "SITEMAPS",
-      "targetPath": "/customer/createpassword",
-      "id": "3ca20ce07c1bae5fa270905fb9bb83c1ac41e249"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/financial-reporting.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/investor-relations/financial-reporting",
+      "id": "acb2f9da0dc94dc5f3f712fa281ad3c88c590db9"
     },
     {
-      "url": "https://www.aemshop.net/customer/forgotpassword",
-      "source": "SITEMAPS",
-      "targetPath": "/customer/forgotpassword",
-      "id": "088ce961bf40e526bfad8875b7ea425ed20bd1aa"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/institutional-investing.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/investor-relations/institutional-investing",
+      "id": "3dc096e0d3169ff2120a1d2ecec5641d2a13732c"
     },
     {
-      "url": "https://www.aemshop.net/customer/login",
-      "source": "SITEMAPS",
-      "targetPath": "/customer/login",
-      "id": "c8ffadca5fa68d71921c5e6e6b77f4c9aa61e150"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/retail-investing.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/investor-relations/retail-investing",
+      "id": "abb4fa0384938832e7299b30d7369577638b2e69"
     },
     {
-      "url": "https://www.aemshop.net/customer/order-details",
-      "source": "SITEMAPS",
-      "targetPath": "/customer/order-details",
-      "id": "db8b5d75c4eb149f39a9f36e344fa6b3123ebf4f"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/member-services.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/member-services",
+      "id": "b605fb073357f8d764bfa18c5de869d080b32735"
     },
     {
-      "url": "https://www.aemshop.net/customer/orders",
-      "source": "SITEMAPS",
-      "targetPath": "/customer/orders",
-      "id": "64ffdd7f20a03ecfdeb8f440764ad4882a7b923d"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news",
+      "id": "0f1f43860640fc1ceedfe0c1056cd9e952bd6ac5"
     },
     {
-      "url": "https://www.aemshop.net/customer/return-details",
-      "source": "SITEMAPS",
-      "targetPath": "/customer/return-details",
-      "id": "5de57baf40ea361f0830e626d0fa7ab886e68244"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2020/CFC-Announces-Planned-Retirement-of-CEO-Sheldon-C-Petersen.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2020/cfc-announces-planned-retirement-of-ceo-sheldon-c-petersen",
+      "id": "eb71298fb6c58aba9b58707958b78486329b68a3"
     },
     {
-      "url": "https://www.aemshop.net/customer/returns",
-      "source": "SITEMAPS",
-      "targetPath": "/customer/returns",
-      "id": "4d862535ff9c74614cdcde8e6b2287bb2cf85485"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2021",
+      "id": "135291b1ca6fd8fe77d024de153fdeb1ddb49a9d"
     },
     {
-      "url": "https://www.aemshop.net/customer/sidebar-fragment",
-      "source": "SITEMAPS",
-      "targetPath": "/customer/sidebar-fragment",
-      "id": "9c1a2e0363a27c14b707206450c75c86a34bc40e"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/CFC-Tabulates-Initial-Results-for-2020-Key-Ratio-Trend-Analysis.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2021/cfc-tabulates-initial-results-for-2020-key-ratio-trend-analysis",
+      "id": "9ed47a2741ece47550e46e94030bc6a4126172f0"
     },
     {
-      "url": "https://www.aemshop.net/empty-cart",
-      "source": "SITEMAPS",
-      "targetPath": "/empty-cart",
-      "id": "17def231be817cca04d09880c71166402fba63a5"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/CFC-Taps-CFO-J-Andrew-Don-To-Assume-CEO-Post.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2021/cfc-taps-cfo-j-andrew-don-to-assume-ceo-post",
+      "id": "61750add9bfbd89503f4c15fab2dd7abf5935774"
     },
     {
-      "url": "https://www.aemshop.net/enrichment/category-banner",
-      "source": "SITEMAPS",
-      "targetPath": "/enrichment/category-banner",
-      "id": "d3b7368773a31863a93c6a0c4b1db0babb88bcd3"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/CFC-To-Host-Conference-Call-on-Fiscal-Year-2021-Second-Quarter-Financial-Results.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2021/cfc-to-host-conference-call-on-fiscal-year-2021-second-quarter-financial-results",
+      "id": "88e4aaf179459fa824db51c4d7f8a0f620667936"
     },
     {
-      "url": "https://www.aemshop.net/enrichment/product-banner",
-      "source": "SITEMAPS",
-      "targetPath": "/enrichment/product-banner",
-      "id": "78300ab3a1cb8f7b9c83a66e145500c2010e09fd"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/CFC-To-Host-Conference-Call-on-Fiscal-Year-2021-Third-Quarter-Financial-Results.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2021/cfc-to-host-conference-call-on-fiscal-year-2021-third-quarter-financial-results",
+      "id": "cf748a910bc840358b054752dadd51180c97985b"
     },
     {
-      "url": "https://www.aemshop.net/footer",
-      "source": "SITEMAPS",
-      "targetPath": "/footer",
-      "id": "3da327c1bd69351ce5b9403bccd5b323c37a3d37"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/cfc-to-host-conference-call-on-fiscal-year-2022-first-quarter-financial-results.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2021/cfc-to-host-conference-call-on-fiscal-year-2022-first-quarter-financial-results",
+      "id": "c00d6b983a966a4c49fea86e2c9843bbedee20e4"
     },
     {
-      "url": "https://www.aemshop.net/fr/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr",
-      "id": "b221bc145ef3b1ba41c65dd62e5c7f7525562c1a"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/cfc-to-host-conference-call-on-fy-2021-financial-results.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2021/cfc-to-host-conference-call-on-fy-2021-financial-results",
+      "id": "84e8f506e6bfcd891dc35961f03d51903ec934ca"
     },
     {
-      "url": "https://www.aemshop.net/fr/apparel",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/apparel",
-      "id": "127c4cfb094c9c46add09f7b307f189599472675"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/CFC-To-Host-Conference-Call-on-Severe-Weather-Impact-on-Borrowers.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2021/cfc-to-host-conference-call-on-severe-weather-impact-on-borrowers",
+      "id": "5bc148aade257d0f021c2c5d3dee53095a8c9d7b"
     },
     {
-      "url": "https://www.aemshop.net/fr/cart",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/cart",
-      "id": "494d5c45cea722bc725ae1577d51bb7f7fcaee81"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/S-P-Global-Ratings-Issues-Downgrade-and-Revised-Outlook-on-CFC.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2021/s-p-global-ratings-issues-downgrade-and-revised-outlook-on-cfc",
+      "id": "369b7ae073da06757b38eb75759bab8b129bfe75"
     },
     {
-      "url": "https://www.aemshop.net/fr/checkout",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/checkout",
-      "id": "fd09521be7ea972c29e38c2ef1899ecc6e96a291"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2022",
+      "id": "b370ba671c144c45e236f7a0ffafee8a51adb38f"
     },
     {
-      "url": "https://www.aemshop.net/fr/create-return",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/create-return",
-      "id": "2e8631a26469b044ba6c8df3c1fdd5a9b66afaec"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022/cfc-initial-2021-key-ratio-trend-analysis-results.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2022/cfc-initial-2021-key-ratio-trend-analysis-results",
+      "id": "e24cd7e17003b417d329e73f43c61030aaccd6b1"
     },
     {
-      "url": "https://www.aemshop.net/fr/customer/account",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/customer/account",
-      "id": "f71747c11eca14cd15b0418d130a26bccec53460"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022/cfc-issues-second-sustainability-bond-to-support-electric-cooper.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2022/cfc-issues-second-sustainability-bond-to-support-electric-cooper",
+      "id": "e45dcaf8a74a3db33fbe66887525147b2df15851"
     },
     {
-      "url": "https://www.aemshop.net/fr/customer/address",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/customer/address",
-      "id": "3334651afc4f39cc9125f1a65cfb007a3785340f"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022/cfc-to-host-conference-call-on--fiscal-year-2022-financial-resul.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2022/cfc-to-host-conference-call-on-fiscal-year-2022-financial-resul",
+      "id": "463acacd816e55acae876831f3a2547e709327fe"
     },
     {
-      "url": "https://www.aemshop.net/fr/customer/create",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/customer/create",
-      "id": "900d263cde191d412147cb7b8fa1ffa4604c004c"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022/cfc-to-host-conference-call-on--fiscal-year-2023-first-quarter-f.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2022/cfc-to-host-conference-call-on-fiscal-year-2023-first-quarter-f",
+      "id": "79191aed78895eca8fa4bda5804738d7b88a146d"
     },
     {
-      "url": "https://www.aemshop.net/fr/customer/create-return",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/customer/create-return",
-      "id": "b7d8d296910b8e3d1e8ab10d57a1aa360de2eefc"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022/cfc-to-host-conference-call-on-fiscal-year-2022-second-quarter-financial-results.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2022/cfc-to-host-conference-call-on-fiscal-year-2022-second-quarter-financial-results",
+      "id": "d9a414a76e97616f26265d113e99aed79bdc578a"
     },
     {
-      "url": "https://www.aemshop.net/fr/customer/createpassword",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/customer/createpassword",
-      "id": "9e4aeef832f2e774e72e0c168f924fe908c34e22"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022/cfc-to-host-conference-call-on-fy2022-third-quarter-financial-results.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2022/cfc-to-host-conference-call-on-fy2022-third-quarter-financial-results",
+      "id": "deea6606e95e404b3a90a6885630affbed218260"
     },
     {
-      "url": "https://www.aemshop.net/fr/customer/forgotpassword",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/customer/forgotpassword",
-      "id": "94c64fd3f793efa992f0091637a421bf783c25c4"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022/snowden-to-join-cfc-as-senior-vice-president.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2022/snowden-to-join-cfc-as-senior-vice-president",
+      "id": "750f86e2c428018a4a1ee662a570be941fa7aabd"
     },
     {
-      "url": "https://www.aemshop.net/fr/customer/login",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/customer/login",
-      "id": "a621482998c6c74c3feb01112f8f4929498a71d0"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2023",
+      "id": "2dac8ae9304879c274d4b60c3adbfb9d61917b19"
     },
     {
-      "url": "https://www.aemshop.net/fr/customer/order-details",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/customer/order-details",
-      "id": "60dcd324078c8e35ff4592247ae2485db91487ad"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023/cfc-board-of-directors-elects-officers--felkel--norton--suggs.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2023/cfc-board-of-directors-elects-officers-felkel-norton-suggs",
+      "id": "f9e8fdc8cb8bb6f25b30343be82af51219c20ab7"
     },
     {
-      "url": "https://www.aemshop.net/fr/customer/orders",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/customer/orders",
-      "id": "613dbfccc04a98becb5451a7ef844121f1b774f7"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023/cfc-s-initial-2022-key-ratio-trend-analysis-results-demonstrate-.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2023/cfc-s-initial-2022-key-ratio-trend-analysis-results-demonstrate",
+      "id": "c3a7a01d35365f9b0c964928ec1483541bcb0245"
     },
     {
-      "url": "https://www.aemshop.net/fr/customer/return-details",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/customer/return-details",
-      "id": "451de5baab673b1e2749be129e232191e5cdeb89"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023/cfc-to-host-conference-call-on--fiscal-year-2023-second-quarter-.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2023/cfc-to-host-conference-call-on-fiscal-year-2023-second-quarter",
+      "id": "df0cb5c9380dfcd88e795315af8265d6566b1cc5"
     },
     {
-      "url": "https://www.aemshop.net/fr/customer/returns",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/customer/returns",
-      "id": "5557fbfdeaa4dad2fd0127c3c24279e1cafde515"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023/cfc-to-host-conference-call-on-fiscal-year-2023-financial-result.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2023/cfc-to-host-conference-call-on-fiscal-year-2023-financial-result",
+      "id": "1f4034fc2b3f2e1e31baf7cc11e62fe8957169be"
     },
     {
-      "url": "https://www.aemshop.net/fr/customer/sidebar-fragment",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/customer/sidebar-fragment",
-      "id": "bd67b9b0c6215a1bf0a77f2188000e5dde781f01"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023/cfc-to-host-conference-call-on-fiscal-year-2023-third-quarter-fi.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2023/cfc-to-host-conference-call-on-fiscal-year-2023-third-quarter-fi",
+      "id": "a7fcf32709ae9a6ad87bb50741b3dbf37bf507dd"
     },
     {
-      "url": "https://www.aemshop.net/fr/empty-cart",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/empty-cart",
-      "id": "7ea450c8f6a4a414b3699234ce32a06e18344482"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023/cfc-to-host-conference-call-on-fiscal-year-2024-first-quarter-fi.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2023/cfc-to-host-conference-call-on-fiscal-year-2024-first-quarter-fi",
+      "id": "6991620333d262ec09bc9b93e9c7376f583a16b9"
     },
     {
-      "url": "https://www.aemshop.net/fr/enrichment/category-banner",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/enrichment/category-banner",
-      "id": "e4e15fda1597466672f57bfcf3f7e740d3ceb6dd"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023/electric-co-ops-support-nearly-623-000-jobs--contribute--111-bil.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2023/electric-co-ops-support-nearly-623-000-jobs-contribute-111-bil",
+      "id": "7cd1ce3aca11929587486f58a623823f00426c83"
     },
     {
-      "url": "https://www.aemshop.net/fr/enrichment/product-banner",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/enrichment/product-banner",
-      "id": "6b39ffada2817ee9ac12d75e8e854c756bb6cfd1"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2024.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2024",
+      "id": "92d9d9a96a515264f1011e6fb1906fb22861bb76"
     },
     {
-      "url": "https://www.aemshop.net/fr/footer",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/footer",
-      "id": "0337d2f4d02efb4546940034bb1e19501b8e1996"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2024/cfc-launches-new-investment-product-to-retail-investors.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2024/cfc-launches-new-investment-product-to-retail-investors",
+      "id": "ef6748f9489aa16aee5981d4d89560b45cda6be1"
     },
     {
-      "url": "https://www.aemshop.net/fr/gear",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/gear",
-      "id": "a1df567ad8322d22b2909615eec0e4a478eb5dfc"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2024/cfc-s-2023-key-ratio-trend-analysis-results-continue-to-demonstr.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2024/cfc-s-2023-key-ratio-trend-analysis-results-continue-to-demonstr",
+      "id": "a450604e94794d3766fae6865c36f3b577123320"
     },
     {
-      "url": "https://www.aemshop.net/fr/mini-cart",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/mini-cart",
-      "id": "0a83e02c3e13b1b1a955edfff26d836af7ccb7ef"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2024/cfc-to-host-conference-call-on--fiscal-year-2025-first-quarter-f.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2024/cfc-to-host-conference-call-on-fiscal-year-2025-first-quarter-f",
+      "id": "46988b2fdf3904c104a6d57c8171d924ddff13d9"
     },
     {
-      "url": "https://www.aemshop.net/fr/nav",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/nav",
-      "id": "dab7350e8a70cc00477ec53ce3be0cf0c76bad98"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2024/cfc-to-host-conference-call-on-fiscal-year-2024-financial-result.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2024/cfc-to-host-conference-call-on-fiscal-year-2024-financial-result",
+      "id": "0b412ee5e8b0b5db46ae279c3274be84cdad0836"
     },
     {
-      "url": "https://www.aemshop.net/fr/order-details",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/order-details",
-      "id": "231b9c68799558e474437b393a271c92908d0eb2"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2024/cfc-to-host-conference-call-on-fiscal-year-2024-second-quarter-f.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2024/cfc-to-host-conference-call-on-fiscal-year-2024-second-quarter-f",
+      "id": "84127fd2a71971e49304217f417503d0e171300b"
     },
     {
-      "url": "https://www.aemshop.net/fr/order-status",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/order-status",
-      "id": "ffa85369db40fffe00e96f057bf4b1f2cd87f8c6"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2024/cfc-to-host-conference-call-on-fiscal-year-2024-third-quarter-fi.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2024/cfc-to-host-conference-call-on-fiscal-year-2024-third-quarter-fi",
+      "id": "1210bba3a9e3352587dfa3e8708c596854ce529e"
     },
     {
-      "url": "https://www.aemshop.net/fr/privacy-policy",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/privacy-policy",
-      "id": "fd761ad11871a80d7800350677d3d247e88773e2"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2025.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2025",
+      "id": "8ef0353c5d16cba0f8942592eb053f39088966aa"
     },
     {
-      "url": "https://www.aemshop.net/fr/products/default",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/products/default",
-      "id": "7447be05fbd0d0024d5b9fd137ee01afee7499f5"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2025/cfc-s-2024-key-ratio-trend-analysis-results-highlight-financial-.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2025/cfc-s-2024-key-ratio-trend-analysis-results-highlight-financial",
+      "id": "44cff42a91b9c5d088a4c4db22c7ee5bc2104f27"
     },
     {
-      "url": "https://www.aemshop.net/fr/return-details",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/return-details",
-      "id": "780f834bc035aa753afc679ab3b9bb7a6934e3fa"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2025/cfc-to-host-conference-call-on--fiscal-year-2025-second-quarter-.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2025/cfc-to-host-conference-call-on-fiscal-year-2025-second-quarter",
+      "id": "c125fb123d55c38673a8baf4ac7d6d567bc30b2c"
     },
     {
-      "url": "https://www.aemshop.net/fr/search",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/search",
-      "id": "e434376cf2dea04651fb8eefaf975ca197fe4325"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2025/cfc-to-host-conference-call-on--fiscal-year-2025-third-quarter-f.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2025/cfc-to-host-conference-call-on-fiscal-year-2025-third-quarter-f",
+      "id": "d587c9fe8e2be2772e681de125e5112d15f27be7"
     },
     {
-      "url": "https://www.aemshop.net/fr/store-switcher",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/store-switcher",
-      "id": "3f0fa0807631cd04a3cf4894b431cfdeb1946717"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2025/cfc-to-host-conference-call-on-fiscal-year-2025-financial-result.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/2025/cfc-to-host-conference-call-on-fiscal-year-2025-financial-result",
+      "id": "8e5c4c6679d06c5b09a9730ea1ca6ae50edb3d73"
     },
     {
-      "url": "https://www.aemshop.net/fr/support",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/support",
-      "id": "e4ff49aa21b64d69aa94eef9bfaa1c229fbde34d"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/the-cfc-difference.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/news/the-cfc-difference",
+      "id": "fb0b8e0714a72800694b6f16e38c5e15119447ff"
     },
     {
-      "url": "https://www.aemshop.net/fr/widgets/apparel",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/widgets/apparel",
-      "id": "301c1d4582bf1d865396b2974fa8c768347d17cb"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/nondiscrimination-statement.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/nondiscrimination-statement",
+      "id": "d1e00fc0cd0d0077be9e557082ed41a6a0704e18"
     },
     {
-      "url": "https://www.aemshop.net/fr/wishlist",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/wishlist",
-      "id": "8e36b21141df215ed13fc2acec31b8cd2e7a82b0"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/our-members.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/our-members",
+      "id": "3feb484f8188805c4f61eed51fa0e769a315790f"
     },
     {
-      "url": "https://www.aemshop.net/mini-cart",
-      "source": "SITEMAPS",
-      "targetPath": "/mini-cart",
-      "id": "0bfeb64e6d7eca7cceef5403426a17e2a6416f4f"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/our-members/business-associates.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/our-members/business-associates",
+      "id": "2c2a2f012f5084ee1bdaa34cb5204f7f8da3e835"
     },
     {
-      "url": "https://www.aemshop.net/nav",
-      "source": "SITEMAPS",
-      "targetPath": "/nav",
-      "id": "ea33cb4f19c6a782ffe360c98a246a2300821de6"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/our-members/cfc-membership.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/our-members/cfc-membership",
+      "id": "0d77c4fdfc1318b997c775a212994e2a5b85a646"
     },
     {
-      "url": "https://www.aemshop.net/order-details",
-      "source": "SITEMAPS",
-      "targetPath": "/order-details",
-      "id": "a3bdf704a7461b0e93d1dddcea10e733771af20f"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/our-members/co-op-principles-values.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/our-members/co-op-principles-values",
+      "id": "99c6c23c4bd5c5a416e8a438479767515364b7b5"
     },
     {
-      "url": "https://www.aemshop.net/order-status",
-      "source": "SITEMAPS",
-      "targetPath": "/order-status",
-      "id": "c53ca30ddf8d84c5d9f498267a722bc6bbd96087"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/our-members/district-map.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/our-members/district-map",
+      "id": "842bbfcbe5f67d41b7eb85bb4a11a3f4de7b7418"
     },
     {
-      "url": "https://www.aemshop.net/privacy-policy",
-      "source": "SITEMAPS",
-      "targetPath": "/privacy-policy",
-      "id": "e13f5cc5be8699087697a7f2d16a577c3109be81"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/privacy.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/privacy",
+      "id": "20ce3a6eff9274459908cf567184e0adce923755"
     },
     {
-      "url": "https://www.aemshop.net/products/default",
-      "source": "SITEMAPS",
-      "targetPath": "/products/default",
-      "id": "945508b469b9350c6ca77b909bc9c63885d60232"
-    },
-    {
-      "url": "https://www.aemshop.net/return-details",
-      "source": "SITEMAPS",
-      "targetPath": "/return-details",
-      "id": "ab181d792861299598cc1659ea87429d5239b6b3"
-    },
-    {
-      "url": "https://www.aemshop.net/sales/guest/view/",
-      "source": "SITEMAPS",
-      "targetPath": "/sales/guest/view",
-      "id": "c2c306c08f516f7cc864f777b7f1ecf721486f9a"
-    },
-    {
-      "url": "https://www.aemshop.net/sales/order/view/",
-      "source": "SITEMAPS",
-      "targetPath": "/sales/order/view",
-      "id": "d87f563bc2792a3077d47d341fc5268dade27d52"
-    },
-    {
-      "url": "https://www.aemshop.net/search",
-      "source": "SITEMAPS",
-      "targetPath": "/search",
-      "id": "82ad49779cd3a836d711936fec9ead815b0a37e9"
-    },
-    {
-      "url": "https://www.aemshop.net/store-switcher",
-      "source": "SITEMAPS",
-      "targetPath": "/store-switcher",
-      "id": "7c3c38dc23f49d5b0e9c49271d8f6c8c7a77d326"
-    },
-    {
-      "url": "https://www.aemshop.net/support",
-      "source": "SITEMAPS",
-      "targetPath": "/support",
-      "id": "8345ed8ddbd3594985b91a23a163e607bd8eb339"
-    },
-    {
-      "url": "https://www.aemshop.net/wishlist",
-      "source": "SITEMAPS",
-      "targetPath": "/wishlist",
-      "id": "fb68e1593d27a89d656933db1ced89e0bd646320"
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/terms.html",
+      "source": "CRAWL",
+      "targetPath": "/content/nrucfc/en/terms",
+      "id": "d50dbb8d3e81af859c21e333e804eb4ca126c865"
     }
   ],
   "crawlOptions": {
-    "timeout": 64800000,
+    "timeout": 10000,
     "inclusionPatterns": [],
     "exclusionPatterns": [],
     "limit": 1000,
     "sameDomain": true,
     "keepHash": false,
-    "strategy": "sitemaps",
+    "strategy": "crawl",
     "logger": {},
     "strategiesAttempted": [
-      "SITEMAPS"
+      "SITEMAPS",
+      "CRAWL"
     ]
   },
-  "extractionErrors": [],
-  "errorCountMessage": "none",
+  "extractionErrors": [
+    {
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2020.html",
+      "status": "302 Found Redirect: https://www.nrucfc.coop/content/nrucfc/en/news.html"
+    },
+    {
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/_jcr_content/root/responsivegrid/list_436033414.feed",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/_jcr_content/root/responsivegrid/tabctrl/tab-0/list.feed",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/_jcr_content/root/responsivegrid/tabctrl/tab-1/list_copy_copy.feed",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/_jcr_content/root/responsivegrid/tabctrl/tab-2/list_copy_copy.feed",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/_jcr_content/root/responsivegrid/tabctrl/tab-3/list_copy_copy.feed",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/_jcr_content/root/responsivegrid/tabctrl/tab-4/list.feed",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/financial-reporting/_jcr_content/root/responsivegrid_4-par/list.feed",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2025/_jcr_content/root/responsivegrid/list.feed",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2024/_jcr_content/root/responsivegrid/list.feed",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023/_jcr_content/root/responsivegrid/list.feed",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022/_jcr_content/root/responsivegrid/list_copy.feed",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/_jcr_content/root/responsivegrid/list_copy.feed",
+      "status": "404 Not Found"
+    }
+  ],
+  "errorCountMessage": "{\"E_302\":1,\"E_404\":12}",
   "error": null
 }
