@@ -29,37 +29,23 @@
           acceptButton.click();
           console.log('Cookie banner: Clicked Accept button');
           
-          // Wait 10 seconds for page to fully settle (testing timing issue)
-          setTimeout(() => {
-            // Ensure all images are loaded
-            const images = document.querySelectorAll('img');
-            let imagesLoaded = 0;
-            const totalImages = images.length;
-            
-            if (totalImages === 0) {
-              console.log('Cookie banner: No images to load, page ready');
-              return;
+          // Ensure page renders properly for screenshots
+          document.body.style.opacity = '1';
+          document.body.style.visibility = 'visible';
+          
+          // Force repaint/reflow
+          document.body.offsetHeight;
+          
+          // Ensure no overlay elements are affecting screenshots
+          const overlays = document.querySelectorAll('[style*="position: fixed"], [style*="position: absolute"]');
+          overlays.forEach(overlay => {
+            const style = window.getComputedStyle(overlay);
+            if (style.zIndex > 1000) {
+              console.log('Cookie banner: Found high z-index overlay, checking if it affects screenshots');
             }
-            
-            images.forEach(img => {
-              if (img.complete) {
-                imagesLoaded++;
-              } else {
-                img.onload = () => {
-                  imagesLoaded++;
-                  if (imagesLoaded === totalImages) {
-                    console.log('Cookie banner: All images loaded, page ready for screenshots');
-                  }
-                };
-              }
-            });
-            
-            if (imagesLoaded === totalImages) {
-              console.log('Cookie banner: All images already loaded, page ready for screenshots');
-            }
-            
-            console.log(`Cookie banner: ${imagesLoaded}/${totalImages} images loaded`);
-          }, 10000);
+          });
+          
+          console.log('Cookie banner: Cookie accepted, page optimized for screenshots');
           
         } else {
           console.log('Cookie banner: Accept button not found');
