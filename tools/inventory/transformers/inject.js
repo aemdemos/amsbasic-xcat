@@ -29,23 +29,7 @@
           acceptButton.click();
           console.log('Cookie banner: Clicked Accept button');
           
-          // Ensure page renders properly for screenshots
-          document.body.style.opacity = '1';
-          document.body.style.visibility = 'visible';
-          
-          // Force repaint/reflow
-          document.body.offsetHeight;
-          
-          // Ensure no overlay elements are affecting screenshots
-          const overlays = document.querySelectorAll('[style*="position: fixed"], [style*="position: absolute"]');
-          overlays.forEach(overlay => {
-            const style = window.getComputedStyle(overlay);
-            if (style.zIndex > 1000) {
-              console.log('Cookie banner: Found high z-index overlay, checking if it affects screenshots');
-            }
-          });
-          
-          console.log('Cookie banner: Cookie accepted, page optimized for screenshots');
+          console.log('Cookie banner: Cookie accepted successfully');
           
         } else {
           console.log('Cookie banner: Accept button not found');
@@ -59,12 +43,6 @@
     
     // Try to accept cookie banner immediately
     acceptCookieBanner();
-    
-    // Wait 3 seconds for the dialog to fully load, then try again
-    setTimeout(() => {
-      console.log('Cookie banner: Trying after 3 second delay');
-      acceptCookieBanner();
-    }, 3000);
     
     // Set up a mutation observer to catch dynamically loaded cookie banners
     const observer = new MutationObserver((mutations) => {
