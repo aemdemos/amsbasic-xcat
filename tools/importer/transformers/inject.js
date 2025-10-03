@@ -104,15 +104,14 @@
     return buttonClicked;
   }
   
-  // Try to accept cookie banner immediately and repeatedly
+  // Try to accept cookie banner immediately
   acceptCookieBanner();
   
-  // Also try multiple times to ensure it's handled before screenshots
-  for (let i = 0; i < 5; i++) {
-    if (document.querySelector('#cookieDialog')) {
-      acceptCookieBanner();
-    }
-  }
+  // Wait 3 seconds for the dialog to fully load, then try again
+  setTimeout(() => {
+    console.log('Cookie banner: Trying after 3 second delay');
+    acceptCookieBanner();
+  }, 3000);
   
   // Set up a mutation observer to catch dynamically loaded cookie banners
   const observer = new MutationObserver((mutations) => {
