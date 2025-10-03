@@ -28,6 +28,39 @@
           console.log(`Cookie banner: Found Accept button - "${acceptButton.textContent.trim()}"`);
           acceptButton.click();
           console.log('Cookie banner: Clicked Accept button');
+          
+          // Wait for page to settle and ensure all resources are loaded
+          setTimeout(() => {
+            // Ensure all images are loaded
+            const images = document.querySelectorAll('img');
+            let imagesLoaded = 0;
+            const totalImages = images.length;
+            
+            if (totalImages === 0) {
+              console.log('Cookie banner: No images to load, page ready');
+              return;
+            }
+            
+            images.forEach(img => {
+              if (img.complete) {
+                imagesLoaded++;
+              } else {
+                img.onload = () => {
+                  imagesLoaded++;
+                  if (imagesLoaded === totalImages) {
+                    console.log('Cookie banner: All images loaded, page ready for screenshots');
+                  }
+                };
+              }
+            });
+            
+            if (imagesLoaded === totalImages) {
+              console.log('Cookie banner: All images already loaded, page ready for screenshots');
+            }
+            
+            console.log(`Cookie banner: ${imagesLoaded}/${totalImages} images loaded`);
+          }, 1500);
+          
         } else {
           console.log('Cookie banner: Accept button not found');
         }
