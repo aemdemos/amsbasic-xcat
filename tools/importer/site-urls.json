@@ -1,515 +1,2395 @@
 {
-  "originUrl": "https://www.nrucfc.coop",
-  "aborted": false,
-  "lastCrawled": "https://www.nrucfc.coop/",
+  "originUrl": "https://www.researchaffiliates.com/",
+  "customerName": "Researchaffiliates",
+  "lastCrawled": "https://www.researchaffiliates.com/",
   "urls": [
     {
-      "url": "https://www.nrucfc.coop/",
-      "source": "CRAWL",
-      "targetPath": "/",
-      "id": "dca43159fcb33e5e6747110e4ba2772496d664a4"
+      "url": "https://www.researchaffiliates.com/home",
+      "source": "SITEMAP",
+      "id": "d3a82aab92485321874d424ae329b2c64c3ca8be",
+      "targetPath": "/home"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en",
-      "id": "7a066c426a8a069f173e08638fd7b2a5a8844653"
+      "url": "https://www.researchaffiliates.com/europe/home",
+      "source": "SITEMAP",
+      "id": "ebb51d14e22bfd0e5c94c512d6d14838f8bd3f21",
+      "targetPath": "/europe/home"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/about-cfc",
-      "id": "a17338f5410cfcb85eb23b9a47e38ceb0674262b"
+      "url": "https://www.researchaffiliates.com/insights/conversations/fintech-investors-friend-or-foe-part-1",
+      "source": "SITEMAP",
+      "id": "82429fee634edc487873831cf4493f96dc451343",
+      "targetPath": "/insights/conversations/fintech-investors-friend-or-foe-part-1"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/board-of-directors.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/about-cfc/board-of-directors",
-      "id": "01fccf2739699018e5000461355a247b131b2456"
+      "url": "https://www.researchaffiliates.com/insights/conversations/fintech-investors-friend-or-foe-part-2",
+      "source": "SITEMAP",
+      "id": "834672cb4978f68101e4cb9f16dfe45aa9ed3c45",
+      "targetPath": "/insights/conversations/fintech-investors-friend-or-foe-part-2"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/cfc-holiday-calendar.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/about-cfc/cfc-holiday-calendar",
-      "id": "a3b5eb6ba3cdc8e9abbc6148113d39fe54d320c6"
+      "url": "https://www.researchaffiliates.com/insights/conversations/what-is-quality",
+      "source": "SITEMAP",
+      "id": "acd906c7c478956742177503182a65a97f2fac96",
+      "targetPath": "/insights/conversations/what-is-quality"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/corporate-responsibility.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/about-cfc/corporate-responsibility",
-      "id": "cc3bb58fb8a689aa63d0e549bdcf243fb327c3d0"
+      "url": "https://www.researchaffiliates.com/insights/conversations/the-inverted-yield-curve-and-stock-returns",
+      "source": "SITEMAP",
+      "id": "0931297d875a959d40fb69b5d3ea2502109b5a8a",
+      "targetPath": "/insights/conversations/the-inverted-yield-curve-and-stock-returns"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/corporate-responsibility/corporate-citizenship.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/about-cfc/corporate-responsibility/corporate-citizenship",
-      "id": "f94b9e1b179648970bef94c938ef4aa4a5954bf3"
+      "url": "https://www.researchaffiliates.com/insights/conversations/the-inverted-yield-curve",
+      "source": "SITEMAP",
+      "id": "86553c6fccb57217087e5a8686fa976f1a73c37d",
+      "targetPath": "/insights/conversations/the-inverted-yield-curve"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/faqs.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/about-cfc/faqs",
-      "id": "066a91929c76e1c44e76d9a374f285e75298aac7"
+      "url": "https://www.researchaffiliates.com/insights/conversations/do-investors-value-sustainability",
+      "source": "SITEMAP",
+      "id": "431332f130c9e2eacf41a58237d33a1c4ac79d1d",
+      "targetPath": "/insights/conversations/do-investors-value-sustainability"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/our-history.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/about-cfc/our-history",
-      "id": "dc0f8a2de4c5a55669d1f85f34b71912e6d7ecce"
+      "url": "https://www.researchaffiliates.com/insights/conversations/narrative-economics-part-1",
+      "source": "SITEMAP",
+      "id": "07c32f646ee80e99b6fbcfddfe8168c2eaa40a92",
+      "targetPath": "/insights/conversations/narrative-economics-part-1"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/senior-leadership.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/about-cfc/senior-leadership",
-      "id": "56631936a64a4ef6ac03c5365ec620297112fa48"
+      "url": "https://www.researchaffiliates.com/insights/conversations/the-unintended-consequences-of-thinking-in-dollars",
+      "source": "SITEMAP",
+      "id": "d454a29cd1f465f195bc9344a85cf5eccce634d1",
+      "targetPath": "/insights/conversations/the-unintended-consequences-of-thinking-in-dollars"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/about-cfc/what-we-do.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/about-cfc/what-we-do",
-      "id": "a1fcacf96f473480934b7a149d637465266e4eab"
+      "url": "https://www.researchaffiliates.com/insights/conversations/the-history-of-the-cross-section-of-stock-returns",
+      "source": "SITEMAP",
+      "id": "5c3737d2bada0f7aebf52b42aa05be18f7df330b",
+      "targetPath": "/insights/conversations/the-history-of-the-cross-section-of-stock-returns"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/affiliates.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/affiliates",
-      "id": "149365ff3e90a3b245befe61917e1a3a6b99ca14"
+      "url": "https://www.researchaffiliates.com/insights/conversations/surprise-high-employee-satisfaction-more-positive-earnings-surprises",
+      "source": "SITEMAP",
+      "id": "f858a9340fdae71c096a54d6662c2394d7a27761",
+      "targetPath": "/insights/conversations/surprise-high-employee-satisfaction-more-positive-earnings-surprises"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/careers.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/careers",
-      "id": "d2632e0bd7acdf69496db1198ee6c32ce54fb325"
+      "url": "https://www.researchaffiliates.com/insights/conversations/strategies-for-reducing-failures-of-self-control",
+      "source": "SITEMAP",
+      "id": "afa49c6148f6c9c187ba95b3e33d7571c68f5d03",
+      "targetPath": "/insights/conversations/strategies-for-reducing-failures-of-self-control"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/careers/benefits.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/careers/benefits",
-      "id": "54fdc1fdc9fabe18c01fdb31c39d739d8221188a"
+      "url": "https://www.researchaffiliates.com/insights/conversations/flattening-yield-curve",
+      "source": "SITEMAP",
+      "id": "64808768bb2bbd01da2b975ace56a1fb866f73d5",
+      "targetPath": "/insights/conversations/flattening-yield-curve"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/careers/life-at-cfc.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/careers/life-at-cfc",
-      "id": "04904ef73696e29851a15f6ef8d4bcd239b1748a"
+      "url": "https://www.researchaffiliates.com/insights/multimedia",
+      "source": "SITEMAP",
+      "id": "3c20ad3f750a8983cef2b6f8875fe8820a6e4eee",
+      "targetPath": "/insights/multimedia"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/contact.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/contact",
-      "id": "b84cf9076945a55abe8d1c01a28287e3ed44877d"
+      "url": "https://www.researchaffiliates.com/insights/esg",
+      "source": "SITEMAP",
+      "id": "ebfa83fc7cdcd1f54da36b74a9c549dc82fcecde",
+      "targetPath": "/insights/esg"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/events-training.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/events-training",
-      "id": "98efe2096cf78acecb81895303c325714569bbd4"
+      "url": "https://www.researchaffiliates.com/insights/smart-beta",
+      "source": "SITEMAP",
+      "id": "742da66418fe6de5c7ed4dd72dc8dbf66a5c7fd1",
+      "targetPath": "/insights/smart-beta"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/investor-relations",
-      "id": "d8d2a5a9caabdbbc36817a1997bdc73a9da95948"
+      "url": "https://www.researchaffiliates.com/insights/webinar-factor-investing",
+      "source": "SITEMAP",
+      "id": "dd055d88d3b1d3266dff864e651d38982d9383d7",
+      "targetPath": "/insights/webinar-factor-investing"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/corporate-governance.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/investor-relations/corporate-governance",
-      "id": "303af885b1f57ff365f1ca0c00221f53dba48fa1"
+      "url": "https://www.researchaffiliates.com/insights/demographics",
+      "source": "SITEMAP",
+      "id": "a409e9f95920b46b8e44176d3b5390dd115de9c5",
+      "targetPath": "/insights/demographics"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/credit-ratings.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/investor-relations/credit-ratings",
-      "id": "2a870d4a72981770fcea9dfcde7007cc7f8f08a5"
+      "url": "https://www.researchaffiliates.com/insights/795-this-too-shall-pass",
+      "source": "SITEMAP",
+      "id": "d18b295bf09ce0042d553cf7687f247b029279e8",
+      "targetPath": "/insights/795-this-too-shall-pass"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/events-presentations.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/investor-relations/events-presentations",
-      "id": "1c4d2e4cceb8659ae837e962139221693547f6b3"
+      "url": "https://www.researchaffiliates.com/publications",
+      "source": "SITEMAP",
+      "id": "47a8aa1cb5e5588052b35d17d66787c24b370e35",
+      "targetPath": "/publications"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/financial-reporting.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/investor-relations/financial-reporting",
-      "id": "acb2f9da0dc94dc5f3f712fa281ad3c88c590db9"
+      "url": "https://www.researchaffiliates.com/publications/articles/933-no-excuses-plan-now-for-recession",
+      "source": "SITEMAP",
+      "id": "1d8429ebc52e7aed4b1990835adbfd6f4e44f95a",
+      "targetPath": "/publications/articles/933-no-excuses-plan-now-for-recession"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/institutional-investing.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/investor-relations/institutional-investing",
-      "id": "3dc096e0d3169ff2120a1d2ecec5641d2a13732c"
+      "url": "https://www.researchaffiliates.com/publications/articles/935-necessary-trade-offs",
+      "source": "SITEMAP",
+      "id": "89462070a4573db004f03f2aa2309cbaf47d48ca",
+      "targetPath": "/publications/articles/935-necessary-trade-offs"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/retail-investing.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/investor-relations/retail-investing",
-      "id": "abb4fa0384938832e7299b30d7369577638b2e69"
+      "url": "https://www.researchaffiliates.com/publications/articles/939-direct-indexing",
+      "source": "SITEMAP",
+      "id": "ee87e40c688deca7b913702e58d01a5bd15be857",
+      "targetPath": "/publications/articles/939-direct-indexing"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/member-services.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/member-services",
-      "id": "b605fb073357f8d764bfa18c5de869d080b32735"
+      "url": "https://www.researchaffiliates.com/publications/articles/946-silver-lining-of-unexpected-inflation",
+      "source": "SITEMAP",
+      "id": "e9c27ae10152da444ed8be17c52926c6ce5ac7c2",
+      "targetPath": "/publications/articles/946-silver-lining-of-unexpected-inflation"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news",
-      "id": "0f1f43860640fc1ceedfe0c1056cd9e952bd6ac5"
+      "url": "https://www.researchaffiliates.com/publications/articles/712-dismiss-mmt-at-your-peril",
+      "source": "SITEMAP",
+      "id": "7f056bb0f305e29dab4911ef7a8c0c45de947bd3",
+      "targetPath": "/publications/articles/712-dismiss-mmt-at-your-peril"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2020/CFC-Announces-Planned-Retirement-of-CEO-Sheldon-C-Petersen.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2020/cfc-announces-planned-retirement-of-ceo-sheldon-c-petersen",
-      "id": "eb71298fb6c58aba9b58707958b78486329b68a3"
+      "url": "https://www.researchaffiliates.com/publications/articles/711-strike-the-right-balance-in-multi-factor-strategy-design",
+      "source": "SITEMAP",
+      "id": "f2dc5e2314ce510e64a3b4723b50dfc6442322c8",
+      "targetPath": "/publications/articles/711-strike-the-right-balance-in-multi-factor-strategy-design"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2021",
-      "id": "135291b1ca6fd8fe77d024de153fdeb1ddb49a9d"
+      "url": "https://www.researchaffiliates.com/publications/articles/710-alices-adventures-in-factorland-three-blunders-that-plague-factor-investing",
+      "source": "SITEMAP",
+      "id": "4cca1e85f5218852ee98a8077ce4deb13126fd96",
+      "targetPath": "/publications/articles/710-alices-adventures-in-factorland-three-blunders-that-plague-factor-investing"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/CFC-Tabulates-Initial-Results-for-2020-Key-Ratio-Trend-Analysis.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2021/cfc-tabulates-initial-results-for-2020-key-ratio-trend-analysis",
-      "id": "9ed47a2741ece47550e46e94030bc6a4126172f0"
+      "url": "https://www.researchaffiliates.com/publications/articles/705-the-winning-formula-mission-culture-team",
+      "source": "SITEMAP",
+      "id": "40713e08728ae832cfd2b4c2091eb2ec72ffba62",
+      "targetPath": "/publications/articles/705-the-winning-formula-mission-culture-team"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/CFC-Taps-CFO-J-Andrew-Don-To-Assume-CEO-Post.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2021/cfc-taps-cfo-j-andrew-don-to-assume-ceo-post",
-      "id": "61750add9bfbd89503f4c15fab2dd7abf5935774"
+      "url": "https://www.researchaffiliates.com/publications/articles/715-bubble-bubble-toil-and-trouble",
+      "source": "SITEMAP",
+      "id": "f9d81a668482b04e026ab6ade3ca3b49a7139e4e",
+      "targetPath": "/publications/articles/715-bubble-bubble-toil-and-trouble"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/CFC-To-Host-Conference-Call-on-Fiscal-Year-2021-Second-Quarter-Financial-Results.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2021/cfc-to-host-conference-call-on-fiscal-year-2021-second-quarter-financial-results",
-      "id": "88e4aaf179459fa824db51c4d7f8a0f620667936"
+      "url": "https://www.researchaffiliates.com/publications/articles/675-is-your-alpha-big-enough-to-cover-its-taxes-a-quartercentury-retrospective",
+      "source": "SITEMAP",
+      "id": "6187be356a377f5c4f48d04ae2e17481cfd4bbd3",
+      "targetPath": "/publications/articles/675-is-your-alpha-big-enough-to-cover-its-taxes-a-quartercentury-retrospective"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/CFC-To-Host-Conference-Call-on-Fiscal-Year-2021-Third-Quarter-Financial-Results.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2021/cfc-to-host-conference-call-on-fiscal-year-2021-third-quarter-financial-results",
-      "id": "cf748a910bc840358b054752dadd51180c97985b"
+      "url": "https://www.researchaffiliates.com/publications/articles/673-food-for-thought-integrating-vs-mixing",
+      "source": "SITEMAP",
+      "id": "605a1231bf69f28fea0a4283c6e373d6fc08dde1",
+      "targetPath": "/publications/articles/673-food-for-thought-integrating-vs-mixing"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/cfc-to-host-conference-call-on-fiscal-year-2022-first-quarter-financial-results.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2021/cfc-to-host-conference-call-on-fiscal-year-2022-first-quarter-financial-results",
-      "id": "c00d6b983a966a4c49fea86e2c9843bbedee20e4"
+      "url": "https://www.researchaffiliates.com/publications/articles/668-yes-its-a-bubble-so-what",
+      "source": "SITEMAP",
+      "id": "a4e340345e15ac71434e6ffd944e84ab3b48f448",
+      "targetPath": "/publications/articles/668-yes-its-a-bubble-so-what"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/cfc-to-host-conference-call-on-fy-2021-financial-results.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2021/cfc-to-host-conference-call-on-fy-2021-financial-results",
-      "id": "84e8f506e6bfcd891dc35961f03d51903ec934ca"
+      "url": "https://www.researchaffiliates.com/publications/articles/659-unlocking-the-performance-potential-in-esg-investing",
+      "source": "SITEMAP",
+      "id": "2ebf557320ae2e463ca33518b4bf1f956e695344",
+      "targetPath": "/publications/articles/659-unlocking-the-performance-potential-in-esg-investing"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/CFC-To-Host-Conference-Call-on-Severe-Weather-Impact-on-Borrowers.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2021/cfc-to-host-conference-call-on-severe-weather-impact-on-borrowers",
-      "id": "5bc148aade257d0f021c2c5d3dee53095a8c9d7b"
+      "url": "https://www.researchaffiliates.com/publications/articles/660-performance-measurement-how-to-do-it-if-we-must",
+      "source": "SITEMAP",
+      "id": "3d0fa932bb5f085c5d7ab5621e142bcbd8a93ca1",
+      "targetPath": "/publications/articles/660-performance-measurement-how-to-do-it-if-we-must"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/S-P-Global-Ratings-Issues-Downgrade-and-Revised-Outlook-on-CFC.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2021/s-p-global-ratings-issues-downgrade-and-revised-outlook-on-cfc",
-      "id": "369b7ae073da06757b38eb75759bab8b129bfe75"
+      "url": "https://www.researchaffiliates.com/publications/articles/655-when-value-goes-global",
+      "source": "SITEMAP",
+      "id": "2846d1da9c64e77d7d37534eee99240a5fe3234e",
+      "targetPath": "/publications/articles/655-when-value-goes-global"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2022",
-      "id": "b370ba671c144c45e236f7a0ffafee8a51adb38f"
+      "url": "https://www.researchaffiliates.com/publications/articles/654-craftsmanship-in-smart-beta",
+      "source": "SITEMAP",
+      "id": "de3de8a4f7a20e7673dafb1f0c8923e5f91b933e",
+      "targetPath": "/publications/articles/654-craftsmanship-in-smart-beta"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022/cfc-initial-2021-key-ratio-trend-analysis-results.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2022/cfc-initial-2021-key-ratio-trend-analysis-results",
-      "id": "e24cd7e17003b417d329e73f43c61030aaccd6b1"
+      "url": "https://www.researchaffiliates.com/publications/articles/650-is-manager-selection-worth-the-effort-for-financial-advisors",
+      "source": "SITEMAP",
+      "id": "385fb9f6a04a4482a5198878b217c44ee36119b8",
+      "targetPath": "/publications/articles/650-is-manager-selection-worth-the-effort-for-financial-advisors"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022/cfc-issues-second-sustainability-bond-to-support-electric-cooper.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2022/cfc-issues-second-sustainability-bond-to-support-electric-cooper",
-      "id": "e45dcaf8a74a3db33fbe66887525147b2df15851"
+      "url": "https://www.researchaffiliates.com/publications/articles/645-cape-fear-why-cape-naysayers-are-wrong",
+      "source": "SITEMAP",
+      "id": "3bb8d98e0130c8f61f1bf37724a5a6dbb0fdf31f",
+      "targetPath": "/publications/articles/645-cape-fear-why-cape-naysayers-are-wrong"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022/cfc-to-host-conference-call-on--fiscal-year-2022-financial-resul.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2022/cfc-to-host-conference-call-on-fiscal-year-2022-financial-resul",
-      "id": "463acacd816e55acae876831f3a2547e709327fe"
+      "url": "https://www.researchaffiliates.com/publications/articles/704-alternative-risk-premia-a-crisis-or-opportunity",
+      "source": "SITEMAP",
+      "id": "2cd06ef41fc66d0ca374b50fdd717b45f0d0c45c",
+      "targetPath": "/publications/articles/704-alternative-risk-premia-a-crisis-or-opportunity"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022/cfc-to-host-conference-call-on--fiscal-year-2023-first-quarter-f.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2022/cfc-to-host-conference-call-on-fiscal-year-2023-first-quarter-f",
-      "id": "79191aed78895eca8fa4bda5804738d7b88a146d"
+      "url": "https://www.researchaffiliates.com/publications/articles/703-the-challenges-of-diversity-investing",
+      "source": "SITEMAP",
+      "id": "7c4d0c5a7c4481b892d4512ccdec25346719ccf8",
+      "targetPath": "/publications/articles/703-the-challenges-of-diversity-investing"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022/cfc-to-host-conference-call-on-fiscal-year-2022-second-quarter-financial-results.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2022/cfc-to-host-conference-call-on-fiscal-year-2022-second-quarter-financial-results",
-      "id": "d9a414a76e97616f26265d113e99aed79bdc578a"
+      "url": "https://www.researchaffiliates.com/publications/articles/687-the-biggest-failure-in-investment-management-how-smart-beta-can-make-it-better-or-worse",
+      "source": "SITEMAP",
+      "id": "7f21d8f57927a27874580b8b010567a21d28005c",
+      "targetPath": "/publications/articles/687-the-biggest-failure-in-investment-management-how-smart-beta-can-make-it-better-or-worse"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022/cfc-to-host-conference-call-on-fy2022-third-quarter-financial-results.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2022/cfc-to-host-conference-call-on-fy2022-third-quarter-financial-results",
-      "id": "deea6606e95e404b3a90a6885630affbed218260"
+      "url": "https://www.researchaffiliates.com/publications/articles/686-ignored-risks-of-factor-investing",
+      "source": "SITEMAP",
+      "id": "80665b34cba256a08e1723d53504c45712315a6f",
+      "targetPath": "/publications/articles/686-ignored-risks-of-factor-investing"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022/snowden-to-join-cfc-as-senior-vice-president.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2022/snowden-to-join-cfc-as-senior-vice-president",
-      "id": "750f86e2c428018a4a1ee662a570be941fa7aabd"
+      "url": "https://www.researchaffiliates.com/publications/articles/683-alternative-risk-premia-valuable-benefits-for-traditional-portfolios",
+      "source": "SITEMAP",
+      "id": "6257589dc399599db52e6c5340e88e156492057f",
+      "targetPath": "/publications/articles/683-alternative-risk-premia-valuable-benefits-for-traditional-portfolios"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2023",
-      "id": "2dac8ae9304879c274d4b60c3adbfb9d61917b19"
+      "url": "https://www.researchaffiliates.com/publications/articles/681-rebalance-or-rush-hour",
+      "source": "SITEMAP",
+      "id": "b10047edbbd11ceddf9c0e19f994dffbf8d3fea2",
+      "targetPath": "/publications/articles/681-rebalance-or-rush-hour"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023/cfc-board-of-directors-elects-officers--felkel--norton--suggs.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2023/cfc-board-of-directors-elects-officers-felkel-norton-suggs",
-      "id": "f9e8fdc8cb8bb6f25b30343be82af51219c20ab7"
+      "url": "https://www.researchaffiliates.com/publications/articles/682-where-is-the-global-economy-going",
+      "source": "SITEMAP",
+      "id": "0c76dce01e9782d831613b70a93b1f50f4f3aeb8",
+      "targetPath": "/publications/articles/682-where-is-the-global-economy-going"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023/cfc-s-initial-2022-key-ratio-trend-analysis-results-demonstrate-.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2023/cfc-s-initial-2022-key-ratio-trend-analysis-results-demonstrate",
-      "id": "c3a7a01d35365f9b0c964928ec1483541bcb0245"
+      "url": "https://www.researchaffiliates.com/publications/articles/680-are-our-tdfs-massively-underweight-inflation-fighting-assets",
+      "source": "SITEMAP",
+      "id": "3b0f416716c4840885b5f110320d7538fb49730a",
+      "targetPath": "/publications/articles/680-are-our-tdfs-massively-underweight-inflation-fighting-assets"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023/cfc-to-host-conference-call-on--fiscal-year-2023-second-quarter-.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2023/cfc-to-host-conference-call-on-fiscal-year-2023-second-quarter",
-      "id": "df0cb5c9380dfcd88e795315af8265d6566b1cc5"
+      "url": "https://www.researchaffiliates.com/publications/articles/679-pundits-predicting-panic-in-emerging-markets",
+      "source": "SITEMAP",
+      "id": "a97adb71a049389eb3bfa5fb47b52408826a95d7",
+      "targetPath": "/publications/articles/679-pundits-predicting-panic-in-emerging-markets"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023/cfc-to-host-conference-call-on-fiscal-year-2023-financial-result.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2023/cfc-to-host-conference-call-on-fiscal-year-2023-financial-result",
-      "id": "1f4034fc2b3f2e1e31baf7cc11e62fe8957169be"
+      "url": "https://www.researchaffiliates.com/publications/articles/674-buy-high-and-sell-low-with-index-funds",
+      "source": "SITEMAP",
+      "id": "4bbf851f906be3ce715422f4d19677074c2672f4",
+      "targetPath": "/publications/articles/674-buy-high-and-sell-low-with-index-funds"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023/cfc-to-host-conference-call-on-fiscal-year-2023-third-quarter-fi.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2023/cfc-to-host-conference-call-on-fiscal-year-2023-third-quarter-fi",
-      "id": "a7fcf32709ae9a6ad87bb50741b3dbf37bf507dd"
+      "url": "https://www.researchaffiliates.com/publications/articles/643-building-portfolios-diversification-without-the-heartburn",
+      "source": "SITEMAP",
+      "id": "13daa0be921b7ca0c3e534f81caebac3e1e3d390",
+      "targetPath": "/publications/articles/643-building-portfolios-diversification-without-the-heartburn"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023/cfc-to-host-conference-call-on-fiscal-year-2024-first-quarter-fi.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2023/cfc-to-host-conference-call-on-fiscal-year-2024-first-quarter-fi",
-      "id": "6991620333d262ec09bc9b93e9c7376f583a16b9"
+      "url": "https://www.researchaffiliates.com/publications/articles/642-the-bubble-that-never-came-and-other-misconceptions-about-treasury-bonds",
+      "source": "SITEMAP",
+      "id": "27da69809ee0f865161b3fc6fc59a58fbbc1aae1",
+      "targetPath": "/publications/articles/642-the-bubble-that-never-came-and-other-misconceptions-about-treasury-bonds"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023/electric-co-ops-support-nearly-623-000-jobs--contribute--111-bil.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2023/electric-co-ops-support-nearly-623-000-jobs-contribute-111-bil",
-      "id": "7cd1ce3aca11929587486f58a623823f00426c83"
+      "url": "https://www.researchaffiliates.com/publications/articles/641-pricing-stocks-and-bonds",
+      "source": "SITEMAP",
+      "id": "57dcf1b43d4230e496d2bc72cf62f080d6152820",
+      "targetPath": "/publications/articles/641-pricing-stocks-and-bonds"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2024.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2024",
-      "id": "92d9d9a96a515264f1011e6fb1906fb22861bb76"
+      "url": "https://www.researchaffiliates.com/publications/articles/637-can-momentum-investing-be-saved",
+      "source": "SITEMAP",
+      "id": "38f9288921019015ec35869ca5a597516b8e5d47",
+      "targetPath": "/publications/articles/637-can-momentum-investing-be-saved"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2024/cfc-launches-new-investment-product-to-retail-investors.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2024/cfc-launches-new-investment-product-to-retail-investors",
-      "id": "ef6748f9489aa16aee5981d4d89560b45cda6be1"
+      "url": "https://www.researchaffiliates.com/publications/articles/639-diversification-strikes-again-evidence-from-global-equity-factors",
+      "source": "SITEMAP",
+      "id": "3042f5b0f078407ac6a3bb4a4d7919fd5434a3c1",
+      "targetPath": "/publications/articles/639-diversification-strikes-again-evidence-from-global-equity-factors"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2024/cfc-s-2023-key-ratio-trend-analysis-results-continue-to-demonstr.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2024/cfc-s-2023-key-ratio-trend-analysis-results-continue-to-demonstr",
-      "id": "a450604e94794d3766fae6865c36f3b577123320"
+      "url": "https://www.researchaffiliates.com/publications/articles/636_risk_preparing_clients_for_an_uncertain_journey",
+      "source": "SITEMAP",
+      "id": "bf07511f013add1ad7ae1963ae6b4baf6cbb7fac",
+      "targetPath": "/publications/articles/636-risk-preparing-clients-for-an-uncertain-journey"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2024/cfc-to-host-conference-call-on--fiscal-year-2025-first-quarter-f.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2024/cfc-to-host-conference-call-on-fiscal-year-2025-first-quarter-f",
-      "id": "46988b2fdf3904c104a6d57c8171d924ddff13d9"
+      "url": "https://www.researchaffiliates.com/publications/articles/633-in-defense-of-alpha",
+      "source": "SITEMAP",
+      "id": "d31b266bee3b2d5173ec1cec863dd18dede5614c",
+      "targetPath": "/publications/articles/633-in-defense-of-alpha"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2024/cfc-to-host-conference-call-on-fiscal-year-2024-financial-result.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2024/cfc-to-host-conference-call-on-fiscal-year-2024-financial-result",
-      "id": "0b412ee5e8b0b5db46ae279c3274be84cdad0836"
+      "url": "https://www.researchaffiliates.com/publications/articles/634-ignoring-starting-yields-nabbing-this-usual-suspect-in-poor-investment-outcomes",
+      "source": "SITEMAP",
+      "id": "0884cd10f5d8513a8dd463e66630c1442987c3f9",
+      "targetPath": "/publications/articles/634-ignoring-starting-yields-nabbing-this-usual-suspect-in-poor-investment-outcomes"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2024/cfc-to-host-conference-call-on-fiscal-year-2024-second-quarter-f.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2024/cfc-to-host-conference-call-on-fiscal-year-2024-second-quarter-f",
-      "id": "84127fd2a71971e49304217f417503d0e171300b"
+      "url": "https://www.researchaffiliates.com/publications/articles/626-live-from-newport-beach-its-smart-beta",
+      "source": "SITEMAP",
+      "id": "3e1a80ffdd99d4f4b59f08df2ec744a0201563a5",
+      "targetPath": "/publications/articles/626-live-from-newport-beach-its-smart-beta"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2024/cfc-to-host-conference-call-on-fiscal-year-2024-third-quarter-fi.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2024/cfc-to-host-conference-call-on-fiscal-year-2024-third-quarter-fi",
-      "id": "1210bba3a9e3352587dfa3e8708c596854ce529e"
+      "url": "https://www.researchaffiliates.com/publications/articles/590-time-diversification-redux",
+      "source": "SITEMAP",
+      "id": "1b80f1ae78a47ba5b0b368a0fb6d490bf8b9f406",
+      "targetPath": "/publications/articles/590-time-diversification-redux"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2025.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2025",
-      "id": "8ef0353c5d16cba0f8942592eb053f39088966aa"
+      "url": "https://www.researchaffiliates.com/publications/articles/625-cost-and-capacity-comparing-smart-beta-strategies",
+      "source": "SITEMAP",
+      "id": "01933753e820c447c605069a4f7223926546b0f7",
+      "targetPath": "/publications/articles/625-cost-and-capacity-comparing-smart-beta-strategies"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2025/cfc-s-2024-key-ratio-trend-analysis-results-highlight-financial-.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2025/cfc-s-2024-key-ratio-trend-analysis-results-highlight-financial",
-      "id": "44cff42a91b9c5d088a4c4db22c7ee5bc2104f27"
+      "url": "https://www.researchaffiliates.com/publications/articles/624-a-smart-beta-for-sustainable-growth",
+      "source": "SITEMAP",
+      "id": "9c6c46e5083f0a9613ce5f5b2af0d1ebf4bda21d",
+      "targetPath": "/publications/articles/624-a-smart-beta-for-sustainable-growth"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2025/cfc-to-host-conference-call-on--fiscal-year-2025-second-quarter-.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2025/cfc-to-host-conference-call-on-fiscal-year-2025-second-quarter",
-      "id": "c125fb123d55c38673a8baf4ac7d6d567bc30b2c"
+      "url": "https://www.researchaffiliates.com/publications/articles/622-are-you-underweight-fanmag-chillax",
+      "source": "SITEMAP",
+      "id": "55cf180d801b9b2ae5884d4309ecd55bde28d08f",
+      "targetPath": "/publications/articles/622-are-you-underweight-fanmag-chillax"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2025/cfc-to-host-conference-call-on--fiscal-year-2025-third-quarter-f.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2025/cfc-to-host-conference-call-on-fiscal-year-2025-third-quarter-f",
-      "id": "d587c9fe8e2be2772e681de125e5112d15f27be7"
+      "url": "https://www.researchaffiliates.com/publications/articles/621-i-was-blindbut-now-i-see-bubbles-in-academe",
+      "source": "SITEMAP",
+      "id": "bb7d27208baed588b157b05df0149edd9a915b17",
+      "targetPath": "/publications/articles/621-i-was-blindbut-now-i-see-bubbles-in-academe"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2025/cfc-to-host-conference-call-on-fiscal-year-2025-financial-result.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/2025/cfc-to-host-conference-call-on-fiscal-year-2025-financial-result",
-      "id": "8e5c4c6679d06c5b09a9730ea1ca6ae50edb3d73"
+      "url": "https://www.researchaffiliates.com/publications/articles/618-cape-fatigue",
+      "source": "SITEMAP",
+      "id": "7afb67e452909cee6273e88642c69d853064a92d",
+      "targetPath": "/publications/articles/618-cape-fatigue"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/the-cfc-difference.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/news/the-cfc-difference",
-      "id": "fb0b8e0714a72800694b6f16e38c5e15119447ff"
+      "url": "https://www.researchaffiliates.com/publications/articles/616-which-rafi-index-strategy-is-right-for-you",
+      "source": "SITEMAP",
+      "id": "9d8be9a1250dc659db9a09ae52b9e8f94fc54f94",
+      "targetPath": "/publications/articles/616-which-rafi-index-strategy-is-right-for-you"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/nondiscrimination-statement.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/nondiscrimination-statement",
-      "id": "d1e00fc0cd0d0077be9e557082ed41a6a0704e18"
+      "url": "https://www.researchaffiliates.com/publications/articles/586-the-emerging-markets-hat-trick-time-to-throw-your-hat-in",
+      "source": "SITEMAP",
+      "id": "e08b40a9961fbb863e75125e58f5672b780e4fca",
+      "targetPath": "/publications/articles/586-the-emerging-markets-hat-trick-time-to-throw-your-hat-in"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/our-members.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/our-members",
-      "id": "3feb484f8188805c4f61eed51fa0e769a315790f"
+      "url": "https://www.researchaffiliates.com/publications/articles/585-uncomfortably-stuck-between-past-and-future-rates-credit-and-alternative-bond-indices",
+      "source": "SITEMAP",
+      "id": "41af632133e8e139461bbe0d84d3b0dfd41f411e",
+      "targetPath": "/publications/articles/585-uncomfortably-stuck-between-past-and-future-rates-credit-and-alternative-bond-indices"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/our-members/business-associates.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/our-members/business-associates",
-      "id": "2c2a2f012f5084ee1bdaa34cb5204f7f8da3e835"
+      "url": "https://www.researchaffiliates.com/publications/articles/615-public-policy-profits-and-populism",
+      "source": "SITEMAP",
+      "id": "df7eb81fa7eae467b683c839c361bd0c51a02786",
+      "targetPath": "/publications/articles/615-public-policy-profits-and-populism"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/our-members/cfc-membership.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/our-members/cfc-membership",
-      "id": "0d77c4fdfc1318b997c775a212994e2a5b85a646"
+      "url": "https://www.researchaffiliates.com/publications/articles/563-systematic-global-macro",
+      "source": "SITEMAP",
+      "id": "f08cfe3132b145adc0d74e6a44b0aa44055c2c51",
+      "targetPath": "/publications/articles/563-systematic-global-macro"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/our-members/co-op-principles-values.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/our-members/co-op-principles-values",
-      "id": "99c6c23c4bd5c5a416e8a438479767515364b7b5"
+      "url": "https://www.researchaffiliates.com/publications/articles/614-presidential-politics-and-stock-returns-is-the-relation-real-or-spurious",
+      "source": "SITEMAP",
+      "id": "ffc98d610bbd89b9963c4a89298b9c0c3b68c4dc",
+      "targetPath": "/publications/articles/614-presidential-politics-and-stock-returns-is-the-relation-real-or-spurious"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/our-members/district-map.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/our-members/district-map",
-      "id": "842bbfcbe5f67d41b7eb85bb4a11a3f4de7b7418"
+      "url": "https://www.researchaffiliates.com/publications/articles/610-why-factor-tilts-are-not-smart-smart-beta",
+      "source": "SITEMAP",
+      "id": "090bf02fbaf97b7a6bce8433f7e837317851489c",
+      "targetPath": "/publications/articles/610-why-factor-tilts-are-not-smart-smart-beta"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/privacy.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/privacy",
-      "id": "20ce3a6eff9274459908cf567184e0adce923755"
+      "url": "https://www.researchaffiliates.com/publications/articles/604-the-incredible-shrinking-factor-return-unabridged",
+      "source": "SITEMAP",
+      "id": "e8cf64fc6ca584403ff672c90aecadb236423efe",
+      "targetPath": "/publications/articles/604-the-incredible-shrinking-factor-return-unabridged"
     },
     {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/terms.html",
-      "source": "CRAWL",
-      "targetPath": "/content/nrucfc/en/terms",
-      "id": "d50dbb8d3e81af859c21e333e804eb4ca126c865"
+      "url": "https://www.researchaffiliates.com/publications/articles/581_record_low_costs_to_trade",
+      "source": "SITEMAP",
+      "id": "8511d71c0b0aa50fb977df843b54fce440d6dfaf",
+      "targetPath": "/publications/articles/581-record-low-costs-to-trade"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/580_take_the_5_percent_challenge_or_the_lloyd_christmas_lesson",
+      "source": "SITEMAP",
+      "id": "3d8a8a42a9317434f8e0816fece87dca3fe199e1",
+      "targetPath": "/publications/articles/580-take-the-5-percent-challenge-or-the-lloyd-christmas-lesson"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/560_rethinking_conventional_wisdom_why_not_a_value_bias",
+      "source": "SITEMAP",
+      "id": "4d0c45829b851799c7309edfc96b20531be87823",
+      "targetPath": "/publications/articles/560-rethinking-conventional-wisdom-why-not-a-value-bias"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/588-quest-for-the-holy-grail-the-fair-value-of-the-equity-market",
+      "source": "SITEMAP",
+      "id": "f0e526d3178164b7f1cea2f509054820dade688d",
+      "targetPath": "/publications/articles/588-quest-for-the-holy-grail-the-fair-value-of-the-equity-market"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/564_next_seasons_meager_harvest_in_commercial_real_estate",
+      "source": "SITEMAP",
+      "id": "8c72bd55b4fc40bf7568f1be809084dfc7ab71e4",
+      "targetPath": "/publications/articles/564-next-seasons-meager-harvest-in-commercial-real-estate"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/479_peak_profits",
+      "source": "SITEMAP",
+      "id": "eb74abf2f14c9814c1360c8c72ec6428ec574b06",
+      "targetPath": "/publications/articles/479-peak-profits"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/595-forecasting-factor-and-smart-beta-returns",
+      "source": "SITEMAP",
+      "id": "16526301e626c3b5f058f7fad45fbab02edc2379",
+      "targetPath": "/publications/articles/595-forecasting-factor-and-smart-beta-returns"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/541_timing_smart_beta_strategies_of_course_buy_low_sell_high",
+      "source": "SITEMAP",
+      "id": "e73e0c8291a341b6608d1149bdc9add0db748dff",
+      "targetPath": "/publications/articles/541-timing-smart-beta-strategies-of-course-buy-low-sell-high"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/559_a_barrel_of_texas_tea_half-full_or_half-empty",
+      "source": "SITEMAP",
+      "id": "870e3e5920ccf462e3bf8e3d2be5d28cfee8c963",
+      "targetPath": "/publications/articles/559-a-barrel-of-texas-tea-half-full-or-half-empty"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/562_death_of_the_risk-free_rate",
+      "source": "SITEMAP",
+      "id": "8e286bf908e67f98a38029a527f63a8f81507659",
+      "targetPath": "/publications/articles/562-death-of-the-risk-free-rate"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/496_the_dirty_little_secret_of_passive_investing",
+      "source": "SITEMAP",
+      "id": "eaae83cd3f283ae6672a7451675b86aca128cf87",
+      "targetPath": "/publications/articles/496-the-dirty-little-secret-of-passive-investing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/543_echoes_of_1999_the_tech_bubble_and_the_asian_flu",
+      "source": "SITEMAP",
+      "id": "ac1f3b3bf8981ee0c877fff29f372a9538733e0e",
+      "targetPath": "/publications/articles/543-echoes-of-1999-the-tech-bubble-and-the-asian-flu"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/465_the_china_syndrome_lessons_from_the_a-shares_bubble",
+      "source": "SITEMAP",
+      "id": "e499445043b0d94df76b84740f34107ffc67b1d4",
+      "targetPath": "/publications/articles/465-the-china-syndrome-lessons-from-the-a-shares-bubble"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/594-a-smoother-path-to-outperformance-with-multifactor-smart-beta-investing",
+      "source": "SITEMAP",
+      "id": "e40a4dbeb82540bb3abcfcb8b5f96d9a645d2e8b",
+      "targetPath": "/publications/articles/594-a-smoother-path-to-outperformance-with-multifactor-smart-beta-investing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/549-how-not-to-get-fired-with-smart-beta-investing",
+      "source": "SITEMAP",
+      "id": "6521c039bd09f7aa8857edaf819406f94fab76da",
+      "targetPath": "/publications/articles/549-how-not-to-get-fired-with-smart-beta-investing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/548_when_a_storm_is_in_the_offing_fundamental_growth_in_the_us_equity_market",
+      "source": "SITEMAP",
+      "id": "3a7348d720da6c74576aa2619e174a75bca18378",
+      "targetPath": "/publications/articles/548-when-a-storm-is-in-the-offing-fundamental-growth-in-the-us-equity-market"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/466_forecasting_returns_simple_is_not_simplistic",
+      "source": "SITEMAP",
+      "id": "6763a07a422572364a825aabf249247a74bc4aac",
+      "targetPath": "/publications/articles/466-forecasting-returns-simple-is-not-simplistic"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/497_the_confounding_bias_for_investment_complexity",
+      "source": "SITEMAP",
+      "id": "a6aabe55704b5fcd3f8bf31d0bda5fdcc6f34069",
+      "targetPath": "/publications/articles/497-the-confounding-bias-for-investment-complexity"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/456_are_you_a_ben_graham_defensive_investor",
+      "source": "SITEMAP",
+      "id": "ad9c63041479e33ebd643f8c275acaca1e550852",
+      "targetPath": "/publications/articles/456-are-you-a-ben-graham-defensive-investor"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/414_wheres_the_beef_lies_damned_lies_and_statistics",
+      "source": "SITEMAP",
+      "id": "dd1e9e2dccfc61d9a58a0738553d9b0386ab85ce",
+      "targetPath": "/publications/articles/414-wheres-the-beef-lies-damned-lies-and-statistics"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/542_negative_rates_are_dangerous_to_your_wealth",
+      "source": "SITEMAP",
+      "id": "7b325eb3251446e63c877f32a78fb2b01631ca22",
+      "targetPath": "/publications/articles/542-negative-rates-are-dangerous-to-your-wealth"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/527_greetings_from_the_cold",
+      "source": "SITEMAP",
+      "id": "9b5f97307a5dd913e29cd68517d3f85f88a76681",
+      "targetPath": "/publications/articles/527-greetings-from-the-cold"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/468_us_inflation_the_expectations_game",
+      "source": "SITEMAP",
+      "id": "3c09bc322a72cc542f17b94112471066b67edd74",
+      "targetPath": "/publications/articles/468-us-inflation-the-expectations-game"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/578-improving-on-traditional-commodity-indices",
+      "source": "SITEMAP",
+      "id": "201542fc2118996cbb7e44889a80ae69700db36c",
+      "targetPath": "/publications/articles/578-improving-on-traditional-commodity-indices"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/442_how_can_smart_beta_go_horribly_wrong",
+      "source": "SITEMAP",
+      "id": "7c8f60dcde4a0a6c62cfa9a7bdb7f56fa1f35756",
+      "targetPath": "/publications/articles/442-how-can-smart-beta-go-horribly-wrong"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/323_gimme_shelter_the_us_dollar_trade_and_its_risks",
+      "source": "SITEMAP",
+      "id": "3c0e27dd755518d4292f4a8b29393961316de445",
+      "targetPath": "/publications/articles/323-gimme-shelter-the-us-dollar-trade-and-its-risks"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/455_is_a_stronger_us_dollar_really_bad_news_three_myths_about_emerging_markets",
+      "source": "SITEMAP",
+      "id": "b4b4327256025448062644612f6e552fd654dcc7",
+      "targetPath": "/publications/articles/455-is-a-stronger-us-dollar-really-bad-news-three-myths-about-emerging-markets"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/432_slow_growth_a_tale_of_two_theories",
+      "source": "SITEMAP",
+      "id": "59e6e609b10c3d443ab784a67411202b5bd13a4d",
+      "targetPath": "/publications/articles/432-slow-growth-a-tale-of-two-theories"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/377_not-so-great_expectations_why_real_interest_rates_wont_soar",
+      "source": "SITEMAP",
+      "id": "951435c8abd939a2410ac3be5f9e8ff23f6f561a",
+      "targetPath": "/publications/articles/377-not-so-great-expectations-why-real-interest-rates-wont-soar"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/366_greek_drama",
+      "source": "SITEMAP",
+      "id": "9a5b1189f2f5616680391fd2b171a51d6de46723",
+      "targetPath": "/publications/articles/366-greek-drama"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/364_whats_up_quantitative_easing_and_inflation",
+      "source": "SITEMAP",
+      "id": "3d4728ee6f6ad9f2841fb4ee6c8512c3de977dc5",
+      "targetPath": "/publications/articles/364-whats-up-quantitative-easing-and-inflation"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/353_the_wild_wild_east_risks_and_opportunities_in_russia",
+      "source": "SITEMAP",
+      "id": "a74f16065fac4c845e7b590cf5c5b53e348b143d",
+      "targetPath": "/publications/articles/353-the-wild-wild-east-risks-and-opportunities-in-russia"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/281_what_we_know_that_aint_so",
+      "source": "SITEMAP",
+      "id": "86af8a7e311a8e17463ab61b9b7527a9be3ef049",
+      "targetPath": "/publications/articles/281-what-we-know-that-aint-so"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/288_pricing_fine_wines_and_common_stocks",
+      "source": "SITEMAP",
+      "id": "13e6e304443c5c19f280eec190f68f53b4dc41c8",
+      "targetPath": "/publications/articles/288-pricing-fine-wines-and-common-stocks"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/331_retirement_planning_millennials_vs_boomers",
+      "source": "SITEMAP",
+      "id": "bc7a07d19db0c302cd59fef62695edd80587356d",
+      "targetPath": "/publications/articles/331-retirement-planning-millennials-vs-boomers"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/286_target_date_funds_no_happily_ever_after_in_this_fairy_tale",
+      "source": "SITEMAP",
+      "id": "d5a39e70e91aead515cefce25790691790588ec7",
+      "targetPath": "/publications/articles/286-target-date-funds-no-happily-ever-after-in-this-fairy-tale"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/211_i_would_choose_emerging_markets_wouldnt_you",
+      "source": "SITEMAP",
+      "id": "4ae853fd074b742fc057c2ea8cc3ae7a5d875db7",
+      "targetPath": "/publications/articles/211-i-would-choose-emerging-markets-wouldnt-you"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/the_ukrainian_crisis",
+      "source": "SITEMAP",
+      "id": "192f23cc9a17eab2df5b9048ccba32b7de4aabed",
+      "targetPath": "/publications/articles/the-ukrainian-crisis"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/c_2013_12_psychology_contrarian_investing",
+      "source": "SITEMAP",
+      "id": "8b5ce90a8bc1efb5461dd7d9006ec425f9fa27b3",
+      "targetPath": "/publications/articles/c-2013-12-psychology-contrarian-investing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/c_2013_9_the-impact-of-tapering",
+      "source": "SITEMAP",
+      "id": "82342f79c14a5b010c0fba1db56d12e6a662e0bb",
+      "targetPath": "/publications/articles/c-2013-9-the-impact-of-tapering"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/ap-rationing-retirement",
+      "source": "SITEMAP",
+      "id": "7d710632b8be8cc19e543c6fdf1b1e7a5273a2e7",
+      "targetPath": "/publications/articles/ap-rationing-retirement"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/b_2013_from-qe-to-queasy-fiscal-policy-and-the-risk-of-inflation",
+      "source": "SITEMAP",
+      "id": "75b51248bcf27fe374c896d2e021540b081e1699",
+      "targetPath": "/publications/articles/b-2013-from-qe-to-queasy-fiscal-policy-and-the-risk-of-inflation"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/the-death-of-the-dollar",
+      "source": "SITEMAP",
+      "id": "fa682fed9f701e96f79d1d2fd2e03646be18aad6",
+      "targetPath": "/publications/articles/the-death-of-the-dollar"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/223_finding_smart_beta_in_the_factor_zoo",
+      "source": "SITEMAP",
+      "id": "c18a80c95515218b524e9428da58650e9d5087b5",
+      "targetPath": "/publications/articles/223-finding-smart-beta-in-the-factor-zoo"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/319_the_promise_of_smart_beta",
+      "source": "SITEMAP",
+      "id": "3ecc15d66818baef1ae8313cde50471a4696ed70",
+      "targetPath": "/publications/articles/319-the-promise-of-smart-beta"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/292_what_smart_beta_means_to_us",
+      "source": "SITEMAP",
+      "id": "b22651202a8d462597e7440293b9adfaac98b307",
+      "targetPath": "/publications/articles/292-what-smart-beta-means-to-us"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/1-the-genesis-of-smart-beta-investing",
+      "source": "SITEMAP",
+      "id": "a2144d363f7a56dbb133973b35618abe519bcee8",
+      "targetPath": "/publications/articles/1-the-genesis-of-smart-beta-investing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/2-strategy-indices-and-smart-betas",
+      "source": "SITEMAP",
+      "id": "c54995ff362f417b76ee22aca47a0a95a3fa43ee",
+      "targetPath": "/publications/articles/2-strategy-indices-and-smart-betas"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/3-smart-beta-mpt-diversification",
+      "source": "SITEMAP",
+      "id": "40941cc56c283d4eb9ff0b6cfbf0bdeeea5fdba5",
+      "targetPath": "/publications/articles/3-smart-beta-mpt-diversification"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/5-smartbeta-vs-traditional-value",
+      "source": "SITEMAP",
+      "id": "5e6a163c0bec7c939cb19a3dd399f98eb974d724",
+      "targetPath": "/publications/articles/5-smartbeta-vs-traditional-value"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/4-smart-beta-and-benchmark-risk",
+      "source": "SITEMAP",
+      "id": "247881b57814c91ee624eecba64df9bf01aed90c",
+      "targetPath": "/publications/articles/4-smart-beta-and-benchmark-risk"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/6-who-is-on-other-side",
+      "source": "SITEMAP",
+      "id": "efebeb218e66ca02428a48a2dcb659c630b4a5dc",
+      "targetPath": "/publications/articles/6-who-is-on-other-side"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/7-the-value-premium-is-mean-reverting",
+      "source": "SITEMAP",
+      "id": "38d7db94fc4349bc76cddb58db10d8dd5f41c2fc",
+      "targetPath": "/publications/articles/7-the-value-premium-is-mean-reverting"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/540_to_win_with_smart_beta_ask_if_the_price_is_right",
+      "source": "SITEMAP",
+      "id": "fdc4bd3eb36eb744c750dc6f40394948fcadaef3",
+      "targetPath": "/publications/articles/540-to-win-with-smart-beta-ask-if-the-price-is-right"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/434_the_whole_story_factors__asset_classes",
+      "source": "SITEMAP",
+      "id": "fa54ce86e4e9a34c59c1f891fd69931bbe536d02",
+      "targetPath": "/publications/articles/434-the-whole-story-factors-asset-classes"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/733-the-advisors-case-for-smart-beta-direct-indexing",
+      "source": "SITEMAP",
+      "id": "ccc6ae828658046be64b46b07f2a044585a1e499",
+      "targetPath": "/publications/articles/733-the-advisors-case-for-smart-beta-direct-indexing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/601-the-incredible-shrinking-factor-return",
+      "source": "SITEMAP",
+      "id": "16d87b62e48d3fcc6a1b45524a4490571d05f374",
+      "targetPath": "/publications/articles/601-the-incredible-shrinking-factor-return"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/767-plausible-performance",
+      "source": "SITEMAP",
+      "id": "497bd3f962efcaf341874234bb78591babe06aa3",
+      "targetPath": "/publications/articles/767-plausible-performance"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/413_greek_drama_act_2",
+      "source": "SITEMAP",
+      "id": "c88586e9d753151c89bff62f96beb8f40b00346e",
+      "targetPath": "/publications/articles/413-greek-drama-act-2"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/what-a-difference-an-esg-ratings-provider-makes",
+      "source": "SITEMAP",
+      "id": "accf72fcc802612d49a5944c33a1499f13a2f13c",
+      "targetPath": "/publications/articles/what-a-difference-an-esg-ratings-provider-makes"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/772-forecasts-or-nowcasts-whats-on-the-horizon-for-the-2020s",
+      "source": "SITEMAP",
+      "id": "9aed6322108e524ce9a5a47341b77408dafd1ac7",
+      "targetPath": "/publications/articles/772-forecasts-or-nowcasts-whats-on-the-horizon-for-the-2020s"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/787-oh-my-whats-this-stuff-really-worth",
+      "source": "SITEMAP",
+      "id": "1d9b015f3be30de567cb229c29472141e8ed18bc",
+      "targetPath": "/publications/articles/787-oh-my-whats-this-stuff-really-worth"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/798-leading-in-uncertain-times",
+      "source": "SITEMAP",
+      "id": "2ef4a847307b0cb037658675d4d66893ce742194",
+      "targetPath": "/publications/articles/798-leading-in-uncertain-times"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/802-too-soon-pandemic-policy-response-raises-risk-of-inflation",
+      "source": "SITEMAP",
+      "id": "6abcf0843605ec6f181094ad3997cdd2702f958e",
+      "targetPath": "/publications/articles/802-too-soon-pandemic-policy-response-raises-risk-of-inflation"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/804-is-value-investing-structurally-impaired",
+      "source": "SITEMAP",
+      "id": "8119ce9817024fc79b7b5a36ce8b2935b2d7cbd6",
+      "targetPath": "/publications/articles/804-is-value-investing-structurally-impaired"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/809-the-covid-19-crash-and-the-abandonment-of-the-pensioner",
+      "source": "SITEMAP",
+      "id": "19e04415e5c2403d1c508869f0f03e02a0115cb3",
+      "targetPath": "/publications/articles/809-the-covid-19-crash-and-the-abandonment-of-the-pensioner"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/810-a-quick-survey-of-broken-asset-classes",
+      "source": "SITEMAP",
+      "id": "1f6e56d3d1c27a53e84653ce8515a67c8c08a424",
+      "targetPath": "/publications/articles/810-a-quick-survey-of-broken-asset-classes"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/813-is-esg-a-factor",
+      "source": "SITEMAP",
+      "id": "7cd325c70c3b6bc5a71031fa0e401dba6dffc0b8",
+      "targetPath": "/publications/articles/813-is-esg-a-factor"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/814-book-value-is-an-incomplete-measure-of-firm-size",
+      "source": "SITEMAP",
+      "id": "97741d7411a757eda7c4f3bfdcc51eb3f0d89b0a",
+      "targetPath": "/publications/articles/814-book-value-is-an-incomplete-measure-of-firm-size"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/factor-returns-relationship-with-the-economy",
+      "source": "SITEMAP",
+      "id": "23050d93c435c9072332a56ea41f78ed9ea58aeb",
+      "targetPath": "/publications/articles/factor-returns-relationship-with-the-economy"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/819-tesla-the-largest-cap-stock-ever",
+      "source": "SITEMAP",
+      "id": "c54651e8ae7f31570929cd5e5b086a2b2e1ff5b7",
+      "targetPath": "/publications/articles/819-tesla-the-largest-cap-stock-ever"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/821-is-diversification-dead",
+      "source": "SITEMAP",
+      "id": "eabaebca7639fe8af90ad64280b06599b4e575ab",
+      "targetPath": "/publications/articles/821-is-diversification-dead"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/822-beware-the-shocks-in-the-road",
+      "source": "SITEMAP",
+      "id": "6f7f3b12f68babc50d34eba343332cf49ecace2c",
+      "targetPath": "/publications/articles/822-beware-the-shocks-in-the-road"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/823-surprise-factors-betas-dont-deliver-factor-alphas",
+      "source": "SITEMAP",
+      "id": "7b8de4f66364ecdf387fecdfc194c6f41259cc48",
+      "targetPath": "/publications/articles/823-surprise-factors-betas-dont-deliver-factor-alphas"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/824-how-covid-19-vaccines-and-brexit-create-the-trade-of-the-2020s",
+      "source": "SITEMAP",
+      "id": "418aa5ed7f53efad0f9bff372b61c1a6a42d08fb",
+      "targetPath": "/publications/articles/824-how-covid-19-vaccines-and-brexit-create-the-trade-of-the-2020s"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/825-as-duration-dies-equities-rise",
+      "source": "SITEMAP",
+      "id": "92b33a453a57e2603f50855cc0a6dd88c69dc162",
+      "targetPath": "/publications/articles/825-as-duration-dies-equities-rise"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/826-big-market-delusion-electric-vehicles",
+      "source": "SITEMAP",
+      "id": "1a57fc0c8742b2f1a673495370c5afcf404816bb",
+      "targetPath": "/publications/articles/826-big-market-delusion-electric-vehicles"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/828-factor-timing-keep-it-simple",
+      "source": "SITEMAP",
+      "id": "92813265cfd6827b9d21a06bb567156598f5314b",
+      "targetPath": "/publications/articles/828-factor-timing-keep-it-simple"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/829-the-time-is-now-climate-transition-investing-for-us-investors",
+      "source": "SITEMAP",
+      "id": "330cb8d3baf905c2bb0493a29728a68be95c1577",
+      "targetPath": "/publications/articles/829-the-time-is-now-climate-transition-investing-for-us-investors"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/832-revisiting-teslas-addition-to-the-sp500",
+      "source": "SITEMAP",
+      "id": "cc1640e3e5e0b167d4084996b4e8b302c9cc9d8b",
+      "targetPath": "/publications/articles/832-revisiting-teslas-addition-to-the-sp500"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/842-did-i-miss-the-value-turn",
+      "source": "SITEMAP",
+      "id": "f4b6944d752cff25e343789e468bbd9dca4878a3",
+      "targetPath": "/publications/articles/842-did-i-miss-the-value-turn"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/845-net-zero-by-2050-australia-get-ready-for-eu-style-climate-investing-regs",
+      "source": "SITEMAP",
+      "id": "a0a7bc6cf311ffd22cbe2dc76e6ce080bf18c19b",
+      "targetPath": "/publications/articles/845-net-zero-by-2050-australia-get-ready-for-eu-style-climate-investing-regs"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/853-esg-is-a-preference-not-a-strategy",
+      "source": "SITEMAP",
+      "id": "4210264772e15b3791229943956e287224583e36",
+      "targetPath": "/publications/articles/853-esg-is-a-preference-not-a-strategy"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/864-inflation-is-here-what-now",
+      "source": "SITEMAP",
+      "id": "9a4b298007298fbea47a02f6d9165b23d8a4d30a",
+      "targetPath": "/publications/articles/864-inflation-is-here-what-now"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/922-rising-risk-of-stagflation",
+      "source": "SITEMAP",
+      "id": "f52326e1e965fa8546f13db6341aeb7d057a786d",
+      "targetPath": "/publications/articles/922-rising-risk-of-stagflation"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/924-carbon-intensity-for-climate-mitigation",
+      "source": "SITEMAP",
+      "id": "3aea564defc2929145ee510c3289fa10c7ee7e46",
+      "targetPath": "/publications/articles/924-carbon-intensity-for-climate-mitigation"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/964-that-was-then-this-is-now",
+      "source": "SITEMAP",
+      "id": "5398006b54885543e492ca093606de1c72989c18",
+      "targetPath": "/publications/articles/964-that-was-then-this-is-now"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/969-price-to-fantasy-ratio",
+      "source": "SITEMAP",
+      "id": "8a6547dc15ceb34bd5c9e20bd49d08f00f1f9378",
+      "targetPath": "/publications/articles/969-price-to-fantasy-ratio"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/970-the-buck-stops-here",
+      "source": "SITEMAP",
+      "id": "f7c5f8263c8ef5f4d3eaad12af77a55687523bc4",
+      "targetPath": "/publications/articles/970-the-buck-stops-here"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/971-rafi-fundamental-index-why-now",
+      "source": "SITEMAP",
+      "id": "57a72a30de8efc0eaa560a7d1b5441c4048f2854",
+      "targetPath": "/publications/articles/971-rafi-fundamental-index-why-now"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/973-rafi-rocks",
+      "source": "SITEMAP",
+      "id": "2a521d95160bf2785abd5be621a963a12c5a2295",
+      "targetPath": "/publications/articles/973-rafi-rocks"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/articles/987-odds-of-a-hard-landing",
+      "source": "SITEMAP",
+      "id": "981ca2b3f5bf85fab85c72ce4ae1532a313602f5",
+      "targetPath": "/publications/articles/987-odds-of-a-hard-landing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/717-what-is-quality",
+      "source": "SITEMAP",
+      "id": "8a1d1c09894aa2a24ffe80b3d82f348ebd036e17",
+      "targetPath": "/publications/journal-papers/717-what-is-quality"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/718-transaction-costs-of-factor-investing-strategies",
+      "source": "SITEMAP",
+      "id": "46b77706dfc9b18e0956be9801fb0bd8365f9293",
+      "targetPath": "/publications/journal-papers/718-transaction-costs-of-factor-investing-strategies"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/719-trade-off-in-multifactor-smart-beta-investing",
+      "source": "SITEMAP",
+      "id": "571d140bd24320ea43ff54b94f6e694c2498b956",
+      "targetPath": "/publications/journal-papers/719-trade-off-in-multifactor-smart-beta-investing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/713-tactical-and-tax-aware-gtaa",
+      "source": "SITEMAP",
+      "id": "7528d21fc1d3d97ce0729661a126c1059cb480a9",
+      "targetPath": "/publications/journal-papers/713-tactical-and-tax-aware-gtaa"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/706-the-folly-of-hiring-winners-and-firing-losers",
+      "source": "SITEMAP",
+      "id": "b5f5178c0b31e55c4fb11420205825dc843b3437",
+      "targetPath": "/publications/journal-papers/706-the-folly-of-hiring-winners-and-firing-losers"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/670-is-your-alpha-big-enough-to-cover-its-taxes-a-quartercentury-retrospective",
+      "source": "SITEMAP",
+      "id": "bbe578fb227c0a9e2b30cc1041ff7c234d386e8a",
+      "targetPath": "/publications/journal-papers/670-is-your-alpha-big-enough-to-cover-its-taxes-a-quartercentury-retrospective"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/629-smart-beta-multifactor-construction-methodology-mixing-versus-integrating",
+      "source": "SITEMAP",
+      "id": "be8bca4e1016d4d59259be17a42981bed91310fb",
+      "targetPath": "/publications/journal-papers/629-smart-beta-multifactor-construction-methodology-mixing-versus-integrating"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/702-a-backtesting-protocol-in-the-era-of-machine-learning",
+      "source": "SITEMAP",
+      "id": "55c3744797c3251f6dbe0c6cfacd01dd419972a6",
+      "targetPath": "/publications/journal-papers/702-a-backtesting-protocol-in-the-era-of-machine-learning"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/632-hobbled-by-benchmarks",
+      "source": "SITEMAP",
+      "id": "292347205b20e66c40ba642175569831166aa5ca",
+      "targetPath": "/publications/journal-papers/632-hobbled-by-benchmarks"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/374-king-of-the-mountain-the-shiller-pe-and-macroeconomic-conditions",
+      "source": "SITEMAP",
+      "id": "ba8d273ff5eb8c86808e182ad3b8c32ea789d66c",
+      "targetPath": "/publications/journal-papers/374-king-of-the-mountain-the-shiller-pe-and-macroeconomic-conditions"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/219_labor_conditions_and_future_capital_market_performance",
+      "source": "SITEMAP",
+      "id": "1320c4bce3a50216f717527ed7e859686a696ab3",
+      "targetPath": "/publications/journal-papers/219-labor-conditions-and-future-capital-market-performance"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/312_will_your_factor_deliver_an_examination_of_factor_robustness_and_implementation_costs_factor_zoology",
+      "source": "SITEMAP",
+      "id": "61b7d8a576832db81797f1537415f3c92b270d8a",
+      "targetPath": "/publications/journal-papers/312-will-your-factor-deliver-an-examination-of-factor-robustness-and-implementation-costs-factor-zoology"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/204_the_self-fulfilling_prophecy_of_popular_asset_pricing_models",
+      "source": "SITEMAP",
+      "id": "ff9d163bec4524aeda8a0f3fa77bf041aa09ba13",
+      "targetPath": "/publications/journal-papers/204-the-self-fulfilling-prophecy-of-popular-asset-pricing-models"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/266_the_impact_of_constraints_on_minimum_variance_portfolios",
+      "source": "SITEMAP",
+      "id": "6d5f2c5d0b89d4bc848b70699b574307425a2c17",
+      "targetPath": "/publications/journal-papers/266-the-impact-of-constraints-on-minimum-variance-portfolios"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/206_timing_poorly_a_guide_to_generating_poor_returns_while_investing_in_successful_strategies",
+      "source": "SITEMAP",
+      "id": "57ca3d3abd9ba44b95c45e4eb9535307cf85d403",
+      "targetPath": "/publications/journal-papers/206-timing-poorly-a-guide-to-generating-poor-returns-while-investing-in-successful-strategies"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/p_2013_aug_surprising_alpha",
+      "source": "SITEMAP",
+      "id": "a6e7f443932a47e02ae641a74035a0e871f984f5",
+      "targetPath": "/publications/journal-papers/p-2013-aug-surprising-alpha"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/game-changed-problems-remain",
+      "source": "SITEMAP",
+      "id": "fa0ab905fd2648051207e3245798a10a82f3d870",
+      "targetPath": "/publications/journal-papers/game-changed-problems-remain"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/reports-of-values-death-may-be-greatly-exaggerated",
+      "source": "SITEMAP",
+      "id": "ee90ead12502018f12ee1cbebe3928896751b73e",
+      "targetPath": "/publications/journal-papers/reports-of-values-death-may-be-greatly-exaggerated"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/837-breaking-bad-trends",
+      "source": "SITEMAP",
+      "id": "0d0c5131263268eac45af4ba2d465c4356788719",
+      "targetPath": "/publications/journal-papers/837-breaking-bad-trends"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/977-smart-rebalancing",
+      "source": "SITEMAP",
+      "id": "01657699af91b17d2d4e462aa936f9ba12d5024f",
+      "targetPath": "/publications/journal-papers/977-smart-rebalancing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/981-jp-how-transitory-is-inflation",
+      "source": "SITEMAP",
+      "id": "b0499673ca26b3c715ca0bfcbf68544567bd4875",
+      "targetPath": "/publications/journal-papers/981-jp-how-transitory-is-inflation"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/journal-papers/982-earning-alpha-by-avoiding-the-index-rebalancing-crowd",
+      "source": "SITEMAP",
+      "id": "965bedb31f599c7f65d179a413450d8cb98738eb",
+      "targetPath": "/publications/journal-papers/982-earning-alpha-by-avoiding-the-index-rebalancing-crowd"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/131-rob-arnott-on-the-glidepath-illusion",
+      "source": "SITEMAP",
+      "id": "9cada87ab5a594fbc8faaf9459a2d29a885ee58a",
+      "targetPath": "/publications/video/131-rob-arnott-on-the-glidepath-illusion"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/354-understanding-roll-return",
+      "source": "SITEMAP",
+      "id": "b3504bd12a903d830864f7f0431a738ada88900e",
+      "targetPath": "/publications/video/354-understanding-roll-return"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/189-rob-arnott-on-the-3-d-hurricane",
+      "source": "SITEMAP",
+      "id": "20fb87489214227d8a089ade6ba19b127db233f2",
+      "targetPath": "/publications/video/189-rob-arnott-on-the-3-d-hurricane"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/441_a_smart_beta_approach_to_income_investing",
+      "source": "SITEMAP",
+      "id": "f4c40ce7faff932993e96f19a3863e23040b668d",
+      "targetPath": "/publications/video/441-a-smart-beta-approach-to-income-investing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/490_beware_of_rising_valuations_in_smart_beta",
+      "source": "SITEMAP",
+      "id": "dff8fefb23e9d8313b8c88fe366480185efdbb11",
+      "targetPath": "/publications/video/490-beware-of-rising-valuations-in-smart-beta"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/375-jason-hsu-low-volatility-as-a-de-risking-strategy",
+      "source": "SITEMAP",
+      "id": "e3ec16620e3de951cac1ee3031f206d3962d49d3",
+      "targetPath": "/publications/video/375-jason-hsu-low-volatility-as-a-de-risking-strategy"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/613-why-factor-tilts-are-not-smart-smart-beta",
+      "source": "SITEMAP",
+      "id": "153070892690f99a53c107924168002c013b072f",
+      "targetPath": "/publications/video/613-why-factor-tilts-are-not-smart-smart-beta"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/474-what-is-small-size-investing",
+      "source": "SITEMAP",
+      "id": "6b02a61a10e1e7d4d41f1c9680bec25c506579be",
+      "targetPath": "/publications/video/474-what-is-small-size-investing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/477-rae-quality-video",
+      "source": "SITEMAP",
+      "id": "e7ddeef1340797ea1f85f797d74a17807eb4aa77",
+      "targetPath": "/publications/video/477-rae-quality-video"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/558-what-is-momentum-investing",
+      "source": "SITEMAP",
+      "id": "d100c568c5dc6b4fe6ec5b2ef4486aeaf45e2765",
+      "targetPath": "/publications/video/558-what-is-momentum-investing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/627-a-smart-beta-for-sustainable-growth",
+      "source": "SITEMAP",
+      "id": "194a42ff2086bfcb692fe83f1e9fb410089add40",
+      "targetPath": "/publications/video/627-a-smart-beta-for-sustainable-growth"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/605-alice-in-factorland-and-the-incredible-shrinking-factor-return",
+      "source": "SITEMAP",
+      "id": "50b8ff4705e5ac7879b9ec7f8510775deda1498f",
+      "targetPath": "/publications/video/605-alice-in-factorland-and-the-incredible-shrinking-factor-return"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/671-building-portfolios-diversification-without-the-heartburn",
+      "source": "SITEMAP",
+      "id": "8cdfe0c2d24a146068aab285d730504eb9c19db2",
+      "targetPath": "/publications/video/671-building-portfolios-diversification-without-the-heartburn"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/646-video-cape-fear-why-cape-naysayers-are-wrong",
+      "source": "SITEMAP",
+      "id": "a33d4990a5856a70e7f8be9ce3f4618d13cac07a",
+      "targetPath": "/publications/video/646-video-cape-fear-why-cape-naysayers-are-wrong"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/677-integrating-vs-mixing",
+      "source": "SITEMAP",
+      "id": "36a04a6bf9aafbcc5598942076146d078bb9e0f0",
+      "targetPath": "/publications/video/677-integrating-vs-mixing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/651-video-risk-preparing-clients-for-an-uncertain-journey",
+      "source": "SITEMAP",
+      "id": "0408f58f375f8e0a1695ff4bf979b366334c8d85",
+      "targetPath": "/publications/video/651-video-risk-preparing-clients-for-an-uncertain-journey"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/652-video-the-most-dangerous-and-ubiquitous-shortcut-in-financial-planning",
+      "source": "SITEMAP",
+      "id": "fe68c0cabb02d5191bace362da4f23c95d8584c6",
+      "targetPath": "/publications/video/652-video-the-most-dangerous-and-ubiquitous-shortcut-in-financial-planning"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/672-unlocking-the-performance-potential-in-esg",
+      "source": "SITEMAP",
+      "id": "7749b4e91f117e74e25e4c3d8065c727f3d1c03d",
+      "targetPath": "/publications/video/672-unlocking-the-performance-potential-in-esg"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/635-webinar-replay-a-smoother-path-to-outperformance-with-multi-factor-smart-beta-investing",
+      "source": "SITEMAP",
+      "id": "21bc8e7181b63ecce7257027b26e5980a8ff048c",
+      "targetPath": "/publications/video/635-webinar-replay-a-smoother-path-to-outperformance-with-multi-factor-smart-beta-investing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/685-webinar-buy-high-and-sell-low-with-index-funds",
+      "source": "SITEMAP",
+      "id": "a676d1f88e169e348a83b5f999fe35792dad6b19",
+      "targetPath": "/publications/video/685-webinar-buy-high-and-sell-low-with-index-funds"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/663-webinar-replay-cape-fear-why-cape-naysayers-are-wrong",
+      "source": "SITEMAP",
+      "id": "b2ad6d75e20b5e6deb85672df2dcbe23aba2945c",
+      "targetPath": "/publications/video/663-webinar-replay-cape-fear-why-cape-naysayers-are-wrong"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/644-webinar-replay-diversification-is-the-free-lunch-worth-the-heartburn",
+      "source": "SITEMAP",
+      "id": "bf3c3ab994e2e9d5e533a680e5220bd224635393",
+      "targetPath": "/publications/video/644-webinar-replay-diversification-is-the-free-lunch-worth-the-heartburn"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/623-webinar-replay-forecasting-asset-and-portfolio-expected-returns",
+      "source": "SITEMAP",
+      "id": "f40992da7637b2c0a1959a20a25c8f9d73840906",
+      "targetPath": "/publications/video/623-webinar-replay-forecasting-asset-and-portfolio-expected-returns"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/597-webinar-replay-forecasting-smart-beta-and-factors-history-is-worse-than-useless",
+      "source": "SITEMAP",
+      "id": "99d676dc6bcf817287b8e4d98eabd735bec81905",
+      "targetPath": "/publications/video/597-webinar-replay-forecasting-smart-beta-and-factors-history-is-worse-than-useless"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/187-forging-the-frontier",
+      "source": "SITEMAP",
+      "id": "cd7e43a75a9172531cb6b27c13599a9a1e46112d",
+      "targetPath": "/publications/video/187-forging-the-frontier"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/599-john-west-on-how-not-to-get-fired-with-smart-beta-investing",
+      "source": "SITEMAP",
+      "id": "9d2aa7a7b9a4d662c5aef4ce8886eff54bf73df4",
+      "targetPath": "/publications/video/599-john-west-on-how-not-to-get-fired-with-smart-beta-investing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/600-rob-arnott-on-forecasting-smart-beta",
+      "source": "SITEMAP",
+      "id": "772efc7b37a160bfb6e98d626ebe58a9d7f7947a",
+      "targetPath": "/publications/video/600-rob-arnott-on-forecasting-smart-beta"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/598-chris-brightman-on-dynamic-multi-factor-investing",
+      "source": "SITEMAP",
+      "id": "991f876383a6e5f47935381edf59c51fe23f42d8",
+      "targetPath": "/publications/video/598-chris-brightman-on-dynamic-multi-factor-investing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/part-1-what-matters-in-multi-factor-investing",
+      "source": "SITEMAP",
+      "id": "92fdf70973ce0416bf4b8b64b7a5c05c1825c69c",
+      "targetPath": "/publications/video/part-1-what-matters-in-multi-factor-investing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/part-2-ignored-risks-of-factor-investing",
+      "source": "SITEMAP",
+      "id": "48f07509161c47fc54d3e7d054f8441689c608a0",
+      "targetPath": "/publications/video/part-2-ignored-risks-of-factor-investing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/part-3-multi-factor-design-part-1-mixing-vs-integrating",
+      "source": "SITEMAP",
+      "id": "7531d1f4cda456225d7e28524e997dacc5f5aee3",
+      "targetPath": "/publications/video/part-3-multi-factor-design-part-1-mixing-vs-integrating"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/part-4-multi-factor-design-part-2-keep-a-handle-on-trading-costs",
+      "source": "SITEMAP",
+      "id": "cbde5300c74d7565b68255cb6587e1ac7c51a9b8",
+      "targetPath": "/publications/video/part-4-multi-factor-design-part-2-keep-a-handle-on-trading-costs"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2019-advisor-symposium-rob-arnott-are-valuations-irrelevant",
+      "source": "SITEMAP",
+      "id": "8b21401c9cfd22dd23fa7b042251fdbbf0e66a29",
+      "targetPath": "/publications/video/2019-advisor-symposium-rob-arnott-are-valuations-irrelevant"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2019-advisor-symposium-jim-masturzo-a-multi-signal-approach-to-asset-allocation",
+      "source": "SITEMAP",
+      "id": "9c65dc55b12daa4dd4ecbb05f085debf64267b30",
+      "targetPath": "/publications/video/2019-advisor-symposium-jim-masturzo-a-multi-signal-approach-to-asset-allocation"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2019-advisor-symposium-cam-harvey-at-the-nexus-of-financial-and-technological-innovation",
+      "source": "SITEMAP",
+      "id": "a48f2c8ef81bb249d8216e4f491166b68c795722",
+      "targetPath": "/publications/video/2019-advisor-symposium-cam-harvey-at-the-nexus-of-financial-and-technological-innovation"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2018-advisor-symposium-feifei-li-smart-beta-selection-pick-the-right-one",
+      "source": "SITEMAP",
+      "id": "96031f3554fcfcdfc9bf6854680bdfa0c048392b",
+      "targetPath": "/publications/video/2018-advisor-symposium-feifei-li-smart-beta-selection-pick-the-right-one"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/746-2019-investment-symposium-london-past-is-not-prologue",
+      "source": "SITEMAP",
+      "id": "8bc159e3c3caee4d663e392048086a3c44db52c2",
+      "targetPath": "/publications/video/746-2019-investment-symposium-london-past-is-not-prologue"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2019-advisor-symposium-katy-sherrerd-building-a-sustainable-culture",
+      "source": "SITEMAP",
+      "id": "84811fac25febb3cc072cfb801d174437dcf619e",
+      "targetPath": "/publications/video/2019-advisor-symposium-katy-sherrerd-building-a-sustainable-culture"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2019-advisor-symposium-michele-mazzoleni-factor-strategies-and-market-cycles",
+      "source": "SITEMAP",
+      "id": "a998f238432272264d05f234118893cf3030de1a",
+      "targetPath": "/publications/video/2019-advisor-symposium-michele-mazzoleni-factor-strategies-and-market-cycles"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2018-advisor-symposium-juhani-linnainmaa-the-misguided-beliefs-of-financial-advisors",
+      "source": "SITEMAP",
+      "id": "0a5b958116999686161bb9a19b3db01cf3d4e1ce",
+      "targetPath": "/publications/video/2018-advisor-symposium-juhani-linnainmaa-the-misguided-beliefs-of-financial-advisors"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2018-advisor-symposium-jason-hsu-timing-poorly-and-other-related-investment-sins",
+      "source": "SITEMAP",
+      "id": "725be3021bad7968e083bb9e610b72cd5cb20e63",
+      "targetPath": "/publications/video/2018-advisor-symposium-jason-hsu-timing-poorly-and-other-related-investment-sins"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/2018-advisor-symposium-rob-arnott-is-your-alpha-big-enough-to-cover-its-taxes",
+      "source": "SITEMAP",
+      "id": "a9b5f12b74fb9b052c77dd482554e5a11a0a404f",
+      "targetPath": "/publications/video/2018-advisor-symposium-rob-arnott-is-your-alpha-big-enough-to-cover-its-taxes"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/bubble-anti-bubbles-and-the-prospects-for-value-investing",
+      "source": "SITEMAP",
+      "id": "ee2e2096936b6985e43d2cdc6d280a3ceee2c558",
+      "targetPath": "/publications/video/bubble-anti-bubbles-and-the-prospects-for-value-investing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/785-rafi-in-a-growth-dominated-global-market",
+      "source": "SITEMAP",
+      "id": "ec99dda6c61bb7cbd4714bed0cf53b0081f5709e",
+      "targetPath": "/publications/video/785-rafi-in-a-growth-dominated-global-market"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/786-capital-market-expectations-for-the-new-decade",
+      "source": "SITEMAP",
+      "id": "0c89c4e52e78d78b918b94a8a1d871ea19d4dc93",
+      "targetPath": "/publications/video/786-capital-market-expectations-for-the-new-decade"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/800-the-great-compression",
+      "source": "SITEMAP",
+      "id": "538587e68b1c27cb58563d380d9649523cfa4fe7",
+      "targetPath": "/publications/video/800-the-great-compression"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/803-capital-market-expectations-covid-19-update",
+      "source": "SITEMAP",
+      "id": "a92ab8fb51cfb785b41545a59c4805a78566fd61",
+      "targetPath": "/publications/video/803-capital-market-expectations-covid-19-update"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/807-the-economic-path-forward",
+      "source": "SITEMAP",
+      "id": "debbd891db723e50057a728b81850c25ce1c2500",
+      "targetPath": "/publications/video/807-the-economic-path-forward"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/818-rafi-esg-index-series",
+      "source": "SITEMAP",
+      "id": "27dd9077bf07aaa352ba26954886479179a1cc2a",
+      "targetPath": "/publications/video/818-rafi-esg-index-series"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/new-research-insights",
+      "source": "SITEMAP",
+      "id": "7134a8cc0632b0e22e319a9ed3a19ad4cd29b418",
+      "targetPath": "/publications/video/new-research-insights"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/840-return-forecasts-and-model-portfolios-in-a-post-covid-world",
+      "source": "SITEMAP",
+      "id": "bedade689ce839b83fa40eda3163afb0276b6c1b",
+      "targetPath": "/publications/video/840-return-forecasts-and-model-portfolios-in-a-post-covid-world"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/844-value-has-rebounded-now-what",
+      "source": "SITEMAP",
+      "id": "4d10664d82a084064a8b9cbd3e87dc9e20ea3904",
+      "targetPath": "/publications/video/844-value-has-rebounded-now-what"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/inflations-near-term-surprise",
+      "source": "SITEMAP",
+      "id": "65da58054b81769b0f6089521634dbe67a3a7d2b",
+      "targetPath": "/publications/video/inflations-near-term-surprise"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/916-beyond-60-40-asset-allocation-in-an-inflationary-environment",
+      "source": "SITEMAP",
+      "id": "05f262215cab443604a4b2a5ecd3ec27ffa6cb10",
+      "targetPath": "/publications/video/916-beyond-60-40-asset-allocation-in-an-inflationary-environment"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/917-will-value-outperform-while-inflation-rises",
+      "source": "SITEMAP",
+      "id": "5cbd395b2b8f75f329132f72fd5e0b927fb9639f",
+      "targetPath": "/publications/video/917-will-value-outperform-while-inflation-rises"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/923-rob-arnott-exchange-at-etf",
+      "source": "SITEMAP",
+      "id": "f9e10b3c3de3da1feb73fdb1a625faf06b31f637",
+      "targetPath": "/publications/video/923-rob-arnott-exchange-at-etf"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/927-gaining-clarity-in-the-esg-investing-space",
+      "source": "SITEMAP",
+      "id": "fe3149ce0ec793041af96f10ba63146e93071c20",
+      "targetPath": "/publications/video/927-gaining-clarity-in-the-esg-investing-space"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/929-rafi-performance-in-a-changing-market-landscape",
+      "source": "SITEMAP",
+      "id": "b57a799b94f39ec9fb81be79e2f0200d250e1354",
+      "targetPath": "/publications/video/929-rafi-performance-in-a-changing-market-landscape"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/940-carbon-emissions-data",
+      "source": "SITEMAP",
+      "id": "1444bd2297a5cb1023709866ef8a7a35b90d3251",
+      "targetPath": "/publications/video/940-carbon-emissions-data"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/945-refined-forecasts-and-enhanced-interface",
+      "source": "SITEMAP",
+      "id": "a865af1975d9a630d58cedcf50350547c1fd39e0",
+      "targetPath": "/publications/video/945-refined-forecasts-and-enhanced-interface"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/972-how-transitory-is-inflation",
+      "source": "SITEMAP",
+      "id": "e67e07eaf9e7893718180cc2f4530748a3ba2661",
+      "targetPath": "/publications/video/972-how-transitory-is-inflation"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/980-a-bank-examiners-perspective-on-the-banking-crisis",
+      "source": "SITEMAP",
+      "id": "c88aec6193c208d5ea4881626c9502dfe9bcc321",
+      "targetPath": "/publications/video/980-a-bank-examiners-perspective-on-the-banking-crisis"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/video/981-navigating-todays-environment",
+      "source": "SITEMAP",
+      "id": "5f0384d0feb2358823fa0f2e665b4197c33186f7",
+      "targetPath": "/publications/video/981-navigating-todays-environment"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/865-rob-arnott-on-quant-investing-opportunities-and-pitfalls",
+      "source": "SITEMAP",
+      "id": "89d6af9700ab364acac3852596ed5333d18e365c",
+      "targetPath": "/publications/podcasts/865-rob-arnott-on-quant-investing-opportunities-and-pitfalls"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/866-cam-harveys-four-horsemen-of-recesession",
+      "source": "SITEMAP",
+      "id": "4ba61cfa2c37436b7dfb74d3cb1ab3cb51f8900d",
+      "targetPath": "/publications/podcasts/866-cam-harveys-four-horsemen-of-recesession"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/870-yes-its-a-bubble-so-what",
+      "source": "SITEMAP",
+      "id": "5f7ffbe10a89299deebabaffe24d50a2a9e628f4",
+      "targetPath": "/publications/podcasts/870-yes-its-a-bubble-so-what"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/873-this-is-a-time-of-considerable-risk",
+      "source": "SITEMAP",
+      "id": "9c54d978b69b2f8dd8814dfbc2460cf94c5eebb6",
+      "targetPath": "/publications/podcasts/873-this-is-a-time-of-considerable-risk"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/874-recession-is-coming",
+      "source": "SITEMAP",
+      "id": "15a641b1835f24491df859439a0dbd29709e8035",
+      "targetPath": "/publications/podcasts/874-recession-is-coming"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/877-emerging-markets-trading-at-a-shiller-pe",
+      "source": "SITEMAP",
+      "id": "75dfdd747ed493147b3cecf753fc45085dbba5a0",
+      "targetPath": "/publications/podcasts/877-emerging-markets-trading-at-a-shiller-pe"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/879-be-aware-of-the-cracks-under-your-feet",
+      "source": "SITEMAP",
+      "id": "08c92d8f18cbd6ea9224727707d0c336ed77b903",
+      "targetPath": "/publications/podcasts/879-be-aware-of-the-cracks-under-your-feet"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/880-why-the-stock-market-hasnt-even-gotten-cheap-yet",
+      "source": "SITEMAP",
+      "id": "d0d8e3d070de83f08ab30db265563d6dd2248a0b",
+      "targetPath": "/publications/podcasts/880-why-the-stock-market-hasnt-even-gotten-cheap-yet"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/881-rob-arnott-my-personal-portfolio",
+      "source": "SITEMAP",
+      "id": "2c22f7eb2971bc054fdc22612d1af7b1cb3af036",
+      "targetPath": "/publications/podcasts/881-rob-arnott-my-personal-portfolio"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/885-code-red-revisited",
+      "source": "SITEMAP",
+      "id": "6cec2d9737addfac95ae58beeb84a4d132a606ed",
+      "targetPath": "/publications/podcasts/885-code-red-revisited"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/886-is-value-dead",
+      "source": "SITEMAP",
+      "id": "04986aa55fc7f36709859ed275c56a169a950eaf",
+      "targetPath": "/publications/podcasts/886-is-value-dead"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/889-bubble-bubble-toil-and-trouble",
+      "source": "SITEMAP",
+      "id": "846362c80b61bcef8c709fb97c442cba249408c6",
+      "targetPath": "/publications/podcasts/889-bubble-bubble-toil-and-trouble"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/896-inflation-bubbles-and-the-future-of-value-investing",
+      "source": "SITEMAP",
+      "id": "c4abb029b96a8ba89bcf94bca8242500f727d76c",
+      "targetPath": "/publications/podcasts/896-inflation-bubbles-and-the-future-of-value-investing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/897-dissecting-smart-beta",
+      "source": "SITEMAP",
+      "id": "8bddfbd1d590f87f69d7504666c3c32cb8f4c5f3",
+      "targetPath": "/publications/podcasts/897-dissecting-smart-beta"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/898-the-death-of-diversification-and-value-too",
+      "source": "SITEMAP",
+      "id": "1bbddfb40b06aa6f8f572b142b8170c7eba17efb",
+      "targetPath": "/publications/podcasts/898-the-death-of-diversification-and-value-too"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/899-bubbles-inflation-and-once-in-a-generation",
+      "source": "SITEMAP",
+      "id": "28fa1bd6f1c184000a2d0c470231f8b18a35505d",
+      "targetPath": "/publications/podcasts/899-bubbles-inflation-and-once-in-a-generation"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/900-breaking-bad-trends",
+      "source": "SITEMAP",
+      "id": "06574ac3c810c790c0f80d56dfeb43e6ec32901c",
+      "targetPath": "/publications/podcasts/900-breaking-bad-trends"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/903-a-quick-survey-of-broken-asset-classes",
+      "source": "SITEMAP",
+      "id": "5f0a3ac6055f47fc8b8b120b60cbd0a869507b9b",
+      "targetPath": "/publications/podcasts/903-a-quick-survey-of-broken-asset-classes"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/918-what-better-time-to-buy-than-during-the-lows",
+      "source": "SITEMAP",
+      "id": "871f4339fa3345463da7f11a286d7d779149be30",
+      "targetPath": "/publications/podcasts/918-what-better-time-to-buy-than-during-the-lows"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/934-defi-opportunities-and-risks",
+      "source": "SITEMAP",
+      "id": "755c911f82a92adbd6b7c7863122bccd7ce3acea",
+      "targetPath": "/publications/podcasts/934-defi-opportunities-and-risks"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/943-why-they-believe-inflation-hasnt-peaked",
+      "source": "SITEMAP",
+      "id": "532fc606d4f2c11c2a355b589da5e43d89e5055b",
+      "targetPath": "/publications/podcasts/943-why-they-believe-inflation-hasnt-peaked"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/944-rob-arnott-the-market-huddle",
+      "source": "SITEMAP",
+      "id": "0ce2d1b556fca9bfe8e4fe315edd8e9d68368175",
+      "targetPath": "/publications/podcasts/944-rob-arnott-the-market-huddle"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/947-value-investing-is-back",
+      "source": "SITEMAP",
+      "id": "8ee218192210734e85a15fb03d0d9af962a7ca61",
+      "targetPath": "/publications/podcasts/947-value-investing-is-back"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/963-show-us-your-portfolio",
+      "source": "SITEMAP",
+      "id": "344094d2e447cd031ca86b2808a6fa2e6caa5ef8",
+      "targetPath": "/publications/podcasts/963-show-us-your-portfolio"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/978-the-fed-cant-solve-the-problems-were-facing",
+      "source": "SITEMAP",
+      "id": "0b9f176bd6fe9f1b9c5a2c70ff08fb6e2142c5ac",
+      "targetPath": "/publications/podcasts/978-the-fed-cant-solve-the-problems-were-facing"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/983-cam-harvey-on-10-3-inversions",
+      "source": "SITEMAP",
+      "id": "bb827039e86d8a8d1c9e409eb164333ff5a02a83",
+      "targetPath": "/publications/podcasts/983-cam-harvey-on-10-3-inversions"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/publications/podcasts/986-cam-harvey-on-squawk-box",
+      "source": "SITEMAP",
+      "id": "f3964bc7eacdbe0fc2cc63347e492e72333a685a",
+      "targetPath": "/publications/podcasts/986-cam-harvey-on-squawk-box"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/solutions",
+      "source": "SITEMAP",
+      "id": "3b91d2bbcf0dbf536c638e740cc2f893bdfbcd42",
+      "targetPath": "/solutions"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/solutions/index-documents",
+      "source": "SITEMAP",
+      "id": "3434d000b7168154c56ba587f60b06c211aa057d",
+      "targetPath": "/solutions/index-documents"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/advisors",
+      "source": "SITEMAP",
+      "id": "156afc16f28dd509fce4b24ee5548b07917d0d2a",
+      "targetPath": "/advisors"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs",
+      "source": "SITEMAP",
+      "id": "4c2d9a6f72111d9c1ca4f45af9e0980dbd532c81",
+      "targetPath": "/how-to-invest/mutual-funds-etfs"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/prf",
+      "source": "SITEMAP",
+      "id": "bfef5e1d7fb0091142abe28d2961fe7e67bc6741",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/prf"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/mfdx",
+      "source": "SITEMAP",
+      "id": "07076f5e08bf3e8fb5803df5e6bdd37d6dd114f1",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/mfdx"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/mfem",
+      "source": "SITEMAP",
+      "id": "cb66a0c5d5dba700b78c91095dbe51689178e47c",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/mfem"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/mfus",
+      "source": "SITEMAP",
+      "id": "35ff7335e7347ccc1bb7a2fb181485a47b354406",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/mfus"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/ftbz50",
+      "source": "SITEMAP",
+      "id": "6679fc17d9df6338a41567dcfe3811743ab14041",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/ftbz50"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/psrw",
+      "source": "SITEMAP",
+      "id": "7a8bdad1ba3910588fa46e9b12ce8a18eb5ba6da",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/psrw"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pxg",
+      "source": "SITEMAP",
+      "id": "9286f523015eb8a1eabbb6b63ff38ebf4b92e4b5",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pxg"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/omgfria",
+      "source": "SITEMAP",
+      "id": "61b89eb4b7e910752909c5915e23578a8b540b1d",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/omgfria"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/paf",
+      "source": "SITEMAP",
+      "id": "fd1dcb2cc6434b2bc024e8adeede650065aad74d",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/paf"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/qoz",
+      "source": "SITEMAP",
+      "id": "b4f9b2412279a111428e49032ce776d336bb28ce",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/qoz"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/crq",
+      "source": "SITEMAP",
+      "id": "bf2dc9a09d5161b65238f0c5ecaabb6d6527fc1d",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/crq"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pxc",
+      "source": "SITEMAP",
+      "id": "ea05432525c480dab625285631cd72b217985cc6",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pxc"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pzc",
+      "source": "SITEMAP",
+      "id": "92cfc3d81f83174ff5efc50bc759228b42d0d91b",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pzc"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pdn",
+      "source": "SITEMAP",
+      "id": "da113356a090a5b73a8af64b775d1fe08e31944d",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pdn"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pzw",
+      "source": "SITEMAP",
+      "id": "8200ab96e225d72ad0a93d297b06f02f9931a74a",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pzw"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/cie",
+      "source": "SITEMAP",
+      "id": "acbd5984f9ed01e2cb8c35d96913476709c08024",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/cie"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pxf",
+      "source": "SITEMAP",
+      "id": "2afa081d3db29262abcf19c3bce434d96f0945bf",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pxf"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/cwo",
+      "source": "SITEMAP",
+      "id": "6a66579316f16b8c360c6a8f10166f5c6745e067",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/cwo"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pxh",
+      "source": "SITEMAP",
+      "id": "98972b334316bea9b62fb2567e7f7abb771b197c",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pxh"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/powfremf",
+      "source": "SITEMAP",
+      "id": "ad7f0be99c0f77c4efd3e11180ab25fff61626e2",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/powfremf"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pehh",
+      "source": "SITEMAP",
+      "id": "aeb18727a1fb816444b24e5a40f61d2bcdf11286",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pehh"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/psre",
+      "source": "SITEMAP",
+      "id": "dd22082493ace5b55e5b0bb03d6be324c02b110e",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/psre"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/cjp",
+      "source": "SITEMAP",
+      "id": "25e5a85c2e14b701adf8c30449bca5b1a3cd697c",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/cjp"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/prus",
+      "source": "SITEMAP",
+      "id": "f015ed23e6f3c5ac21c9f3de23daab86255528b8",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/prus"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/clu",
+      "source": "SITEMAP",
+      "id": "fa4957b384315a86a8435d67ab304652781b9310",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/clu"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pxs",
+      "source": "SITEMAP",
+      "id": "208612991d11246b25af0541ebe1d477349b4b5f",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pxs"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/rals",
+      "source": "SITEMAP",
+      "id": "50c9a2f91d2a6c7995a182e57c12cd11f591ee0e",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/rals"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/prfz",
+      "source": "SITEMAP",
+      "id": "048a1ccb548f4032035891e91dc0b2d84c7a2e9d",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/prfz"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/stxraf",
+      "source": "SITEMAP",
+      "id": "7e3b098be7cca1c952b32c2731db0eda7ea7c7e5",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/stxraf"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/oldm40a",
+      "source": "SITEMAP",
+      "id": "45729e95c612d0b5137709179c8e25ff144644ef",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/oldm40a"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/fnde",
+      "source": "SITEMAP",
+      "id": "058efd01d0dd2f7b3167827ebcaec1af6e4767a5",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/fnde"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/sfenx",
+      "source": "SITEMAP",
+      "id": "3ca07175a59cd707414dd7ef57b78a9fb15bf266",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/sfenx"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/sfrex",
+      "source": "SITEMAP",
+      "id": "16f65f04f3ddbe86e71bf6b89f76b3c8d5257df8",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/sfrex"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/fndf",
+      "source": "SITEMAP",
+      "id": "ea08cde9c65365648c2a2c22f4f021df8e1b0238",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/fndf"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/sfnnx",
+      "source": "SITEMAP",
+      "id": "53b8a4ed1f9953569a0326c250dacb4900c52948",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/sfnnx"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/fndc",
+      "source": "SITEMAP",
+      "id": "b7906970a8631bc6a6b61c91792f7ef623e7215a",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/fndc"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/sfilx",
+      "source": "SITEMAP",
+      "id": "2e3bd93ca83bb0082dfd6aea3f0f012d5c87520d",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/sfilx"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/fndb",
+      "source": "SITEMAP",
+      "id": "3332eeeed19ca64c2a35642f31c61d9d69b9206e",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/fndb"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/fndx",
+      "source": "SITEMAP",
+      "id": "204e25e67447db44b7ebe67513aa3ffc72ce02a1",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/fndx"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/fnda",
+      "source": "SITEMAP",
+      "id": "7d05c109df9b568f53fcaee4534edf7618ae39a7",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/fnda"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/sflnx",
+      "source": "SITEMAP",
+      "id": "6a7bb603d1ac11608d065270ebe80c3f7f43e26e",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/sflnx"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/sfsnx",
+      "source": "SITEMAP",
+      "id": "e72901d1bed906d222fb0b1833e24e378ed4df39",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/sfsnx"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/ubsfrca",
+      "source": "SITEMAP",
+      "id": "baf5653fa2e86e0bd2f482383cab70c80d7a05cb",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/ubsfrca"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/ius",
+      "source": "SITEMAP",
+      "id": "3f8e044f07562cd4cb59773d8a1f227615a51a07",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/ius"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/isdx",
+      "source": "SITEMAP",
+      "id": "2329c87e462fff9b8994f452566863df7dcb33b9",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/isdx"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/isds",
+      "source": "SITEMAP",
+      "id": "251f342507dd9130641e551ab9d87cc33e028011",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/isds"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/isem",
+      "source": "SITEMAP",
+      "id": "d3466babdcb243f7e73100f66083264589b475fc",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/isem"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/iuss",
+      "source": "SITEMAP",
+      "id": "0cbf9a7a7bcdb476af435139400f87d2d266cf76",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/iuss"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/rafe",
+      "source": "SITEMAP",
+      "id": "cdf1c70bea7718d3a22d6c1620e156ac10e8404a",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/rafe"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/paaix",
+      "source": "SITEMAP",
+      "id": "621421df3928b5664729bf12fc1895418594f710",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/paaix"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pauix",
+      "source": "SITEMAP",
+      "id": "3a1b96e046e4ced89911ee781d918a8e94347f4e",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pauix"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/peifx",
+      "source": "SITEMAP",
+      "id": "c889fa003c7a1e77687941935268e6b9d78627dd",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/peifx"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pzrix",
+      "source": "SITEMAP",
+      "id": "77a861d7f9758201ba46425f1104c186a03601ac",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pzrix"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pfqix",
+      "source": "SITEMAP",
+      "id": "517babec59c569fdf65e0c0cd451f6a359507bf4",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pfqix"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/ppyix",
+      "source": "SITEMAP",
+      "id": "9fdcc4d8fa27958b506d8013c20d2d915abeb0cb",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/ppyix"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pkaix",
+      "source": "SITEMAP",
+      "id": "12bb0f4e00db7b5b781f507e4f4f9a6410197c63",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pkaix"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pmjix",
+      "source": "SITEMAP",
+      "id": "a80689b3bd42c27b555ba2628452a757328e6a4d",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pmjix"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pwlix",
+      "source": "SITEMAP",
+      "id": "494c74b2d0efe300bb553a52806b29836ecfdfa7",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pwlix"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pqiix",
+      "source": "SITEMAP",
+      "id": "a1e9dd21af3ea295257e60e53416184cd24c20b3",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pqiix"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/phb",
+      "source": "SITEMAP",
+      "id": "62b818a8af46e42939c1965a9897a82d23fbfd19",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/phb"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pfig",
+      "source": "SITEMAP",
+      "id": "f3315c4f92418580c23329d36749757cdae86915",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pfig"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pxtix",
+      "source": "SITEMAP",
+      "id": "f7e1183252d2cef37939161a4aa26d81eafc0da2",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pxtix"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pfatx",
+      "source": "SITEMAP",
+      "id": "4f95952f1e493bbed2f43fb7228f5c890b21b194",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pfatx"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pefix",
+      "source": "SITEMAP",
+      "id": "5520a49bc85d75c18cb89955aaf895db3d2a87f1",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pefix"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/pcfix",
+      "source": "SITEMAP",
+      "id": "ac28435e75e7ff8115fd895eeb39a07fe722fe5b",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/pcfix"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/ptsix",
+      "source": "SITEMAP",
+      "id": "1172ed193849db1a6a14d9117bc5678d3c8cf9f2",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/ptsix"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/mutual-funds-etfs/psruln",
+      "source": "SITEMAP",
+      "id": "1149a631be33db44659ddeaf7119137a1242521c",
+      "targetPath": "/how-to-invest/mutual-funds-etfs/psruln"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/how-to-invest/institutional",
+      "source": "SITEMAP",
+      "id": "05bfc57878509cfdb6097e65cc3d58a24a4f0c33",
+      "targetPath": "/how-to-invest/institutional"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us",
+      "source": "SITEMAP",
+      "id": "00eda876bab90bd9121c6a1860ec88d13dcceaf8",
+      "targetPath": "/about-us"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team",
+      "source": "SITEMAP",
+      "id": "b45314126c89e8242e40755ad3ed7a0cd46dbfef",
+      "targetPath": "/about-us/our-team"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/reena-lalji",
+      "source": "SITEMAP",
+      "id": "1c2e2753f0cd52f162cb6c8e316af1e31236a188",
+      "targetPath": "/about-us/our-team/reena-lalji"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/chris-harper",
+      "source": "SITEMAP",
+      "id": "cfc29c023a0230060344b557d5e3dc0afde445d2",
+      "targetPath": "/about-us/our-team/chris-harper"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/veddad-zahiragic",
+      "source": "SITEMAP",
+      "id": "e5cad200cb451c39a98db0f575247f9da98d9035",
+      "targetPath": "/about-us/our-team/veddad-zahiragic"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/andrew-baker",
+      "source": "SITEMAP",
+      "id": "ef73bd75152839268859cc5c3e33f18e05c2d2b7",
+      "targetPath": "/about-us/our-team/andrew-baker"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/li-liang",
+      "source": "SITEMAP",
+      "id": "7c5c9bbed249b6064050511947f53c5b985b41f6",
+      "targetPath": "/about-us/our-team/li-liang"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/matt-lundberg",
+      "source": "SITEMAP",
+      "id": "0224ef3789e2e2bc2b44951e9051447974b8d862",
+      "targetPath": "/about-us/our-team/matt-lundberg"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/brent-leadbetter",
+      "source": "SITEMAP",
+      "id": "668e82ede2a7f0b6af6edb5ee4510490048b5c8e",
+      "targetPath": "/about-us/our-team/brent-leadbetter"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/cam-harvey",
+      "source": "SITEMAP",
+      "id": "7eb1c4d63477222ce5d640494f87a850a81a9453",
+      "targetPath": "/about-us/our-team/cam-harvey"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/chris-ariza",
+      "source": "SITEMAP",
+      "id": "200f8256baac8b48754fe6da33081cb84dc605e7",
+      "targetPath": "/about-us/our-team/chris-ariza"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/chrisbrightman",
+      "source": "SITEMAP",
+      "id": "efa946155f9ba9f4c2df6861201d2ee596aac00d",
+      "targetPath": "/about-us/our-team/chrisbrightman"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/james-masturzo",
+      "source": "SITEMAP",
+      "id": "4669b8f577e3146c9381e8e378eae284de4dbb55",
+      "targetPath": "/about-us/our-team/james-masturzo"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/jeff-wilson",
+      "source": "SITEMAP",
+      "id": "2e0380c8585df2c4e2d0f7e3821d30db4bb5d0d1",
+      "targetPath": "/about-us/our-team/jeff-wilson"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/joseph-shim",
+      "source": "SITEMAP",
+      "id": "1199880bf9263ade06acba3c03732f7b58cfeeb9",
+      "targetPath": "/about-us/our-team/joseph-shim"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/katrina-sherrerd",
+      "source": "SITEMAP",
+      "id": "9bd4bd7ae1a92cbb4d46478f0cd96c4973aff357",
+      "targetPath": "/about-us/our-team/katrina-sherrerd"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/shaun-patel",
+      "source": "SITEMAP",
+      "id": "d361e0f81968828dd33c846c4f8c423c8f99de3f",
+      "targetPath": "/about-us/our-team/shaun-patel"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/seanna-kim",
+      "source": "SITEMAP",
+      "id": "9d81a21b6127d3f3fd74a813f9f155715e74c63f",
+      "targetPath": "/about-us/our-team/seanna-kim"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/rob-arnott",
+      "source": "SITEMAP",
+      "id": "527a38a89f238e118514a28bcad1a7ed51836a07",
+      "targetPath": "/about-us/our-team/rob-arnott"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/omid-shakernia",
+      "source": "SITEMAP",
+      "id": "4cdf45364279f7c9f3ba6deea138bc66395a157e",
+      "targetPath": "/about-us/our-team/omid-shakernia"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/noah-beck",
+      "source": "SITEMAP",
+      "id": "8046dded1a5fe152fb8793b8c7ebea31bbbf1389",
+      "targetPath": "/about-us/our-team/noah-beck"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/elaine-zane",
+      "source": "SITEMAP",
+      "id": "9dba32339925929bdbe6f4603978f2f6611d39c4",
+      "targetPath": "/about-us/our-team/elaine-zane"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/ted-hsu",
+      "source": "SITEMAP",
+      "id": "30011ab9c04011beac38094b028dfac0593af12b",
+      "targetPath": "/about-us/our-team/ted-hsu"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/alan-lin",
+      "source": "SITEMAP",
+      "id": "1743dfed0ba6a3f5e4dc35af57c06689cc9b2c2e",
+      "targetPath": "/about-us/our-team/alan-lin"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/yu-tomita",
+      "source": "SITEMAP",
+      "id": "5df1c900198b16b986f29e75128e3ad2757261cb",
+      "targetPath": "/about-us/our-team/yu-tomita"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/alex-pickard",
+      "source": "SITEMAP",
+      "id": "5ae4771739cfa7a82c518473437aed220aa9876d",
+      "targetPath": "/about-us/our-team/alex-pickard"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/ari-polychronopoulos",
+      "source": "SITEMAP",
+      "id": "a5e9bd421500cf2e3a6555f3ff37b25c13ef2ab7",
+      "targetPath": "/about-us/our-team/ari-polychronopoulos"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/jay-jeon",
+      "source": "SITEMAP",
+      "id": "4a01da21865ad413fbb9b51c3e9d07b0df022eec",
+      "targetPath": "/about-us/our-team/jay-jeon"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/jennifer-macha",
+      "source": "SITEMAP",
+      "id": "3b1890e49c35892039c4500476def29d3ff793fc",
+      "targetPath": "/about-us/our-team/jennifer-macha"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/chrysten-davis",
+      "source": "SITEMAP",
+      "id": "e3830cc4d8f229c3e30de2ef0ffef247e43acb8f",
+      "targetPath": "/about-us/our-team/chrysten-davis"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/our-team/que-nguyen",
+      "source": "SITEMAP",
+      "id": "825edae66cb8e8bb4f2c331dc235ccb1399a5c0b",
+      "targetPath": "/about-us/our-team/que-nguyen"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/careers",
+      "source": "SITEMAP",
+      "id": "e4b3e0a6d6c9b63fe19eace2531c9736d62d578f",
+      "targetPath": "/about-us/careers"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/technology",
+      "source": "SITEMAP",
+      "id": "7321e5133b971c756359ffcf83d3384c243c342d",
+      "targetPath": "/about-us/technology"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/contact-us",
+      "source": "SITEMAP",
+      "id": "4ec5eff93d56145cffae2eb25fc246ddba15346a",
+      "targetPath": "/about-us/contact-us"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news",
+      "source": "SITEMAP",
+      "id": "e51cc57fc8d8e2b613c5b46dc3e2f37d8ce607b8",
+      "targetPath": "/about-us/in-the-news"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/in-the-news/campbell-harvey-on-cnbc-squawk-box",
+      "source": "SITEMAP",
+      "id": "77282b3761ad958816f7fcfa106819ab8b48a823",
+      "targetPath": "/about-us/in-the-news/campbell-harvey-on-cnbc-squawk-box"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/research-affiliates-expands-european-footprint-as-head-of-equity-research-moves-to-the-firms-london-office",
+      "source": "SITEMAP",
+      "id": "a74ca8f3b6cf6ddb6ba8eb322174a7655acb99f8",
+      "targetPath": "/about-us/press/research-affiliates-expands-european-footprint-as-head-of-equity-research-moves-to-the-firms-london-office"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/research-affiliates-launches-new-rafi-esg-strategy",
+      "source": "SITEMAP",
+      "id": "aa4bf880363a14f48f84d5406ae3f2c2aa527693",
+      "targetPath": "/about-us/press/research-affiliates-launches-new-rafi-esg-strategy"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/noted-economist-campbell-harvey-joins-research-affiliates",
+      "source": "SITEMAP",
+      "id": "250ba641a9ce3a626491aeefb41a4bd218f409ae",
+      "targetPath": "/about-us/press/noted-economist-campbell-harvey-joins-research-affiliates"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/research-affiliates-launches-revamped-asset-allocation-interactive-website-6-15-2017",
+      "source": "SITEMAP",
+      "id": "054b68d71a7cf467df593d474f1c7806578e5bc4",
+      "targetPath": "/about-us/press/research-affiliates-launches-revamped-asset-allocation-interactive-website-6-15-2017"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/ftse-russell-and-research-affiliates-launch-new-smart-beta-index",
+      "source": "SITEMAP",
+      "id": "10450585385f7ae44d4a54e53f8ee9a14da04a6e",
+      "targetPath": "/about-us/press/ftse-russell-and-research-affiliates-launch-new-smart-beta-index"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/ftse-and-research-affiliates-celebrate-one-year-anniversary-of-f",
+      "source": "SITEMAP",
+      "id": "742d201154466e0956f3f160431c5b99f88cb340",
+      "targetPath": "/about-us/press/ftse-and-research-affiliates-celebrate-one-year-anniversary-of-f"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/ftse-russell-and-research-affiliates-launch-new-esg-smart-beta-indexes",
+      "source": "SITEMAP",
+      "id": "104bdb4561eb2fd1bd29610554e3c96e13ea84c4",
+      "targetPath": "/about-us/press/ftse-russell-and-research-affiliates-launch-new-esg-smart-beta-indexes"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/research-affiliates-launches-multi-factor-and-single-factor-index-suite",
+      "source": "SITEMAP",
+      "id": "503b5a5e313de84e5c0bd721b798adaf90f713c4",
+      "targetPath": "/about-us/press/research-affiliates-launches-multi-factor-and-single-factor-index-suite"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/research-affiliates-introduces-smart-beta-interactive-website",
+      "source": "SITEMAP",
+      "id": "6b3ff98bfc07ca584b390eea9bbde2c81a88a134",
+      "targetPath": "/about-us/press/research-affiliates-introduces-smart-beta-interactive-website"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/vitali-kalesnik-of-research-affiliates-wins-graham-and-dodd-award",
+      "source": "SITEMAP",
+      "id": "631dc0c1443fffe08e47da37f38dc7597f5fcbbe",
+      "targetPath": "/about-us/press/vitali-kalesnik-of-research-affiliates-wins-graham-and-dodd-award"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/about-us/press/que-nguyen-joins-research-affiliates-as-head-of-product-management",
+      "source": "SITEMAP",
+      "id": "0757bf41b8aaad1cfa7269c974b715ca035dc9ca",
+      "targetPath": "/about-us/press/que-nguyen-joins-research-affiliates-as-head-of-product-management"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/legal/privacy-policy",
+      "source": "SITEMAP",
+      "id": "9776e5d295a583dfb1147344540aa3fdaf3a3006",
+      "targetPath": "/legal/privacy-policy"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/legal/disclosures",
+      "source": "SITEMAP",
+      "id": "28dc7b3f41b2269576c0d1f9f812389fd7ce00f3",
+      "targetPath": "/legal/disclosures"
+    },
+    {
+      "url": "https://www.researchaffiliates.com/legal/terms-of-use",
+      "source": "SITEMAP",
+      "id": "58a3c61493739716934e16e87696c8d12a3a2dc1",
+      "targetPath": "/legal/terms-of-use"
     }
-  ],
-  "crawlOptions": {
-    "timeout": 10000,
-    "inclusionPatterns": [],
-    "exclusionPatterns": [],
-    "limit": 1000,
-    "sameDomain": true,
-    "keepHash": false,
-    "strategy": "crawl",
-    "logger": {},
-    "strategiesAttempted": [
-      "SITEMAPS",
-      "CRAWL"
-    ]
-  },
-  "extractionErrors": [
-    {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2020.html",
-      "status": "302 Found Redirect: https://www.nrucfc.coop/content/nrucfc/en/news.html"
-    },
-    {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/_jcr_content/root/responsivegrid/list_436033414.feed",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/_jcr_content/root/responsivegrid/tabctrl/tab-0/list.feed",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/_jcr_content/root/responsivegrid/tabctrl/tab-1/list_copy_copy.feed",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/_jcr_content/root/responsivegrid/tabctrl/tab-2/list_copy_copy.feed",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/_jcr_content/root/responsivegrid/tabctrl/tab-3/list_copy_copy.feed",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/_jcr_content/root/responsivegrid/tabctrl/tab-4/list.feed",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/investor-relations/financial-reporting/_jcr_content/root/responsivegrid_4-par/list.feed",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2025/_jcr_content/root/responsivegrid/list.feed",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2024/_jcr_content/root/responsivegrid/list.feed",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2023/_jcr_content/root/responsivegrid/list.feed",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2022/_jcr_content/root/responsivegrid/list_copy.feed",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.nrucfc.coop/content/nrucfc/en/news/2021/_jcr_content/root/responsivegrid/list_copy.feed",
-      "status": "404 Not Found"
-    }
-  ],
-  "errorCountMessage": "{\"E_302\":1,\"E_404\":12}",
-  "error": null
+  ]
 }
