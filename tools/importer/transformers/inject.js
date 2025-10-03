@@ -15,93 +15,46 @@
   
   function acceptCookieBanner() {
     console.log('Cookie banner: Starting acceptance process');
-    let buttonClicked = false;
     
     // Check if cookie dialog exists
     const cookieDialog = document.querySelector('#cookieDialog');
     if (cookieDialog) {
       console.log('Cookie banner: Found cookieDialog element');
       
-      // Try multiple selectors for the accept button
-      const acceptSelectors = [
-        '#cookieDialog .disclaimer-accept-button',
-        '.disclaimer-accept-button',
-        '#cookieDialog .dialog-ok',
-        '#cookieDialog a[data-ltype="cscookie"]:contains("Accept")',
-        '#cookieDialog a:contains("Accept")'
-      ];
-      
-      for (const selector of acceptSelectors) {
-        let acceptButton;
-        
-        // Handle :contains pseudo-selector manually
-        if (selector.includes(':contains("Accept")')) {
-          const baseSelector = selector.replace(':contains("Accept")', '');
-          const elements = document.querySelectorAll(baseSelector);
-          acceptButton = Array.from(elements).find(el => 
-            el.textContent && el.textContent.trim().toLowerCase().includes('accept')
-          );
-        } else {
-          acceptButton = document.querySelector(selector);
-        }
-        
-        if (acceptButton) {
-          console.log(`Cookie banner: Found accept button with selector: ${selector}`);
-          console.log(`Cookie banner: Button text: "${acceptButton.textContent?.trim()}"`);
-          console.log(`Cookie banner: Button href: "${acceptButton.href}"`);
-          
-          // Try multiple click methods to ensure it works
-          try {
-            // Method 1: Regular click
-            acceptButton.click();
-            console.log('Cookie banner: Executed regular click');
-            
-            // Method 2: Mouse event
-            acceptButton.dispatchEvent(new MouseEvent('click', {
-              bubbles: true,
-              cancelable: true,
-              view: window
-            }));
-            console.log('Cookie banner: Dispatched mouse event');
-            
-            // Method 3: Focus and trigger
-            acceptButton.focus();
-            acceptButton.dispatchEvent(new Event('focus'));
-            acceptButton.dispatchEvent(new Event('mousedown'));
-            acceptButton.dispatchEvent(new Event('mouseup'));
-            console.log('Cookie banner: Triggered focus and mouse events');
-            
-            // Method 4: If it's a link with href="javascript:void(0)", try to trigger it
-            if (acceptButton.tagName === 'A' && acceptButton.href && acceptButton.href.includes('javascript:')) {
-              // Try to execute the onclick handler if it exists
-              if (acceptButton.onclick) {
-                acceptButton.onclick();
-                console.log('Cookie banner: Executed onclick handler');
-              }
-            }
-            
-            buttonClicked = true;
-            console.log('Cookie banner: Successfully processed accept button');
-            
-          } catch (error) {
-            console.log('Cookie banner: Error clicking button:', error);
-          }
-          
-          break;
-        }
+      // Method 1: Try to set cookies directly to bypass the dialog
+      try {
+        // Set common cookie consent cookies
+        document.cookie = "cookieConsent=accepted; path=/; max-age=31536000";
+        document.cookie = "cookie-consent=true; path=/; max-age=31536000";
+        document.cookie = "cookies-accepted=1; path=/; max-age=31536000";
+        console.log('Cookie banner: Set consent cookies directly');
+      } catch (error) {
+        console.log('Cookie banner: Could not set cookies:', error);
       }
       
-      // Only hide if we couldn't click the accept button
-      if (!buttonClicked && cookieDialog.offsetParent !== null) {
-        console.log('Cookie banner: Failed to click accept, trying to hide dialog');
-        cookieDialog.style.display = 'none !important';
-      }
+      // Method 2: Direct DOM removal (following the examples pattern)
+      console.log('Cookie banner: Removing dialog directly from DOM');
+      cookieDialog.remove();
+      
+      // Method 3: Also try to remove any backdrop/overlay
+      const overlays = document.querySelectorAll('.modal-backdrop, .overlay, [class*="backdrop"], [class*="overlay"]');
+      overlays.forEach(overlay => {
+        overlay.remove();
+        console.log('Cookie banner: Removed overlay element');
+      });
+      
+      // Method 4: Reset body styles that might be affected by modal
+      document.body.style.overflow = '';
+      document.body.style.position = '';
+      document.body.classList.remove('modal-open', 'no-scroll');
+      
+      console.log('Cookie banner: Successfully removed cookie dialog');
+      return true;
       
     } else {
       console.log('Cookie banner: No cookieDialog found');
+      return false;
     }
-    
-    return buttonClicked;
   }
   
   // Try to accept cookie banner immediately
