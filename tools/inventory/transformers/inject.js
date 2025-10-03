@@ -29,7 +29,7 @@
           acceptButton.click();
           console.log('Cookie banner: Clicked Accept button');
           
-          // Wait for page to settle and ensure all resources are loaded
+          // Wait 10 seconds for page to fully settle (testing timing issue)
           setTimeout(() => {
             // Ensure all images are loaded
             const images = document.querySelectorAll('img');
@@ -59,7 +59,7 @@
             }
             
             console.log(`Cookie banner: ${imagesLoaded}/${totalImages} images loaded`);
-          }, 1500);
+          }, 10000);
           
         } else {
           console.log('Cookie banner: Accept button not found');
