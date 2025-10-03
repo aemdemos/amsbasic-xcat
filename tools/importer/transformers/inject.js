@@ -14,37 +14,105 @@
   // Automatically accept cookie consent banners to ensure clean inventory generation
   
   function acceptCookieBanner() {
-    // Try to find and click the specific accept button from the DOM structure
+    console.log('Cookie banner: Starting acceptance process');
     let buttonClicked = false;
     
-    // Target the specific cookie dialog accept button
-    const acceptButton = document.querySelector('#cookieDialog .disclaimer-accept-button');
-    
-    if (acceptButton && acceptButton.offsetParent !== null) {
-      console.log('Cookie banner: Clicking accept button');
-      acceptButton.click();
-      buttonClicked = true;
-    }
-    
-    if (buttonClicked) {
-      console.log('Cookie banner: Successfully clicked accept button');
+    // Check if cookie dialog exists
+    const cookieDialog = document.querySelector('#cookieDialog');
+    if (cookieDialog) {
+      console.log('Cookie banner: Found cookieDialog element');
       
-      // Hide the cookie dialog if it's still visible
-      const cookieDialog = document.querySelector('#cookieDialog');
-      if (cookieDialog && cookieDialog.offsetParent !== null) {
-        cookieDialog.style.display = 'none';
-        console.log('Cookie banner: Hiding cookie dialog');
+      // Try multiple selectors for the accept button
+      const acceptSelectors = [
+        '#cookieDialog .disclaimer-accept-button',
+        '.disclaimer-accept-button',
+        '#cookieDialog .dialog-ok',
+        '#cookieDialog a[data-ltype="cscookie"]:contains("Accept")',
+        '#cookieDialog a:contains("Accept")'
+      ];
+      
+      for (const selector of acceptSelectors) {
+        let acceptButton;
+        
+        // Handle :contains pseudo-selector manually
+        if (selector.includes(':contains("Accept")')) {
+          const baseSelector = selector.replace(':contains("Accept")', '');
+          const elements = document.querySelectorAll(baseSelector);
+          acceptButton = Array.from(elements).find(el => 
+            el.textContent && el.textContent.trim().toLowerCase().includes('accept')
+          );
+        } else {
+          acceptButton = document.querySelector(selector);
+        }
+        
+        if (acceptButton) {
+          console.log(`Cookie banner: Found accept button with selector: ${selector}`);
+          console.log(`Cookie banner: Button text: "${acceptButton.textContent?.trim()}"`);
+          console.log(`Cookie banner: Button href: "${acceptButton.href}"`);
+          
+          // Try multiple click methods to ensure it works
+          try {
+            // Method 1: Regular click
+            acceptButton.click();
+            console.log('Cookie banner: Executed regular click');
+            
+            // Method 2: Mouse event
+            acceptButton.dispatchEvent(new MouseEvent('click', {
+              bubbles: true,
+              cancelable: true,
+              view: window
+            }));
+            console.log('Cookie banner: Dispatched mouse event');
+            
+            // Method 3: Focus and trigger
+            acceptButton.focus();
+            acceptButton.dispatchEvent(new Event('focus'));
+            acceptButton.dispatchEvent(new Event('mousedown'));
+            acceptButton.dispatchEvent(new Event('mouseup'));
+            console.log('Cookie banner: Triggered focus and mouse events');
+            
+            // Method 4: If it's a link with href="javascript:void(0)", try to trigger it
+            if (acceptButton.tagName === 'A' && acceptButton.href && acceptButton.href.includes('javascript:')) {
+              // Try to execute the onclick handler if it exists
+              if (acceptButton.onclick) {
+                acceptButton.onclick();
+                console.log('Cookie banner: Executed onclick handler');
+              }
+            }
+            
+            buttonClicked = true;
+            console.log('Cookie banner: Successfully processed accept button');
+            
+          } catch (error) {
+            console.log('Cookie banner: Error clicking button:', error);
+          }
+          
+          break;
+        }
+      }
+      
+      // Only hide if we couldn't click the accept button
+      if (!buttonClicked && cookieDialog.offsetParent !== null) {
+        console.log('Cookie banner: Failed to click accept, trying to hide dialog');
+        cookieDialog.style.display = 'none !important';
       }
       
     } else {
-      console.log('Cookie banner: No accept button found');
+      console.log('Cookie banner: No cookieDialog found');
     }
     
     return buttonClicked;
   }
   
-  // Try to accept cookie banner immediately
+  // Try to accept cookie banner immediately and repeatedly
   acceptCookieBanner();
+  
+  // Also try multiple times to ensure it's handled before screenshots
+  for (let i = 0; i < 5; i++) {
+    if (document.querySelector('#cookieDialog')) {
+      acceptCookieBanner();
+    }
+  }
   
   // Set up a mutation observer to catch dynamically loaded cookie banners
   const observer = new MutationObserver((mutations) => {
