@@ -32,10 +32,10 @@ const parseDataHlxImpRect = (element) => {
 
 const brandLogoMapping = [
   {
-    checkFn: (e) => {
+    checkFn: (e, { publishUrl }) => {
       // Helper function to check if an element is visible
 
-      const links = [...e.querySelectorAll(`a[href="/"], a[href="${window.location.origin}/"]`)]
+      const links = [...e.querySelectorAll(`a[href="/"], a[href="${window.location.origin}/"], a[href="${publishUrl}/"]`)]
         .filter(isVisible);
       return links.reduce((topLeftMost, current) => {
         const currentRect = parseDataHlxImpRect(current.closest('div'));
@@ -153,10 +153,10 @@ const brandLogoMapping = [
   },
 ];
 
-function getBrandLogo(rootEl, document, { bodyWidth, originURL }) {
+function getBrandLogo(rootEl, document, { bodyWidth, originURL, publishUrl }) {
   const brandEl = document.createElement('div');
   brandLogoMapping.some((m) => {
-    const logoEl = m.checkFn(rootEl, { originURL });
+    const logoEl = m.checkFn(rootEl, { originURL, publishUrl });
     if (logoEl) {
       let x = 0;
       try {
@@ -297,14 +297,16 @@ function cleanup(el) {
   return el;
 }
 
-export default function headerParser(el, { document, params, bodyWidth }) {
+export default function headerParser(el, {
+  document, params, bodyWidth, publishUrl,
+}) {
   console.log('headerParser', el, params, bodyWidth);
   const containerEl = document.createElement('div');
 
   const originURL = new URL(params.originalURL).origin;
 
   // get brand logo
-  const brandEl = getBrandLogo(el, document, { bodyWidth, originURL });
+  const brandEl = getBrandLogo(el, document, { bodyWidth, originURL, publishUrl });
 
   // get navigation content
   const navEl = getNavigation(el, document, { bodyWidth });
