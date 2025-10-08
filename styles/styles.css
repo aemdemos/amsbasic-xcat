@@ -17,64 +17,152 @@
   --text-color: #131313;
   --link-color: #3b63fb;
   --link-hover-color: #1d3ecf;
-  --body-font-family: "neuehaas", "neuehaas Fallback", "Arial", "sans-serif";
-  --heading-font-family: "Franklin Gothic Demi Condensed", "Franklin Gothic", "Arial", "sans-serif";
-  --body-font-size-m: 20px;
+  --body-font-family: "Whitney A", "Whitney B", "Whitney A Fallback", "Whitney B Fallback", "sans-serif";
+  --heading-font-family: "Whitney A", "Whitney B", "Whitney A Fallback", "Whitney B Fallback";
+  --body-font-size-m: 16px;
   --body-font-size-s: 16px;
-  --body-font-size-xs: 10.72px;
-  --heading-font-size-xxl: 85px;
-  --heading-font-size-xl: 50px;
-  --heading-font-size-l: 35px;
-  --heading-font-size-m: 20px;
+  --body-font-size-xs: 16px;
+  --heading-font-size-xxl: 16px;
+  --heading-font-size-xl: 24px;
+  --heading-font-size-l: 16px;
+  --heading-font-size-m: 16px;
   --heading-font-size-s: 16px;
-  --heading-font-size-xs: 10.72px;
-  --nav-height: 116px;
+  --heading-font-size-xs: 16px;
+  --nav-height: 24px;
   --header-height: var(--nav-height);
 }
 
 /* fallback fonts */
 @font-face {
-  font-family:"icomoon Fallback";
+  font-family:"Whitney A Fallback";
   font-style:normal;
   font-weight:400;
   src:local("Arial");
-  ascent-override:93.75%;
-  descent-override:6.25%;
-  line-gap-override:0.00%;
+  ascent-override:96.00%;
+  descent-override:20.00%;
+  line-gap-override:4.00%;
   size-adjust:100.00%;
 }
 
 @font-face {
-  font-family:"neuehaas Fallback";
+  font-family:"Whitney A Fallback";
+  font-style:normal;
+  font-weight:300;
+  src:local("Arial");
+  ascent-override:96.00%;
+  descent-override:20.00%;
+  line-gap-override:4.00%;
+  size-adjust:100.00%;
+}
+
+@font-face {
+  font-family:"Whitney A Fallback";
+  font-style:normal;
+  font-weight:500;
+  src:local("Arial");
+  ascent-override:96.00%;
+  descent-override:20.00%;
+  line-gap-override:4.00%;
+  size-adjust:100.00%;
+}
+
+@font-face {
+  font-family:"Whitney A Fallback";
   font-style:normal;
   font-weight:700;
   src:local("Arial Bold");
-  ascent-override:119.65%;
-  descent-override:34.89%;
-  line-gap-override:0.00%;
-  size-adjust:97.45%;
+  ascent-override:96.00%;
+  descent-override:20.00%;
+  line-gap-override:4.00%;
+  size-adjust:100.00%;
 }
 
 @font-face {
-  font-family:"neuehaas Fallback";
+  font-family:"Whitney A Fallback";
   font-style:normal;
-  font-weight:400;
-  src:local("Arial");
-  ascent-override:119.28%;
-  descent-override:34.78%;
-  line-gap-override:0.00%;
-  size-adjust:97.75%;
+  font-weight:600;
+  src:local("Arial Bold");
+  ascent-override:96.00%;
+  descent-override:20.00%;
+  line-gap-override:4.00%;
+  size-adjust:100.00%;
 }
 
 @font-face {
-  font-family:"ITCFranklinGothicCompressed Fallback";
+  font-family:"Whitney A Fallback";
+  font-style:italic;
+  font-weight:600;
+  src:local("Arial Bold Italic");
+  ascent-override:96.00%;
+  descent-override:20.00%;
+  line-gap-override:4.00%;
+  size-adjust:100.00%;
+}
+
+@font-face {
+  font-family:"Whitney B Fallback";
   font-style:normal;
   font-weight:400;
   src:local("Arial");
-  ascent-override:93.62%;
-  descent-override:42.85%;
-  line-gap-override:27.29%;
-  size-adjust:73.28%;
+  ascent-override:96.00%;
+  descent-override:20.00%;
+  line-gap-override:4.00%;
+  size-adjust:100.00%;
+}
+
+@font-face {
+  font-family:"Whitney B Fallback";
+  font-style:normal;
+  font-weight:300;
+  src:local("Arial");
+  ascent-override:96.00%;
+  descent-override:20.00%;
+  line-gap-override:4.00%;
+  size-adjust:100.00%;
+}
+
+@font-face {
+  font-family:"Whitney B Fallback";
+  font-style:normal;
+  font-weight:500;
+  src:local("Arial");
+  ascent-override:96.00%;
+  descent-override:20.00%;
+  line-gap-override:4.00%;
+  size-adjust:100.00%;
+}
+
+@font-face {
+  font-family:"Whitney B Fallback";
+  font-style:normal;
+  font-weight:700;
+  src:local("Arial Bold");
+  ascent-override:96.00%;
+  descent-override:20.00%;
+  line-gap-override:4.00%;
+  size-adjust:100.00%;
+}
+
+@font-face {
+  font-family:"Whitney B Fallback";
+  font-style:normal;
+  font-weight:600;
+  src:local("Arial Bold");
+  ascent-override:96.00%;
+  descent-override:20.00%;
+  line-gap-override:4.00%;
+  size-adjust:100.00%;
+}
+
+@font-face {
+  font-family:"Whitney B Fallback";
+  font-style:italic;
+  font-weight:600;
+  src:local("Arial Bold Italic");
+  ascent-override:96.00%;
+  descent-override:20.00%;
+  line-gap-override:4.00%;
+  size-adjust:100.00%;
 }
 
 @font-face {
@@ -101,16 +189,16 @@
 
 @media (width>=900px) {
   :root {
-    --body-font-size-m: 20px;
+    --body-font-size-m: 16px;
     --body-font-size-s: 16px;
-    --body-font-size-xs: 10.72px;
-    --heading-font-size-xxl: 85px;
-    --heading-font-size-xl: 50px;
-    --heading-font-size-l: 35px;
-    --heading-font-size-m: 20px;
+    --body-font-size-xs: 16px;
+    --heading-font-size-xxl: 16px;
+    --heading-font-size-xl: 24px;
+    --heading-font-size-l: 16px;
+    --heading-font-size-m: 16px;
     --heading-font-size-s: 16px;
-    --heading-font-size-xs: 10.72px;
-    --nav-height: 116px;
+    --heading-font-size-xs: 16px;
+    --nav-height: 24px;
   }
 }
 
@@ -299,11 +387,11 @@ main .section.light, main .section.highlight {
 }
 
 .section.section-1 {
-  background: rgb(255 255 255) none repeat scroll 0% 0% / auto padding-box border-box;
+  background: rgb(21 42 78) none repeat scroll 0% 0% / auto padding-box border-box;
 }
 
 .section.section-2 {
-  background: rgb(0 50 255) none repeat scroll 0% 0% / auto padding-box border-box;
+  background: rgb(0 0 0 / 0%) linear-gradient(0deg, rgb(0 97 165) 0%, rgb(21 43 77) 100%) repeat scroll 0% 0% / auto padding-box border-box;
 }
 
 .section.section-3 {
@@ -311,9 +399,1401 @@ main .section.light, main .section.highlight {
 }
 
 .section.section-4 {
-  background: rgb(0 0 0 / 0%) linear-gradient(90deg, rgb(255 255 255) 69%, rgb(243 243 243) 80%) repeat scroll 0% 0% / auto padding-box border-box;
+  background: rgb(0 0 0 / 0%) linear-gradient(175deg, rgb(245 245 245) 0%, rgb(221 221 221) 100%) repeat scroll 0% 0% / auto padding-box border-box;
 }
 
 .section.section-5 {
-  background: rgb(243 243 243) none repeat scroll 0% 0% / auto padding-box border-box;
+  background: rgb(40 41 43) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-6 {
+  background: rgb(1 1 1) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-7 {
+  background: rgb(27 27 27) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-8 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/977-smart-rebalancing-hero.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-9 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/625-cost-capacity-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-10 {
+  background: rgb(0 0 0 / 0%) linear-gradient(rgb(0 0 0 / 0%) 0, rgb(0 0 0) 100%) repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-11 {
+  background: rgb(234 234 234) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-12 {
+  background: rgb(0 82 136) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-13 {
+  background: rgb(60 16 83) url("") no-repeat fixed 50% 50% / cover padding-box border-box;
+}
+
+.section.section-14 {
+  background: rgb(250 250 250) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-15 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Sustainability/2025/7-YHP-Colombia-Lucas-Jaramillo-October-2022-2000x320.jpg/jcr:content/renditions/cq5dam.web.1200.7-YHP-Colombia-Lucas-Jaramillo-October-2022-2000x320.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-16 {
+  background: rgb(0 0 0 / 0%) linear-gradient(to top, rgb(0 0 0), rgb(77 77 77)) repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-17 {
+  background: rgb(255 255 255) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-18 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/etc/ui/tools/ra-core/images/hti-background-4.png") repeat scroll 0 0 / auto padding-box border-box;
+}
+
+.section.section-19 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/about-us/press-2048x1153.png") no-repeat scroll 50% 0% / cover padding-box border-box;
+}
+
+.section.section-20 {
+  background: rgb(0 0 0 / 0%) linear-gradient(-15deg, rgb(21 43 77) 0%, rgb(0 97 165) 100%) repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-21 {
+  background: rgb(137 139 142) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-22 {
+  background: rgb(245 245 245) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-23 {
+  background: rgb(0 0 0 / 0%) linear-gradient(15deg, rgb(21 43 77) 0%, rgb(0 97 165) 100%) repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-24 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/etc/ui/tools/ra-core/images/hti-background-6.png") repeat scroll 0 0 / auto padding-box border-box;
+}
+
+.section.section-25 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/advisors/advisors-background-greenblue.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-26 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/610-why-factor-tilts-are-not-smart-smart-beta-tiles-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-27 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/tile/682-where-is-the-global-economy-going-TWOUP.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-28 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/etc/ui/tools/ra-core/images/hti-background-3.png") repeat scroll 0 0 / auto padding-box border-box;
+}
+
+.section.section-29 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/tile/837-breaking-bad-trends-TILE.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-30 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Sustainability/2025/climate-change/Product_sustainability_web_1_2000x430.jpg/jcr:content/renditions/cq5dam.web.1200.Product_sustainability_web_1_2000x430.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-31 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/clinical-innovation/AZ_Clinical_Innovation_RGB_Landscape_Platinum_2000x430.jpg/jcr:content/renditions/cq5dam.web.1200.AZ_Clinical_Innovation_RGB_Landscape_Platinum_2000x430.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-32 {
+  background: rgb(248 248 248) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-33 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/etc/ui/tools/ra-core/images/hti-background-5.png") repeat scroll 0 0 / auto padding-box border-box;
+}
+
+.section.section-34 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/what-science-can-do/impact/HeroImage_2000X430.jpg/jcr:content/renditions/cq5dam.web.1200.HeroImage_2000X430.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-35 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/etc/ui/tools/ra-core/images/hti-background-2.png") repeat scroll 0 0 / auto padding-box border-box;
+}
+
+.section.section-36 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/219-Labor-Conditions-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-37 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/288-Pricing-Fine-Wines-and-Common-Stocks-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-38 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/our-approach/Summer-RISE_MX-Lab_female-students_2000x430.jpg/jcr:content/renditions/cq5dam.web.1200.Summer-RISE_MX-Lab_female-students_2000x430.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-39 {
+  background: rgb(24 36 58) url("https://www.researchaffiliates.com/content/dam/ra/advisors/advisors-background-greenblue-wide.jpg") repeat scroll 0 -250px / auto padding-box border-box;
+}
+
+.section.section-40 {
+  background: rgb(0 0 0 / 0%) radial-gradient(at center bottom, rgb(15 28 52 / 95%) 30%, rgb(15 28 52 / 0%) 70%) repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-41 {
+  background: rgb(64 89 128) url("https://www.researchaffiliates.com/content/dam/ra/advisors/advisors-background-greenblue-wide-flip.jpg") repeat scroll 0 -298px / auto padding-box border-box;
+}
+
+.section.section-42 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/media-centre-docs/article_files/articles2024/Telehealth-2000-x-430.jpg/jcr:content/renditions/cq5dam.web.1200.Telehealth-2000-x-430.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-43 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/595-forecasting-factor-and-smart-beta-returns-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-44 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/604-the-incredible-shrinking-factor-return-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-45 {
+  background: rgb(131 0 81) url("") no-repeat fixed 50% 50% / cover padding-box border-box;
+}
+
+.section.section-46 {
+  background: rgb(208 0 111) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-47 {
+  background: rgb(131 0 81) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-48 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/ukrainian-crisis-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-49 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/809-covid-and-pensions-HERO.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-50 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/826-big-market-delusion-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-51 {
+  background: rgb(255 255 255) url("") no-repeat fixed 50% 50% / cover padding-box border-box;
+}
+
+.section.section-52 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/590-time-diversification-redux-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-53 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/933-no-more-excuses-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-54 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/787-oh-my-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-55 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/advisors/advisors-background-greenblue-flip.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-56 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/578-Improving-Commodity-Indices-Hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-57 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-company/ambassadors/2181029_fyrberg_35938.jpg/jcr:content/renditions/cq5dam.web.1200.2181029_fyrberg_35938.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-58 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az-jp/what-science-can-do/Ambassadors/Timeline%20images/Oncology_ambassador.jpg/jcr:content/renditions/cq5dam.web.1200.Oncology_ambassador.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-59 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-company/Careers/careers-hero.jpg/jcr:content/renditions/cq5dam.web.1200.careers-hero.jpg") no-repeat scroll 50% 25% / cover padding-box border-box;
+}
+
+.section.section-60 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/817-factor-returns-relationship-with-the-economy-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-61 {
+  background: rgb(232 232 232) linear-gradient(to right, rgb(232 232 232) 0%, rgb(250 250 250) 20%, rgb(232 232 232) 40%, rgb(232 232 232) 100%) no-repeat scroll -416.9px 0 / auto padding-box border-box;
+}
+
+.section.section-62 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/part-4-smart-beta-series-HERO.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-63 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/banner/transformative-science-header.gif/jcr:content/renditions/cq5dam.web.1200.transformative-science-header.gif") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-64 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/transformative-science/Disease-Understanding_2000x726-2.png/jcr:content/renditions/cq5dam.web.1200.Disease-Understanding_2000x726-2.png") no-repeat scroll 50% 25% / cover padding-box border-box;
+}
+
+.section.section-65 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/transformative-science/Drug-Modalities_2000x726-2.png/jcr:content/renditions/cq5dam.web.1200.Drug-Modalities_2000x726-2.png") no-repeat scroll 50% 25% / cover padding-box border-box;
+}
+
+.section.section-66 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/transformative-science/Predictive-Science_2000x726-2.png/jcr:content/renditions/cq5dam.web.1200.Predictive-Science_2000x726-2.png") no-repeat scroll 50% 25% / cover padding-box border-box;
+}
+
+.section.section-67 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/transformative-science/Clinical-Innovation_2000x726-2.png/jcr:content/renditions/cq5dam.web.1200.Clinical-Innovation_2000x726-2.png") no-repeat scroll 50% 25% / cover padding-box border-box;
+}
+
+.section.section-68 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/transformative-science/Collaboration_1500x726.png/jcr:content/renditions/cq5dam.web.1200.Collaboration_1500x726.png") no-repeat scroll 50% 25% / cover padding-box border-box;
+}
+
+.section.section-69 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/642-bubble-that-never-came-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-70 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/655-when-value-goes-global-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-71 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/tile/718-transaction_costs_of_factor-investing_strategies-landscape-2500x1400.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-72 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Country-Sites/Country-sites-single-pagers/Hero2.gif/jcr:content/renditions/cq5dam.web.1200.Hero2.gif") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-73 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Image%20Bank/Oncology/Immuno-oncology/careers-hero.jpg/jcr:content/renditions/cq5dam.web.1200.careers-hero.jpg") no-repeat scroll 50% 25% / cover padding-box border-box;
+}
+
+.section.section-74 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az-jp/our-therapy-areas/Oncology/Oncology.jpg/jcr:content/renditions/cq5dam.web.1200.Oncology.jpg") no-repeat scroll 50% 25% / cover padding-box border-box;
+}
+
+.section.section-75 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/973-rafi-rocks-hero.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-76 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/704-alternative-risk-premia-a-crisis%20or-opportunity-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-77 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/659-unlocking-the-performance-potential-in-esg-investing_2048x1153.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-78 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/798-leading-in-uncertain-times-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-79 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/639-diversification-strikes-again-tile-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-80 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/orphan-page-files/AstraZeneca%20Exchange/AZ2340-GPTW-Meeting-crop.jpg/jcr:content/renditions/cq5dam.web.1200.AZ2340-GPTW-Meeting-crop.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-81 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/829-the-time-is-now-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-82 {
+  background: rgb(0 0 0 / 0%) linear-gradient(15deg, rgb(0 97 165) 0%, rgb(21 43 77) 100%) repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-83 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/part-7-smart-beta-series-HERO.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-84 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/637-can-momentum-be-saved-tile-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-85 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Our-therapy-areas/Lupus_image%20resize.jpg/jcr:content/renditions/cq5dam.web.1200.Lupus_image%20resize.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-86 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/548-when-a-storm-is-in-the-offing-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-87 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/924-carbon-intensity-for-climate-mitigation-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-88 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/680-TDF-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-89 {
+  background: rgb(245 245 245) url("https://www.researchaffiliates.com/content/dam/ra/backgrounds/solutions-background-1.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-90 {
+  background: rgb(245 245 245) url("https://www.researchaffiliates.com/content/dam/ra/backgrounds/solutions-background-2.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-91 {
+  background: rgb(245 245 245) url("https://www.researchaffiliates.com/content/dam/ra/backgrounds/solutions-background-3.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-92 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/645-cape-fear-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-93 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/468-us-inflation-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-94 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/323-gimme-shelter-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-95 {
+  background: rgb(21 43 77) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-96 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/364-whats-up-quantitative-easing-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-97 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/580-five-percent-challenge-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-98 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/626-live-from-newport-beach-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-99 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/az-supplier/Images/AZ1908-Genomics-Data-Map-Full-Mulberry-RGB.jpg/jcr:content/renditions/cq5dam.web.1200.AZ1908-Genomics-Data-Map-Full-Mulberry-RGB.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-100 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/319-promise-of-smart-beta-HERO.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-101 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/705-winning-formula-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-102 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/part-3-smart-beta-series-HERO.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-103 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Our-Science/Partnering/150827_n0285_Low.jpg/jcr:content/renditions/cq5dam.web.1200.150827_n0285_Low.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-104 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Sustainability/2025/health-equity/healthcare-delivery/Healthcare-delivery-banner-2000x430.jpg/jcr:content/renditions/cq5dam.web.1200.Healthcare-delivery-banner-2000x430.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-105 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/824-how-covid-19-vaccines-and-brexit-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-106 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/585-uncomfortably-stuck-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-107 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/853-esg-is-not-a-preference-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-108 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-company/Great_place_to_work/AZ2869-Meeting-GPTW.jpg/jcr:content/renditions/cq5dam.web.1200.AZ2869-Meeting-GPTW.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-109 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Partnering/112019/THE-PATH-succesful.png/jcr:content/renditions/cq5dam.web.1200.THE-PATH-succesful.png") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-110 {
+  background: rgb(60 16 83) url("https://www.astrazeneca.com/content/dam/az/Partnering/2022/AZ2965-Science-can-people-3.png/jcr:content/renditions/cq5dam.web.620.AZ2965-Science-can-people-3.png") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-111 {
+  background: rgb(60 16 83) url("https://www.astrazeneca.com/content/dam/az/Partnering/2022/AZ2848-Patient-and-HCP.png/jcr:content/renditions/cq5dam.web.620.AZ2848-Patient-and-HCP.png") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-112 {
+  background: rgb(60 16 83) url("https://www.astrazeneca.com/content/dam/az/Partnering/2022/AZ1912-Genomics-Data-Map-Partial.png/jcr:content/renditions/cq5dam.web.620.AZ1912-Genomics-Data-Map-Partial.png") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-113 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Partnering/2022/AZ2732-meetings-banner.png/jcr:content/renditions/cq5dam.web.1200.AZ2732-meetings-banner.png") no-repeat scroll 50% 25% / cover padding-box border-box;
+}
+
+.section.section-114 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/767-plausible-performance-HERO.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-115 {
+  background: rgb(0 56 101) url("") no-repeat fixed 50% 50% / cover padding-box border-box;
+}
+
+.section.section-116 {
+  background: rgb(196 214 0) none no-repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-117 {
+  background: rgb(255 255 255) none no-repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-118 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/211-i-would-choose-emerging-markets-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-119 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-focus-areas/OTA-Landing-Page/Our_Therapy_Areas.jpg/jcr:content/renditions/cq5dam.web.1200.Our_Therapy_Areas.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-120 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-focus-areas/Oncology/Oncology.jpg/jcr:content/renditions/cq5dam.web.1200.Oncology.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-121 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/what-science-can-do/Ambassadors/Timeline%20images/CVMD_ambassador.jpg/jcr:content/renditions/cq5dam.web.1200.CVMD_ambassador.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-122 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-focus-areas/Respiratory/Respiratory.jpg/jcr:content/renditions/cq5dam.web.1200.Respiratory.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-123 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-therapy-areas/respiratory-and-immunology/2020/AZ1903_RIA-resize.jpg/jcr:content/renditions/cq5dam.web.1200.AZ1903_RIA-resize.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-124 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-therapy-areas/rare-disease/Rare-Disease-PSI.jpg/jcr:content/renditions/cq5dam.web.1200.Rare-Disease-PSI.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-125 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-focus-areas/AZ1592_Scientist__screen.jpg/jcr:content/renditions/cq5dam.web.1200.AZ1592_Scientist__screen.jpg") no-repeat scroll 50% 25% / cover padding-box border-box;
+}
+
+.section.section-126 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/674-buy-high-sell-low-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-127 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/710-alices-adventures-in-factorland-hero-woman.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-128 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/560-rethinking-conventional-wisdom-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-129 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/about-us/about-us-triangle-background.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-130 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/wscd/tile/Organoid%20RGB_379x210_Mulb.Gold_900x500.jpg/jcr:content/renditions/cq5dam.web.1200.Organoid%20RGB_379x210_Mulb.Gold_900x500.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-131 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/964-that-was-then-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-132 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/wscd/tile/AIChem_1%20RGB%20Mulb.Gold_900x500.jpg/jcr:content/renditions/cq5dam.web.1200.AIChem_1%20RGB%20Mulb.Gold_900x500.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-133 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/precision-medicine/AZ-PM-glossary-header-image-scaled.jpg/jcr:content/renditions/cq5dam.web.1200.AZ-PM-glossary-header-image-scaled.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-134 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/next-generation-therapeutics/Bispecific-Fragment-Antibody_1500x410.png/jcr:content/renditions/cq5dam.web.1200.Bispecific-Fragment-Antibody_1500x410.png") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-135 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/702-a-backtesting-protocol-in-the-era-of-machine-learning-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-136 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/622-Chillax-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-137 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/719-trade-off_in_multifactor_smart_beta_investing-factor_premium_and_implementation_cost-hero-2052x1157.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-138 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/971-rafi-fundamental-index-why-now-hero.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-139 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/206-Timing_Poorly-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-140 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/641-pricing-stocks-and-bonds-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-141 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/432-slow-growth-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-142 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/part-5-smart-beta-series-HERO.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-143 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/673-food-for-thought-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-144 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/banner/Strategic_Centres_Header_25FPS.gif/jcr:content/renditions/cq5dam.web.1200.Strategic_Centres_Header_25FPS.gif") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-145 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/centres/AZ2284%20GPTW%20Meeting.png/jcr:content/renditions/cq5dam.web.1200.AZ2284%20GPTW%20Meeting.png") no-repeat scroll 50% 25% / cover padding-box border-box;
+}
+
+.section.section-146 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/312_Will_Your_Factor_Deliver_HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-147 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/683-alternative-risk-premia-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-148 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/549-How-Not-To-Get-Fired-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-149 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/banner/Data_Science_AI_Header_2.gif/jcr:content/renditions/cq5dam.web.1200.Data_Science_AI_Header_2.gif") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-150 {
+  background: rgb(255 255 255) url("https://www.astrazeneca.com/content/dam/az/r-and-d/data-science-ai/Turning-data-into-knowledge_1200x675.png/jcr:content/renditions/cq5dam.web.1200.Turning-data-into-knowledge_1200x675.png") no-repeat fixed 50% 50% / cover padding-box border-box;
+}
+
+.section.section-151 {
+  background: rgb(255 255 255) url("https://www.astrazeneca.com/content/dam/az/r-and-d/data-science-ai/Predicting-what-molecules_1200x675.png/jcr:content/renditions/cq5dam.web.1200.Predicting-what-molecules_1200x675.png") no-repeat fixed 50% 50% / cover padding-box border-box;
+}
+
+.section.section-152 {
+  background: rgb(255 255 255) url("https://www.astrazeneca.com/content/dam/az/r-and-d/data-science-ai/Using-AI-for_1200x675.png/jcr:content/renditions/cq5dam.web.1200.Using-AI-for_1200x675.png") no-repeat fixed 50% 50% / cover padding-box border-box;
+}
+
+.section.section-153 {
+  background: rgb(255 255 255) url("https://www.astrazeneca.com/content/dam/az/r-and-d/data-science-ai/Accelerating-clinical-trials_1200x675.png/jcr:content/renditions/cq5dam.web.1200.Accelerating-clinical-trials_1200x675.png") no-repeat fixed 50% 50% / cover padding-box border-box;
+}
+
+.section.section-154 {
+  background: rgb(255 255 255) url("https://www.astrazeneca.com/content/dam/az/r-and-d/data-science-ai/Building-the-right_1200x675.png/jcr:content/renditions/cq5dam.web.1200.Building-the-right_1200x675.png") no-repeat fixed 50% 50% / cover padding-box border-box;
+}
+
+.section.section-155 {
+  background: rgb(255 255 255) url("https://www.astrazeneca.com/content/dam/az/r-and-d/data-science-ai/Pushing-the-boundaries_1200x675.png/jcr:content/renditions/cq5dam.web.1200.Pushing-the-boundaries_1200x675.png") no-repeat fixed 50% 50% / cover padding-box border-box;
+}
+
+.section.section-156 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/what-science-can-do/artificialintelligence/recruitment%20group%20image.jpg/jcr:content/renditions/cq5dam.web.1200.recruitment%20group%20image.jpg") no-repeat scroll 50% 25% / cover padding-box border-box;
+}
+
+.section.section-157 {
+  background: rgb(255 255 255) url("https://www.astrazeneca.com/content/dam/az/r-and-d/data-science-ai/Collaboration_1200x675.png/jcr:content/renditions/cq5dam.web.1200.Collaboration_1200x675.png") no-repeat fixed 50% 50% / cover padding-box border-box;
+}
+
+.section.section-158 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/466-forecasting-returns-is-simple-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-159 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/what-science-can-do/Ambassadors/Related%20Content/Cardio_Vascular.jpg/jcr:content/renditions/cq5dam.web.1200.Cardio_Vascular.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-160 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Image%20Bank/AZ1566_Equipment.jpg/jcr:content/renditions/cq5dam.web.1200.AZ1566_Equipment.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-161 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Sustainability/2025/Health_equity_09_2000x430.jpg/jcr:content/renditions/cq5dam.web.1200.Health_equity_09_2000x430.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-162 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-company/our-locations/gothenburg/gothenburg-outside-building-desktop-gradient.jpg/jcr:content/renditions/cq5dam.web.1200.gothenburg-outside-building-desktop-gradient.jpg") no-repeat scroll 50% 50% / 100% padding-box border-box;
+}
+
+.section.section-163 {
+  background: rgb(60 16 83) url("https://www.astrazeneca.com/content/dam/az/our-company/our-locations/gothenburg/careers-hero.jpg/jcr:content/renditions/cq5dam.web.620.careers-hero.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-164 {
+  background: rgb(60 16 83) url("https://www.astrazeneca.com/content/dam/az/our-therapy-areas/cvrm/Regina-Danielson-split-tile.jpg/jcr:content/renditions/cq5dam.web.620.Regina-Danielson-split-tile.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-165 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/tile/802-too-soon-TILE.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-166 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-therapy-areas/V2/biobnr.gif/jcr:content/renditions/cq5dam.web.1200.biobnr.gif") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-167 {
+  background: rgb(60 66 66) url("https://www.astrazeneca.com/content/dam/az/our-therapy-areas/V2/AZ%20_CVRM_Landscape_Green_RGB%20(1).jpg/jcr:content/renditions/cq5dam.web.620.AZ%20_CVRM_Landscape_Green_RGB%20(1).jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-168 {
+  background: rgb(60 66 66) url("https://www.astrazeneca.com/content/dam/az/our-therapy-areas/respiratory-and-immunology/2022/R&I-Diseases_Landscape_Platinum_RGB.jpg/jcr:content/renditions/cq5dam.web.620.R&I-Diseases_Landscape_Platinum_RGB.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-169 {
+  background: rgb(60 66 66) url("https://www.astrazeneca.com/content/dam/az/our-therapy-areas/VI/AZ2958-VI-Interim-TA-Visual-RGB.jpg/jcr:content/renditions/cq5dam.web.620.AZ2958-VI-Interim-TA-Visual-RGB.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-170 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-therapy-areas/VI/covid-19/Virus_RGB_Mulb.Gold-2000x430.jpg/jcr:content/renditions/cq5dam.web.1200.Virus_RGB_Mulb.Gold-2000x430.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-171 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/266-The_Impact_of_Constraints_on_Minimum_Variance_Portfolios-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-172 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/822-beware-the-shocks-in-the-road-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-173 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Sustainability/2021/p2/Environmental-protection-rain-water.jpg/jcr:content/renditions/cq5dam.web.1200.Environmental-protection-rain-water.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-174 {
+  background: rgb(60 66 66) url("https://www.astrazeneca.com/content/dam/az/our-company/Sustainability/enviromental-sustainability/AZ078-Scientist-at-chemistry-board.jpg/jcr:content/renditions/cq5dam.web.620.AZ078-Scientist-at-chemistry-board.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-175 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-therapy-areas/cvrm/metabolism/AZ-Metabolism_Headline-Image_AZ3250-Organ-Interplay-Grap-2000x430-2.jpg/jcr:content/renditions/cq5dam.web.1200.AZ-Metabolism_Headline-Image_AZ3250-Organ-Interplay-Grap-2000x430-2.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-176 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/backgrounds/ra-tech-background-1.png") repeat scroll -400px -700px / cover padding-box border-box;
+}
+
+.section.section-177 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/backgrounds/smart-beta-background-1.jpg") no-repeat scroll 0 -200px / cover padding-box border-box;
+}
+
+.section.section-178 {
+  background: rgb(255 255 255 / 20%) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-179 {
+  background: rgb(21 43 77) url("https://www.researchaffiliates.com/content/dam/ra/backgrounds/smart-beta-background-1.jpg") no-repeat scroll 0 -599.1px / cover padding-box border-box;
+}
+
+.section.section-180 {
+  background: rgb(21 43 77) url("https://www.researchaffiliates.com/content/dam/ra/backgrounds/smart-beta-background-1.jpg") no-repeat scroll 50% -30px / cover padding-box border-box;
+}
+
+.section.section-181 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/713-tactical-and-tax-aware-hero.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-182 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/161-from-qe-to-queasy-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-183 {
+  background: rgb(232 232 232) linear-gradient(to right, rgb(232 232 232) 0%, rgb(250 250 250) 20%, rgb(232 232 232) 40%, rgb(232 232 232) 100%) no-repeat scroll -450.3px 0 / auto padding-box border-box;
+}
+
+.section.section-184 {
+  background: rgb(204 204 204) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-185 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/619-CAPE-fatigue-HERO.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-186 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/542-negative-rates-are-dangerous-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-187 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/823-surprise-factor-betas-dont-deliver-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-188 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/703-challenges-of-diversity-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-189 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/442-how-can-smart-beta-go-horribly-wrong-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-190 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/813-is-esg-a-factor-HERO.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-191 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/rationing-retirement-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-192 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-company/AZ2944_Science-can_ctDNA_RGB-banner-crop.jpg/jcr:content/renditions/cq5dam.web.1200.AZ2944_Science-can_ctDNA_RGB-banner-crop.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-193 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Our-Science/Cambridge/careers-hero.jpg/jcr:content/renditions/cq5dam.web.1200.careers-hero.jpg") no-repeat scroll 50% 25% / cover padding-box border-box;
+}
+
+.section.section-194 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/712-dismiss_mmt_at_your_peril-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-195 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/687-biggest-failure-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-196 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/686-ignored-risks-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-197 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/804-is-value-investing-structurally-impaired-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-198 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/impact-of-tapering-HERO.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-199 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/Knowledge-graph_RGB_Gold-2100x410.jpg/jcr:content/renditions/cq5dam.web.1200.Knowledge-graph_RGB_Gold-2100x410.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-200 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Investor_Relations/resources/AZ2951_Science-can_data-technology-&-AI_2_RGB-web.jpg/jcr:content/renditions/cq5dam.web.1200.AZ2951_Science-can_data-technology-&-AI_2_RGB-web.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-201 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/technologies/Acoustic%201500x410.png/jcr:content/renditions/cq5dam.web.1200.Acoustic%201500x410.png") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-202 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/581-record-low-costs-to-trade-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-203 {
+  background: rgb(104 210 223) url("") no-repeat fixed 50% 50% / cover padding-box border-box;
+}
+
+.section.section-204 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Sustainability/az-forest/Climate_nature_01_2000x430.jpg/jcr:content/renditions/cq5dam.web.1200.Climate_nature_01_2000x430.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-205 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/281-What-We-Know-Aint-So-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-206 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/559-a-barrel-of-texas-tea-Hero.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-207 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/wscd/impact/AZ_Hero-image.webp/jcr:content/renditions/cq5dam.web.1200.AZ_Hero-image.webp") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-208 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/wscd/tile/magenta-450x250.png/jcr:content/renditions/cq5dam.web.1200.magenta-450x250.png") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-209 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/necessary-trade-offs-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-210 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Sustainability/2025/health-equity/AZ1362-Female-scientist-China-1200x350.jpg/jcr:content/renditions/cq5dam.web.1200.AZ1362-Female-scientist-China-1200x350.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-211 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/969-the-fallacy-of-market-aggregate-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-212 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/psychology-of-contrarian-HERO.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-213 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/564-next-seasons-meager-harvest.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-214 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/562-death-of-the-risk-free-rate-Hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-215 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/media-centre-docs/article_files/Article2022/AZ-Forest-Article-Banner-Image-900x500.jpg/jcr:content/renditions/cq5dam.web.1200.AZ-Forest-Article-Banner-Image-900x500.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-216 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/media-centre-docs/article_files/Article2022/Ghana-Arial-image-500.jpg/jcr:content/renditions/cq5dam.web.1200.Ghana-Arial-image-500.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-217 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/wscd/data-science-ai/TechAdvancement-RGB-Magenta-banner-2000-x-430.jpg/jcr:content/renditions/cq5dam.web.1200.TechAdvancement-RGB-Magenta-banner-2000-x-430.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-218 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/828-factor-timing-keep-it-simple-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-219 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/tile/825-as-duration-dies-equities-rise-TILE.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-220 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az-fr/homepage/tile/AZ2172_Lab4life_screen.jpg/jcr:content/renditions/cq5dam.web.1200.AZ2172_Lab4life_screen.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-221 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/377-not-so-great-expectations-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-222 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/tile/982-earning-alpha-by-avoiding-the-index-rebalancing-crowd.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-223 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/814-book-value-is-an-incomplete-measure-of-firm-size-HERO.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-224 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/987-odds-of-a-hard-landing-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-225 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/864-inflation-is-here-what-now-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-226 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/366-greek-drama-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-227 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/772-nowcasting-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-228 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/527-greetings-from-the-cold-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-229 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/624-sustainable-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-230 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/wscd/disease-understanding/v2/Digital-health-RGB-Navy-Green-900x500.jpg/jcr:content/renditions/cq5dam.web.1200.Digital-health-RGB-Navy-Green-900x500.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-231 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Sustainability/2023/ethicstransparency/AZ2561-GPTW-China-Office-2000x430-ex.jpg/jcr:content/renditions/cq5dam.web.1200.AZ2561-GPTW-China-Office-2000x430-ex.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-232 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/616-which-rafi-index-strategy-is-right-for-you-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-233 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az-se/Our-Science/AZ1586_T_Cells_in_circulation.jpg/jcr:content/renditions/cq5dam.web.1200.AZ1586_T_Cells_in_circulation.jpg") no-repeat scroll 50% 25% / cover padding-box border-box;
+}
+
+.section.section-234 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/845-net-zero-in-2050-aussie-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-235 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/1-Genesis-of-Smart-Beta-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-236 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/wscd/tile/Virus-%20RGB%20Blue.Grap_900x500.jpg/jcr:content/renditions/cq5dam.web.1200.Virus-%20RGB%20Blue.Grap_900x500.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-237 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/668-yes-its-a-bubble-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-238 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Sustainability/2025/waste-circularity/waste-circularity-banner-2000x430.jpg/jcr:content/renditions/cq5dam.web.1200.waste-circularity-banner-2000x430.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-239 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/497-confounding-bias-for-investment-complexity-hero.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-240 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-therapy-areas/respiratory-and-immunology/2022/1800x1000px-AZ-Lupus-Updated-Sci-RGBAlt-HighRes.jpg/jcr:content/renditions/cq5dam.web.1200.1800x1000px-AZ-Lupus-Updated-Sci-RGBAlt-HighRes.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-241 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/tile/monkey_strategies.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-242 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Our-Science/Partnering/case-studies/case_study.jpg/jcr:content/renditions/cq5dam.web.1200.case_study.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-243 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/353-wild-wild-east-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-244 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/679-pundits-predicting-panic-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-245 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/543-echoes-of-1999-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-246 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/770-what-a-difference-esg-ratings-provider-makes-figures-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-247 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/456_are_you_a_ben_graham_defensive_investor-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-248 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-therapy-areas/VI/covid-19/AZ2704-hMPVirus-Mulberry-banner-2000x430-mulberry.jpg/jcr:content/renditions/cq5dam.web.1200.AZ2704-hMPVirus-Mulberry-banner-2000x430-mulberry.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-249 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/292-what-smart-beta-means-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-250 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/about-us/about-us-triangle-background.jpg") no-repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-251 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/455-is_a_stronger_us_dollar_really_bad_news_three_myths_about_emerging_markets-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-252 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/706-the-folly-of-hiring-tiles-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-253 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Our-Science/Gaithersburg/Day.JPG/jcr:content/renditions/cq5dam.web.1200.Day.JPG") no-repeat scroll 50% 50% / 100% padding-box border-box;
+}
+
+.section.section-254 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/632-hobbled-by-benchmarks1.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-255 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/621-I-Was-Blind-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-256 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/670-is-your-alpha-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-257 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/331-retirement-planning-millennials-vs-boomers-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-258 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/digital-health/Digital_health_header_eddited.jpg/jcr:content/renditions/cq5dam.web.1200.Digital_health_header_eddited.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-259 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/629-smart-beta-multifactor-construction-HERO.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-260 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Investor_Relations/Annual-report-2015/Hero-New.jpg/jcr:content/renditions/cq5dam.web.1200.Hero-New.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-261 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Investor_Relations/Annual-report-2015/pascal.jpg/jcr:content/renditions/cq5dam.web.1200.pascal.jpg") no-repeat scroll 50% 25% / cover padding-box border-box;
+}
+
+.section.section-262 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Our-Science/Emerging_drug_discovery.jpg/jcr:content/renditions/cq5dam.web.1200.Emerging_drug_discovery.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-263 {
+  background: rgb(210 210 210) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-264 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Investor_Relations/Annual-report-2015/leifjohansson.jpg/jcr:content/renditions/cq5dam.web.1200.leifjohansson.jpg") no-repeat scroll 50% 25% / cover padding-box border-box;
+}
+
+.section.section-265 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/media-centre-docs/article_files/2025/AZ2804-Access-to-healthcare-2000x700.jpg/jcr:content/renditions/cq5dam.web.1200.AZ2804-Access-to-healthcare-2000x700.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-266 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/223-finding-smart-beta-factor-zoo-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-267 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Sustainability/2023/accesshealthcare/AZ2857-Patient-009-2000x430.jpg/jcr:content/renditions/cq5dam.web.1200.AZ2857-Patient-009-2000x430.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-268 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/819-tesla-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-269 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/part-2-smart-beta-series-HERO.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-270 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/413-greek-drama-act-2-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-271 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Sustainability/2025/climate-change/Climate-nature-05-2000x430.jpg/jcr:content/renditions/cq5dam.web.1200.Climate-nature-05-2000x430.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-272 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-therapy-areas/cvrm/renal/AZ-ESC-RENAL_Lime-Green_Navy-banner-2000x430px_ALT.jpg/jcr:content/renditions/cq5dam.web.1200.AZ-ESC-RENAL_Lime-Green_Navy-banner-2000x430px_ALT.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-273 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/832-revisiting-teslas-addition-to-the-sp-500-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-274 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Sustainability/2025/health-equity/Health_equity_11-1200x450.jpg/jcr:content/renditions/cq5dam.web.1200.Health_equity_11-1200x450.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-275 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/795-this-too-shall-pass-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-276 {
+  background: rgb(0 0 0 / 0%) url("https://www.nrucfc.coop/content/dam/nrucfc/public-tier/images/careers/benefits-bg.png") no-repeat scroll 50% 0% / cover padding-box border-box;
+}
+
+.section.section-277 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/633-in-defense-of-alpha-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-278 {
+  background: rgb(0 80 102) url("https://www.researchaffiliates.com/content/dam/ra/backgrounds/home-hero-background-1.png") no-repeat scroll 50% 0 / cover padding-box border-box;
+}
+
+.section.section-279 {
+  background: rgb(21 43 77 / 75%) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-280 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Investor_Relations/AZ3484-ADC_RGB_2321x500.jpg/jcr:content/renditions/cq5dam.web.1200.AZ3484-ADC_RGB_2321x500.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-281 {
+  background: rgb(60 66 66) url("https://www.astrazeneca.com/content/dam/az-ch/sustainability/environmental-protection/recycling.jpeg/jcr:content/renditions/cq5dam.web.620.recycling.jpeg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-282 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Sustainability/2024/ath/Frank-Asare_2000x430px.jpg/jcr:content/renditions/cq5dam.web.1200.Frank-Asare_2000x430px.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-283 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/286-target-date-funds-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-284 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az-se/Bilder/exchange/clinical-innovation.jpg/jcr:content/renditions/cq5dam.web.1200.clinical-innovation.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-285 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Sustainability/2021/p2/ethics-and-transparency/Animals-in-research/Ethics_Bioethics_1-long.jpg/jcr:content/renditions/cq5dam.web.1200.Ethics_Bioethics_1-long.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-286 {
+  background: rgb(255 255 255) url("https://www.astrazeneca.com/content/dam/az/Image%20Bank/AZ1574_Equipment.jpg/jcr:content/renditions/cq5dam.web.1200.AZ1574_Equipment.jpg") no-repeat fixed 50% 50% / cover padding-box border-box;
+}
+
+.section.section-287 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/414-wheres-the-beef-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-288 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/wscd/tile/Data-CMYK-Mulb.Gold.jpg/jcr:content/renditions/cq5dam.web.1200.Data-CMYK-Mulb.Gold.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-289 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/homepage/2023/Disease-Understanding_BANNER_Gold_RGB-3284x706.jpg/jcr:content/renditions/cq5dam.web.1200.Disease-Understanding_BANNER_Gold_RGB-3284x706.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-290 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/615-public-policy-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-291 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/wscd/tile/Multiomics%20Gold_900x500.jpg/jcr:content/renditions/cq5dam.web.1200.Multiomics%20Gold_900x500.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-292 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/586-emerging-markets-hat-trick-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-293 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-therapy-areas/respiratory-and-immunology/respiratory-syncytial-virus/respiratory-syncytial-virus-illustration-royalty-free-illustration-1623701016.jpg/jcr:content/renditions/cq5dam.web.1200.respiratory-syncytial-virus-illustration-royalty-free-illustration-1623701016.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-294 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/wscd/tile/Sustainability-RGB-White.Mulb_900x505.jpg/jcr:content/renditions/cq5dam.web.1200.Sustainability-RGB-White.Mulb_900x505.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-295 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/594-a-smoother-path-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-296 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/465-the_china_syndrome_lessons_from_the_a-shares_bubble-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-297 {
+  background: rgb(0 0 0 / 0%) linear-gradient(185deg, rgb(245 245 245) 0%, rgb(221 221 221) 100%) repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-298 {
+  background: rgb(0 0 0 / 0%) linear-gradient(161deg, rgb(0 97 165) 0%, rgb(21 43 77) 100%) repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-299 {
+  background: rgb(255 255 255 / 30%) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-300 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Investor_Relations/debt-investors/AZ1201%20Woman%20with%20iPad.jpg/jcr:content/renditions/cq5dam.web.1200.AZ1201%20Woman%20with%20iPad.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-301 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/media-centre-docs/article_files/articles2024/AZ3025-MEA-Society-AccessToHealthcare-banner.jpg/jcr:content/renditions/cq5dam.web.1200.AZ3025-MEA-Society-AccessToHealthcare-banner.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-302 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/precision-medicine/PM-Hero2-Opt1-2000x430-banner.jpeg/jcr:content/renditions/cq5dam.web.1200.PM-Hero2-Opt1-2000x430-banner.jpeg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-303 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/541-timing_smart_beta-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-304 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/banner/Technologies_header.gif/jcr:content/renditions/cq5dam.web.1200.Technologies_header.gif") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-305 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/wscd/covid-19/Green-clinical-innovation-image-AZ2694.jpg/jcr:content/renditions/cq5dam.web.1200.Green-clinical-innovation-image-AZ2694.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-306 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/banner/Our%20approach_header.gif/jcr:content/renditions/cq5dam.web.1200.Our%20approach_header.gif") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-307 {
+  background: rgb(208 0 111) url("https://www.astrazeneca.com/content/dam/az/r-and-d/our-approach/Access-to-healthcare_900x500.png/jcr:content/renditions/cq5dam.web.620.Access-to-healthcare_900x500.png") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-308 {
+  background: rgb(208 0 111) url("https://www.astrazeneca.com/content/dam/az/r-and-d/our-approach/Environmental-Protection_900x500.png/jcr:content/renditions/cq5dam.web.620.Environmental-Protection_900x500.png") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-309 {
+  background: rgb(208 0 111) url("https://www.astrazeneca.com/content/dam/az/r-and-d/our-approach/Ethics-and-Transparency_900x500.png/jcr:content/renditions/cq5dam.web.620.Ethics-and-Transparency_900x500.png") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-310 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/946-silver-lining-hero-new.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-311 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/496-dirty-little-secret-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-312 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/821-is-diversification-dead-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-313 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/479-peak-profits-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-314 {
+  background: rgb(0 0 0 / 0%) linear-gradient(45deg, rgb(21 43 77) 0%, rgb(0 97 165) 100%) repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-315 {
+  background: rgb(0 97 165) linear-gradient(45deg, rgb(21 43 77) 0%, rgb(0 97 165) 100%) repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-316 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/esg/esg-banner-right.svg") no-repeat scroll 100% 0% / 150% padding-box border-box;
+}
+
+.section.section-317 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/wscd/banners/AZ_NextGen_RGB_Landscape-2100x410-3.jpg/jcr:content/renditions/cq5dam.web.1200.AZ_NextGen_RGB_Landscape-2100x410-3.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-318 {
+  background: rgb(60 16 83) url("https://www.astrazeneca.com/content/dam/az/r-and-d/next-generation-therapeutics/Bispecific-Fragment-Antibody_900x500.png/jcr:content/renditions/cq5dam.web.620.Bispecific-Fragment-Antibody_900x500.png") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-319 {
+  background: rgb(60 16 83) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-320 {
+  background: rgb(60 16 83) url("https://www.astrazeneca.com/content/dam/az/r-and-d/next-generation-therapeutics/Therapeutic-Protein_900x500.png/jcr:content/renditions/cq5dam.web.620.Therapeutic-Protein_900x500.png") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-321 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Investor_Relations/AZ3471-ONCOLOGY-RGB-banner-2321x500.webp/jcr:content/renditions/cq5dam.web.1200.AZ3471-ONCOLOGY-RGB-banner-2321x500.webp") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-322 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/939-direct-indexing-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-323 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/771-reports-of-values-death-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-324 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-company/our-locations/cambridge/RDC/cambridge-banner-2000x900-edit.jpg/jcr:content/renditions/cq5dam.web.1200.cambridge-banner-2000x900-edit.jpg") no-repeat scroll 50% 50% / 100% padding-box border-box;
+}
+
+.section.section-325 {
+  background: rgb(60 16 83) url("https://www.astrazeneca.com/content/dam/az/our-company/our-locations/cambridge/RDC/RDC_June2021_1.jpg/jcr:content/renditions/cq5dam.web.620.RDC_June2021_1.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-326 {
+  background: rgb(60 16 83) url("https://www.astrazeneca.com/content/dam/az/our-company/our-locations/cambridge/RDC/AZ2740GPTWLabs.jpg/jcr:content/renditions/cq5dam.web.620.AZ2740GPTWLabs.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-327 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-therapy-areas/cvrm/cardiovascular-disease/AZ-ESC-CARDIOVASCULAR_Magenta_White_banner-2000x430px_ALT.jpg/jcr:content/renditions/cq5dam.web.1200.AZ-ESC-CARDIOVASCULAR_Magenta_White_banner-2000x430px_ALT.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-328 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/part-6-smart-beta-series-HERO.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-329 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/563-systematic-global-macro-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-330 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/588-quest-for-the-holy-grail-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-331 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/banner/landing-page-header_optimized.gif/jcr:content/renditions/cq5dam.web.1200.landing-page-header_optimized.gif") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-332 {
+  background: rgb(60 66 66) url("https://www.astrazeneca.com/content/dam/az/r-and-d/Technologies-Page_banner_1024x726.png/jcr:content/renditions/cq5dam.web.620.Technologies-Page_banner_1024x726.png") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-333 {
+  background: rgb(60 66 66) url("https://www.astrazeneca.com/content/dam/az/r-and-d/Drug-Modalities_900x500.png/jcr:content/renditions/cq5dam.web.620.Drug-Modalities_900x500.png") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-334 {
+  background: rgb(60 66 66) url("https://www.astrazeneca.com/content/dam/az/r-and-d/Data-Science-&-AI-Page_banner_1024x726.png/jcr:content/renditions/cq5dam.web.620.Data-Science-&-AI-Page_banner_1024x726.png") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-335 {
+  background: rgb(208 0 111) url("https://www.astrazeneca.com/content/dam/az/r-and-d/Big-planet_still-tile.png/jcr:content/renditions/cq5dam.web.620.Big-planet_still-tile.png") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-336 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/r-and-d/AZ2179%20Lab4life.png/jcr:content/renditions/cq5dam.web.1200.AZ2179%20Lab4life.png") no-repeat scroll 50% 25% / cover padding-box border-box;
+}
+
+.section.section-337 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-therapy-areas/respiratory-and-immunology/epithelial-science/AZ2722-Severe-asthma.jpg/jcr:content/renditions/cq5dam.web.1200.AZ2722-Severe-asthma.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-338 {
+  background: rgb(60 16 83) url("https://www.astrazeneca.com/content/dam/az/our-therapy-areas/respiratory-and-immunology/epithelial-science/Pioneers_in_Asthma_Where_is_the_science_leading_us%20-%20.png/jcr:content/renditions/cq5dam.web.620.Pioneers_in_Asthma_Where_is_the_science_leading_us%20-%20.png") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-339 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/711-strike-the-right-balance-in-multi-factor-strategy-hero.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-340 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/842-did-i-miss-the-value-turn-HERO.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-341 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/922-rising-risk-of-stagflation-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-342 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-focus-areas/Oncology/2020/Liver_cancer/Liver-banner.jpg/jcr:content/renditions/cq5dam.web.1200.Liver-banner.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-343 {
+  background: rgb(0 56 101) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-344 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/our-therapy-areas/cvrm/heart-failure/AZ-ESC-HEART-FAILURE_Mulberry_White_banner-2000x430px_ALT.jpg/jcr:content/renditions/cq5dam.web.1200.AZ-ESC-HEART-FAILURE_Mulberry_White_banner-2000x430px_ALT.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-345 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/970-the-buck-stops-here-hero.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-346 {
+  background: rgb(0 0 0 / 0%) url("https://www.astrazeneca.com/content/dam/az/Sustainability/2025/climate-change/Freshwater-web_1-2000x430-80p.webp/jcr:content/renditions/cq5dam.web.1200.Freshwater-web_1-2000x430-80p.webp") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-347 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/bubble_bubble_toil_and_trouble-Hero-2052x1157.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-348 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/745-game-changed-problems-remain-HERO.png") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-349 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/434-The_Whole_Story-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-350 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/156-the-death-of-the-dollar-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-351 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/540-ask-if-the-price-is-right-hero.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-352 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/204-self-fulfilling-prophecy-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-353 {
+  background: rgb(0 0 0 / 0%) url("https://www.researchaffiliates.com/content/dam/ra/publications/hero/614-presidential-politics-HERO.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
 }
