@@ -1187,104 +1187,6 @@
 }
 
 
-.columns.columns173 {
-  background: linear-gradient(120deg, #184674 0%, #0d2948 100%);
-  border-radius: 16px;
-  padding: 40px 32px;
-  margin: 0;
-  box-sizing: border-box;
-  overflow: hidden;
-}
-
-.columns.columns173 div {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  align-items: center;
-  gap: 28px;
-}
-
-@media (width <= 900px) {
-  .columns.columns173 div {
-    grid-template-columns: 1fr;
-    gap: 20px;
-  }
-}
-
-.columns.columns173 div div {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  min-width: 0;
-  text-align: center;
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
-
-.columns.columns173 .button,
-.columns.columns173 a.button {
-  background: none;
-  border: none;
-  border-radius: 0;
-  box-shadow: none;
-  margin: 0;
-  padding: 0;
-  max-width: none;
-  text-align: center;
-  color: inherit;
-  font-size: inherit;
-  font-weight: normal;
-  white-space: normal;
-  text-decoration: none;
-  cursor: default;
-  transition: none;
-  display: block;
-  line-height: 1.4;
-}
-
-.columns.columns173 div div .button:first-child,
-.columns.columns173 div div a.button:first-child,
-.columns.columns173 div div p:first-child {
-  font-size: 12px;
-  font-weight: 600;
-  color: #4fc3f7;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  margin-bottom: 8px;
-  line-height: 1.2;
-}
-
-.columns.columns173 div div .button:not(:first-child),
-.columns.columns173 div div a.button:not(:first-child),
-.columns.columns173 div div p:not(:first-child) {
-  font-size: 17px;
-  font-weight: 400;
-  color: #fff;
-  text-transform: none;
-  margin-bottom: 0;
-  letter-spacing: normal;
-  line-height: 1.4;
-}
-
-.columns.columns173 .button-container {
-  margin: 0;
-  padding: 0;
-}
-
-.columns.columns173 a.button:hover,
-.columns.columns173 a.button:focus {
-  background: none;
-  color: #4fc3f7;
-  text-decoration: underline;
-}
-
-.columns.columns173 div div * {
-  white-space: normal;
-  display: block;
-}
-
-
 .columns.columns174 {
   background: #fff;
   border-radius: 18px;
@@ -1614,59 +1516,94 @@
 }
 
 
-.columns.columns173.block.columns-4-cols {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-  background: #000;
-  border-bottom: 1px solid #444;
-  min-height: 48px;
-  padding: 0 32px;
-}
-
-.columns.columns173.block.columns-4-cols,
-.columns.columns173.block.columns-4-cols * {
-  color: #b3b3b3;
-  font-size: 12px;
-  font-family: Inter, 'Helvetica Neue', Arial, sans-serif;
-  font-weight: 400;
-  line-height: 1.5;
+.columns.columns173 {
+  /* Modern dark blue gradient background and vertical spacing */
+  background: linear-gradient(to bottom, #184D6D 0%, #0F2940 100%);
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-radius: 0;
+  width: 100%;
+  margin: 0;
   box-sizing: border-box;
 }
 
-.columns.columns173.block.columns-4-cols > div:last-child {
+/* Ensure the row of columns is laid out horizontally and fills the container */
+.columns.columns173 .columns {
   display: flex;
-  gap: 48px;
-  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  width: 100%;
+  margin: 0;
+  padding-left: 40px;
+  padding-right: 40px;
+  box-sizing: border-box;
+  gap: 24px; /* Moderate horizontal gap for even distribution */
 }
 
-.columns.columns173.block.columns-4-cols > div:last-child a {
-  color: #b3b3b3;
-  text-decoration: none;
-  font-size: 12px;
-  transition: color 0.2s;
+/* Each column stacks its items vertically */
+.columns.columns173 .columns div {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  row-gap: 18px; /* Space between stacked items in a column */
+  min-width: 0;
+  box-sizing: border-box;
+  padding-left: 0;
+  padding-right: 0;
 }
 
-.columns.columns173.block.columns-4-cols > div:last-child a:hover {
-  color: #fff;
-  text-decoration: underline;
-}
-
-.columns.columns173.block.columns-4-cols .button {
-  background: none;
-  border: none;
+/* Remove default paragraph margins for consistent spacing */
+.columns.columns173 p,
+.columns.columns173 .button-container {
+  margin: 0;
   padding: 0;
-  color: #b3b3b3;
-  font-size: 12px;
-  font-weight: 400;
-  box-shadow: none;
-  text-transform: none;
   text-align: left;
 }
 
-.columns.columns173.block.columns-4-cols p,
-.columns.columns173.block.columns-4-cols .button-container {
-  margin: 0;
-  padding: 0;
+/* Links inside columns: main style */
+.columns.columns173 a {
+  color: #D8E2EA;
+  font-size: 16px;
+  font-weight: 400;
+  background: none;
+  border: none;
+  line-height: 1.4;
+  text-align: left;
+  text-decoration: none;
+  transition: color 0.2s;
+  white-space: normal;
+  overflow-wrap: break-word;
+}
+
+/* Simulate "header" style for first line of link text */
+.columns.columns173 a::first-line {
+  color: #4CA1E0;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+/* Add spacing if <br> is used between header and item in link text */
+.columns.columns173 a br {
+  line-height: 2.2;
+}
+
+/* Link hover/focus effect */
+.columns.columns173 a:hover,
+.columns.columns173 a:focus {
+  color: #4CA1E0;
+  text-decoration: underline;
+}
+
+/* Responsive: Stack columns vertically and adjust padding/gap */
+@media (width <= 900px) {
+  .columns.columns173 .columns {
+    flex-direction: column;
+    gap: 32px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
 }
