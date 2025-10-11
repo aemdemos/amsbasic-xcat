@@ -1,3 +1,2708 @@
 {
-  "templates": []
+  "templates": [
+    {
+      "name": "News Listing",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.ciat.com/es/es/recursos/videos/",
+          "uuid": "21386048ae8cb2a831bf51ff7ecfb2926a8321a6"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/resources/videos/",
+          "uuid": "2cbe0ff55526de09ab80cc56ba03a09c83695ff8"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/resources/videos/",
+          "uuid": "f555ebf0ca7a45eb184ea91dec5bcd5ebb8d5e97"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/unites-de-confort/regulation-des-unites-de-confort/v6/",
+          "uuid": "5221d89847e15a5a3880e13dcf3c3e60c980dcb3"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/unites-de-confort/regulation-des-unites-de-confort/v3000-knx/",
+          "uuid": "871997c1e7cc59b79ac69337ada35eed727406bf"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/unites-de-confort/regulation-des-unites-de-confort/v300/",
+          "uuid": "f451fbbfdda2e4b182dae45a2d23789e8db410d1"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/heat-pumps-and-chillers/water-cooled-units/dynaciatpower-lg/",
+          "uuid": "5dcb86b4a2539e13fac77aed69beb587385e120c"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/unites-de-confort/regulation-des-unites-de-confort/v600/",
+          "uuid": "31449c23d9c0543ee376e7a299e4a913d6dc4b5c"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/solutions-de-traitement-de-l-air/centrales-de-traitement-d-air/air-compact/",
+          "uuid": "115cb13022b7dd4811c8e821177a1bc1724a8c5f"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/aerorefrigerants/aerorefrigerants/opera/",
+          "uuid": "162074d77a9399cc8906c8d5707eb23f4e070b3c"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/pompes-a-chaleur-et-groupes-d-eau-glacee/unites-a-condensation-par-eau/hydrociat-lw-st-lw-he/",
+          "uuid": "6ff60f10291a02cb7fa208021efeabf085e1cd48"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/pompes-a-chaleur-et-groupes-d-eau-glacee/unites-a-condensation-par-eau/dynaciatpower-lg/",
+          "uuid": "5f197635704588776c9f097f251e47b9b6367b97"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/pompes-a-chaleur-et-groupes-d-eau-glacee/unites-a-condensation-par-eau/dynaciat-lg/",
+          "uuid": "b1df24e20b441b0dc6e39e7d22b152210afa0ae4"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/rooftops-et-systemes-monoblocs-ou-bi-blocs/rooftops/vectios/",
+          "uuid": "73f0ba6652ebde5979791cbbfbdba8870a8ac5d3"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/warmtepompen-en-chillers/watergekoelde-eenheden/hydrociat-lw-st-lw-he/",
+          "uuid": "eb52e04c27dc8ecfc81e2088935c647ebbbc7bbe"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/heat-pumps-and-chillers/water-cooled-units/hydrociat-lw-st-lw-he/",
+          "uuid": "2dfc203941707c7d9db9de56b65b827771b147a9"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/heat-pumps-and-chillers/water-cooled-units/hydrociat-lw-st-lw-he/",
+          "uuid": "61a04d930a9a6717571be6644f3182623972f10b"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/warmtepompen-en-chillers/watergekoelde-eenheden/dynaciat-lg/",
+          "uuid": "7607ff1ecbc4d2507532d9343bf76d53e6770a31"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/heat-pumps-and-chillers/water-cooled-units/dynaciat-lg/",
+          "uuid": "f4c0b7a036d73cb6907163fa8075b0c4b7a23eda"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/rooftops-et-systemes-monoblocs-ou-bi-blocs/rooftops/vectios-power/",
+          "uuid": "c4287b27cc92f158df49fbdbf0000a77bff2cb90"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/rooftops-et-systemes-monoblocs-ou-bi-blocs/rooftops/vectios-power-r-454b/",
+          "uuid": "10f0ddda9bb1544a6ef1d8d95a23ff011f4f832c"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/unidades-de-confort/unidades-de-confort/coadis-line-600/",
+          "uuid": "7b203180a4bb65d0539e8137ad9ef88b24445987"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/unites-de-confort/unites-de-confort/coadis-line-600/",
+          "uuid": "1c47f6ee02ee47b59c2f6b3a505e37f832a122f0"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/ventilator-convectoren/ventilator-convectoren/coadis-line-600/",
+          "uuid": "cc74d5ffed4070584ee2fc5404c875b04ad62e34"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/comfort-units/comfort-units/coadis-line-600/",
+          "uuid": "2dc0afb25079369f8fbc3b232a1bb6e2d8675695"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/rooftop-units-and-packaged-systems/rooftop-units/vectios-power-r-454b/",
+          "uuid": "185ee03668c6563872950ebec0bce6b9d3a79eaf"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/rooftop-units-and-packaged-systems/rooftop-units/vectios-r-454b/",
+          "uuid": "befd9ee881f6b75304294bf305b0a472a9497c9b"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/rooftops-et-systemes-monoblocs-ou-bi-blocs/rooftops/vectios-r-454b/",
+          "uuid": "1c324fe80477551d482bc2204318b8b2d7526400"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/comfort-units/comfort-units/coadis-line-600/",
+          "uuid": "d0aa65a3820a775908e7b9042f1694ba320a585b"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/unidades-rooftop-y-sistemas-compactos/unidades-rooftop/vectios-power-r-454b/",
+          "uuid": "5bfc367c0266011116aeefc7f1be129bb551640c"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/rooftop-units-and-packaged-systems/rooftop-units/vectios-power-r-454b/",
+          "uuid": "93c1e8c3d4aae1adc76731a509322161ae07ba7b"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/rooftop-units-and-packaged-systems/rooftop-units/vectios-power/",
+          "uuid": "fb9a71ba53e03695be6ca7d2f9c64f844880cda3"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/rooftop-units-and-packaged-systems/rooftop-units/vectios-r-454b/",
+          "uuid": "340f0c7a1d405a06268b10f052bfc7357f1f34a0"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/comfort-units/comfort-units/coadis-line-600/",
+          "uuid": "b6c2b768b55a1f4957cc9bbd335c27c2615f5489"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/comfort-units/comfort-units/coadis-line-600/",
+          "uuid": "6de9d55c0b82f7d9092f5f874b8bf0682991ade4"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/unidades-rooftop-y-sistemas-compactos/unidades-rooftop/vectios/",
+          "uuid": "df5168d2722bb151f758eadd64c930a0d6ca6179"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/rooftop-units/rooftop-units/vectios-power-r-454b/",
+          "uuid": "e08ac3271041d2c66c2db1e200e28713e7f8470e"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/rooftop-units/rooftop-units/vectios-power/",
+          "uuid": "8d4cd057af5634416adb62fac25f41fb199665a2"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/rooftop-units-and-packaged-systems/rooftop-units/vectios-power-r-454b/",
+          "uuid": "d6eb01b4d0a4d3b1e4bd8cd9ae0b9f7c13fefd1a"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/rooftop-units-and-packaged-systems/rooftop-units/vectios-power-r-454b/",
+          "uuid": "4a7e982f93435926913a112b8db542cd48cfef0e"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/rooftop-units-and-packaged-systems/rooftop-units/vectios-power/",
+          "uuid": "f42e444c4fef9d93607fe9b8504a0428deeec327"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/rooftop-units/rooftop-units/vectios/",
+          "uuid": "16ba62a49987ff9b2bf8d30ce195488a800b2c48"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/rooftop-units-and-packaged-systems/rooftop-units/vectios/",
+          "uuid": "581fac93a7d7e03407abe0d55b0851424c422131"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/rooftop-units-and-packaged-systems/rooftop-units/vectios/",
+          "uuid": "65431313c6ae175f44a36fbaa89f7ecfbcb543f1"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.ciat.com/en/uk/",
+          "uuid": "d18534e1b1543eb40708db90ab845275e05e840b"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/chi-siamo/ciat-4-life/",
+          "uuid": "b65d716508ec488527ee91ea66b1ae58f34b38de"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/resources/training-courses/cpd-training/",
+          "uuid": "dd9f8ef3afe46a7d1ba67beaaed5701646622d81"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/chi-siamo/centri-di-eccellenza/",
+          "uuid": "52191f29e336ca0df396864b02841bc7334b5edd"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/resources/case-studies/",
+          "uuid": "9243ad51d5cfa3e24d5524a1f11cc047bedc2d96"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/soluzioni-per-i-diversi-mercati/centri-commerciali/",
+          "uuid": "cc0de07e68145765b7d60b3b3b3c8c7e43eb0f0f"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/market-solutions/hospitality/",
+          "uuid": "1c0053562752b966fdd40aecc27e276b2546eb38"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/service/controls/powerctrl-and-ivu/",
+          "uuid": "6b0fd294de22f03ac323db5f452f7060b612e3e6"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/prodotti-e-sistemi/unita-di-comfort/unita-di-comfort/",
+          "uuid": "b9dd73727eb01e2f16f622c840a8f0e3e6e4de57"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/comfort-units/comfort-units/",
+          "uuid": "e0511fb0bc7986380fb150a8d6ac55989801a85d"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/air-treatment-solutions/air-handling-units/",
+          "uuid": "c1346e43b64264a4956d7ab499ccd08226531082"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/heat-pumps-and-chillers/air-cooled-units/",
+          "uuid": "270354a300f7f2d951ff5171ec07198bef353d43"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/prodotti-e-sistemi/refrigeratori-e-pompe-di-calore/unita-raffreddate-ad-aria/",
+          "uuid": "9122f111faff0ef5e81c2d4495c96ae7d007133a"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/prodotti-e-sistemi/unita-roof-top/unita-roof-top/",
+          "uuid": "12436b25694828587b13afe55934fc7dec6671a3"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/rooftop-units-and-packaged-systems/rooftop-units/",
+          "uuid": "6dbc1ec68246f1611790e3d6506b2288665ec3dc"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/market-solutions/commercial-buildings/",
+          "uuid": "4c48089f78cad65f02b09d4c42958e7328b5b60c"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/service/controls/truvu-plant-sequencer/",
+          "uuid": "3f2daa2cdbe42b190c28a672a2ecef737a96be40"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/service/controls/cristo-control2-for-plant-rooms-with-storage-systems/",
+          "uuid": "0c16a16e236a4cb2e5a219e197419401e6817d38"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/market-solutions/industrial-sectors/",
+          "uuid": "c9b7d6865d1f601825aecc2f52dc9d0307ac7b98"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/comfort-units/controls-for-comfort-units/",
+          "uuid": "888be971b94b52c6e20177deffc32259e3065ffa"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/market-solutions/healthcare/",
+          "uuid": "735a361e291dfb11daaab6d4f8f1efd21f934774"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/about-us/",
+          "uuid": "84be5821bff79c2dd3e176c254fcf45cf890ffd3"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/heat-pumps-and-chillers/water-cooled-units/",
+          "uuid": "bbd5290e2943a4173190ad0b18aa63985aafcc22"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/risorse/documentazione-del-prodotto/",
+          "uuid": "ab454e704d8a81e2fbd2d48c0db4999fce12f45b"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/servizi/funzionamento-assistenza-e-protezione/",
+          "uuid": "c09f04090d08ac61fc27b142e6d91164968a82ae"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/soluzioni-per-i-diversi-mercati/hotel/",
+          "uuid": "0fee5dee010ae1c993278859359ce16aa1af5815"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/soluzioni-per-i-diversi-mercati/logistica/",
+          "uuid": "35c6ddfddb53e4bc1490ec4673e48eb8fe8b12c8"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/prodotti-e-sistemi/soluzioni-per-il-trattamento-dell-aria/aerotermi/",
+          "uuid": "0e0e5a2a535c571a01846de08dbfba08c52aaa99"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/carrier-advantage/why-partner-with-us/",
+          "uuid": "ab547b0fb0d063801a3d9aec57fc85a9a8e072b8"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/rooftop-units-and-packaged-systems/controls-for-packaged-systems/",
+          "uuid": "8ae10fe1db3f4d9ef2c2a2005b65008f1bf75abb"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/dry-coolers-condensers/controls-and-systems/",
+          "uuid": "2d42ce76b4c34a6ef70a30aacaba7fa07983af0b"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/dry-coolers-condensers/dry-coolers/",
+          "uuid": "d50a29a59352a90c7e0e83e3bd682026a3c10ac4"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/heat-pumps-and-chillers/controls-for-heat-pumps-and-chillers/",
+          "uuid": "fd4dd248a051d4815be6ebf046fb313e7856e8d7"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/air-treatment-solutions/air-heaters/",
+          "uuid": "5a0e7a3960d3230d3f95d9db08e60fc5e9a7a6d8"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/heat-pumps-and-chillers/storage-systems/",
+          "uuid": "6abd4e2eccc2bd644f244630b1f05d90dea17e2d"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/chi-siamo/",
+          "uuid": "2c66f7eaed4df6e0404727595bfa435cc1f57481"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/service/operate-service-protect/commissioning/",
+          "uuid": "b92825980dbd51c0e71a74ca4c5aa17b63780f79"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/news/news-article/ciat-air-handling-solution-provides-cleaner-more-comfortable-air-for-crawley-s-new-civic-centre.html",
+          "uuid": "0730b2093d45422a46d20c1dd1021ebcf24e3383"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/prodotti-e-sistemi/refrigeratori-e-pompe-di-calore/regolazioni-per-pompe-di-calore-e-refrigeratori/",
+          "uuid": "7b7657a8f3ca4e316f4fd064311aeb3543abb5ee"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/servizi/funzionamento-assistenza-e-protezione/parti-e-accessori/",
+          "uuid": "dfd877b78f18b4de89c00f441b6473f02d0500d8"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/prodotti-e-sistemi/refrigeratori-e-pompe-di-calore/",
+          "uuid": "0ab483ce68d2444431b65789951d892a21eed28e"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/prodotti-e-sistemi/unita-roof-top/",
+          "uuid": "91a4f45f9f28e1896b03d88e40c7a09097a8c669"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/risorse/video/",
+          "uuid": "9f8adc0d40b7d07d6cb6d8718e44cdcee9320cb0"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/air-treatment-solutions/",
+          "uuid": "044083d35b6269f1b4e25cbcf482cd53404f6221"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/servizi/funzionamento-assistenza-e-protezione/manutenzione/",
+          "uuid": "73a4fcabb490d6f47929c73b63cfb21d32afe980"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/resources/case-studies/air-handling-units-adapted-to-hospital-standards/",
+          "uuid": "08fdb672504c64a663ea8d402ac366f4fb052565"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/prodotti-e-sistemi/soluzioni-per-il-trattamento-dell-aria/",
+          "uuid": "6eda93c95d7afe83cda7142fb2b230913fa75363"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/legal/informativa-sulla-privacy/",
+          "uuid": "cb051cc3a4589dca368cb968c5b26c84c1914940"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/legal/termini-d-utilizzo/",
+          "uuid": "a39d142519a9ebbddb292dca974c0f5453977311"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/legal/privacy-notice/",
+          "uuid": "3952fb97fc74898204218ff1b9f8c58e52ca76cb"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/legal/terms-of-use/",
+          "uuid": "e0a67d01e2c7138fd69ad911d2e8402da315f1d2"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/service/ahu-and-ac-refurbishment/",
+          "uuid": "cfa921e449f2725808584c376fb729d290f4b3d6"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/servizi/contattate-il-nostro-servizio-di-assistenza/",
+          "uuid": "ee8f8e42a9bcf4f04cf70c37552cfb8761009779"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/chi-siamo/a-proposito-di-ciat/",
+          "uuid": "3b631074ed0e9772afb482e3f18ba2c6117b3697"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/carrier-advantage/become-a-partner/",
+          "uuid": "3d8ca463af63f20804e7d895aacf4536f4d9f3a1"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/about-us/about-ciat/",
+          "uuid": "c99c45fe7829f56a66d107c996c5288915ec05a8"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/resources/training-courses/cpd-presentation/",
+          "uuid": "79b4e5caf510ffce4695307a61020cc26b70a6b0"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/",
+          "uuid": "fe2375cdbc8d666efa1a107c9b7c6da915d97377"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/chi-siamo/certificazione/",
+          "uuid": "9007770b53b8dd6e9b34cefee5fd864493efd66d"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/servizi/controlli/powerctrl-and-ivu/",
+          "uuid": "8878651ef1f8c9d04ee05e261cbc58bb1a63ba30"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/",
+          "uuid": "3647f5d1bf68096a4c1a60b24c41d9a3798e97ff"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/",
+          "uuid": "9e20ba73a5fec1dc3a83931810b8acded7245ff4"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/servizi/estensioni-della-garanzia/",
+          "uuid": "168d2948466e98e6110aad1a26ddd3323e7f2aba"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/ueber-uns/ciat-4-life/",
+          "uuid": "39a5bb87cb63994812829900b152c6f5f5b1a952"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/",
+          "uuid": "010a91bbe889185f03a31d1c667f5796d5f8be75"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/",
+          "uuid": "753ece4758c70684aa240fe14f1b282984b49880"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/",
+          "uuid": "5b50487bbec34c5d643250227c79458c9ca57060"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/",
+          "uuid": "d6c2c943103c1623385fe28ffc4f3b499d69e46e"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/recursos/documentacion-de-productos/",
+          "uuid": "504566877cc15d94b066381ad0388a1565a8be68"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/recursos/preguntas-frecuentes/",
+          "uuid": "93d580f995732e7c20811ab0c44ae35350a86b2e"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/servizi/funzionamento-assistenza-e-protezione/messa-in-funzione/",
+          "uuid": "2964a2497d4e4ed201bb5274de6313fa47e11876"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/servizi/funzionamento-assistenza-e-protezione/riparazioni/",
+          "uuid": "9eed7488f823c4345925dcac90d6613ea8179690"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/market-solutions/healthcare/",
+          "uuid": "42b2bebab189d79e8b1c6657f52093e8a2a80c7e"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/mercados/centros-comerciales-comercio-minorista/",
+          "uuid": "34abb4cc9e4a67cba993e2cff66fcd598d275fc7"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/resources/faq/",
+          "uuid": "5a5caf56807844069627e16c25dead200ef3fe3f"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/",
+          "uuid": "b0b4a2bff8104d3701a242839d590cdba55e0519"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/",
+          "uuid": "078bfe79aca943a2c5e5d81210af622e26430c5f"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/",
+          "uuid": "ac29a0c81bf7127ba50421d2d26621ea5e2ac688"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/service/controls/powerctrl-and-ivu/",
+          "uuid": "2fa5ccd823ae037f0b8e36bff7c57d70796450b4"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/servicio/controles/powerctrl-and-ivu/",
+          "uuid": "dc0230dfdb87b296490cddb5e67df2d509ac058b"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/service/bluedge-service-overview/",
+          "uuid": "5e56d0c65173dbc7f7859afb2f84fa04481f54ec"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/servicio/vision-general-del-servicio-bluedge/",
+          "uuid": "529063bcb855697e9393203a57e91b914ea1d6c0"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/air-treatment-solutions/air-handling-units/air-compact/",
+          "uuid": "9e76d986a46f23deda46326501e6db535a2a9a9c"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/",
+          "uuid": "5940672035121ef8b3f49fd762eb5e9009df1334"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/aktualnosci/",
+          "uuid": "571caeac947c1536eb4d603600083ee8ccb162e8"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/service/controls/truvu-plant-sequencer/",
+          "uuid": "f8195cf17a50939cf5d53f63cab7dc20d962f4bc"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/servicio/controles/truvu-plant-sequencer/",
+          "uuid": "856709d553e79e4c50267fe3691bb0ac9840e0fd"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/servicio/operar-mantener-y-proteger/mantenimiento/",
+          "uuid": "316294a2d3ae6c267c2e9d1d24dbfc6cff982eaf"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/market-solutions/healthcare/",
+          "uuid": "592009991ff2153d7616f214bdda5bf71350cb80"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/service/controls/cristo-control2-for-plant-rooms-with-storage-systems/",
+          "uuid": "3253c19c55597ed885a55522c2591fae7ce4806f"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/servicio/controles/cristo-control2-para-salas-tecnicas-con-sistemas-de-almacenamiento/",
+          "uuid": "411f3ac49ff85307d37e7bebed3acdd7bdbcf507"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/market-solutions/healthcare/",
+          "uuid": "2890ae756ecdd7da501adb709f99a7a8c7a1d80c"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/market-solutions/healthcare/",
+          "uuid": "ecfc54f981bd50e3df937bf1906627be59845f17"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/zasoby/faq/",
+          "uuid": "45bbd8ff4ce75d8449e56124b99d9452c24ef6cd"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/rozwiazania-rynkowe/centra-handlowe-handel-detaliczny/",
+          "uuid": "a1ee86c5f4587cb447b3988be2df255f59831bbf"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/solutions-par-marche/centres-commerciaux-commerces-de-detail/",
+          "uuid": "03bd2bd5668fbfb588a3a59fa95a07380a921ffd"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/infos-und-mehr/haeufig-gestellte-fragen/",
+          "uuid": "54dad0e09a6995f10b7d6608235d63c664c87e5c"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/resources/faq/",
+          "uuid": "cbf6ceea4ba1aeff5ff56cefc0fedab35372ec40"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/comfort-units/comfort-units/",
+          "uuid": "9aee8ccfc9f40cc0c7d4906645486b66bc4244d8"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/unidades-de-confort/unidades-de-confort/",
+          "uuid": "8f21ec73ec7f3e1dd8deab3005df24311e9da020"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/over-ons/centra-van-uitmuntendheid/",
+          "uuid": "f90cbf43f9ea3d09bf97576e9cf589044771a42f"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/air-treatment-solutions/air-handling-units/",
+          "uuid": "7b39c8e514514391f7a69bd1fee0bb3bf61209c6"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/soluciones-de-tratamiento-del-aire/unidades-de-tratamiento-de-aire/",
+          "uuid": "03bbfc5a27c10291bf992f25eb32497688352d95"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/heat-pumps-and-chillers/air-cooled-units/",
+          "uuid": "f971503772e02443181e7396fededeb8d58588d9"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/bombas-de-calor-y-enfriadoras/unidades-condensadas-por-aire/",
+          "uuid": "def02ad525a109d8369bbbabf787ba115536841e"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/over-ons/centra-van-uitmuntendheid/",
+          "uuid": "bbe99be5bcdc408457bea466a862b157feb9d20d"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/air-treatment-solutions/swimming-pool-dehumidifiers/",
+          "uuid": "0d04ecc7861185e90c6dd40aeb4f808b07965708"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/soluciones-de-tratamiento-del-aire/deshumidificadores-de-piscina/",
+          "uuid": "d738ebf421721963004f36b4bc2a9abc6736c871"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/service/controls/powerctrl-and-ivu/",
+          "uuid": "d9669abdf8c63d05a3aab7420913f47cd0ce2f48"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/service/bedieningselement/powerctrl-en-i-vu/",
+          "uuid": "4307d9ace7050f339aa3d5cc22162ee1a2cac4d1"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/service/bluedge-service-overview/",
+          "uuid": "bc7667334a8127cb1554d184cc9b01f48f6a0801"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/uslugi/uklady-sterowania/powerctrl-i-ivu/",
+          "uuid": "6ce945743c728e2f534649223f4746fd8187c265"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/service/controls/powerctrl-and-ivu/",
+          "uuid": "395b6a7ee5fca3e96669f8b6dc4604b45232d241"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/service/controls/powerctrl-and-ivu/",
+          "uuid": "1beca92d8222dd91dbb4c2ce9591c751b4764308"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/service/regulations/powerctrl-et-i-vu/",
+          "uuid": "b66ef4277b4ef2949d853e953c261342c67e974d"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/rooftop-units-and-packaged-systems/rooftop-units/",
+          "uuid": "e8fee44dcdeda9b9029c2cfedbce93525ea36029"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/unidades-rooftop-y-sistemas-compactos/unidades-rooftop/",
+          "uuid": "584c1b74474819b7dc50777a8b82fcca545c8485"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/uslugi/przeglad-uslug-bluedge/",
+          "uuid": "65968f64b68f494bbc81446f19fbf02dea3c3ee0"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/service/bluedge-serviceleistungen-im-ueberblick/",
+          "uuid": "392b9a82b91610e95166d5444ce3266452acba9f"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/service/bluedge-service-overview/",
+          "uuid": "9e53ce68a9d1d24910d87b70a1ce639a4fdcf154"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/service/bluedge-service-overview/",
+          "uuid": "c6668a24f215b6cb25adbd7f27f2ceda3ec75e68"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/service/bluedge-service/",
+          "uuid": "37a1dfbe298adad55068715d4fc38ffff32a8f3e"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/service/steuer-und-regelungsgeraete/powerctrl-und-ivu/",
+          "uuid": "b3e370842cfadba1ecb3525a5b0b1f388c40bab6"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/service/presentation-du-service-bluedge/",
+          "uuid": "3e60a325720ca8580f1c72df411c2bd0d1bf61d3"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/resources/product-literature/",
+          "uuid": "407c2da96eb7efba5a34598d16ab4dc007676d8b"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/service/operate-service-protect/",
+          "uuid": "01ab3e40425a99608813f55f7412b98bc200359f"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/servicio/operar-mantener-y-proteger/",
+          "uuid": "c7c15704b5fc603b62ad062461de8d34368a80f1"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/resources/case-studies/",
+          "uuid": "d443d322a0cdb5b104500d43712019adef47cb27"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/rozwiazania-rynkowe/hotele/",
+          "uuid": "02f62f440bba30fd93eb6fed28ca49cee85f958b"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/marktoplossingen/hotels/",
+          "uuid": "1ba7999e296ca7bc6dcd0ffc7a6d9eef123799d4"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/service/bedieningselement/powerctrl-en-i-vu/",
+          "uuid": "22d2bd6585bf3eb69f5bc7f90ecff7a3f2755803"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/close-controls-units/air-connect2/",
+          "uuid": "d43eef12ee2817771f05614194585fcba59d7b64"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/heat-pumps-and-chillers/storage-systems/",
+          "uuid": "e311943cadcd4ed50264f9c19bfa60965041edfc"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/bombas-de-calor-y-enfriadoras/sistemas-de-almacenamiento/",
+          "uuid": "609afdb84160140f2df0eb5e1e0ff132d09c03b7"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/service/controls/truvu-plant-sequencer/",
+          "uuid": "d97832ac75750405c1aaae48ee6ddf0dc4f5fdd5"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/service/bedieningselement/truvu-plant-sequencer/",
+          "uuid": "a22e25d86ab8ab3249529b283b32f761dad9b04a"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/service/operate-service-protect/commissioning/",
+          "uuid": "36309f34c638fba960507bf4a2590b5364a404de"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/comfort-units/controls-for-comfort-units/",
+          "uuid": "4ef3aacdf5f03a52a5d3f5660cb90fd940c2c7d6"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/unidades-de-confort/control-de-unidades-de-confort/",
+          "uuid": "209e2978eccb5f3bb3bc2eafeb99bfa1b984ef0f"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/uslugi/uklady-sterowania/truvu-plant-sequencer/",
+          "uuid": "16c705cbb0afd0278ed3dd6d65418871999952a4"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/service/steuer-und-regelungsgeraete/truvu-anlagensequenzer/",
+          "uuid": "d28c9965ace002fba8eeae14518b204f2ff4e33f"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/service/controls/truvu-plant-sequencer/",
+          "uuid": "d842958e7321ced5f96352c9e715a843ac5cb75f"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/service/controls/truvu-plant-sequencer/",
+          "uuid": "10ade8e658da4a8ae62d9f0aa0838bf26a102dd2"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/service/regulations/truvu-plant-sequencer/",
+          "uuid": "69a45c2a241e9155a52d2c266819075d7d158466"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/service/bedieningselement/truvu-plant-sequencer/",
+          "uuid": "e7d08d2b2b5205659e776b1d481113ecac6128a7"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/heat-pumps-and-chillers/water-cooled-units/",
+          "uuid": "48da04036fb39205dbc41d4b1c6e9f147a37330d"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/bombas-de-calor-y-enfriadoras/unidades-condensadas-por-agua/",
+          "uuid": "887a950e8b6a2025713d7ae40d08841445fc1cd9"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/loesungen-fuer-maerkte/buerogebaeude/",
+          "uuid": "74ca010b16f97dea5421c527f43bae015290c5a0"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/service/exploitation-entretien-et-protection/entretien/",
+          "uuid": "61bc957e165d41fb73dd8a1aa3389ebccf6a3c01"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/zasoby/filmy/",
+          "uuid": "83d3c15306bdac2667558d7f88ae30ba5d732382"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/marktoplossingen/gezondheidszorg/",
+          "uuid": "d71b114bf8f54dc29c5ba0417506df2c8b5e8ae5"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/service/controls/cristo-control2-for-plant-rooms-with-storage-systems/",
+          "uuid": "c4a96ce9ab6ecb4606ab0f8bc54a9ac18e63b040"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/service/bedieningselement/cristo-control2-voor-installatieruimtes-met-opslagsystemen/",
+          "uuid": "d29c4126167ab5d98d587b136072b6ef4eda1dd5"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/rozwiazania-rynkowe/opieka-zdrowotna/",
+          "uuid": "767bbf3c5bbdd65881a985d935b7dd0f82d9697c"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/about-us/",
+          "uuid": "fab1458432c89e096ae3a39757ffb3ec4dd1fb85"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/uslugi/uklady-sterowania/cristo-control2-do-maszynowni-z-magazynami-energii/",
+          "uuid": "81723cad3ee120a5d6448428e21258856f9ef411"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/service/steuer-und-regelungsgeraete/cristo-control2-fur-betriebsraume-mit-speichersystemen/",
+          "uuid": "18d3a774ad839529ea18f987ee7fdcb889ac0db0"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/service/controls/cristo-control2-for-plant-rooms-with-storage-systems/",
+          "uuid": "5344c428c525e4dbde8960b730abcac753f3ff9d"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/service/controls/cristo-control2-for-plant-rooms-with-storage-systems/",
+          "uuid": "ce7317aa1933b8a6ae8727fa3e4cdfb540711d22"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/service/regulations/cristo-control2-pour-les-installations-de-production-de-froid-avec-stockage-stl/",
+          "uuid": "2ce8402ce08b4446c670a68067966ec614fb97c7"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/prodotti-e-sistemi/refrigeratori-e-pompe-di-calore/regolazioni-per-pompe-di-calore-e-refrigeratori/connect-touch/",
+          "uuid": "26e4e5040dfd6686544be5ab6f2b6643e209a831"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/rozwiazania-rynkowe/logistyka/",
+          "uuid": "f21be8d241c2246e8a10ab24cefd1f0be3911f6b"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/comfort-units/comfort-units/",
+          "uuid": "6f3a5be0f23d3dfbf5551a0b69feb1020834342f"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/ventilator-convectoren/ventilator-convectoren/",
+          "uuid": "ff50ff603f832b37be96720b56811268af18486d"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/fan-coils/fan-coils-komfortgeraete/",
+          "uuid": "013e2d892a3495912629ca50b809c0584cfead26"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/comfort-units/comfort-units/",
+          "uuid": "318206f57e208da9860ba2cf2e94cb79f1f55725"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/comfort-units/comfort-units/",
+          "uuid": "b0a42af0e4edea573928644abef869144f0fa408"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/unites-de-confort/unites-de-confort/",
+          "uuid": "eaf7a89f8be6bebd19926bfa2205464285276566"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/ventilator-convectoren/ventilator-convectoren/",
+          "uuid": "120bf31736f77bee8a4b973ed11e5038b2b5a721"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/klimakonwektory/klimakonwektory/",
+          "uuid": "ec47350467979353fa959a3d55c716bf8167fa48"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/air-treatment-solutions/air-handling-units/",
+          "uuid": "8bc97e71aedb66cfcd26d2eeb85b9accb7f0f1ad"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/luchtbehandelingsoplossingen/luchtbehandelingsunits/",
+          "uuid": "94653f57e2c987888930c138d6c7f8d83ee44271"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/service/bedieningselement/cristo-control2-voor-installatieruimtes-met-opslagsystemen/",
+          "uuid": "23f791b3b86ab6817397a1f1ec83c497b19c0fa1"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/heat-pumps-and-chillers/air-cooled-units/",
+          "uuid": "7a06329e3d8e80c2f76468dae81cf3d68d611df3"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/warmtepompen-en-chillers/luchtgekoelde-eenheden/",
+          "uuid": "907b6077e544878c832cf5abbf8cdc7f8ff82d50"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/luftbehandlungsloesungen/lueftungsanlagen/",
+          "uuid": "a8becc909cd0040aa24c8f128bcca7350a7ff530"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/air-treatment-solutions/air-handling-units/",
+          "uuid": "05b1c5f40d6bcd1aa5cd6c2b93197b37680ac483"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/air-treatment-solutions/air-handling-units/",
+          "uuid": "fa65db9c19b7e1291b106394e7773650b1762296"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/solutions-de-traitement-de-l-air/centrales-de-traitement-d-air/",
+          "uuid": "79a53ef4eb2f2e8a179a90647b9ac8fdc2e6885d"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/luchtbehandelingsoplossingen/luchtbehandelingsunits/",
+          "uuid": "35c498bbccdde933ed80be70b9497b0ed348e4b4"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/rozwiazania-do-uzdatniania-powietrza/centrale-wentylacyjne/",
+          "uuid": "f9285198c1073bec195f300b28d38dc3b11d5042"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/dry-coolers-condensers/controls-and-systems/aeroconnect-1b/",
+          "uuid": "32ad222787df2c3a1392415295bb903c826cbec8"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/waermepumpen-und-fluessigkeitskuehler/luftgekuehlte-fluessigkeitskuehler-und-waermepumpen/",
+          "uuid": "fcaf22dd083f466475bb28949e71d36c23f98308"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/heat-pumps-and-chillers/air-cooled-units/",
+          "uuid": "909ea83515efc1b91894c3603f486d6ac6702a67"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/heat-pumps-and-chillers/air-cooled-units/",
+          "uuid": "bb75d28b301728f8e978bc11c57158da8dd353e9"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/pompes-a-chaleur-et-groupes-d-eau-glacee/unites-a-condensation-par-air/",
+          "uuid": "730a13209e3e3e5f80e5d69380dd6881d60d95a2"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/warmtepompen-en-chillers/luchtgekoelde-eenheden/",
+          "uuid": "78e4e919572ec6fd99775980c0b5ab1e6248f156"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/pompy-ciepla-i-agregaty-wody-lodowej/agregaty-chlodzone-powietrzem/",
+          "uuid": "d99248fc56b041210d1103803073f5645d79de56"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/heat-pumps-and-chillers/controls-for-heat-pumps-and-chillers/connect-touch/",
+          "uuid": "aed3c12d91dae9c5762cc93c1c196843b82db027"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/service/bedienen-onderhouden-beveiligen/inbedrijfstelling/",
+          "uuid": "4e918590af24f65a919cbf4893a627b2ef5f0629"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/service/operate-service-protect/commissioning/",
+          "uuid": "d07ed025c9aa89a24c98b339fffc5d092a5f9363"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/air-treatment-solutions/air-heaters/",
+          "uuid": "622773dc85c47b3420a663ade2b8baee215bd6c7"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/rooftop-units-and-packaged-systems/controls-for-packaged-systems/",
+          "uuid": "a8ef78f7c8a5abf88bc727ae4233faef75b6eadc"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/dry-coolers-condensers/dry-coolers/",
+          "uuid": "df9451e45e6fb7ed26a7bae76d74bce93ec03382"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/heat-pumps-and-chillers/controls-for-heat-pumps-and-chillers/",
+          "uuid": "87a7c53e72c74419d3ccf4facf47b0fb9640cd4b"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/dry-coolers-condensers/controls-and-systems/",
+          "uuid": "12409477fa0a62680471dc461767bb829bd4f583"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/soluciones-de-tratamiento-del-aire/aerotermos/",
+          "uuid": "619a366259545fbc4b59bd63113becaded43fa94"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/aero-refrigerantes-y-condensadores/controles-y-sistemas/",
+          "uuid": "2e106d41dfc9dba802b6622e0d1c49f08b0bf547"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/bombas-de-calor-y-enfriadoras/controles-para-bombas-de-calor-y-enfriadoras/",
+          "uuid": "13ed82902f693f4a3ff2b8395f582c7989aa75af"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/aero-refrigerantes-y-condensadores/aero-refrigerantes/",
+          "uuid": "6bb7ef72987558cb864a6a46242a7ee3b7a32697"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/unidades-rooftop-y-sistemas-compactos/controles-para-sistemas-compactos/",
+          "uuid": "f011dfc516a6264f154152b1fa1de712e292ef85"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/rozwiazania-do-uzdatniania-powietrza/osuszacze-basenowe/",
+          "uuid": "508a6dcb5ef351ed34c467a21b81c2654bd21aac"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/air-treatment-solutions/swimming-pool-dehumidifiers/",
+          "uuid": "cfe00a604992f904ffde756b5deda9f4d05e9f1c"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/rooftop-units-and-packaged-systems/rooftop-units/",
+          "uuid": "34745e27bd077b15f3d150936bf6007d1843ea91"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/rooftop-units/rooftop-units/",
+          "uuid": "d1a0f9ab8014074f7148a232e383c18f50f77436"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/heat-pumps-and-chillers/controls-for-heat-pumps-and-chillers/connect2/",
+          "uuid": "d89714785fee2e7d8b2fa10edda2bde43ef9cc49"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/urzadzenia-dachowe-typu-rooftop-i-systemy-kompaktowe/centrale-dachowe-typu-rooftop/",
+          "uuid": "9d2e544ccbebb823d2cdefb821e0d9f07d8f137f"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/dachgeraete/dachgeraete-rooftops/",
+          "uuid": "b6e120b75fbf831d543551526fe0e054f3e75234"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/rooftop-units-and-packaged-systems/rooftop-units/",
+          "uuid": "89fb625cee94df1d31ff4bb552b29e7153463713"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/rooftop-units-and-packaged-systems/rooftop-units/",
+          "uuid": "542cd668e4e3a992c8364871453f8ef80d27b1b8"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/rooftops-et-systemes-monoblocs-ou-bi-blocs/rooftops/",
+          "uuid": "cbed341ae9cd064b1942c7a50df21fba93b3f8e3"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/rooftop-units/rooftop-units/",
+          "uuid": "9b3a1106942ae7570d4dca2e0c8b2acc84df2f43"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/prodotti-e-sistemi/unita-di-comfort/unita-di-comfort/coadis-line-600/",
+          "uuid": "bcf719f7c1ba26eed90086356c1e16ef618c73bb"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/resources/product-literature/",
+          "uuid": "047aefa5b7eb9ac5c5974ce00874686bf610f212"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/service/bedienen-onderhouden-beveiligen/",
+          "uuid": "096b03d5ac0cf9408e48d242387a1629c1206ad7"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/resources/case-studies/",
+          "uuid": "c3c8d6e33ff4826e4fb776362d8a07163ccd5ff1"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/uslugi/eksploatacja-serwis-i-ochrona/",
+          "uuid": "a7019edd0f2bf5c7521d3f08df02d27534671de0"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/service/betrieb-wartung-und-schutz/",
+          "uuid": "e18cb265fcf02c9de87a6b31db2c957759f75db4"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/service/operate-service-protect/",
+          "uuid": "02915f0af8362b40ab889ae31cb4bc4c54d2884e"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/service/operate-service-protect/",
+          "uuid": "ecc5c7ce611e5c333b9fce865c9a5d6b4c303473"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/service/exploitation-entretien-et-protection/",
+          "uuid": "ce570a59517347ff797f8279a56f48f16e10d14d"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/service/bedienen-onderhouden-beveiligen/",
+          "uuid": "f2aa5cefb9bd72ad4bf598a7661a72e086adf155"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/resources/case-studies/",
+          "uuid": "70e15c8ae908765d7819c63ebe64c2c0c6bf523a"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/resources/case-studies/",
+          "uuid": "92afb1e1fe88c167533c17df9242a01cf07dbfa0"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/heat-pumps-and-chillers/storage-systems/",
+          "uuid": "fff02361f554de82758520e9347d9230963f6d99"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/warmtepompen-en-chillers/opslagsystemen/",
+          "uuid": "ec51787625ad1522ab4a41043bb91e97a2a77e25"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/ressources/documentation-produit/",
+          "uuid": "50ebe2f59a8d99968db6f2a2355a96f8e96853e2"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/news/news-article/ciat-air-handling-solution-provides-cleaner-more-comfortable-air-for-crawley-s-new-civic-centre.html",
+          "uuid": "5d2b59397dc9e17f4c2aae37650bd1a8f10db6de"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/noticias/news-article/ciat-air-handling-solution-provides-cleaner-more-comfortable-air-for-crawley-s-new-civic-centre.html",
+          "uuid": "953031e7a8353ad87ed1d82c195a095da16b2ed9"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/waermepumpen-und-fluessigkeitskuehler/thermische-energiespeicherung/",
+          "uuid": "e042894c3ff4332c3b135c9e029c55b02c5758ee"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/heat-pumps-and-chillers/storage-systems/",
+          "uuid": "5ca98164b41b8b4c53e6a7148a39b6f4f062507d"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/heat-pumps-and-chillers/storage-systems/",
+          "uuid": "306464bb3d33c562c14b0ab88b599014ced7dc71"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/pompes-a-chaleur-et-groupes-d-eau-glacee/systemes-de-stockage/",
+          "uuid": "e1b660ce014c7b636366a8d0ea15803da1cbecda"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/warmtepompen-en-chillers/opslagsystemen/",
+          "uuid": "d718693ebe846eaa5527d8d97b471ba1245787d2"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/pompy-ciepla-i-agregaty-wody-lodowej/magazyny-energii/",
+          "uuid": "1cbf290305253188dbb501a61d0a2bf65cfaad7b"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/service/operate-service-protect/commissioning/",
+          "uuid": "4c2495307e2d771e965ed6decab1b50d5f1b4241"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/service/operate-service-protect/commissioning/",
+          "uuid": "f5cb121aaf572f30fbaa429aeb1a15d01ff5820f"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/service/bedienen-onderhouden-beveiligen/inbedrijfstelling/",
+          "uuid": "eda5e740d29dad674ad64cdad55da2d7178b9b6b"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/prodotti-e-sistemi/unita-roof-top/unita-roof-top/vectios-power-r-454b/",
+          "uuid": "cf4a0f576ba7922f5f9dac1a1573b6ab460fd22d"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/resources/case-studies/air-handling-units-adapted-to-hospital-standards/",
+          "uuid": "519fd9d4f05af03c8498995b57cb0ee23eb50fc8"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/recursos/casos-practicos/",
+          "uuid": "465bf695d384a68d4ec07ae58b01ac288fe4223b"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/comfort-units/controls-for-comfort-units/",
+          "uuid": "10a77514a8d43f3b9549a6600277b52fcd878b43"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/ventilator-convectoren/regelsystemen-voor-comfortunits/",
+          "uuid": "35cda2c355ef59c3b45ad42ebf6106c35e777dfe"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/close-controlunits/",
+          "uuid": "efccd7c450c0a62d9fa0ddba73f56e04ae96704b"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/fan-coils/steuer-und-regelungsgeraete-fuer-fan-coils/",
+          "uuid": "414b9228203a7d3060d6caad147cb58896017e4c"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/comfort-units/controls-for-comfort-units/",
+          "uuid": "b8886437599d999fa48ea3db7e114d4c5ae6799e"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/close-controlunits/",
+          "uuid": "2444d69728cbec614490c912343adfa1831a21f9"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/comfort-units/controls-for-comfort-units/",
+          "uuid": "0b1c4ec0da40b73e27a7d0744ae269fe5b2ee45d"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/unites-de-confort/regulation-des-unites-de-confort/",
+          "uuid": "c8de8dda449e62dcdc6e4835576aa818a0771216"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/ventilator-convectoren/regelsystemen-voor-comfortunits/",
+          "uuid": "984c3ff017b8ce6170da8f8a474bf28bc30cbb9d"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/klimakonwektory/uklady-sterowania-do-klimatyzatorow/",
+          "uuid": "32a4a4de17a4c04908f295308f3f643a91ee19a4"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/rooftop-units-and-packaged-systems/rooftop-units/vectios-power/",
+          "uuid": "92cca9823d1f8c35ae8fba636ec0a73cdd37fb66"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/uslugi/eksploatacja-serwis-i-ochrona/czesci-i-akcesoria/",
+          "uuid": "b23d02b7fbe776a9974931e9b20e7945cd81650f"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/service/betrieb-wartung-und-schutz/ersatzteile-und-zubehoer/",
+          "uuid": "2a5ac95849bb5469e8ce6cd389a518cb67e65c04"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/heat-pumps-and-chillers/water-cooled-units/dynaciatpower-lg/",
+          "uuid": "da7a2b45e08d4dbb3365991937f2d11fb0ebc0ea"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/heat-pumps-and-chillers/water-cooled-units/",
+          "uuid": "4741372cb4b40e857f919ac3d8759607086837a2"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/warmtepompen-en-chillers/watergekoelde-eenheden/",
+          "uuid": "a7b4cba5e9169d43c1461dafbcba5bdc6bd09b72"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/about-us/about-ciat/",
+          "uuid": "c4f4cd3472e4d9efe37964cee100d45c08b5bbc5"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/sobre-nosotros/acerca-de-ciat/",
+          "uuid": "06ff9ce565e47a2de650aa40461fa545b5a0e788"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/heat-pumps-and-chillers/water-cooled-units/hydrociat-lw-st-lw-he/",
+          "uuid": "46cd900d1947e2666ae330e79bf90d1ada748fa5"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/waermepumpen-und-fluessigkeitskuehler/wassergekuehlte-fluessigkeitskuehler-und-waermepumpen/",
+          "uuid": "5641da3af0263258bebc7ab2409f2be6421b9c8c"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/heat-pumps-and-chillers/water-cooled-units/",
+          "uuid": "ef2e0efc53e26e245fbb8880bb1bf7ef7a1de1aa"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/heat-pumps-and-chillers/water-cooled-units/",
+          "uuid": "c9f18273f52067979d5bc2ae963df423ac90c2ba"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/pompes-a-chaleur-et-groupes-d-eau-glacee/unites-a-condensation-par-eau/",
+          "uuid": "d5c08917a46b2bb084a69216bc401307c2828e44"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/warmtepompen-en-chillers/watergekoelde-eenheden/",
+          "uuid": "93dabb08328ebaeef1161ace84db043850a1b416"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/pompy-ciepla-i-agregaty-wody-lodowej/agregaty-chlodzone-woda/",
+          "uuid": "19289f00b7380fe4722252bd07013f31e7a2fed2"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/about-us/",
+          "uuid": "e306ad03eeb0ab0428a2c36ba13ae696d0258037"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/air-treatment-solutions/air-heaters/heliotherme-4000/",
+          "uuid": "62aaa3e9d34b3417dd5d3f1c7eba8324b5320808"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/close-controls-units/magister/",
+          "uuid": "84eeea7aabffb0c10716f0f12e8e49add8d514f6"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/air-treatment-solutions/",
+          "uuid": "3b13bc2bb6269de91cea862663ea0967506b1d71"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/service/digital-and-controls/remote-connectivity/",
+          "uuid": "64daf8b54b19a7728567f21ffaa14ca39fc21a2a"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/about-us/",
+          "uuid": "c44e85255f6e094e359c4ccb2549dbaa2a71f9b3"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/about-us/",
+          "uuid": "dda17ea04e4416e03c75a01f4cd6424ece772c07"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/a-propos-de-nous/",
+          "uuid": "59da81d98f9cedaf6ce33b6441a51296564cabf7"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/recursos/casos-practicos/planta-de-fabricacion-de-dovelas-del-tunel-lyon-turin/",
+          "uuid": "a569c22cbcd0db9e565f9db9e4958e5e034fa748"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/prodotti-e-sistemi/soluzioni-per-il-trattamento-dell-aria/aerotermi/heliotherme-4000/",
+          "uuid": "ea40d6cac482af546841731ef1557ae862dab898"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/trockenkuehler-und-verfluessiger/steuerungen-und-regelungssysteme/",
+          "uuid": "2e2c321e8403aa1f9ad465de7c7908c89fbb6dbd"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/prodotti-e-sistemi/unita-roof-top/unita-roof-top/vectios/",
+          "uuid": "83220c2b9be99b95535aa2683ac24cb2db4c6bf2"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/aero-refrigerantes-y-condensadores/",
+          "uuid": "f259185955b0475ba4702b16f85019b3036ff6ec"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/recursos/casos-practicos/la-solucion-ciat-elegida-para-el-desarrollo-del-oval-village-de-londres/",
+          "uuid": "d3c56c1be163573052823187f529a2ec6afec235"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/heat-pumps-and-chillers/controls-for-heat-pumps-and-chillers/",
+          "uuid": "74d80a20cd70ff06b76197ba59b0120e2ce56a41"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/dry-coolers-condensers/controls-and-systems/",
+          "uuid": "2a335434e04ea37a8e7f3475678f4c300009d450"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/dry-coolers-condensers/dry-coolers/",
+          "uuid": "bec3455c04a24183b62906f6489d7a2e189b65aa"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/rooftop-units-and-packaged-systems/controls-for-packaged-systems/",
+          "uuid": "e1fb2ea98a34bd9181e13bd6293fdd31af5b0004"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/warmtepompen-en-chillers/regelsystemen-voor-warmtepompen-en-chillers/",
+          "uuid": "96e902c250cf8f5dd6d381174af5957d8dbf4764"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/rooftop-units/bedieningselementen/",
+          "uuid": "6664882d98d6467df0e69a846a58898d5f4b1bcc"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/droge-koelers-en-condensors/regeling-en-systemen/",
+          "uuid": "3ee162fc2a72b504d11361e301aa07149bfc9f84"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/droge-koelers-en-condensors/droge-koelers/",
+          "uuid": "9b6c451f210fe07f152768dd5aae729e693bb0b2"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/close-controls-units/expair/",
+          "uuid": "f2c5ef68ef290d17636cbe823ca252e6416a35bb"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/urzadzenia-dachowe-typu-rooftop-i-systemy-kompaktowe/uklady-sterowania-do-instalacji-kompaktowych/",
+          "uuid": "1b58e245715203e88c10cf31def8d381c2239e09"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/trockenkuehler-und-verfluessiger/tockenkuehler-verfluessiger-rueckkuehler/",
+          "uuid": "b303d92804b7618bac323139976b380b4da17397"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/waermepumpen-und-fluessigkeitskuehler/steuer-und-relegungsgeraete-fuer-waermepumpen-und-fluessigkeitskuehler/",
+          "uuid": "c378ba167c2bc42b665a3621d2cb80ac8a39da4c"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/dachgeraete/regelung-fuer-dachgeraete/",
+          "uuid": "efb5d1f4edca43e9341a4284eb30f5658c7b0652"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/dry-coolers-condensers/dry-coolers/",
+          "uuid": "962f06dc920fa826b63bfc5868c48997a117f9ae"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/heat-pumps-and-chillers/controls-for-heat-pumps-and-chillers/",
+          "uuid": "1092522fd9b69287b7e231605341876d4169642b"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/dry-coolers-condensers/controls-and-systems/",
+          "uuid": "be84429f4a9908d6d75e9d45987b708b7f7f5bb0"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/rooftop-units-and-packaged-systems/controls-for-packaged-systems/",
+          "uuid": "b88d6430f39b1bce419b0bd1caf490a356c4025a"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/dry-coolers-condensers/controls-and-systems/",
+          "uuid": "6716ebdf952ca67842e096dcf86556553e3dbab7"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/dry-coolers-condensers/dry-coolers/",
+          "uuid": "20325d0706ceaa5d687b154ee53e02604beecb35"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/air-treatment-solutions/air-heaters/",
+          "uuid": "5c7031ba08ccbd61f5c10b8d8cf2806e92d92fac"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/rooftop-units-and-packaged-systems/controls-for-packaged-systems/",
+          "uuid": "4ff221ed61b5a2b7dec896de1464eba9adc9ca9c"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/heat-pumps-and-chillers/controls-for-heat-pumps-and-chillers/",
+          "uuid": "c62cd21acc6267cf0b191b1fdfdd1bcba4e89616"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/rooftops-et-systemes-monoblocs-ou-bi-blocs/regulations-et-supervisions/",
+          "uuid": "a5643c6b2ed22c70aa3494796f4756c18acab4d1"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/pompes-a-chaleur-et-groupes-d-eau-glacee/regulations-des-groupes-d-eau-glacee-et-des-pompes-a-chaleur/",
+          "uuid": "a44a6e314c28d796d7da8c5fc5344c8987279447"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/aerorefrigerants/aerorefrigerants/",
+          "uuid": "09eed90b3bd69779de455e20defebb7085d7707f"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/aerorefrigerants/regulations-et-systemes/",
+          "uuid": "ad277e945a2495cc74c8d8b715ce546181fbf563"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/warmtepompen-en-chillers/regelsystemen-voor-warmtepompen-en-chillers/",
+          "uuid": "5d3fbdb0d751652ec94e16984a551ff37fdba615"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/rooftop-units/bedieningselementen/",
+          "uuid": "2dd4ba596c4680a3266d5985ee8cb5636c319617"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/droge-koelers-en-condensors/droge-koelers/",
+          "uuid": "9d0bc64bde498e90debf1e543823963868c9d7c1"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/droge-koelers-en-condensors/regeling-en-systemen/",
+          "uuid": "35149be6143ec0955b6a0d24659f3f6a4cd36d4c"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/rozwiazania-do-uzdatniania-powietrza/nagrzewnice-powietrza/",
+          "uuid": "99233d40e39fddddd0aa2238e9a131b87c7e471b"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/pompy-ciepla-i-agregaty-wody-lodowej/uklady-sterowania-do-pomp-ciepla-i-agregatow-wody-lodowej/",
+          "uuid": "1e960fd8cd5890f7c23c21d110a4ca249431f457"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/chlodnice-suche-wentylatorowe-i-skraplacze/suche-chlodnice-wentylatorowe/",
+          "uuid": "f4a4516c2b17e6498ecb3ea1ae659424c755f6ea"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/chlodnice-suche-wentylatorowe-i-skraplacze/uklady-sterowania-i-systemy/",
+          "uuid": "ec09e70558497a954b4a638f600b055916b80931"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/recursos/casos-practicos/hello-world-schiphol-trade-park/",
+          "uuid": "7a3bcb346e89799a41535c4b672a283ab5b47249"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/middelen/praktijkvoorbeelden/",
+          "uuid": "8f3a88d90da12a4fb63f8129157c65b43484d3a9"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/middelen/praktijkvoorbeelden/",
+          "uuid": "8e91367b976a495b948fffafca9d04da77bb74f0"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/nieuws/news-article/ciat-air-handling-solution-provides-cleaner-more-comfortable-air-for-crawley-s-new-civic-centre.html",
+          "uuid": "2dcb72ed5663ed072201e24097b11a62c40469c3"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/news/news-article/ciat-air-handling-solution-provides-cleaner-more-comfortable-air-for-crawley-s-new-civic-centre.html",
+          "uuid": "356fc286476df7e4e81aaaa808faf84a207104eb"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/nieuws/news-article/ciat-air-handling-solution-provides-cleaner-more-comfortable-air-for-crawley-s-new-civic-centre.html",
+          "uuid": "09fa1174f94dcc702c8fd4494df0ea05af02e7c7"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/resources/case-studies/air-handling-units-adapted-to-hospital-standards/",
+          "uuid": "42212a08fa75da130833fc40cdcb468938a4a2bd"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/news/news-article/ciat-air-handling-solution-provides-cleaner-more-comfortable-air-for-crawley-s-new-civic-centre.html",
+          "uuid": "8056ab40959bb8f946c6f7129b484fde2ad62de9"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/aktualnosci/news-article/ciat-air-handling-solution-provides-cleaner-more-comfortable-air-for-crawley-s-new-civic-centre.html",
+          "uuid": "8827291282d065cf822e00d4af6d2c1e92344506"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/presse/news-article/ciat-air-handling-solution-provides-cleaner-more-comfortable-air-for-crawley-s-new-civic-centre.html",
+          "uuid": "07230280a4d2641b9199639ad88cf41cfd235a9c"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/news/news-article/ciat-air-handling-solution-provides-cleaner-more-comfortable-air-for-crawley-s-new-civic-centre.html",
+          "uuid": "d7090a81c01ed0af9b041c8edeea4eaf75efeffd"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/news/news-article/ciat-air-handling-solution-provides-cleaner-more-comfortable-air-for-crawley-s-new-civic-centre.html",
+          "uuid": "b11a6535603cf85171d723885b3636195f661976"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/resources/case-studies/air-handling-units-adapted-to-hospital-standards/",
+          "uuid": "ee16bcbfafdb7ba93d1b73ca804dba35c3ed953e"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/resources/case-studies/air-handling-units-adapted-to-hospital-standards/",
+          "uuid": "33067b5490a244272fdc08dd44d6591dd26667d6"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/recursos/casos-practicos/desmontaje-y-nuevo-montaje-de-una-uta-in-situ/",
+          "uuid": "262ec23535fa29e19149aab3cdc183ce5225c326"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/buscar-una-oficina-de-ventas-espana/",
+          "uuid": "df0a9ce4ad9208e212e2139c052eca079099d935"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/service/service-contact-us/",
+          "uuid": "1e04015e1123034b997c4125ca4b4908b9b2fc88"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/servicio/pongase-en-contacto-con-nosotros/",
+          "uuid": "14e01193d8f9bc74d0eb8724ac44b684b64873d7"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/legal/privacy-notice/",
+          "uuid": "d28d44eb13ff028412cde1273cf3e4eeffab8c81"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/legal/terms-of-use/",
+          "uuid": "1473bca80d937b5173253b285d687ff90d18dca4"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/legal/aviso-de-privacidad/",
+          "uuid": "b348b74b14200d21f9b0d59b5be8dff8de1afc9b"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/legal/terminos-de-uso/",
+          "uuid": "4851a076467c5f890db529277fb819a02d9e4d37"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/zasoby/nasze-realizacje/",
+          "uuid": "f9f73c388188067b16ec11c4b518af4835ac2472"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/air-treatment-solutions/air-heaters/tpl/",
+          "uuid": "22acc0a5c363d81e4a50e1ce9d1e00445a480066"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/about-us/about-ciat/",
+          "uuid": "08fef2e783f0091cac833d05d334cf2eb956d029"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/prodotti-e-sistemi/unita-roof-top/unita-roof-top/vectios-power/",
+          "uuid": "620f32da382410dbd973152dc57a1e139ff1e24d"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/prodotti-e-sistemi/unita-roof-top/unita-roof-top/vectios-r-454b/",
+          "uuid": "9b4aab20ae112f7b690f2184a78346ed2002c0be"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/about-us/about-ciat/",
+          "uuid": "1c0d5d2020d284d6dd0fff2c7fdf09f15e37c31f"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/about-us/about-ciat/",
+          "uuid": "28d480e839f01c3615a50513168d8a598df47463"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/a-propos-de-nous/a-propos-de-ciat/",
+          "uuid": "541e295b313e1931f0eec920dcc1c3ae28dfb825"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/air-treatment-solutions/air-heaters/",
+          "uuid": "6dfa85733dcbb7c33c186db9b15c169c17b35ad4"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/luchtbehandelingsoplossingen/luchtverwarmer/",
+          "uuid": "f3bd65d26d3501418c81d4fc085f8da550d8237f"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/luftbehandlungsloesungen/luftheizer/",
+          "uuid": "f8f85c52c779e771631eeeea40faa5243a28befc"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/air-treatment-solutions/air-heaters/",
+          "uuid": "083f46cfc319836d861f35372f1d93eafc44474c"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/solutions-de-traitement-de-l-air/aerothermes/",
+          "uuid": "2e16ea77d1d073cd0067a2270ac67465bc44e9eb"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/luchtbehandelingsoplossingen/luchtverwarmer/",
+          "uuid": "bffff3f9d4133c6faae3d6db85311b9fa83c3b64"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/zasoby/dokumentacja-dotyczaca-produktu/",
+          "uuid": "322294383427ad6fd937458b9a4e56d6fd8a400b"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/rooftop-units-and-packaged-systems/packaged-systems/ispv-vertical-autonomous-heat-pumps/",
+          "uuid": "c52ffc4e726bfa024ac49e84f77058fc206cd6b7"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/zasoby/nasze-realizacje/zakladu-produkcji-segmentow-do-sklepien-w-tunelu-lyon-turyn/",
+          "uuid": "bc0af41ff63c3249d29b7166185da3f2292c0d2b"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/infos-und-mehr/referenzen/tubbing-fertigungswer-des-tunnels-lyon-turin/",
+          "uuid": "348e0ec8937d567b490949bf54aca6c70f1b36e0"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/ressources/nos-references/usine-de-fabrication-de-voussoirs-du-tunnel-lyon-turin/",
+          "uuid": "91e9a83b16459c9d1ad4da0837b44713d2ebdc9e"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/prodotti-e-sistemi/soluzioni-per-il-trattamento-dell-aria/aerotermi/tpl/",
+          "uuid": "2253bd2edcda31a9167ee384fa1f43627a9baa74"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/air-treatment-solutions/",
+          "uuid": "71e22bbd30abac7c8c2b6a4fe5a75bb4ff37cc67"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/infos-und-mehr/",
+          "uuid": "25ddb027943e0e7e0d848806afc80ce5df9ccd07"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/o-nas/certyfikaty/",
+          "uuid": "4c6f525eaf64fabb49b74cbfc75849c642805a26"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/air-treatment-solutions/air-handling-units/air-compact/",
+          "uuid": "026df2671fb2e7337fb776ad3a262ad8ac7e1343"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/middelen/praktijkvoorbeelden/ciat-oplossing-gekozen-voor-de-ontwikkeling-van-londen-s-oval-village/",
+          "uuid": "9c6978994189b06c9b4fd5e7280ab99d8e7d9aaa"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/zasoby/nasze-realizacje/rozwiazanie-ciat-wybrane-dla-londynskiego-osiedla-oval-village/",
+          "uuid": "1b9625de99b78388b5fd0c0d4266d52c2e7b1a6b"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/middelen/praktijkvoorbeelden/ciat-oplossing-gekozen-voor-de-ontwikkeling-van-londen-s-oval-village/",
+          "uuid": "fc2e71c801d614698d5f6a9541607a2ced4c5223"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/infos-und-mehr/referenzen/losung-von-ciat-fur-das-oval-village-entwicklungsprojekt-in-london-ausgewahlt/",
+          "uuid": "b8d817c4b4f192b88f94c918d2dac0feb56a51c8"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/ressources/nos-references/solution-ciat-selectionnee-pour-le-developpement-d-oval-village-a-londres/",
+          "uuid": "074e38114785af63d080c07e7da0a3209f83a133"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/air-treatment-solutions/",
+          "uuid": "1363bbcfca96a1958665575ee2261ae024770946"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/air-treatment-solutions/",
+          "uuid": "2af731f081b76e5e498aba298aa1b51ddc663193"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/chlodnice-suche-wentylatorowe-i-skraplacze/",
+          "uuid": "62efa7c4e3b0cbb9843fc5fd463ce265089c2fd2"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/dachgeraete/",
+          "uuid": "1a8f056992ba4051076f12fb574ef90826193a21"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/aerorefrigerants/",
+          "uuid": "468c11630fee76fc5e8abb44f6e73087979a08fc"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/zasoby/nasze-realizacje/hello-world-schiphol-trade-park/",
+          "uuid": "1c65f99e695e0594a0e4d6b59056f4225902a90c"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/infos-und-mehr/referenzen/hello-world-schiphol-trade-park/",
+          "uuid": "c93ced5ac2bc1538a45897f7b08f7d2cc8391f0b"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/ressources/nos-references/hello-world-parc-d-activites-de-schiphol/",
+          "uuid": "9856a9bd297999d12abf917e4dcf1ee6b08deea5"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/soluciones-de-tratamiento-del-aire/unidades-de-tratamiento-de-aire/air-compact/",
+          "uuid": "96e0f22e4f2ae7a88b09d393dcf957faaa69e586"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/zasoby/nasze-realizacje/niezwykly-projekt-wymiany-instalacji-centrali-wentylacyjnej/",
+          "uuid": "b404e0814afd775eb6db4572637023817c3aae95"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/infos-und-mehr/referenzen/zerlegung-und-zusammenbau-eines-zentralklimagerats-vor-ort/",
+          "uuid": "d2140562bb301c2c871b5e88bda31a8ea672adf1"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/ressources/nos-references/demontage-et-remontage-d-une-cta-sur-site/",
+          "uuid": "b1df9897ef79195cf58e19bef3c742359ad30534"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/contact/",
+          "uuid": "2d9122d3eb66141736e203232d6faa258c4d5dcb"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/rozwiazania-do-uzdatniania-powietrza/centrale-wentylacyjne/climaciat-airtech-airclean-airaccess/",
+          "uuid": "a787cf859e03be118cba5baceb143ef5334623de"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/legal/privacy-notice/",
+          "uuid": "8c8ac1a3725d8ec8406468296f4fb0348bd64fce"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/legal/terms-of-use/",
+          "uuid": "8482a9df1ef7def24f9b4ebb23533e1a66d8276a"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/legal/gebruiksvoorwaarden/",
+          "uuid": "8c04d41981e86e637b0f07ab344a32c149a90b9c"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/legal/privacyverklaring/",
+          "uuid": "08a301edef1e2992683c4b22e38a4bf32976fc7f"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/uslugi/skontaktuj-sie-z-naszym-zespolem-serwisowym/",
+          "uuid": "8851e3bb6cb4ccf80154fd5298705c9fd395a5fc"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/service/kontaktieren-sie-unser-serviceteam/",
+          "uuid": "3328819c9981d8cb4e6e07de12e5768231b643f8"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/service/service-contact-us/",
+          "uuid": "212c98275aa09eed3c6676a963dcdd19c31567b7"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/service/service-contact-us/",
+          "uuid": "83beac9f66a0258d8b624ea7f19c7c52b634acce"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/service/neem-contact-op-met-ons-serviceteam/",
+          "uuid": "c6c7db67bc125bb7af00ff04029e69676212e3a4"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/contact/",
+          "uuid": "0c3e0739ff71ae17866de73cf2bfb130b5f0470c"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/legal/datenschutzhinweis/",
+          "uuid": "6e51993e77367c95222e4e2a21e090e08e41c94c"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/legal/nutzungsbedingungen/",
+          "uuid": "5ba4399f3c71c592631b3828d2dea4d8bf434806"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/legal/privacy-notice/",
+          "uuid": "9612bee81a7613e48ce227d02757635f7dbb5c3b"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/legal/terms-of-use/",
+          "uuid": "6f1e591399d29c64c3512a84ceaf40d0fdb29632"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/legal/terms-of-use/",
+          "uuid": "3cc917307a73e6a03ee82d843b2fecab5162a738"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/legal/privacy-notice/",
+          "uuid": "a25d6bab0854970e55098d35cae9395ecbd951ae"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/legal/declaration-de-confidentialite/",
+          "uuid": "34ebe01cc15ea2e3929bb58802a9397ce49a1f87"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/legal/conditions-generales-d-utilisation/",
+          "uuid": "4eddef175b0f0d13299336e3147ca1015c2874cd"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/legal/gebruiksvoorwaarden/",
+          "uuid": "d813d1b008abe0a241ac6bb018b439057948bd30"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/legal/privacyverklaring/",
+          "uuid": "9a91902862f9e14284b7d1bddb7c3db6c764eb3d"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/legal/informacja-o-prywatnosci/",
+          "uuid": "8c766eaad20c38c689cb6133555242d2b82e342c"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/legal/warunki-korzystania/",
+          "uuid": "310980316353a14b7a31f57a27f7ee3daf6b7165"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/air-treatment-solutions/air-handling-units/air-compact/",
+          "uuid": "d91bf600658f16fccd782147133903554d37ac21"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/rooftop-units-and-packaged-systems/controls-for-packaged-systems/vectic/",
+          "uuid": "b237bb99caaa0948fbb11661e5585797c650967c"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/air-treatment-solutions/air-handling-units/air-compact/",
+          "uuid": "1b8ebf96ed3ace04c8e60e1cf9ae44bbb7b73e2b"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/prodotti-e-sistemi/unita-roof-top/regolazioni-per-unita-roof-top/vectic/",
+          "uuid": "f1885571284c536ef7421e7fe733568c603f999e"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/rozwiazania-do-uzdatniania-powietrza/centrale-wentylacyjne/floway-range/",
+          "uuid": "3bc57a4d709a0cd1f887f25c4fc3227854c27818"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/luftbehandlungsloesungen/lueftungsanlagen/air-compact/",
+          "uuid": "b549dafd01dd7f3757181329a85ab568529724c5"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/rooftop-units-and-packaged-systems/controls-for-packaged-systems/boss-and-boss-mini-supervision/",
+          "uuid": "91b7135c115cdd0d28caac5c1337ec9d48ec8d7e"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/comfort-units/controls-for-comfort-units/fresh-air-control/",
+          "uuid": "811f0b48a92a62a3fc30c5cdcf7734ac24e71316"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/unidades-de-precision/air-connect2/",
+          "uuid": "50b49a2abcadf6873451286c5e1b62de2a477a14"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/service/controls/",
+          "uuid": "62fbe7dbf0253acc1928ec42a1c63128fab65d17"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/servicio/controles/",
+          "uuid": "875ccb7d831951aa20e5fa029e74cfd6db4e6ae0"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/dry-coolers-condensers/controls-and-systems/aerofresh/",
+          "uuid": "44cc2170577bea0f5d2a769199e1b63d5daa2964"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/close-controls-units/air-connect2/",
+          "uuid": "3e86c03fa3902f64fd399e7f9b08018f6c52093a"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/unidades-rooftop-y-sistemas-compactos/unidades-rooftop/vectios-r-454b/",
+          "uuid": "be14865a767d2d7c39cc23c78a566eb88fdc0ff0"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/dachgeraete/dachgeraete-rooftops/vectios-power-r-454b/",
+          "uuid": "bf0368fe16f94fc513bc0cdcc6a2aeb8c6ea9bcc"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/heat-pumps-and-chillers/water-cooled-units/hydrociat-lw-st-lw-he/",
+          "uuid": "37a3eba3cc5e489e432d419f42c245817d58c5d8"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/bombas-de-calor-y-enfriadoras/unidades-condensadas-por-agua/hydrociat-lw-st-lw-he/",
+          "uuid": "949af50820c497d5301dd04705399b6ee8379eb9"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/heat-pumps-and-chillers/water-cooled-units/dynaciat-lg/",
+          "uuid": "70c256e6ddcebe6ad479bc27c4211adc9d7302e7"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/heat-exchangers/gasketed-plate-itex/",
+          "uuid": "f54a70ae2b29506fd65b6c03cad6044b8b328727"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/dry-coolers-condensers/dry-coolers/opera/",
+          "uuid": "07538a2250c8d66e80012b8188d519a2e534d2e0"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/rozwiazania-do-uzdatniania-powietrza/centrale-wentylacyjne/climaciat-airtech-airclean/",
+          "uuid": "02b8a61b8ef61ed78eec9f6e0cf505ee31694f5a"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/bombas-de-calor-y-enfriadoras/unidades-condensadas-por-agua/dynaciatpower-lg/",
+          "uuid": "002a084c959704e0f565fb159447cd623bac5cf0"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/rooftop-units/rooftop-units/vectios/",
+          "uuid": "c5f5240d6358f410384bbfdc186ff5c6940ea7b4"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/heat-pumps-and-chillers/water-cooled-units/dynaciatpower-lg/",
+          "uuid": "10da62f921b7d6009de4e85309d6b21908933987"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/air-treatment-solutions/air-handling-units/air-compact/",
+          "uuid": "1d49b173772fd3624f98588ce7d15df1d30425aa"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/rozwiazania-do-uzdatniania-powietrza/centrale-wentylacyjne/air-compact/",
+          "uuid": "4568d6663a696bafcae6c1f8862fc85ee3117edc"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/klimaschraenke/air-connect2/",
+          "uuid": "18a0204f87bf6ffcc4b17279497903daf5ed76e3"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/unidades-rooftop-y-sistemas-compactos/unidades-rooftop/vectios-power/",
+          "uuid": "cecc947d6f1fa20977ac153961b9049f49547833"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/armoires-de-climatisation/air-connect2/",
+          "uuid": "ca2387c225b28e53d800f44f4331f494c3796a55"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/close-controlunits/air-connect2/",
+          "uuid": "df339c5adf03ae9bea99f9d27a8c70c985b5f279"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/close-controls-units/air-connect2/",
+          "uuid": "27c03ccd8e20fa39272945471e187916f48ad9d1"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/close-controlunits/air-connect2/",
+          "uuid": "ab65125e9623785bd54a7f1ae260446e4c164b13"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/aero-refrigerantes-y-condensadores/controles-y-sistemas/aeroconnect-1b/",
+          "uuid": "f0ba92eb79dcb23eddcc43c43fbc15e05b133b67"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/close-controls-units/air-connect2/",
+          "uuid": "34cf8c68a8a42dd2c2200cb49b249290ce36eb49"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/close-controls-units/magister/",
+          "uuid": "90e9fe4d73a555ee2643d5608ae181733d7028e7"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/unidades-de-precision/magister/",
+          "uuid": "894088b75916724d16aa964b327f5c5a1ea5e29f"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/rooftop-units-and-packaged-systems/rooftop-units/vectios-r-454b/",
+          "uuid": "92797755a676481b8200f93ed6c8ca12dc1392d8"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/dachgeraete/dachgeraete-rooftops/vectios-r-454b/",
+          "uuid": "4b7218e1e8a06a2685ee3fe6fc9915e044633209"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/dry-coolers-condensers/controls-and-systems/aeroconnect-1b/",
+          "uuid": "89aea99c87a42843333fd92ac11ab935c975ce77"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/heat-pumps-and-chillers/controls-for-heat-pumps-and-chillers/connect-touch/",
+          "uuid": "24304bd94f82e8ac7a062da42defc35d1040d847"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/bombas-de-calor-y-enfriadoras/controles-para-bombas-de-calor-y-enfriadoras/connect-touch/",
+          "uuid": "6dca8bd7adbc1e41371ca15d679fdf22528481b6"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/rooftop-units-and-packaged-systems/rooftop-units/vectios-power/",
+          "uuid": "16ac90cc1b5a539338b05f37811e872d0000b109"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/heat-pumps-and-chillers/controls-for-heat-pumps-and-chillers/connect2/",
+          "uuid": "8af121665b77f3cb25858197fde35e0deab87e31"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/waermepumpen-und-fluessigkeitskuehler/wassergekuehlte-fluessigkeitskuehler-und-waermepumpen/hydrociat-lw-st-lw-he/",
+          "uuid": "c7bcce7f81c33736b872f98373dd6981bd687d36"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/soluciones-de-tratamiento-del-aire/aerotermos/heliotherme-4000/",
+          "uuid": "11f636090a80007660a2a4ed5e8ba3d0985e6f3f"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/warmtepompen-en-chillers/watergekoelde-eenheden/hydrociat-lw-st-lw-he/",
+          "uuid": "ef1edb1b138f8db72bff35df1543ec5c4de1ffbf"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/air-treatment-solutions/air-heaters/heliotherme-4000/",
+          "uuid": "adebb4d386511e9dc9a266d21b4fbdf0a9a0a49e"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/rooftop-units/rooftop-units/vectios-r-454b/",
+          "uuid": "0f3f33d585830cae5c4a4bda93e28c1e66b70a09"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/dachgeraete/dachgeraete-rooftops/vectios/",
+          "uuid": "a7a50be842d60c27345afbd79b8da571ac084047"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/rooftop-units/rooftop-units/vectios-power/",
+          "uuid": "9d1b34323a92c19e3de5d8cbedd92b5a6bc2faef"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/close-controls-units/expair/",
+          "uuid": "74063cb9e4bcfd9ea2992ac25b9b2d97ed83ff70"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/unidades-de-precision/expair/",
+          "uuid": "15214ece6f57b6a72133ff911ce34ec2489b6c56"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/waermepumpen-und-fluessigkeitskuehler/wassergekuehlte-fluessigkeitskuehler-und-waermepumpen/dynaciatpower-lg/",
+          "uuid": "0b53d5ccb6b415120d32e47074a60f2d4b226fab"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/bombas-de-calor-y-enfriadoras/controles-para-bombas-de-calor-y-enfriadoras/connect2/",
+          "uuid": "42308af4b733ea4ed544e5512ee3baebabe803b1"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/fan-coils/fan-coils-komfortgeraete/coadis-line-600/",
+          "uuid": "410f934e771ee074fd36ef86f26fdd5b6211f1c6"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/heat-pumps-and-chillers/water-cooled-units/dynaciatpower-lg/",
+          "uuid": "20961e21539f20892468d9a879f3c2bf409e4fb1"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/armoires-de-climatisation/magister/",
+          "uuid": "4a13723f19c001cfb09d814bd7ab07a801565e71"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/ventilator-convectoren/ventilator-convectoren/coadis-line-600/",
+          "uuid": "b18b93b6594a521d67f426ed141839654018b841"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/warmtepompen-en-chillers/watergekoelde-eenheden/dynaciatpower-lg/",
+          "uuid": "4ff3ff28dc4100acd8b5638c6b6a9d9a5a61f446"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/warmtepompen-en-chillers/watergekoelde-eenheden/dynaciatpower-lg/",
+          "uuid": "bb3d99ccede7eac54cc8fc07b0248be89ff3c0ed"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/armoires-de-climatisation/expair/",
+          "uuid": "48c9f70a1bacad370784f73670ce299a7124c3c9"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/dry-coolers-condensers/dry-coolers/vextra/",
+          "uuid": "556d4a1ff2e36b3d096093112d302eabfef58039"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/fan-coils/steuer-und-regelungsgeraete-fuer-fan-coils/v-lon2/",
+          "uuid": "6f8fa3d395a99d0e646339c1ba773eef8e19c73a"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/rooftop-units-and-packaged-systems/rooftop-units/vectios-r-454b/",
+          "uuid": "16e005bdf7b0eeb15a4ab40d31fcf069aad923bd"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/klimaschraenke/magister/",
+          "uuid": "5975bc1e5757f97dbfcfcc62d3806f66145f73bb"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/close-controlunits/magister/",
+          "uuid": "a52d7f7cdaeab8376460a2e442367d5fdb4090a9"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/close-controls-units/magister/",
+          "uuid": "cfdfc798b65b14bd1eaa05e641987d9935265385"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/close-controlunits/magister/",
+          "uuid": "58c5f361a67266d49de6dd04d42b64010a1e0892"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/close-controls-units/magister/",
+          "uuid": "51ac5ed41e682f9e6518505e5dbcdb04bee014c5"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/trockenkuehler-und-verfluessiger/steuerungen-und-regelungssysteme/aeroconnect-1b/",
+          "uuid": "5ad961ce5903a569c839625135a5afbc3709b319"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/droge-koelers-en-condensors/regeling-en-systemen/aeroconnect-1b/",
+          "uuid": "c92c4db80f6b4280de750354cb5ee122e210148b"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/dry-coolers-condensers/controls-and-systems/aeroconnect-1b/",
+          "uuid": "9e8264a4a148c9bcaa71325a668b46e65728d564"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/droge-koelers-en-condensors/regeling-en-systemen/aeroconnect-1b/",
+          "uuid": "eb7fd0a43a44785897751aabcd514ca27a815af5"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/heat-pumps-and-chillers/controls-for-heat-pumps-and-chillers/connect-touch/",
+          "uuid": "44d453c860af3060c4112c4d9c3155299087d7b6"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/warmtepompen-en-chillers/regelsystemen-voor-warmtepompen-en-chillers/connect-touch/",
+          "uuid": "0acda3c6e95795c3e7b8acd68f5d373ea378d847"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/solutions-de-traitement-de-l-air/aerothermes/heliotherme-4000/",
+          "uuid": "99bee2fc7bcfab64ac62e3244cdaca0ac897a204"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/dachgeraete/dachgeraete-rooftops/vectios-power/",
+          "uuid": "55f6a611f196db23ec02d033b5e320b7c2b0c5a9"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/waermepumpen-und-fluessigkeitskuehler/steuer-und-relegungsgeraete-fuer-waermepumpen-und-fluessigkeitskuehler/connect-touch/",
+          "uuid": "0e3e95d17e75d04491de786d4884ddff0c4d8209"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/warmtepompen-en-chillers/regelsystemen-voor-warmtepompen-en-chillers/connect-touch/",
+          "uuid": "04ce676e9fd5db61b8d51ad0ea56e6519f30358f"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/dry-coolers-condensers/controls-and-systems/aeroconnect-1b/",
+          "uuid": "001112daf38d363a01b1b78318932a0c12ac0923"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/aerorefrigerants/regulations-et-systemes/aeroconnect-1b/",
+          "uuid": "b83ccabda52ed8ca20db5fe0d3c8d0b98ceae411"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/heat-pumps-and-chillers/controls-for-heat-pumps-and-chillers/connect-touch/",
+          "uuid": "9eb20fd1ae8280d6a840e896ec8d67817efd5e66"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/pompes-a-chaleur-et-groupes-d-eau-glacee/regulations-des-groupes-d-eau-glacee-et-des-pompes-a-chaleur/connect-touch/",
+          "uuid": "3f13f07e3c7ace728d23f2929518170ed7e79855"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/rooftop-units-and-packaged-systems/controls-for-packaged-systems/vectic/",
+          "uuid": "50d4c1a9d790f6dfa5d888c16e273ca5b84a72b6"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/rooftop-units-and-packaged-systems/controls-for-packaged-systems/boss-and-boss-mini-supervision/",
+          "uuid": "6f7286ccce64cd63913fef4eaf9d5df097f3200d"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/heat-pumps-and-chillers/controls-for-heat-pumps-and-chillers/connect2/",
+          "uuid": "ddef580f94f2d602958ce0c9f54db0854bb4086e"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/rooftop-units-and-packaged-systems/rooftop-units/vectios-power-r-454b/",
+          "uuid": "f7aae7b46c283cdb015b6c356b6d0842f77477b2"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/heat-pumps-and-chillers/controls-for-heat-pumps-and-chillers/connect2/",
+          "uuid": "176143676b0ad4fad59093437fd489a2adfc0b03"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/pompes-a-chaleur-et-groupes-d-eau-glacee/regulations-des-groupes-d-eau-glacee-et-des-pompes-a-chaleur/connect2/",
+          "uuid": "e75ada69171cd25bb498d32b8c58aeed7c5cbdca"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/klimaschraenke/expair/",
+          "uuid": "0ced6aa4a2d301b8b02b9554550b008c7340a66d"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/close-controls-units/expair/",
+          "uuid": "271f3806660c0bda270d76c0850bc6a1eae2b3d1"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/close-controls-units/expair/",
+          "uuid": "9ec46be45c325e54203ea312ccf841d55726733e"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/dachgeraete/regelung-fuer-dachgeraete/boss-and-boss-mini-supervision/",
+          "uuid": "4760c5698f45093c34f7ea7447bada5ef70eb5af"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/luchtbehandelingsoplossingen/luchtbehandelingsunits/air-compact/",
+          "uuid": "330914f2ed2c59d4853ffc3ecd766666ae4978a4"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/luchtbehandelingsoplossingen/luchtbehandelingsunits/air-compact/",
+          "uuid": "b23a8a4d009154bcb85cdce6a14534fd0af30dc7"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/urzadzenia-dachowe-typu-rooftop-i-systemy-kompaktowe/uklady-sterowania-do-instalacji-kompaktowych/boss-and-boss-mini-supervision/",
+          "uuid": "b02405941cd735cfc3cc734bf114d75cfcfc00ee"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/waermepumpen-und-fluessigkeitskuehler/steuer-und-relegungsgeraete-fuer-waermepumpen-und-fluessigkeitskuehler/connect2/",
+          "uuid": "36006390fa4c8baaccf46afd25124f07d2923a81"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/air-treatment-solutions/air-heaters/tpl/",
+          "uuid": "0e19f93c495c9467117c2e7ad78676a8a07334a2"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/soluciones-de-tratamiento-del-aire/aerotermos/tpl/",
+          "uuid": "16c9e388de2b86e61936548750deb12fc16d5ee6"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/urzadzenia-dachowe-typu-rooftop-i-systemy-kompaktowe/uklady-sterowania-do-instalacji-kompaktowych/vectic/",
+          "uuid": "8955983c61fb9b79454ddc8f10894061eff5c12e"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/luftbehandlungsloesungen/luftheizer/heliotherme-4000/",
+          "uuid": "56542412cf2513a5347b9a2873dd3c74ef8ea7af"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/rooftop-units-and-packaged-systems/rooftop-units/vectios/",
+          "uuid": "48f92236f34506e05282abc78f0fc34b300a67bb"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/dry-coolers-condensers/controls-and-systems/aerofresh/",
+          "uuid": "9c362a554897ff47a2de1eae10af78350f20926e"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/chlodnice-suche-wentylatorowe-i-skraplacze/uklady-sterowania-i-systemy/aerofresh/",
+          "uuid": "fcad3820568ceb0ee302caa14814ca27cedb29bb"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/air-treatment-solutions/air-heaters/heliotherme-4000/",
+          "uuid": "352843698eacec524940e8003793d89424f9472a"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/air-treatment-solutions/air-heaters/heliotherme-4000/",
+          "uuid": "a04da21fbcdee13841b06cf228fb520975431732"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/close-controlunits/expair/",
+          "uuid": "f59ad5444b3a00f317a5afdd764a6ebaea1ab0cd"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/close-controlunits/expair/",
+          "uuid": "db16c4606438f6ed699a02cfe1e806489cd70a8a"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/aerorefrigerants/aerorefrigerants/vextra/",
+          "uuid": "1b6e0912221db6282638810230421032b402d219"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/rooftop-units-and-packaged-systems/packaged-systems/ispv-vertical-autonomous-heat-pumps/",
+          "uuid": "bb0cb974bcd95f8ae96b3be2e3c85733df9211e5"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/unidades-rooftop-y-sistemas-compactos/sistemas-compactos/ispv-bombas-de-calor-autonomas-verticales/",
+          "uuid": "af38b54a02171f869c5be84738fcee10310a9f6a"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/urzadzenia-dachowe-typu-rooftop-i-systemy-kompaktowe/centrale-dachowe-typu-rooftop/vectios/",
+          "uuid": "e1e4c012b1a4b07dfe8a2917e49df0d86849cdc7"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/warmtepompen-en-chillers/regelsystemen-voor-warmtepompen-en-chillers/connect2/",
+          "uuid": "b740b08e62e580f37f292fa0164db1df12e0e7aa"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/warmtepompen-en-chillers/regelsystemen-voor-warmtepompen-en-chillers/connect2/",
+          "uuid": "3db2ab747527742cf9607481bbf7f1df567cc685"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/ventilator-convectoren/regelsystemen-voor-comfortunits/fresh-air-control/",
+          "uuid": "6e60e22496d576a7b18a7f8707cabf3264bfb543"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/ventilator-convectoren/regelsystemen-voor-comfortunits/fresh-air-control/",
+          "uuid": "03ec96bb91e5b331387df3576e5213b97ef5d7e2"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/dry-coolers-condensers/controls-and-systems/aeroconnect-1b/",
+          "uuid": "333b874f6e3d1d9f74746ff908d0ec2b1a103b82"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/chlodnice-suche-wentylatorowe-i-skraplacze/uklady-sterowania-i-systemy/aeroconnect-1b/",
+          "uuid": "c1c7550a3e7d33865d6846b4bb239938cb0682f2"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/heat-pumps-and-chillers/controls-for-heat-pumps-and-chillers/connect-touch/",
+          "uuid": "0ee61381da3a1d7351f90b90abb45c801bf3cdaf"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/urzadzenia-dachowe-typu-rooftop-i-systemy-kompaktowe/centrale-dachowe-typu-rooftop/vectios-r-454b/",
+          "uuid": "3e63434b8e48cd6e9e824d6d4903a17b7854aff2"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/heat-pumps-and-chillers/controls-for-heat-pumps-and-chillers/connect2/",
+          "uuid": "9962fcd5bd1c38bb344e4e41fb8ce131425169d2"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/close-controls-units/air-connect2/",
+          "uuid": "a6cf077ddc85bc7ca3d06bfe5d3447b16f8fcda7"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/rooftop-units-and-packaged-systems/rooftop-units/vectios-power/",
+          "uuid": "7f16d67bb67edf794de4fae52a35ea84ed6a6979"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/comfort-units/comfort-units/coadis-line-600/",
+          "uuid": "ab8b678d52a8034cf4a9bd81c8da8ebabddcbb07"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/comfort-units/controls-for-comfort-units/fresh-air-control/",
+          "uuid": "0074a5afd95b7c22648c8ab78bde7e2170d8386b"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/klimakonwektory/uklady-sterowania-do-klimatyzatorow/fresh-air-control/",
+          "uuid": "3bddb15b0ec64f96fbc9c6278d38ef857ce0b8a5"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/klimakonwektory/klimakonwektory/coadis-line-600/",
+          "uuid": "341fc3514c87d2d2c49bcff831e9955568400393"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/urzadzenia-dachowe-typu-rooftop-i-systemy-kompaktowe/centrale-dachowe-typu-rooftop/vectios-power-r-454b/",
+          "uuid": "e43c7d9b987fdd3de46cd3eb4d1e5ee78ce3b28d"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/szafy-klimatyzacji-precyzyjnej/air-connect2/",
+          "uuid": "3030ff2e5882a1a6938d3c8b8e68377cb468d254"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/pompy-ciepla-i-agregaty-wody-lodowej/uklady-sterowania-do-pomp-ciepla-i-agregatow-wody-lodowej/connect-touch/",
+          "uuid": "d038880335e62e913b86eb4b606658db6740912d"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/urzadzenia-dachowe-typu-rooftop-i-systemy-kompaktowe/centrale-dachowe-typu-rooftop/vectios-power/",
+          "uuid": "6e9807efa618284bd4039d5a209c43aa37417af5"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/pompy-ciepla-i-agregaty-wody-lodowej/uklady-sterowania-do-pomp-ciepla-i-agregatow-wody-lodowej/connect2/",
+          "uuid": "e07bb8d6347f5ae7a3feccda8815b033fd3cdc1d"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/luchtbehandelingsoplossingen/luchtverwarmer/heliotherme-4000/",
+          "uuid": "861e2987949a16a4013c84fd3fb9d28c7d540abd"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/luchtbehandelingsoplossingen/luchtverwarmer/heliotherme-4000/",
+          "uuid": "b757bfab756b5d2e06de4d84bb258f532c0cc801"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/rooftop-units-and-packaged-systems/controls-for-packaged-systems/vectic/",
+          "uuid": "6012dc4e1fd4e0f58eaf8dc76067dadfe1a30e96"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/unidades-rooftop-y-sistemas-compactos/controles-para-sistemas-compactos/vectic/",
+          "uuid": "61a7ff98c985d3ed2c6d42a1125ca376eba344d0"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/rooftop-units-and-packaged-systems/controls-for-packaged-systems/boss-and-boss-mini-supervision/",
+          "uuid": "0bb27f196d43b3270121c6fcc696ccbf9b5f2824"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/unidades-rooftop-y-sistemas-compactos/controles-para-sistemas-compactos/boss-and-boss-mini-supervision/",
+          "uuid": "fbc71780bf253505a64a57a14eb8897baaec24cf"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/rooftop-units-and-packaged-systems/rooftop-units/vectios-r-454b/",
+          "uuid": "539ec2d5f87c36949580420d9982070c7f385a21"
+        },
+        {
+          "url": "https://www.ciat.com/it/it/prodotti-e-sistemi/refrigeratori-e-pompe-di-calore/unita-raffreddate-ad-aria/aquaciat-caleo-itev/",
+          "uuid": "d01c74607c5c5841bd457139958c21830b864a98"
+        },
+        {
+          "url": "https://www.ciat.com/en/uk/products-systems/heat-pumps-and-chillers/air-cooled-units/aquaciat-caleo-itev/",
+          "uuid": "bb508aedbb3b69ceb267ef146e69fbb42beba46c"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/heat-pumps-and-chillers/water-cooled-units/hydrociat-lw-st-lw-he/",
+          "uuid": "6c3be8d24cdbadbbf31eac77225aac26854d0f75"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/pompy-ciepla-i-agregaty-wody-lodowej/agregaty-chlodzone-woda/hydrociat-lw-st-lw-he/",
+          "uuid": "e347a01967e9dabf4d45aecc2b9d7d2bea0a4a43"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/szafy-klimatyzacji-precyzyjnej/magister/",
+          "uuid": "9b5fce1cbf1c56bedd8c24c041e3563627ad563e"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/aero-refrigerantes-y-condensadores/aero-refrigerantes/opera/",
+          "uuid": "831fdd4c2ea9cdcf99390ff6707a12677ba0af5e"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/heat-pumps-and-chillers/water-cooled-units/dynaciat-lg/",
+          "uuid": "af48fba0e7f2bcd4fd2e1c919d8d7ad2c69485cd"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/bombas-de-calor-y-enfriadoras/unidades-condensadas-por-agua/dynaciat-lg/",
+          "uuid": "03fcc09cb5ad7fc3c3748b2d5ffb86d6824cf3b6"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/comfort-units/controls-for-comfort-units/fresh-air-control/",
+          "uuid": "77b86c4b1c50949c53ae23455d543eac71f57ceb"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/dry-coolers-condensers/dry-coolers/opera/",
+          "uuid": "3bd3a8840afe852c71153828d045a82f69a174d3"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/intercambiadores-de-calor/gasketed-plate-itex/",
+          "uuid": "af2e4d8fd76b5bbbce7b46b1ac5e5ff6c2617ba1"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/close-controls-units/magister/",
+          "uuid": "24d18b26daa3e414aaca7ee8548fc222e8375630"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/air-treatment-solutions/air-heaters/heliotherme-4000/",
+          "uuid": "d29e877a45032dc4f3df636d499759c4cb3a8601"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/rozwiazania-do-uzdatniania-powietrza/nagrzewnice-powietrza/heliotherme-4000/",
+          "uuid": "46ab66a5589d726b8fa1010453cfd5d19bc8c0fc"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/pompy-ciepla-i-agregaty-wody-lodowej/agregaty-chlodzone-woda/dynaciatpower-lg/",
+          "uuid": "89d9472e31f4a8f66b62f9fc3a37776c539d0256"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/szafy-klimatyzacji-precyzyjnej/expair/",
+          "uuid": "99d7275b8e47a3fd0797892186622feb989ff60a"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/dry-coolers-condensers/controls-and-systems/aerofresh/",
+          "uuid": "2b51bfc187da5ae2411049a68cbacc5cb937dd70"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/unidades-de-confort/control-de-unidades-de-confort/fresh-air-control/",
+          "uuid": "f040843f3d5c153d7ea87ae7de58372069ab4ea4"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/pre-conditioned-air-units/ature-inverter/",
+          "uuid": "a180a2cf1f0542d696da74e218ca30fbcc8a4b7d"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/heat-pumps-and-chillers/water-cooled-units/dynaciatpower-lg/",
+          "uuid": "30bb143ea40dd064a12d4632ec3b7308e859fc74"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/close-controls-units/expair/",
+          "uuid": "1f92f7d0c2e57128ff76553f6ae183ffb49f1672"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/air-treatment-solutions/air-heaters/tpl/",
+          "uuid": "89a59a52dfeb55265f3d6c312e91013c233004ca"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/waermepumpen-und-fluessigkeitskuehler/wassergekuehlte-fluessigkeitskuehler-und-waermepumpen/dynaciat-lg/",
+          "uuid": "18b6438f3f77aa0f2408485c9c489dab5e702184"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/warmtepompen-en-chillers/watergekoelde-eenheden/dynaciat-lg/",
+          "uuid": "bf79c76dafd7e5463ecbc26be0bca8e7d5eabaa9"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/aero-refrigerantes-y-condensadores/controles-y-sistemas/aerofresh/",
+          "uuid": "1c3deca59cf051cea60681db9ee8e225edafa0f6"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/rozwiazania-do-uzdatniania-powietrza/nagrzewnice-powietrza/tpl/",
+          "uuid": "bcbfeb05d8d1e2acc4e38e1e6d9a230bad4de0c5"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/dry-coolers-condensers/dry-coolers/opera/",
+          "uuid": "49ec4dc7bc6bf4617ea1a82859ccfe640c872161"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/trockenkuehler-und-verfluessiger/tockenkuehler-verfluessiger-rueckkuehler/opera/",
+          "uuid": "7f2249ed3d68e19ad21b7ccbfefb8873e492cf31"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/dry-coolers-condensers/dry-coolers/opera/",
+          "uuid": "9a24d6dbaf760e90026336284aa4193d3e4eb190"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/air-treatment-solutions/swimming-pool-dehumidifiers/ciatpool/",
+          "uuid": "a83673971c84501b36be26080cae9a93424c8318"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/soluciones-de-tratamiento-del-aire/deshumidificadores-de-piscina/ciatpool/",
+          "uuid": "74e70af89c9ffa6089e28403d77c6e82aa87a422"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/aero-refrigerantes-y-condensadores/aero-refrigerantes/vextra/",
+          "uuid": "c042a9865dde9ec7fa0669a9e212cd675cfea90a"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/dry-coolers-condensers/dry-coolers/vextra/",
+          "uuid": "5fa363cd6c87b52e0a31e046a8b663f0e9cf562d"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/unidades-de-aire-preacondicionado/ature-inverter/",
+          "uuid": "ad3a7d478fb37e403d9faa0debabc07ee7c367f4"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/air-treatment-solutions/swimming-pool-dehumidifiers/junior-bcp/",
+          "uuid": "11c6188ce78d5ffec8df95ee2c9faab7c5be26e8"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/soluciones-de-tratamiento-del-aire/deshumidificadores-de-piscina/junior-bcp/",
+          "uuid": "4acdfb744b097844789c6cec9fcf3cf7613ce202"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/air-treatment-solutions/swimming-pool-dehumidifiers/aquair-bcp/",
+          "uuid": "beff11ea68ba1bfaa486759378eb59d9c4764c6c"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/soluciones-de-tratamiento-del-aire/deshumidificadores-de-piscina/aquair-bcp/",
+          "uuid": "8659b16cd4eae657b5e18ded178c4bbd67d7d0c4"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/uslugi/uklady-sterowania/",
+          "uuid": "463c21cb7414391daa1ff68eee4db050fd5f1313"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/service/steuer-und-regelungsgeraete/",
+          "uuid": "df3e1f6963311b22199e046a893a10a651de418d"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/service/controls/",
+          "uuid": "d2c6530c16cbe0281475e914fbfa54292f40d1e4"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/service/controls/",
+          "uuid": "b999ff7e18aa9f6d221d045ffc1a8e02086c4901"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/service/regulations/",
+          "uuid": "c4cfbe271ed0172aa96306c18a6025e3b9d8973a"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/comfort-units/controls-for-comfort-units/fresh-air-control/",
+          "uuid": "7e90c3244d3d9f069ac1bedd9e4ea48f400c25cb"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/droge-koelers-en-condensors/droge-koelers/opera/",
+          "uuid": "2fec83addf31cc27c500648a9fe464a79b609fdd"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/droge-koelers-en-condensors/droge-koelers/opera/",
+          "uuid": "345a21f596cadb01d299f2c3cc36607f6236c294"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/dry-coolers-condensers/controls-and-systems/aerofresh/",
+          "uuid": "47b170c4ca1b16f4a4879d641c776868fe5391fa"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/air-treatment-solutions/swimming-pool-dehumidifiers/aquair-premium-bcp/",
+          "uuid": "d4284d651118c3e9d04f89a38dc3fd6ab53c13a4"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/soluciones-de-tratamiento-del-aire/deshumidificadores-de-piscina/aquair-premium-bcp/",
+          "uuid": "871937b5ff597d5cabd7c8932c3bc241303713cd"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/wymienniki-ciepla/gasketed-plate-itex/",
+          "uuid": "97312af80fdc278484b7c019212e9b83b98e6dc1"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/dry-coolers-condensers/dry-coolers/vextra/",
+          "uuid": "c41b373baaecf6182b198e84bc5046803cd05de4"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/trockenkuehler-und-verfluessiger/tockenkuehler-verfluessiger-rueckkuehler/vextra/",
+          "uuid": "064378c2a9c327c37b8b24d45a25e7d210ba2914"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/dry-coolers-condensers/dry-coolers/vextra/",
+          "uuid": "8540d10a8b93200dbfad8c0cf1e0a03b60e04219"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/chlodnice-suche-wentylatorowe-i-skraplacze/suche-chlodnice-wentylatorowe/opera/",
+          "uuid": "c9cdf4ae205e6002d75e8d7289531ed25b54e01f"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/droge-koelers-en-condensors/droge-koelers/vextra/",
+          "uuid": "2cfeea57f54a00f71af89717022074aba09bbf91"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/heat-pumps-and-chillers/water-cooled-units/dynaciat-lg/",
+          "uuid": "872c0fa84e9e0067b4703aaa73d3203bf126422d"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/pompy-ciepla-i-agregaty-wody-lodowej/agregaty-chlodzone-woda/dynaciat-lg/",
+          "uuid": "57f7e0a7d1a2bfbd093c08c06c7cc02748ab2443"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/droge-koelers-en-condensors/droge-koelers/vextra/",
+          "uuid": "3cf385e43efe7ef9b7e796970ed7289b878b154f"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/dry-coolers-condensers/dry-coolers/opera/",
+          "uuid": "975bbdf86103198e40161afb3bcad23c8700f315"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/dry-coolers-condensers/dry-coolers/vextra/",
+          "uuid": "29677bea46628f4b9498151a7844c244d4733d75"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/chlodnice-suche-wentylatorowe-i-skraplacze/suche-chlodnice-wentylatorowe/vextra/",
+          "uuid": "f854c8bffa953dd5e2be86c395bf8ab7ebbc7e46"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/warmtepompen-en-chillers/luchtgekoelde-eenheden/aquaciat-caleo-itev/",
+          "uuid": "ab326b4b10b0e92015763c284c6fd4fdc73c88de"
+        },
+        {
+          "url": "https://www.ciat.com/es/es/productos-y-sistemas/bombas-de-calor-y-enfriadoras/unidades-condensadas-por-aire/aquaciat-caleo-itev/",
+          "uuid": "637228894ba8b714697df74c4b094546aa847e13"
+        },
+        {
+          "url": "https://www.ciat.com/en/eu/products-systems/heat-pumps-and-chillers/air-cooled-units/aquaciat-caleo-itev/",
+          "uuid": "bcd0a2c5a83a80937d83e84f491fa2f60de6aebc"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/warmtepompen-en-chillers/luchtgekoelde-eenheden/aquaciat-caleo-itev/",
+          "uuid": "81478662435eb623f9cde38e1de15f47b4979816"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/waermepumpen-und-fluessigkeitskuehler/luftgekuehlte-fluessigkeitskuehler-und-waermepumpen/aquaciat-caleo-itev/",
+          "uuid": "4c25a7bbfd3f7ca324aaf531b89f955837c01e9d"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/heat-pumps-and-chillers/air-cooled-units/aquaciat-caleo-itev/",
+          "uuid": "fe151f1baf780daad4e16a60417f32e7eae79b80"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/pompes-a-chaleur-et-groupes-d-eau-glacee/unites-a-condensation-par-air/aquaciat-caleo-itev/",
+          "uuid": "2fefbbbb1d65373180f5c45f143084ebe45c4108"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/heat-pumps-and-chillers/air-cooled-units/aquaciat-caleo-itev/",
+          "uuid": "65abbbe26f5d650c713e2c6299487884af5f2e3a"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/rooftop-units-and-packaged-systems/controls-for-packaged-systems/vectic/",
+          "uuid": "f0c86617027dc7ae506664417f47b73aacbf117f"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/rooftop-units-and-packaged-systems/controls-for-packaged-systems/vectic/",
+          "uuid": "3a39af0d7e0354647ae5c31629aba6093d488b2f"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/rooftops-et-systemes-monoblocs-ou-bi-blocs/regulations-et-supervisions/vectic/",
+          "uuid": "11a2ccd5cceeb4cd763797760d47e8c977c0bd98"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/rooftop-units/bedieningselementen/boss-and-boss-mini-supervision/",
+          "uuid": "14c9ac0069a52cde66e3d02a54a5af9eb657e99a"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/dachgeraete/regelung-fuer-dachgeraete/vectic/",
+          "uuid": "3488d0197c19b343152b1e756df58b5ace7dfe37"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/rooftop-units/bedieningselementen/vectic/",
+          "uuid": "3d5f6eac691f5aeaf2d50148d4c18e7f3c806e70"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/rooftop-units-and-packaged-systems/controls-for-packaged-systems/boss-and-boss-mini-supervision/",
+          "uuid": "1e74f0c1660015e2b721218cc59c861745c6b817"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/rooftop-units/bedieningselementen/boss-and-boss-mini-supervision/",
+          "uuid": "f2e9a9f72ea675541000a2a58aa7de62532d9b7e"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/rooftop-units-and-packaged-systems/controls-for-packaged-systems/boss-and-boss-mini-supervision/",
+          "uuid": "c2187b2274e1eb59c77d1f70ed8f29bddca6d918"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/rooftops-et-systemes-monoblocs-ou-bi-blocs/regulations-et-supervisions/boss-and-boss-mini-supervision/",
+          "uuid": "13fba536a73645e5771d062dc4a436f69771c76d"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/rooftop-units/bedieningselementen/vectic/",
+          "uuid": "40b43e11a1e694abca1e9a858cc1d4abe9b56d8b"
+        },
+        {
+          "url": "https://www.ciat.com/de/be/produkte-und-systeme/trockenkuehler-und-verfluessiger/steuerungen-und-regelungssysteme/aerofresh/",
+          "uuid": "00ca78e2bafbd1b5e09606d391ff729141a066b7"
+        },
+        {
+          "url": "https://www.ciat.com/nl/be/producten-en-systemen/droge-koelers-en-condensors/regeling-en-systemen/aerofresh/",
+          "uuid": "6566d3ce65c91eaf2e0f407c3b8b89cf091438ea"
+        },
+        {
+          "url": "https://www.ciat.com/en/nl/products-systems/comfort-units/controls-for-comfort-units/fresh-air-control/",
+          "uuid": "37a8d2a0f686bb309a0c0106b910a4fbf2fb8631"
+        },
+        {
+          "url": "https://www.ciat.com/nl/nl/producten-en-systemen/droge-koelers-en-condensors/regeling-en-systemen/aerofresh/",
+          "uuid": "44de2ea3d941ab86d1f17d2ca885b7bba859b761"
+        },
+        {
+          "url": "https://www.ciat.com/en/be/products-systems/dry-coolers-condensers/controls-and-systems/aerofresh/",
+          "uuid": "ae586401f62288b4f8f838afefd0f733ab6e0d62"
+        },
+        {
+          "url": "https://www.ciat.com/fr/be/produits-et-systemes/aerorefrigerants/regulations-et-systemes/aerofresh/",
+          "uuid": "798a7e587ce0c3acc02364b6bb0004ae17474297"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/heat-exchangers/gasketed-plate-itex/",
+          "uuid": "7059a6d60fa77c30d98d3434239386f787daf573"
+        },
+        {
+          "url": "https://www.ciat.com/pl/pl/produkty-i-systemy/pompy-ciepla-i-agregaty-wody-lodowej/agregaty-chlodzone-powietrzem/aquaciat-caleo-itev/",
+          "uuid": "41ee0e32f65bcf17a482c5c0a0a4bb40bb3ccd30"
+        },
+        {
+          "url": "https://www.ciat.com/en/pl/products-systems/heat-pumps-and-chillers/air-cooled-units/aquaciat-caleo-itev/",
+          "uuid": "e385d66cc013ddf2bb8c6f8c54c65204b2e1265a"
+        }
+      ]
+    }
+  ]
 }
