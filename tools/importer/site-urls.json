@@ -46,12 +46,6 @@
       "id": "9dac970d1c82be30b7a6c719f5daa0e493d51e13"
     },
     {
-      "url": "https://www.ts.sp.gov.br/portal/0/galeria-de-fotos/1052/arraial-da-arena---2007---marcos-amp-belutti/",
-      "source": "CRAWL",
-      "targetPath": "/portal/0/galeria-de-fotos/1052/arraial-da-arena-2007-marcos-amp-belutti",
-      "id": "5c28749277667997336dcd63e0965c3041e84c66"
-    },
-    {
       "url": "https://www.ts.sp.gov.br/portal/0/galeria-de-fotos/1053/evento-de-adocao-de-pets---shopping-taboao/",
       "source": "CRAWL",
       "targetPath": "/portal/0/galeria-de-fotos/1053/evento-de-adocao-de-pets-shopping-taboao",
@@ -80,12 +74,6 @@
       "source": "CRAWL",
       "targetPath": "/portal/0/galeria-de-fotos/1057/arraial-da-arena-2707-ze-felipe",
       "id": "f534ccbfd8e9abe9c077610402e8112c1bb2b031"
-    },
-    {
-      "url": "https://www.ts.sp.gov.br/portal/0/galeria-de-fotos/1058/encontro-de-educadores-quotraizes-para-o-futuroquot/",
-      "source": "CRAWL",
-      "targetPath": "/portal/0/galeria-de-fotos/1058/encontro-de-educadores-quotraizes-para-o-futuroquot",
-      "id": "f3d21cdc287b6caee81e28684ac2f1ee335c49ce"
     },
     {
       "url": "https://www.ts.sp.gov.br/portal/0/galeria-de-fotos/1059/roda-de-conversa---secretaria-da-mulher/",
@@ -140,12 +128,6 @@
       "source": "CRAWL",
       "targetPath": "/portal/0/galeria-de-fotos/1068/2-bienal-do-livro-de-taboao-da-serra",
       "id": "9732112c1d6dcaf2096f5187a53e394e9d93cfb6"
-    },
-    {
-      "url": "https://www.ts.sp.gov.br/portal/0/galeria-de-fotos/1069/25-da-sul-conquista-o-titulo-da-2-divisao-de-futebol-de-taboao-da-serra/",
-      "source": "CRAWL",
-      "targetPath": "/portal/0/galeria-de-fotos/1069/25-da-sul-conquista-o-titulo-da-2-divisao-de-futebol-de-taboao-da-serra",
-      "id": "156526df6e2dd6f3349817ec5e86b75460e8e243"
     },
     {
       "url": "https://www.ts.sp.gov.br/portal/0/galeria-de-fotos/1070/semana-de-combate-ao-escorpionismo/",
